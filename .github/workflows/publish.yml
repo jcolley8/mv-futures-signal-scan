@@ -1,0 +1,86 @@
+name: Publish MV Futures Signal Scan
+
+# Runs daily, ~1 hour after the noon ET Cowork scan uploads a refreshed corpus
+# to Google Drive. Pulls the newest signals-*.json from the shared Drive folder,
+# rebuilds the dashboard, and commits it so GitHub Pages republishes.
+on:
+  schedule:
+    - cron: '0 17 * * *'      # 17:00 UTC = 1:00 PM ET (EDT) / 12:00 PM ET (EST)
+  workflow_dispatch:           # lets you trigger a rebuild by hand any time
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      DRIVE_FOLDER_ID: 1GuqRzhqAc39x078_iAs_TDRs4uT93d4g
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Pillow
+        run: pip install --quiet Pillow
+
+      - name: Fetch newest signal corpus from Drive
+        env:
+          GDRIVE_API_KEY: ${{ secrets.GDRIVE_API_KEY }}
+        run: |
+          python3 - <<'PY'
+          import os, json, sys, urllib.parse, urllib.request
+
+          key = os.environ.get("GDRIVE_API_KEY")
+          folder = os.environ["DRIVE_FOLDER_ID"]
+          if not key:
+              sys.exit("GDRIVE_API_KEY secret is not set")
+
+          q = f"'{folder}' in parents and trashed = false"
+          url = ("https://www.googleapis.com/drive/v3/files?"
+                 + urllib.parse.urlencode({
+                     "q": q, "key": key,
+                     "fields": "files(id,name,modifiedTime)",
+                     "orderBy": "modifiedTime desc", "pageSize": "100"}))
+          with urllib.request.urlopen(url, timeout=60) as r:
+              files = json.load(r).get("files", [])
+
+          corpora = sorted([f for f in files if f["name"].startswith("signals")
+                            and f["name"].endswith(".json")],
+                           key=lambda f: f["name"], reverse=True)
+          if not corpora:
+              sys.exit("No signals-*.json found in the Drive folder. "
+                       "Is the folder shared as 'Anyone with the link'?")
+
+          newest = corpora[0]
+          print(f"Using {newest['name']} (modified {newest['modifiedTime']})")
+          dl = (f"https://www.googleapis.com/drive/v3/files/{newest['id']}"
+                f"?alt=media&key={key}")
+          with urllib.request.urlopen(dl, timeout=120) as r:
+              data = r.read()
+
+          json.loads(data)          # fail loudly rather than commit a broken corpus
+          open("signals.json", "wb").write(data)
+          print(f"Fetched {len(data)} bytes")
+          PY
+
+      - name: Build the dashboard
+        run: python3 build_dashboard.py signals.json index.html
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "MV Futures Scan"
+          git config user.email "action@users.noreply.github.com"
+          git add -A index.html signals.json logo.png logo-dark.png
+          if git diff --staged --quiet; then
+            echo "No change in this scan — nothing to publish."
+          else
+            git commit -m "Refresh signal scan — $(date -u +%Y-%m-%d)"
+            git push
+          fi
