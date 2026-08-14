@@ -1638,5 +1638,55 @@
   "urls_checked": 65,
   "corrections_applied": 13,
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
- }
+ },
+ "scenarios": [
+  {
+   "id": "sc-2026-08-13-the-defense",
+   "date": "2026-08-13",
+   "title": "The Defense",
+   "year": "2033",
+   "axis": "CU 02 resolving toward performance redesign × CU 03 resolving toward the market repricing the credential",
+   "based_on": [
+    {
+     "id": "cu-assessment",
+     "title": "When the exam stops being verifiable, what becomes proof of learning?",
+     "pole": "Performance redesign — verification moves from the artifact to the person in the room."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — demonstrated capability displaces the transcript at the point of entry."
+    }
+   ],
+   "premise": "By 2033 the transcript is a formality. Mount Vernon's diploma is awarded on a portfolio defense: ninety minutes before a panel of two faculty and two outside practitioners, defending a body of work built over eighteen months. Employers across the metro hire directly off defense recordings. The SAT still exists. Almost nobody submits one.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Maya, 17",
+     "vignette": "Her defense is in four days and it is good — a water-quality sensor network she built with the county, eleven months of real deployment data, two failures she can explain better than the successes. She is not worried about the work. She is worried that Tobias's panel includes his mother's former colleague, and that Ren's includes someone his family had to dinner in March. Nobody broke a rule. Maya's mother drives a school bus. When the exam existed, Maya knew exactly what she was being measured against, and it was the same thing everyone else was measured against. She misses that and feels ridiculous for missing it."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dan, 11 years in",
+     "vignette": "He does not grade anymore. He coaches for eighteen months and then formally recuses himself from the panel, which is the best change to his working life in a decade — no more arguing about a B+. But there is a student in his section with nothing defensible, and Dan has run out of things to say to him. The old answer was study harder; there was a test, and effort had somewhere to go. Now the students who flounder are the ones without a project worth ninety minutes, and Dan cannot assign someone a compelling life. The redesign raised the ceiling and quietly removed the floor."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya",
+     "vignette": "Fifty-eight thousand a year, from sixth grade, for a college-preparatory education. Her daughter was offered a job at seventeen by a panelist and is deferring college — possibly indefinitely. Priya has told exactly three people. She is proud in a way she cannot say cleanly, because she cannot work out whether the school delivered spectacularly on something she never asked for, or failed completely at the one thing she actually bought. Her own parents will ask about college at Thanksgiving. She has not decided what to say."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "Inquiries are up thirty percent and the waitlist is real for the first time since 2019. Three corporate partners have asked, politely and separately, whether they might have standing seats on defense panels. Each would be a genuine gift to students. Together they would make the school something closer to a talent pipeline with a curriculum attached. She has no policy governing who sits on a panel, because for a hundred years the answer was nobody — a proctor handed out a test. She has to write that policy this year, and whatever she writes will be quoted back to her for a decade."
+    }
+   ],
+   "tension": "The future in which assessment finally became authentic is also the one in which the school's gatekeeping power grew rather than dissolved. A standardized test is a crude instrument, but it is legible to a family with no connections — and legibility, it turns out, was doing equity work that nobody credited it for. Replacing it with human judgment in a room full of adults does not remove bias; it relocates bias somewhere harder to audit and impossible to appeal.",
+   "provocations": [
+    "If we move to defense-style assessment, what is our written policy on who may sit on a panel — and who may not?",
+    "What is the floor? What does a student get to be measured against when they have not produced anything remarkable?",
+    "If an employer hires our seventeen-year-old, have we succeeded or failed at the thing families are paying for?"
+   ]
+  }
+ ]
 }
