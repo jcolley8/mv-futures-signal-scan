@@ -221,6 +221,40 @@ h2 + .h2sub{font-size:13px;color:var(--muted);margin:0 0 14px;max-width:80ch}
   font-size:11.5px;color:var(--ink-2);padding:4px 8px;cursor:pointer;font-family:inherit;text-align:left}
 .culinks button:hover{border-color:var(--navy);color:var(--ink)}
 
+/* scenario */
+.scn{background:var(--frost);border:1px solid var(--hair);border-top:4px solid var(--navy);
+  border-radius:8px;padding:22px 24px}
+.scn-top{display:flex;gap:14px;align-items:baseline;flex-wrap:wrap;margin-bottom:4px}
+.scn-year{font-size:11px;font-weight:800;letter-spacing:.12em;color:var(--navy);
+  border:1px solid var(--navy);border-radius:3px;padding:3px 8px;flex:none}
+.scn h3{font-size:23px;margin:0;font-weight:660;letter-spacing:-.015em}
+.scn-axis{font-size:11.5px;color:var(--muted);margin:0 0 14px;letter-spacing:.02em}
+.scn-premise{font-size:15px;line-height:1.6;margin:0 0 20px;color:var(--ink);max-width:78ch}
+.personas{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:12px;margin-bottom:18px}
+.persona{background:var(--surface);border:1px solid var(--hair);border-radius:6px;padding:14px 16px}
+.persona .r{font-size:10.5px;text-transform:uppercase;letter-spacing:.1em;color:var(--navy);
+  font-weight:750;margin-bottom:2px}
+.persona .n{font-size:13.5px;font-weight:650;margin-bottom:7px;color:var(--ink)}
+.persona p{font-size:13px;line-height:1.52;color:var(--ink-2);margin:0}
+.scn-tension{border-left:3px solid var(--navy);padding:2px 0 2px 14px;margin:0 0 18px;
+  font-size:14px;line-height:1.55;color:var(--ink);max-width:80ch}
+.scn-tension b{display:block;font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;
+  color:var(--navy);margin-bottom:4px;font-weight:750}
+.scn-foot{display:grid;grid-template-columns:1fr 1fr;gap:20px;padding-top:16px;
+  border-top:1px solid var(--hair)}
+@media(max-width:760px){.scn-foot{grid-template-columns:1fr}}
+.scn-foot h4{font-size:10.5px;text-transform:uppercase;letter-spacing:.09em;color:var(--muted);
+  margin:0 0 7px;font-weight:700}
+.scn-foot ul{margin:0;padding-left:17px;font-size:13px;color:var(--ink-2)}
+.scn-foot li{margin:5px 0;line-height:1.45}
+.scn-foot .curef{display:block;font-size:12.5px;color:var(--ink-2);margin:6px 0;line-height:1.4}
+.scn-foot .curef b{color:var(--ink);font-weight:640}
+.scn-foot .curef em{color:var(--muted);font-style:normal;display:block;font-size:12px;margin-top:1px}
+.scn-arch{margin-top:12px}
+.scn-arch summary{cursor:pointer;font-size:12.5px;color:var(--muted);padding:8px 0}
+.scn-arch summary:hover{color:var(--ink)}
+.scn-arch .scn{margin-top:10px}
+
 /* matrix */
 table.mx{width:100%;border-collapse:separate;border-spacing:3px;font-size:13px}
 table.mx th{font-weight:700;color:var(--navy);text-align:left;padding:6px 10px;font-size:11px;
@@ -330,6 +364,10 @@ footer b{color:var(--ink-2)}
 <p class="h2sub">The five forces surfacing from this scan that are both <b>highly uncertain</b> in how they resolve and <b>highly consequential regardless of which way they go</b>. These are the axes worth building scenarios on. Click any card to open it.</p>
 <div class="cus" id="cus"></div>
 
+<h2>Today's scenario</h2>
+<p class="h2sub">A short, plausible future built by crossing two of the critical uncertainties above and letting them resolve one particular way — then asking what an ordinary week feels like from inside it. Not a prediction. A rehearsal.</p>
+<div id="scenario"></div>
+
 <h2>Horizon &times; timeline map</h2>
 <p class="h2sub">Rows are Three Horizons; columns are years until material impact on schools. Click a cell to filter the entries below it.</p>
 <div class="panel">
@@ -416,6 +454,32 @@ document.querySelectorAll('.culinks button').forEach(b=>b.addEventListener('clic
   document.getElementById('q').value = byId[b.dataset.sig].title;
   render(); document.getElementById('cards').scrollIntoView({behavior:'smooth',block:'start'});
 }));
+
+/* ---------- scenario ---------- */
+(function(){
+  const SC = META.scenarios || [];
+  const el = document.getElementById('scenario');
+  if(!SC.length){ el.innerHTML = '<p style="color:var(--muted)">No scenario in this scan yet.</p>'; return; }
+  const render = s => `
+    <section class="scn">
+      <div class="scn-top"><span class="scn-year">${esc(s.year)}</span><h3>${esc(s.title)}</h3></div>
+      <p class="scn-axis">${esc(s.axis || '')}</p>
+      <p class="scn-premise">${esc(s.premise)}</p>
+      <div class="personas">${(s.personas||[]).map(p=>`
+        <div class="persona"><div class="r">${esc(p.role)}</div><div class="n">${esc(p.name||'')}</div>
+        <p>${esc(p.vignette)}</p></div>`).join('')}</div>
+      <p class="scn-tension"><b>The tension</b>${esc(s.tension)}</p>
+      <div class="scn-foot">
+        <div><h4>Built from</h4>${(s.based_on||[]).map(b=>
+          `<span class="curef"><b>${esc(b.title)}</b><em>${esc(b.pole||'')}</em></span>`).join('')}</div>
+        <div><h4>Worth arguing about</h4><ul>${(s.provocations||[]).map(p=>
+          `<li>${esc(p)}</li>`).join('')}</ul></div>
+      </div>
+    </section>`;
+  el.innerHTML = render(SC[0]) + (SC.length>1 ? `
+    <details class="scn-arch"><summary>${SC.length-1} earlier scenario${SC.length>2?'s':''} &mdash; open</summary>
+    ${SC.slice(1).map(render).join('')}</details>` : '');
+})();
 
 /* ---------- matrix ---------- */
 (function(){
