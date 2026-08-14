@@ -34,8 +34,11 @@ EPI = {
     "EC-Economic":     ("Ec", "Economic"),
     "ME-Moral/Ethical":("ME", "Moral / Ethical"),
 }
-SECTORS = ["Education", "AI & Cognition", "Labor & Economy",
-           "Climate, Civic & Society", "Emergent Tech", "Wildcards & Periphery"]
+SECTORS = data.get("sectors") or [
+    "Education", "AI & Cognition", "Labor & Economy", "Climate, Civic & Society",
+    "Gaming, VR, AR & Virtual Worlds", "Neuroscience & Psychology",
+    "Behavioral Health & Wellness", "Demographics & Migration", "Biotechnology",
+    "Robotics & Fabrication", "Wildcards & Periphery"]
 
 # ---- logo ---------------------------------------------------------------
 def _embed(fn):
@@ -203,6 +206,9 @@ h2 + .h2sub{font-size:13px;color:var(--muted);margin:0 0 14px;max-width:80ch}
   font-variant-numeric:tabular-nums;padding-top:2px}
 .cu h3{font-size:17.5px;margin:0;font-weight:640;letter-spacing:-.01em;line-height:1.32;flex:1}
 .cu-toggle{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.07em;flex:none}
+.cu-stamp{font-size:11.5px;color:var(--muted);margin-top:7px;line-height:1.45}
+.cu-stamp b{color:var(--ink-2);font-weight:650}
+.cu-stamp i{font-style:normal;color:var(--navy);font-weight:700}
 .cu-q{margin:10px 0 0;font-size:13.5px;color:var(--ink-2)}
 .cu-body{margin-top:14px;display:none}
 .cu.open .cu-body{display:block}
@@ -420,6 +426,21 @@ document.getElementById('tiles').innerHTML = tiles.map(([v,k])=>
   `<div class="tile"><div class="v">${v}</div><div class="k">${k}</div></div>`).join('');
 
 /* ---------- critical uncertainties ---------- */
+function daysBetween(a,b){
+  const ms = Date.parse(b+'T00:00:00Z') - Date.parse(a+'T00:00:00Z');
+  return isNaN(ms) ? null : Math.round(ms/86400000);
+}
+function stamp(c){
+  const today = META.last_updated;
+  const age = c.first_identified ? daysBetween(c.first_identified, today) : null;
+  const since = c.last_revised ? daysBetween(c.last_revised, today) : null;
+  const bits = [];
+  if(age !== null) bits.push(`<b>on the list ${age === 0 ? 'since today' : age + ' day' + (age===1?'':'s')}</b>`);
+  if(since !== null) bits.push(since === 0 ? '<i class="fresh">revised today</i>'
+                     : (since === 1 ? 'revised yesterday' : `unchanged for ${since} days`));
+  if(c.status_note) bits.push(esc(c.status_note));
+  return bits.join(' &middot; ');
+}
 document.getElementById('cus').innerHTML = CUS.map((c,i)=>`
   <section class="cu" id="${esc(c.id)}">
     <div class="cu-head" data-cu="${i}">
@@ -427,6 +448,7 @@ document.getElementById('cus').innerHTML = CUS.map((c,i)=>`
       <h3>${esc(c.title)}</h3>
       <span class="cu-toggle">open</span>
     </div>
+    <div class="cu-stamp">${stamp(c)}</div>
     <p class="cu-q">${esc(c.question)}</p>
     <div class="cu-body">
       <h4>Why it matters regardless of outcome</h4>
