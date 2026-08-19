@@ -1,12 +1,15 @@
 name: Publish MV Futures Signal Scan
 
-# Runs daily, ~1 hour after the noon ET Cowork scan uploads a refreshed corpus
-# to Google Drive. Pulls the newest signals-*.json from the shared Drive folder,
-# rebuilds the dashboard, and commits it so GitHub Pages republishes.
+# Runs a few times a day. Pulls the base corpus plus every daily delta from the
+# shared Google Drive folder, assembles the full corpus, rebuilds the dashboard,
+# and commits it so GitHub Pages republishes. Running more than once means a
+# late-finishing scan still gets published the same day.
 on:
   schedule:
-    - cron: '0 17 * * *'      # 17:00 UTC = 1:00 PM ET (EDT) / 12:00 PM ET (EST)
-  workflow_dispatch:           # lets you trigger a rebuild by hand any time
+    - cron: '0 17 * * *'      # 13:00 ET — shortly after the noon scan
+    - cron: '30 19 * * *'     # 15:30 ET — catches a slow scan
+    - cron: '0 23 * * *'      # 19:00 ET — final sweep
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -30,7 +33,7 @@ jobs:
       - name: Install Pillow
         run: pip install --quiet Pillow
 
-      - name: Fetch newest signal corpus from Drive
+      - name: Fetch base corpus and daily deltas from Drive
         env:
           GDRIVE_API_KEY: ${{ secrets.GDRIVE_API_KEY }}
         run: |
@@ -41,37 +44,64 @@ jobs:
           folder = os.environ["DRIVE_FOLDER_ID"]
           if not key:
               sys.exit("GDRIVE_API_KEY secret is not set")
+          os.makedirs("drive", exist_ok=True)
 
-          q = f"'{folder}' in parents and trashed = false"
-          url = ("https://www.googleapis.com/drive/v3/files?"
-                 + urllib.parse.urlencode({
-                     "q": q, "key": key,
-                     "fields": "files(id,name,modifiedTime)",
-                     "orderBy": "modifiedTime desc", "pageSize": "100"}))
-          with urllib.request.urlopen(url, timeout=60) as r:
-              files = json.load(r).get("files", [])
+          def api(params):
+              url = "https://www.googleapis.com/drive/v3/files?" + urllib.parse.urlencode(params)
+              with urllib.request.urlopen(url, timeout=60) as r:
+                  return json.load(r)
 
-          corpora = sorted([f for f in files if f["name"].startswith("signals")
-                            and f["name"].endswith(".json")],
-                           key=lambda f: f["name"], reverse=True)
-          if not corpora:
-              sys.exit("No signals-*.json found in the Drive folder. "
+          files, token = [], None
+          while True:
+              p = {"q": f"'{folder}' in parents and trashed = false", "key": key,
+                   "fields": "nextPageToken,files(id,name,size,modifiedTime)",
+                   "pageSize": "200"}
+              if token: p["pageToken"] = token
+              d = api(p)
+              files += d.get("files", [])
+              token = d.get("nextPageToken")
+              if not token: break
+
+          wanted = [f for f in files
+                    if f["name"] == "base-signals.json"
+                    or (f["name"].startswith("delta-") and f["name"].endswith(".json"))]
+          if not any(f["name"] == "base-signals.json" for f in wanted):
+              sys.exit("base-signals.json not found in the Drive folder. "
                        "Is the folder shared as 'Anyone with the link'?")
 
-          newest = corpora[0]
-          print(f"Using {newest['name']} (modified {newest['modifiedTime']})")
-          dl = (f"https://www.googleapis.com/drive/v3/files/{newest['id']}"
-                f"?alt=media&key={key}")
-          with urllib.request.urlopen(dl, timeout=120) as r:
-              data = r.read()
-
-          json.loads(data)          # fail loudly rather than commit a broken corpus
-          open("signals.json", "wb").write(data)
-          print(f"Fetched {len(data)} bytes")
+          for f in sorted(wanted, key=lambda x: x["name"]):
+              dl = f"https://www.googleapis.com/drive/v3/files/{f['id']}?alt=media&key={key}"
+              with urllib.request.urlopen(dl, timeout=180) as r:
+                  data = r.read()
+              try:
+                  json.loads(data)
+              except Exception as e:
+                  print(f"  !! {f['name']} is not valid JSON ({e}) — skipping")
+                  continue
+              open(os.path.join("drive", f["name"]), "wb").write(data)
+              print(f"  fetched {f['name']} ({len(data)} bytes)")
           PY
+
+      - name: Assemble the corpus
+        run: python3 assemble.py drive signals.json
 
       - name: Build the dashboard
         run: python3 build_dashboard.py signals.json index.html
+
+      - name: Report freshness
+        run: |
+          python3 -c "
+          import json, datetime
+          d = json.load(open('signals.json'))
+          lu = d.get('last_updated','?')
+          try:
+              age = (datetime.date.today() - datetime.date.fromisoformat(lu)).days
+              print(f'::notice::Corpus last_updated {lu} ({age} day(s) old), {len(d[\"signals\"])} signals, scan #{d.get(\"scan_count\")}')
+              if age >= 2:
+                  print(f'::warning::No new scan delta for {age} days — the daily scan may be failing.')
+          except Exception:
+              print(f'::warning::Could not parse last_updated: {lu}')
+          "
 
       - name: Commit if changed
         run: |
@@ -79,7 +109,7 @@ jobs:
           git config user.email "action@users.noreply.github.com"
           git add -A index.html signals.json logo.png logo-dark.png
           if git diff --staged --quiet; then
-            echo "No change in this scan — nothing to publish."
+            echo "No change since the last build — nothing to publish."
           else
             git commit -m "Refresh signal scan — $(date -u +%Y-%m-%d)"
             git push
