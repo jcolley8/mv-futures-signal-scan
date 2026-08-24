@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-08-13",
- "scan_count": 1,
+ "last_updated": "2026-08-24",
+ "scan_count": 2,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1511,6 +1511,272 @@
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
    "sightings": 1
+  },
+  {
+   "id": "khanmigo-two-year-rct-engagement-ceiling",
+   "title": "Two-year Khanmigo trial: access is free, engagement is the ceiling",
+   "type": "signal",
+   "summary": "A cluster-randomized trial across 18 Tennessee middle schools (EdWorkingPaper 26-1551, August 2026) found Khan Academy's AI tutor Khanmigo raised math achievement by only 1.3 national percentile ranks per term (~0.06-0.08 SD/year), rising to 0.14 SD for full active participation. Ninety-six percent of students tried the tutor at least once, but the median student messaged it on only a third of days they practiced and in just 17 percent of sessions where they made a mistake; only 14.5 percent of messages contained an actual mathematical question. Platform cost was roughly $15 per student per year.",
+   "so_what": "The scarce resource in AI tutoring is not the model or the licence but the student's willingness to type a real question after getting something wrong — which makes help-seeking disposition, not tool procurement, the thing schools have to design for. Any AI rollout budgeted as an edtech purchase rather than a behaviour-change programme will replicate this near-null result at scale.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Annenberg Institute EdWorkingPapers (Brown University)",
+   "source_url": "https://edworkingpapers.com/ai26-1551",
+   "source_date": "2026-08-14",
+   "source_type": "study",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "tutoring-few-spills-to-many",
+   "title": "Tutoring a few kindergartners lifts their untutored classmates too",
+   "type": "signal",
+   "summary": "A Danish trial randomizing 81 schools (not individual pupils) with 2,583 kindergartners found small-group decoding tutoring improved the pre-registered target group by 0.38 SD but also moved the whole school by 0.27 SD, with never-tutored peers gaining at least 0.19 SD — an implied social multiplier of three or more (EdWorkingPaper 26-1562, August 2026). Tutors were existing school staff rather than hired specialists.",
+   "so_what": "If early-literacy gains propagate through the peer group, the cost-effectiveness maths of targeted intervention has been understated by roughly 3x — and individually-randomized tutoring studies have been systematically underestimating effects by treating spillover-contaminated controls as clean. It argues for tutoring the few as a whole-class strategy rather than a pull-out remediation service.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute EdWorkingPapers (Brown University)",
+   "source_url": "https://edworkingpapers.com/ai26-1562",
+   "source_date": "2026-08-21",
+   "source_type": "study",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "ai-fluency-becomes-graduation-requirement",
+   "title": "AI fluency quietly becomes a graduation requirement, not an elective",
+   "type": "driver",
+   "summary": "Inside Higher Ed reported on 20 August 2026 that universities are moving AI from elective to mandate: Indiana's Kelley School now requires every incoming undergraduate to take AI 101 and AI 201, and Purdue requires all students to complete one of 22 AI courses — a change that forced revision of 331 separate plans of study. Miami University, Ohio State, the SUNY system, Northwestern, Wentworth, Endicott and Suffolk are all embedding AI requirements. NACE data show 35 percent of entry-level jobs required AI skills as of March, up from 13 percent six months earlier.",
+   "so_what": "When AI competency becomes a stated undergraduate degree requirement, it back-propagates into admissions signalling and secondary-school course catalogues within a cycle or two — high schools will be asked to evidence AI fluency the way they now evidence lab science. The 331 revised plans of study are the tell: this is curricular infrastructure, not a pilot.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "T-Technological",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Inside Higher Ed",
+   "source_url": "https://www.insidehighered.com/news/faculty/teaching/2026/08/20/ai-requirements-and-courses-colleges-eye-ai-fluency",
+   "source_date": "2026-08-20",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "idaho-growth-without-students",
+   "title": "Idaho grows past two million while its schools shrink",
+   "type": "signal",
+   "summary": "Analysis published 16 August 2026 shows Idaho public school enrollment fell from a peak of 315,254 (fall 2022) to 310,150 (fall 2025) — a loss of 5,104 students — even as state population climbed past 2 million. Only 8% of Idaho's 2020-2025 population growth consisted of school-aged children; births fell from over 16 per 1,000 residents in 2007 to under 12 per 1,000 by 2024. Boise School District lost 1,600+ students and is cutting 17 positions, while Blaine County's kindergarten cohort is 160 against 285 graduating seniors. Charter enrollment surged 36.1%, from 31,578 to 42,978.",
+   "so_what": "Regional population growth has quietly stopped being a valid proxy for enrollment growth — a fast-growing metro can now import adults without children, so Atlanta-area schools cannot plan capacity off county growth projections. Blaine County's 160-versus-285 ratio is a twelve-year contraction already fully booked and unfixable by recruitment.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Idaho Ed News / Bonner County Daily Bee",
+   "source_url": "https://bonnercountydailybee.com/news/2026/aug/16/idaho-schools-are-losing-thousands-of-students-even-as-the-state-grows/",
+   "source_date": "2026-08-16",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "teen-summer-work-rebound-only-older-teens",
+   "title": "Teen summer work ticks up but only for 18-19s",
+   "type": "signal",
+   "summary": "Pew Research Center's 19 August 2026 analysis of BLS data finds 35.5% of teens aged 16-19 worked in summer 2026, up from 33.8% in 2025 — about 6.2 million teens. But the rate splits sharply by age: 48% of 18-19 year-olds worked versus just 24% of 16-17 year-olds. The overall figure remains far below the 58% peak of 1978 and the 51%+ typical before 2000, though above the 29.6% trough of 2010-11.",
+   "so_what": "The modest recovery is almost entirely post-high-school, meaning the in-school teenage job — long the default site for learning punctuality, supervision, customer conflict and getting paid — has not returned and is not returning. School is now the last remaining place most students encounter workplace norms before 18, which makes advisory, internships and work-based learning load-bearing rather than enrichment.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/short-reads/2026/08/19/after-a-long-fade-is-teen-summer-employment-in-the-us-rebounding/",
+   "source_date": "2026-08-19",
+   "source_type": "report",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "time-variant-forgetting-function",
+   "title": "One forgetting curve cannot fit minutes and weeks",
+   "type": "signal",
+   "summary": "A paper in npj Science of Learning (19 August 2026) shows that a single forgetting curve cannot simultaneously capture recall performance at short (minutes) and long (weeks) retention intervals; the decay rate itself changes with elapsed time. The authors propose a time-variant forgetting function, arguing that the fixed-exponential and power-law curves embedded in current adaptive-practice engines systematically mis-predict retention at one end of the timescale.",
+   "so_what": "Every spaced-repetition and adaptive-review product a school buys is calibrated on lab-scale intervals, so its scheduling is likely wrong precisely at the multi-week horizon that unit tests and exams actually assess — a reason to audit vendor retention claims rather than trust the algorithm's own analytics.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "npj Science of Learning",
+   "source_url": "https://www.nature.com/articles/s41539-026-00447-1",
+   "source_date": "2026-08-19",
+   "source_type": "journal",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "imagery-rescripting-fear-of-failure",
+   "title": "Four sessions rewriting childhood memories cut fear of failure",
+   "type": "signal",
+   "summary": "A multi-arm randomised controlled trial from SWPS University and the Nencki Institute, reported 18 August 2026, assigned 180 young adults with high fear of failure to imagery exposure, imagery rescripting, or rescripting with a consolidation-interfering delay — four sessions over two weeks. All three arms produced significant, lasting reductions in fear of failure plus lower sadness, guilt and physiological stress reactivity, sustained at three- and six-month follow-up; researchers attribute the effect to prediction-error 'surprise' moments rather than exposure duration.",
+   "so_what": "Fear of failure is usually treated in schools as a motivational or mindset problem addressed by messaging; this reframes it as a consolidated autobiographical memory that a short, protocolised clinical intervention can alter — which puts it in the counselling office, not the advisory curriculum.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "ScienceDaily (reporting Frontiers in Psychology RCT)",
+   "source_url": "https://www.sciencedaily.com/releases/2026/08/260815064833.htm",
+   "source_date": "2026-08-18",
+   "source_type": "study",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "multilingual-brain-age-gradient",
+   "title": "Four languages, brains thirteen years younger, dose-dependent",
+   "type": "signal",
+   "summary": "Work from the Basque Center on Cognition, Brain and Language presented at the FENS Forum 2026 and reported 22 August 2026 built a 'brain-aging clock' on 728 participants and applied it to 144 individuals. Speakers of four languages showed brain-age gaps roughly 13 years younger than monolinguals, with two- and three-language speakers at about 6 and 7 years; earlier acquisition and higher proficiency independently predicted greater delay, making the effect a gradient rather than a bilingual/monolingual binary.",
+   "so_what": "If the protective effect scales with number, proficiency and early onset, world-language sequencing becomes a lifelong-health argument rather than an enrichment one — and the 'two years of a language for the transcript' model is the exact dosing the data says is least valuable.",
+   "likelihood": "possible",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "ScienceDaily (FENS Forum 2026 presentation)",
+   "source_url": "https://www.sciencedaily.com/releases/2026/08/260821012226.htm",
+   "source_date": "2026-08-22",
+   "source_type": "study",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "zyn-ultra-high-strength-authorisation",
+   "title": "FDA clears eleven higher-strength mint nicotine pouches",
+   "type": "driver",
+   "summary": "On 21 August 2026 the FDA authorised 11 additional Zyn Ultra nicotine pouches — ten at 9 mg and one at 11 mg, in Chill, Citrus, Cool Mint, Deep Freeze, Menthol, Peppermint, Smooth, Spearmint and Wintergreen — bringing the total of authorised pouch products to 43, of which 23 came through FDA's nicotine-pouch pilot programme. The agency justified the orders on reduced harmful constituents relative to smokeless tobacco; the authorisations follow four flavoured 'on!' pouches cleared earlier in August.",
+   "so_what": "Pouches leave no vapour, odour or device to confiscate, so a federally legitimised, higher-strength, mint-forward product line renders the detection-based vape playbook — sensors, bathroom monitoring, device searches — largely useless in a single product cycle.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Tobacco Reporter",
+   "source_url": "https://tobaccoreporter.com/2026/08/21/fda-authorizes-11-additional-zyn-nicotine-pouches/",
+   "source_date": "2026-08-21",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "kit-predictive-robotic-disassembly",
+   "title": "Robot learns to take broken machines apart without breaking them",
+   "type": "signal",
+   "summary": "Karlsruhe Institute of Technology researchers, presenting at ICRA 2026 in Vienna, demonstrated a predictive disassembly system that uses CAD models plus mid-task replanning to unscrew, manipulate and mill into defective devices while deliberately protecting operator-specified valuable components. IEEE Spectrum framed it against a global installed base of over 4 million industrial robots, projected to reach 16 million by 2030.",
+   "so_what": "Disassembly, not assembly, is the harder and more teachable act — if machines can now reason about how a thing comes apart, the makerspace skill that stays uniquely human shifts from building to diagnosing, and 'take it apart to see how it works' becomes an automatable task schools should reframe rather than repeat.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "I-Environmental",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "IEEE Spectrum",
+   "source_url": "https://spectrum.ieee.org/recycling-robot",
+   "source_date": "2026-08-10",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "beat-saber-price-cut-subscription",
+   "title": "VR's flagship title discounted and bundled after eight premium years",
+   "type": "signal",
+   "summary": "Meta cut Beat Saber from $29.99 to $19.99 across Quest, SteamVR and PlayStation VR/VR2 on 11 August 2026, a 33% drop for a title that had almost never been discounted in eight years as VR's best-selling game. The cut followed its addition to the Horizon+ subscription service, which had previously excluded it.",
+   "so_what": "When the one VR app every school already owns stops being a premium purchase and becomes subscription filler, the economics of headset labs invert: the hardware stops being justified by a marquee title, and any school VR budget built around per-title licensing needs re-planning as a per-seat subscription line.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "UploadVR",
+   "source_url": "https://www.uploadvr.com/beat-saber-quest-price-cut-meta/",
+   "source_date": "2026-08-11",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
+  },
+  {
+   "id": "ultra-rare-gene-therapy-approval-cluster",
+   "title": "Ultra-rare gene therapy approvals arrive in clusters, weeks apart",
+   "type": "trend",
+   "summary": "STAT's 20 August 2026 biotech briefing reported FDA approval of an Ultragenyx gene therapy alongside a Regeneron ultra-rare disease approval characterised as a validating win for mRNA research. The same briefing flagged Harvard work in which brain organoids survived and matured in the laboratory for five years.",
+   "so_what": "Approvals for conditions affecting a handful of children mean some students will arrive with genetic conditions that were untreatable when their IEP was written, and school health, records and re-evaluation cycles are not built to absorb a diagnosis that changes mid-enrolment.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "STAT News",
+   "source_url": "https://www.statnews.com/2026/08/20/biotech-news-fda-approves-utlragenyx-gene-therapy/",
+   "source_date": "2026-08-20",
+   "source_type": "news",
+   "first_seen": "2026-08-24",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -1536,8 +1802,9 @@
     "austrian-teens-ai-companions"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-13",
-   "status_note": "Established in the first scan; not yet re-tested against new evidence."
+   "last_revised": "2026-08-24",
+   "status_note": "Materially reframed: the Khanmigo two-year RCT found near-null average effects with 96% access but only 17% help-seeking after errors — evidence for a third pole, conditional amplification, where the tool multiplies disposition rather than supplying or dissolving capability.",
+   "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
    "id": "cu-assessment",
@@ -1563,7 +1830,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Established in the first scan; not yet re-tested against new evidence."
+   "status_note": "Re-confirmed; no direct new evidence in 11 days, though universities mandating AI coursework shifts the question from detecting AI use toward certifying it."
   },
   {
    "id": "cu-credential",
@@ -1590,7 +1857,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Established in the first scan; not yet re-tested against new evidence."
+   "status_note": "Drifting toward the reprice pole: AI fluency is becoming a stated degree requirement (Purdue revised 331 plans of study) while entry-level AI-skill demand jumped from 13% to 35% in six months."
   },
   {
    "id": "cu-legitimacy",
@@ -1616,7 +1883,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Established in the first scan; not yet re-tested against new evidence."
+   "status_note": "Re-confirmed; no new evidence either way in 11 days. The quietest of the five this cycle."
   },
   {
    "id": "cu-campus",
@@ -1645,7 +1912,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Established in the first scan; not yet re-tested against new evidence."
+   "status_note": "Strengthening toward the essential-place pole: Idaho grew past 2 million residents while losing 5,104 students, decoupling regional growth from enrollment and confirming that demography, not desirability, sets the ceiling."
   }
  ],
  "verification": {
@@ -1655,6 +1922,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-08-24-the-waiting-room",
+   "date": "2026-08-24",
+   "title": "The Waiting Room",
+   "year": "2034",
+   "axis": "CU 01 resolving toward conditional amplification — AI helps only those already disposed to ask — crossed with CU 05 resolving toward the campus as essential third place",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Conditional amplification — the tool multiplies whatever disposition a student already brings, and does almost nothing for those who never ask it a real question."
+    },
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Essential third place — the scarce good turns out to be an adult who notices, and that cannot be delivered remotely."
+    }
+   ],
+   "premise": "By 2034 the AI tutor question is settled and the answer is uncomfortable: it works, but only for students who already ask questions. A decade of trials converged on the same finding — the tool multiplies disposition rather than supplying it, and the gap between students who interrogate a wrong answer and those who click past it has widened into the primary axis of inequality. Schools responded by hiring back the thing software cannot do: adults who notice. Mount Vernon's most oversubscribed offering is no longer a course. It is a room, staffed all day, where a student can sit next to a person and be asked what they are stuck on.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Dev, 15",
+     "vignette": "He has had an AI tutor since he was six and it has taught him almost nothing, because he has never once typed what he actually doesn't understand. He types what will make the session end. In the Waiting Room on Tuesday, Ms. Alvarez sat down, looked at his screen for eleven seconds and said 'you don't know what a variable is, do you' — and he cried, which was humiliating, and then it was the best week of school he'd had. There are forty-one names on the Waiting Room list. He got in because his advisor pushed."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Alvarez, 9 years in",
+     "vignette": "She teaches two sections now instead of five; the rest of her load is Waiting Room hours. It is the most skilled work she has ever done and the least legible — no unit plan, no rubric, nothing to show at an accreditation visit except students who got unstuck. She can hold about nine kids in her head with real fidelity. The school has assigned her twenty-six. She has started quietly triaging toward the ones who will respond fastest, and she knows exactly what that does to the ones who won't, and she does it anyway."
+    },
+    {
+     "role": "Parent",
+     "name": "Marcus",
+     "vignette": "He pays $71,000 and he has done the arithmetic: the AI does the instruction, so what he is buying is Ms. Alvarez's attention, and there is provably not enough of it. He asked at the parent forum how Waiting Room access is allocated. The answer was 'advisor referral,' which he understood immediately to mean that the parents who ask get more. He asked anyway. He is not proud of this and he would do it again tomorrow."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Yeh, Head of School",
+     "vignette": "Her enrollment is healthy and her county's school-age population fell nine percent in six years — the two facts coexist because families are consolidating into fewer, better-staffed schools, and she is one of them. She is absorbing students from three closures. Every marginal student improves the budget and dilutes the one thing families are actually buying. There is a number at which the Waiting Room stops working and becomes a queue, and nobody at the board table wants to be the person who names it out loud."
+    }
+   ],
+   "tension": "The decade's most hopeful finding and its most troubling one are the same finding. AI turned out not to replace teachers; it revealed which part of teaching was irreplaceable, and that part is human attention — which does not scale, cannot be bought in bulk, and is now the explicit product of an expensive school. Every previous inequality in education was at least partly about access to materials, and materials got cheap. This one is about access to a person who notices you, and that has gotten more expensive every year. A school that responds well to this becomes very good and very exclusive at the same time, by the same mechanism, and cannot separate the two.",
+   "provocations": [
+    "What is our actual student-to-noticing-adult ratio, as opposed to our student-teacher ratio — and would we publish it?",
+    "If attention is the scarce good we sell, what is our written rule for allocating it, and does that rule survive a parent reading it?",
+    "As neighbouring schools contract and we absorb their students, at what enrollment number does our core value proposition break? Who is authorised to say we have reached it?"
+   ]
+  },
   {
    "id": "sc-2026-08-13-the-defense",
    "date": "2026-08-13",
