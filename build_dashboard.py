@@ -116,7 +116,9 @@ if _light:
     if _dark:
         LOGO_HTML += f'<img class="logo logo-dark" src="{_dark}" alt="">'
 
-payload = {"meta": {k: v for k, v in data.items() if k not in ("signals",)},
+import datetime
+payload = {"meta": {**{k: v for k, v in data.items() if k not in ("signals",)},
+                    "built_at": datetime.date.today().isoformat()},
            "signals": signals}
 
 TPL = r"""<!DOCTYPE html>
@@ -187,6 +189,9 @@ h1{font-size:27px;margin:0 0 6px;letter-spacing:-.015em;font-weight:680}
   padding:7px 13px;font-size:13px;cursor:pointer;font-family:inherit;white-space:nowrap;font-weight:550}
 .toggle:hover{color:var(--ink);border-color:var(--navy)}
 
+.stale{background:var(--frost-2);border:1px solid var(--navy);border-left:4px solid var(--navy);
+  border-radius:8px;padding:12px 16px;margin-bottom:18px;font-size:13.5px;color:var(--ink)}
+.stale b{color:var(--navy)}
 .tiles{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:10px;margin-bottom:30px}
 .tile{background:var(--frost);border:1px solid var(--hair);border-radius:8px;padding:14px 16px}
 .tile .v{font-size:30px;font-weight:680;letter-spacing:-.02em;line-height:1.15;color:var(--navy)}
@@ -364,6 +369,7 @@ footer b{color:var(--ink-2)}
   <button class="toggle" id="themeBtn" type="button">Dark mode</button>
 </header>
 
+<div id="stale"></div>
 <div class="tiles" id="tiles"></div>
 
 <h2>Critical uncertainties</h2>
@@ -411,6 +417,16 @@ const byId = {}; S.forEach(s=>byId[s.id]=s);
 document.getElementById('stamp').textContent =
   'Last refreshed ' + META.last_updated + ' · scan #' + META.scan_count +
   ' · ' + S.length + ' entries under watch · refreshes daily at 12:00 PM ET';
+
+(function(){
+  const lu = META.last_updated, bt = META.built_at;
+  if(!lu || !bt) return;
+  const age = Math.round((Date.parse(bt+'T00:00:00Z') - Date.parse(lu+'T00:00:00Z'))/86400000);
+  if(age >= 2) document.getElementById('stale').innerHTML =
+    `<div class="stale"><b>This scan is ${age} days old.</b> The last successful scan was ${lu}; ` +
+    `this page was rebuilt on ${bt}. The daily scan may be failing — the signals and scenario below ` +
+    `are still accurate as of ${lu}, but nothing new has been added since.</div>`;
+})();
 
 const isNew = s => s.first_seen === META.last_updated;
 const tiles = [
