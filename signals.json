@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-08-24",
- "scan_count": 2,
+ "last_updated": "2026-08-27",
+ "scan_count": 3,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1623,7 +1623,7 @@
    "source_date": "2026-08-19",
    "source_type": "report",
    "first_seen": "2026-08-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "time-variant-forgetting-function",
@@ -1777,6 +1777,342 @@
    "source_type": "news",
    "first_seen": "2026-08-24",
    "sightings": 1
+  },
+  {
+   "id": "ed-dept-defends-edtech-against-screen-time-bans",
+   "title": "Federal guidance splits educational technology from recreational screen time",
+   "type": "signal",
+   "summary": "On 20 August 2026 the U.S. Department of Education issued a Dear Colleague letter arguing that \"recreational and educational technology use are not synonymous,\" urging policymakers to judge devices by demonstrated learning outcomes rather than screen-exposure metrics. It was prompted by the 2026 wave of school screen-time limits, including Los Angeles Unified and at least six states, and it foregrounds assistive technology for students with disabilities, rural access to advanced coursework, and homebound learners.",
+   "so_what": "Blanket device and screen-time bans now carry a federal-guidance counterweight that reframes them as potential access and disability-accommodation problems, so schools will need per-tool learning-outcome evidence rather than a single campus-wide device rule.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/education-department-goes-to-ed-techs-defense-in-new-guidance/828425/",
+   "source_date": "2026-08-20",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "accreditation-marketplace-opened-to-new-entrants",
+   "title": "Proposed rules open accreditation to new entrants and multiple accreditors",
+   "type": "driver",
+   "summary": "The Department of Education released proposed accreditation regulations on 21 August 2026 that set firm timelines for evaluating new accreditor applications, simplify initial recognition, remove the requirement that institutions get Secretary approval before switching accreditors, and permit colleges to hold accreditation from multiple agencies at once. Six legacy accreditors currently gatekeep access to over $100 billion in annual Title IV aid; the rules also push completion, debt-to-earnings and employment outcomes as standards.",
+   "so_what": "If accreditation becomes a competitive market judged on earnings and completion outcomes, the credential logic that independent schools prepare students for shifts from institutional prestige to measurable post-graduation returns, changing what college counselling should optimise for.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "American Council of Trustees and Alumni",
+   "source_url": "https://www.goacta.org/2026/08/department-of-education-releases-new-accreditation-regulations/",
+   "source_date": "2026-08-21",
+   "source_type": "policy",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "special-education-complaints-jump-46-percent",
+   "title": "Written special education state complaints jump 46 percent in one year",
+   "type": "signal",
+   "summary": "A survey of 31 state directors by the Council for Exceptional Children and NASDSE found written special education state complaints rose from 7,907 in 2024-25 to 11,523 in 2025-26, a 46% increase in a single year. On-time resolution fell to 81%, an 11-percentage-point drop against the ten-year average, and CEC attributes the surge partly to a growing perception that the federal department is less responsive to parents.",
+   "so_what": "Families are rerouting disputes from federal to state channels faster than states can process them, which means practical enforcement of learning-support obligations is migrating to overloaded state systems just as diagnosis and accommodation demand rises.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/special-education-state-complaints-jump-nearly-50/827463/",
+   "source_date": "2026-08-11",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "districts-hold-3001-tools-use-four",
+   "title": "Districts access 3,001 digital tools but actually use four",
+   "type": "signal",
+   "summary": "Reporting on district AI procurement found an Instructure analysis showing districts have access to an average of 3,001 digital tools while meaningfully using only four, against an AI-in-education market projected to grow from $2.5 billion in 2025 to $15 billion in 2033. Vetting burden sits almost entirely with districts: Allentown runs a two-phase data-security review, NYC bars student data from model training, Chicago began blocking unapproved third-party AI products in December, and Sumner County (TN) piloted an AI literacy tool in a single sixth-grade classroom for five days before expanding.",
+   "so_what": "The binding constraint on AI in schools is not capability or money but institutional absorption capacity, so the differentiating skill for school leaders becomes disciplined subtraction and small-n piloting rather than procurement volume.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Stateline",
+   "source_url": "https://stateline.org/2026/08/12/schools-spend-billions-on-ai-but-struggle-to-figure-out-whats-worth-it/",
+   "source_date": "2026-08-12",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "seoul-fertility-rebound-marriages-surge",
+   "title": "Seoul's fertility rebound accelerates as marriages jump again",
+   "type": "signal",
+   "summary": "Statistics Korea and Seoul city data reported on 27 August 2026 show Seoul recorded 45,516 births in 2025, up 9.4% year-on-year, with the city's total fertility rate climbing from a 2023 trough of 0.55 to 0.63 — the fastest growth of any of Korea's 17 regions. First-half 2026 figures continue the trend: 26,924 births (+18.7% YoY) and 26,840 marriages (+10.9% YoY), and nearly 80% of childless married couples in Seoul now say they intend to have a child within three years.",
+   "so_what": "The world's most-cited case for terminal demographic collapse is bending upward in its densest, most expensive city — meaning enrolment forecasts built on straight-line extrapolation of a cohort trough can be wrong in the optimistic direction too, and schools that shed capacity on 2023-vintage projections may be short of seats a decade out.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "The Korea Times",
+   "source_url": "https://www.koreatimes.co.kr/southkorea/20260827/seouls-birthrate-rebounds-as-births-and-marriages-surge",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "college-premium-is-hours-not-hourly-pay",
+   "title": "College premium comes from hours worked, not hourly pay",
+   "type": "signal",
+   "summary": "A 20 August 2026 St. Louis Fed analysis by economist Victoria Gregory finds the college earnings premium moves in opposite directions depending on measurement: the annual-earnings premium starts above 2.0 for young workers and falls to roughly 1.8 with experience, while the hourly-wage premium starts near 1.6-1.7 and rises modestly. The gap is compositional — about 80% of college graduates work full time early in their careers, whereas high school graduates only climb into the mid-70% range over decades.",
+   "so_what": "A large share of what schools and families call the value of a degree is actually the value of stable full-time attachment, so the highest-leverage non-college pathway a school can build is one that secures continuous full-time employment early — not one that chases a higher starting wage.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of St. Louis (On the Economy)",
+   "source_url": "https://www.stlouisfed.org/on-the-economy/2026/aug/how-does-college-premium-change-over-career",
+   "source_date": "2026-08-20",
+   "source_type": "report",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "nafsa-111k-international-student-shortfall",
+   "title": "US projected to lose 111,000 international students this autumn",
+   "type": "driver",
+   "summary": "NAFSA and JB International's Fall 2026 outlook, published 11 August 2026, projects roughly 111,000 fewer international students in the US this academic year, up to $3.4 billion in lost revenue and nearly 40,000 jobs at risk, with California (-$499.6m), New York (-$470.3m) and Pennsylvania (-$164.2m) hardest hit. Drivers include a December 2025 executive order restricting nationals of 39 countries, consular appointment bottlenecks in India and China, and new Duration of Status rules; nearly two-thirds of institutions in IIE's Spring 2026 snapshot expect further declines in 2026-27.",
+   "so_what": "International graduate students are the marginal labour supply for university research and for the STEM teacher and tutor pipeline in metros like Atlanta; a sustained shortfall tightens the market for specialist maths and science staff long before it shows up in K-12 enrolment counts.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "NAFSA: Association of International Educators",
+   "source_url": "https://www.nafsa.org/fall2026outlook",
+   "source_date": "2026-08-11",
+   "source_type": "report",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "nyfed-firms-retrain-rather-than-cut",
+   "title": "Firms adopting AI fast report almost no AI-driven layoffs",
+   "type": "signal",
+   "summary": "The New York Fed's August 2026 regional business surveys show AI use jumping from 25% to 40% of service firms and 16% to 26% of manufacturers year-on-year (with 44% and 33% expected within six months), yet firms report very few AI-driven layoffs and say they overwhelmingly plan to retrain incumbent workers rather than terminate them. The measurable effect is on hiring plans — particularly for college-educated entrants — while workers' own expectations of job availability are markedly bleaker than firm behaviour warrants.",
+   "so_what": "If adjustment is happening through retraining incumbents rather than replacement, the scarce good is the internal learning capacity of an existing worker — which argues for teaching students to be conspicuously retrainable inside an organisation, not merely job-ready at the door.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of New York, Liberty Street Economics",
+   "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/08/ais-impact-on-labor-and-hiring/",
+   "source_date": "2026-08-05",
+   "source_type": "report",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "teaching-heuristics-over-mentalizing",
+   "title": "Teachers default to shortcuts instead of modelling learner knowledge",
+   "type": "signal",
+   "summary": "A Nature Human Behaviour paper (26 Aug 2026) across three experiments (N = 100, 253, 759) found people teaching others frequently abandon Bayesian pedagogy — reasoning about what the learner already knows — in favour of cognitively cheap heuristics, and persist with those heuristics even after they demonstrably fail (P < 0.001, rank-biserial r = 0.287). A scaffolding task that forced explicit inference about learner knowledge reversed the tendency (P < 0.001, partial eta-squared = 0.107).",
+   "so_what": "The bottleneck in differentiated instruction may not be teacher skill or will but the metabolic cost of mentalizing under load — meaning a cheap structured prompt that makes 'what does this student already know?' an explicit step could outperform expensive pedagogy training.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02540-2",
+   "source_date": "2026-08-26",
+   "source_type": "journal",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "interoceptive-attention-immune-modulation",
+   "title": "Where teens direct attention measurably changes immune inflammation",
+   "type": "signal",
+   "summary": "A Nature Human Behaviour study (17 Aug 2026, 57 participants across three experiments) induced acute skin inflammation and found that directing attention inward to bodily sensation produced roughly 1.5-fold smaller wheal responses than external distraction (3.5 +/- 1.1 mm vs 5.0 +/- 0.7 mm, p < 0.001), with about 90% of participants showing the effect and significantly higher heart-rate variability under internal attention (p = 0.023). Nearly 90% of the internal-attention group stabilised or declined after 20 minutes versus 46% under distraction.",
+   "so_what": "This gives mindfulness and interoception practice a hard physiological outcome measure rather than a self-report one — but it also implies that chronically distraction-saturated school days may carry a low-grade immune cost, not merely an attentional one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02541-1",
+   "source_date": "2026-08-17",
+   "source_type": "journal",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "causal-overclaim-social-science-ai",
+   "title": "Half of social science papers overclaim cause; AI amplifies it",
+   "type": "driver",
+   "summary": "An analysis of 194,631 cross-sectional articles (Nature Human Behaviour, 24 Aug 2026) found 46% use causal language in title or abstract and 81.8% make at least one causal claim in full text, with prevalence tripling from about 20% in 2000 to about 60% by 2024 and running higher in above-median-impact journals (54.4% vs 43.3%). In a companion experiment (N = 1,105), readers inferred causality across all conditions, and AI-generated summaries amplified causal overstatement unless guardrail prompts were applied.",
+   "so_what": "The pipeline schools use to adopt 'evidence-based' practice — press release, AI summary, PD slide — systematically strengthens causal claims at each hop, so the research literacy that matters most for a school is not reading studies but auditing the summarisation chain.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02553-x",
+   "source_date": "2026-08-24",
+   "source_type": "journal",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "moral-education-effect-size-discussion",
+   "title": "Moral education works at g=0.65, but only when students argue",
+   "type": "signal",
+   "summary": "A meta-analysis of 92 randomised controlled trials covering 12,693 students and 381 effect sizes (Nature Human Behaviour, 26 Aug 2026) found other-focused moral and ethics education improved outcomes at g = 0.65 (95% CI 0.49-0.81, p < 0.001) in naturalistic school settings, with gains in moral sensitivity, judgment and motivation. Interventions built on student discussion clearly outperformed unidirectional information delivery, while evidence for durable character change remained inconclusive and only one trial was rated low risk of bias.",
+   "so_what": "The effect size rivals most academic interventions, but it lands on judgment and motivation rather than character — which means schools marketing character formation are promising the one outcome the evidence does not yet support, while under-selling the one it does.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02456-x",
+   "source_date": "2026-08-26",
+   "source_type": "journal",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "bedrock-operator-free-excavators-live-sites",
+   "title": "Operator-free excavators go live on three US construction sites",
+   "type": "signal",
+   "summary": "Bedrock Robotics announced on 26 August 2026 that its retrofitted autonomous excavators are now running with nobody in the cab on three active infrastructure projects: a Nevada water-treatment facility with Sundt Construction, a multi-million-cubic-yard earthwork site in Texas with Champion Site Prep, and a 1.2-million-cubic-yard civil sitework job with Zachry Construction. The company has raised $350M and frames the deployment against a workforce cliff: over 40% of US construction workers are expected to retire within five years and 20% are already over 55.",
+   "so_what": "The safe counter-narrative schools tell families — that skilled trades are AI-proof — just lost its flagship example, and career-pathway advising needs to shift from operating machines to supervising, retrofitting and troubleshooting fleets of them.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/bedrock-robotics-first-operator-free-excavator-deployments-take-off/",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "schell-games-layoffs-xr-education-studios",
+   "title": "Educational XR studio Schell Games confirms layoffs amid VR contraction",
+   "type": "signal",
+   "summary": "On 26 August 2026 Schell Games — developer of Among Us 3D and one of the few studios with a serious educational XR portfolio — confirmed layoffs, notable because CEO Jesse Schell had previously pledged to put cash at risk rather than cut jobs. It joins Polyarc, Mighty Coconut, Kluge Interactive and nDreams in a 2026 wave of VR studio cuts; an affected employee described the industry as hemorrhaging.",
+   "so_what": "The bottleneck for VR in schools was never headsets but curriculum-grade content, and the studios capable of building it are being defunded — so districts buying hardware in 2026-27 may find the software catalogue thinning rather than growing.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "UploadVR",
+   "source_url": "https://www.uploadvr.com/among-us-3d-schell-games-confirms-layoffs/",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
+  },
+  {
+   "id": "regenxbio-second-aav-safety-pause",
+   "title": "FDA pauses second Regenxbio gene therapy over spinal masses",
+   "type": "signal",
+   "summary": "STAT reported on 24 August 2026 that the FDA paused Regenxbio's trial of an AAV gene therapy for Hunter syndrome (MPS II) after five patients were found to have small, asymptomatic masses on their spines. It is the company's second pause in seven months; the earlier one followed a brain tumour in an MPS I patient — the first tumour conclusively linked to AAV gene therapy.",
+   "so_what": "The dominant delivery vector behind two decades of one-shot-cure messaging is accumulating oncogenic signal in children, which makes the confident biotech narrative many science curricula and career talks import from press releases a live case study in how evidence actually moves.",
+   "likelihood": "actual",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "STAT News",
+   "source_url": "https://www.statnews.com/2026/08/24/fda-pauses-regenxbio-gene-therapy-trial-hunter-syndrome-safety-concerns/",
+   "source_date": "2026-08-24",
+   "source_type": "news",
+   "first_seen": "2026-08-27",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -1803,7 +2139,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-24",
-   "status_note": "Materially reframed: the Khanmigo two-year RCT found near-null average effects with 96% access but only 17% help-seeking after errors — evidence for a third pole, conditional amplification, where the tool multiplies disposition rather than supplying or dissolving capability.",
+   "status_note": "No direct new evidence on the capability question in 3 days; but a 194,631-paper analysis showing causal overclaim tripling since 2000 — and AI summaries amplifying it — warns that evidence for either pole will reach schools pre-inflated.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -1830,7 +2166,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Re-confirmed; no direct new evidence in 11 days, though universities mandating AI coursework shifts the question from detecting AI use toward certifying it."
+   "status_note": "Re-confirmed; no new evidence either way in 14 days. The quietest of the five this cycle."
   },
   {
    "id": "cu-credential",
@@ -1856,8 +2192,8 @@
     "bls-decade-of-slow-job-growth"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-13",
-   "status_note": "Drifting toward the reprice pole: AI fluency is becoming a stated degree requirement (Purdue revised 331 plans of study) while entry-level AI-skill demand jumped from 13% to 35% in six months."
+   "last_revised": "2026-08-27",
+   "status_note": "Materially reframed: a St. Louis Fed decomposition shows the college premium is mostly continuous full-time attachment rather than higher hourly pay, and proposed accreditation rules would judge institutions on earnings and completion — shifting the question from whether the credential holds value to which measurable outcome replaces prestige as the currency."
   },
   {
    "id": "cu-legitimacy",
@@ -1883,7 +2219,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Re-confirmed; no new evidence either way in 11 days. The quietest of the five this cycle."
+   "status_note": "Strengthening toward capability-led adoption, with a twist: districts now hold access to ~3,001 digital tools and meaningfully use four, suggesting the real brake is institutional absorption capacity rather than either capability or consent."
   },
   {
    "id": "cu-campus",
@@ -1912,7 +2248,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Strengthening toward the essential-place pole: Idaho grew past 2 million residents while losing 5,104 students, decoupling regional growth from enrollment and confirming that demography, not desirability, sets the ceiling."
+   "status_note": "First genuine counter-evidence: Seoul's fertility rate has climbed from 0.55 to 0.63 with first-half 2026 births up 18.7%, complicating the assumption that the demographic input to the campus question only moves one way."
   }
  ],
  "verification": {
@@ -1922,6 +2258,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-08-27-the-placement-rate",
+   "date": "2026-08-27",
+   "title": "The Placement Rate",
+   "year": "2033",
+   "axis": "CU 04 resolving toward capability-led adoption — institutions embed AI structurally through accreditation and mandate — crossed with CU 03 resolving toward the market repricing the credential around measurable outcomes",
+   "based_on": [
+    {
+     "id": "cu-legitimacy",
+     "title": "Is the binding constraint on AI in schools capability — or legitimacy?",
+     "pole": "Capability-led — accreditors and regulators embed AI and outcome measurement structurally, and adoption runs at the speed of policy rather than consent."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — schools are judged on what happens to graduates, and the metric that wins is continuous full-time attachment rather than prestige."
+    }
+   ],
+   "premise": "The accreditation reforms that began in 2026 finished arriving around 2031, and they brought a number with them. Every accredited school now reports a six-year Sustained Attachment Rate: the share of graduates in continuous full-time work or full-time study seventy-two months out. It was designed for colleges and flowed downhill within two cycles, because independent schools discovered families would rather see one honest number than a viewbook. Mount Vernon publishes 91.4%, third in the metro. The number is real. It is also, everyone quietly understands, the school's primary product now.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nina, 17",
+     "vignette": "She is good at exactly one thing — a decade of ceramics, hands that know what wet clay is about to do — and her advisor has been gently steering her toward supply-chain analytics since October, because the placement data on studio arts is what it is. Nobody has forbidden anything. Everyone has been kind. She has started describing ceramics as 'a hobby' in meetings, which is a word she never used before this year, and she noticed herself doing it and hasn't decided how she feels."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Oyelaran, 14 years in",
+     "vignette": "His elective, Failure Lab, ran for nine years on the premise that students should build something ambitious and watch it not work. It was the course alumni wrote to him about. It was cut in the spring — not for cost, but because in the new curriculum audit every course maps to an attachment-outcome pathway, and a course whose stated purpose is productive failure could not be made to map. He was asked to propose a revised version. He is finding that he cannot write the paperwork without lying."
+    },
+    {
+     "role": "Parent",
+     "name": "Dana",
+     "vignette": "She chose Mount Vernon over two cheaper schools on the strength of 91.4% and she would do it again. Her son is thriving, employed at twenty-three, insured. What she cannot shake is a conversation at a barbecue where three parents compared attachment rates the way their own parents compared college acceptances, and she heard herself join in fluently, and realised she could no longer describe what she wanted for her son in any language other than his employment status at thirty."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Osei, Head of School",
+     "vignette": "She can move the number four ways: counsel students toward high-attachment fields, cut courses that don't map, admit slightly differently, or support graduates harder after they leave. Three are cheap and one is expensive. The board has never instructed her to do the cheap ones and she has done two of them anyway, incrementally, over four years, each decision defensible on its own. She keeps a list of what the school stopped offering. She has not shown it to anyone."
+    }
+   ],
+   "tension": "Accountability finally arrived in a form nobody could game with marketing, and it worked — the number is honest, families can compare schools, and graduates really are more secure. But a metric doesn't just measure a school; it slowly becomes the school, and this one measures employment continuity, which is a real good and a narrow one. Nothing was banned. No villain decided ceramics didn't matter. A thousand individually defensible choices simply drifted toward what the number rewards, and the things that made the place worth attending were the things the number could not see.",
+   "provocations": [
+    "If an outcome metric like this became standard, what would we refuse to optimise — and could we write that refusal down before we are under pressure, rather than after?",
+    "Which of our current offerings would fail a curriculum audit that required every course to map to a measurable graduate outcome? Are we willing to defend them on other grounds, in public?",
+    "We already track college matriculation. In what ways is that number already shaping our counselling in the direction this scenario describes, and who at this school is authorised to name that out loud?"
+   ]
+  },
   {
    "id": "sc-2026-08-24-the-waiting-room",
    "date": "2026-08-24",
