@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-08-27",
- "scan_count": 3,
+ "last_updated": "2026-08-28",
+ "scan_count": 4,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1889,7 +1889,7 @@
    "source_date": "2026-08-27",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "college-premium-is-hours-not-hourly-pay",
@@ -2113,6 +2113,298 @@
    "source_type": "news",
    "first_seen": "2026-08-27",
    "sightings": 1
+  },
+  {
+   "id": "empirical-absenteeism-threshold-half-of-ten-percent",
+   "title": "Boston data says chronic absence flag should be 3-6 percent",
+   "type": "signal",
+   "summary": "An Annenberg/EdWorkingPaper using 8,891 Boston Public Schools students applied Signal Detection Theory and ROC analysis to find the optimal absence threshold for predicting academic risk. Empirically derived cut-points (Youden's J) fall far below the near-universal 10 percent chronic-absenteeism benchmark: roughly 7-8 percent in pre-K and kindergarten and only 3-6 percent in elementary and middle grades. Total absence rate, not excused/unexcused splits, gave the most consistent diagnostic signal.",
+   "so_what": "Every attendance dashboard, state accountability system and advising protocol built on the 10 percent rule is structurally late — it flags students roughly a full semester after the point where the signal becomes actionable. The fix is nearly free: change the threshold, not the intervention.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute / EdWorkingPapers",
+   "source_url": "https://edworkingpapers.com/ai26-1380",
+   "source_date": "2026-08-01",
+   "source_type": "study",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "ninety-eight-of-hundred-districts-carry-fiscal-red-flags",
+   "title": "Only two of 100 largest districts show no fiscal red flags",
+   "type": "signal",
+   "summary": "A Reason Foundation analysis of the 100 largest US school districts scored each against eight solvency indicators and found districts averaged 2.4 red flags — worse than any other level of government studied. Just two districts were clean: Baltimore City and Rutherford County, Tennessee. Eighty-three of 100 carried a negative unrestricted net position; Fort Bend ISD (TX) had seven flags with $2.37B in liabilities against $2.05B in assets, and Gwinnett County (GA) had six with liabilities above $5.8B.",
+   "so_what": "Neighbouring public districts entering balance-sheet distress is a demand shock and a reputational risk for independent schools at the same time — families shop when districts cut, but regional bond stress, pension pressure and consolidation also reshape the labour market and philanthropic capacity a private school depends on.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/only-2-large-school-districts-are-without-fiscal-red-flags-analysis-find/828861/",
+   "source_date": "2026-08-25",
+   "source_type": "report",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "four-year-visa-cap-triggers-preemptive-withdrawals",
+   "title": "Fixed four-year visa cap triggers withdrawals before it starts",
+   "type": "driver",
+   "summary": "A DHS rule effective 15 September 2026 replaces duration-of-status with a hard four-year cap on international student stays, with extensions routed through a USCIS queue backlogged over a year. Colleges filing court declarations report withdrawals ahead of the effective date: several dozen international students pulled out of the University of Maryland, Baltimore weeks before term, and the University of Illinois flagship reported an over-25-percent drop in international applicants. Fourteen institutions plus the University of California system submitted testimony.",
+   "so_what": "The binding constraint is now programme length rather than admission — doctoral and multi-year professional pathways become structurally unfinishable, so credible advice to internationally mobile secondary students shifts from 'apply to the US' to 'apply where completion is guaranteed', a counselling change schools must make this admissions cycle.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Inside Higher Ed",
+   "source_url": "https://www.insidehighered.com/news/global/international-students-us/2026/08/24/international-student-rule-already-spurring",
+   "source_date": "2026-08-24",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "indianapolis-unwinds-no-zero-grading-floor",
+   "title": "Indianapolis unanimously unwinds six-year no-zero grading floor",
+   "type": "signal",
+   "summary": "On 27 August 2026 the Indianapolis Public Schools board voted unanimously to partially reverse the 50-percent grading floor it adopted in July 2020, allowing teachers to assign an actual zero when a student makes no effort after repeated support and opportunity; good-faith work still earns a minimum 50 percent. Reasons cited were implementation difficulty for teachers, poor college preparation, and — notably — that the floor obscured which students were actually struggling.",
+   "so_what": "The stated failure mode is diagnostic, not disciplinary: the grading floor destroyed the very signal early-warning systems depend on, which is the same trade-off any school makes when it softens grades for equity reasons and then wonders why its intervention triggers stopped firing.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Chalkbeat Indiana",
+   "source_url": "https://www.chalkbeat.org/indiana/2026/08/27/ips-reverses-no-zero-grading-policy-for-students/",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "ninety-percent-biomedical-papers-ai-written",
+   "title": "Nine in ten biomedical papers now carry AI writing signatures",
+   "type": "trend",
+   "summary": "A preprint by Dmitry Kobak and colleagues, reported by Nature on 20 August 2026, analysed word-frequency markers of LLM authorship across PubMed Central and found almost 90% of biomedical papers published in December 2025 showed signs of AI-assisted writing, up from 77% across 2025 and 52% in 2024. The signal is strongest in abstracts, introductions and discussions (78% in December 2025 discussion sections) and weaker in methods and results (58%), far above earlier abstract-only estimates of 13.5% for 2024.",
+   "so_what": "The scholarly literature students are trained to emulate has already normalised machine-assisted prose, so an integrity regime built on detecting AI text now enforces a standard the professions themselves have abandoned; the defensible line moves from who wrote the words to whether a student can defend the reasoning under live questioning.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Nature (news)",
+   "source_url": "https://www.nature.com/articles/d41586-026-02551-z",
+   "source_date": "2026-08-20",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "machine-discovered-strategies-enter-human-culture",
+   "title": "Machine-found strategies humans never invent survive five cultural generations",
+   "type": "signal",
+   "summary": "In Nature Communications (18 August 2026), Iyad Rahwan's Max Planck group ran 1,155 participants across 30 transmission chains on reward-network tasks requiring short-term loss for long-term gain. Only 1 of 600 humans independently discovered the optimal strategy, while a deep Q-learning agent found it within five minutes; in 9 of 15 human-machine populations the machine-discovered strategy persisted across all five human generations, with mixed populations earning significantly more than human-only ones and 86.7% of participants copying the highest-performing demonstrator.",
+   "so_what": "This is the first clean evidence that machines can act as a source of curriculum rather than a tutor of it — supplying methods humans cannot invent but can learn, keep and pass on — which makes teaching techniques whose derivation nobody in the room understands a live pedagogical design problem rather than a hypothetical.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "Nature Communications",
+   "source_url": "https://www.nature.com/articles/s41467-026-76113-2",
+   "source_date": "2026-08-18",
+   "source_type": "journal",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "agents-optimize-but-rarely-innovate",
+   "title": "Long-horizon agents optimise reliably but rarely produce novelty",
+   "type": "signal",
+   "summary": "An arXiv evaluation posted 13 August 2026 tested seven frontier models as agents on 36 extended AI research-and-development tasks, scoring Solution Framing, Execution and Feedback Control rather than only final results. The agents behaved more like engineering optimizers than autonomous researchers: they adapt existing methods competently, but genuine methodological novelty was rare, performance varied substantially run-to-run, and identical final scores concealed very different process bottlenecks.",
+   "so_what": "If capable agents plateau at skilled adaptation rather than invention, the scarce human capacity worth timetabling is problem framing and judging variance across attempts — and process-blind rubrics that grade only the finished product will score an agent and a student identically while measuring nothing that matters.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2608.13417v1",
+   "source_date": "2026-08-13",
+   "source_type": "study",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "csaa-neighborhood-wildfire-underwriting",
+   "title": "Insurer prices wildfire risk by neighborhood, not by building",
+   "type": "signal",
+   "summary": "CSAA Insurance Group, operating in 23 states plus DC, launched a wildfire pricing structure effective 1 August 2026 that stacks discounts of up to 31% only when an individual property's hardening is combined with verified community-wide fuel reduction. It follows the January 2025 LA fires (~$40bn insured losses) and a 52% jump in California FAIR Plan reliance in LA County between 2024 and 2025; IBHS extended its Wildfire Prepared designation from 4 to 14 states in April 2026.",
+   "so_what": "Once premiums are set at neighbourhood rather than parcel level, a school's own resilience investment stops being sufficient and its insurability becomes hostage to the mitigation behaviour of surrounding blocks — making campus risk management an exercise in organising neighbours, and turning the school into a plausible convener of a civic coalition it never asked to lead.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Business America",
+   "source_url": "https://www.insurancebusinessmag.com/us/news/catastrophe/insurers-are-pricing-wildfire-risk-by-the-neighborhood-not-the-house-586880.aspx",
+   "source_date": "2026-08-20",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "cte-prevalence-floor-youth-waiver-scrutiny",
+   "title": "CTE prevalence floor turns youth football waivers into liability exposure",
+   "type": "driver",
+   "summary": "A BMJ study published 26 August 2026 by Mass General Brigham, Boston University and the Concussion & CTE Foundation examined 235 donated brains from the 878 former NFL players who died between 2016 and 2021 and found CTE in 215, establishing a minimum population prevalence of 24.5% rather than a donor-biased estimate. The authors frame cumulative head impact including youth football as a modifiable exposure; casualty underwriters covering youth and amateur leagues are already flagging heightened scrutiny of waiver language and informed-consent documentation.",
+   "so_what": "A defensible population-level floor converts school contact-sport consent forms from boilerplate into a discoverable record of what the institution knew, so the binding constraint on Friday-night football arrives through the insurance renewal and the parent signature page rather than through any board vote on athletics.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Business America (reporting BMJ study)",
+   "source_url": "https://www.insurancebusinessmag.com/us/news/breaking-news/at-least-25-of-nfl-players-developed-crippling-brain-disease-587517.aspx",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "eeoc-pearson-vendor-accessibility-decree",
+   "title": "EEOC decree says outsourcing software does not outsource accessibility duty",
+   "type": "signal",
+   "summary": "Reported 28 August 2026, Pearson Education settled an EEOC action for $150,000 over visually impaired employees being unable to use third-party benefits, leave-management and training platforms with screen readers. The three-year consent decree requires a web accessibility consultant conducting audits, annual accessibility training for HR staff, formal notification of accessibility standards to vendors, and compliance reporting — establishing that contracting out a function does not contract out the accommodation obligation.",
+   "so_what": "The same logic applied to instructional software makes a school answerable for the accessibility of every AI tutor, assessment platform and LMS it merely licenses, which quietly relocates accessibility from the learning-support office into procurement and gives disability review a veto over edtech adoption.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "T-Technological",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Business America",
+   "source_url": "https://www.insurancebusinessmag.com/us/news/benefits/pearson-ada-settlement-raises-questions-over-vendor-liability-587851.aspx",
+   "source_date": "2026-08-28",
+   "source_type": "news",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "harvest-to-hallways-kitchen-recapitalisation",
+   "title": "Federal money rebuilds school kitchens, reversing decades of heat-and-serve",
+   "type": "trend",
+   "summary": "USDA and HHS announced the Harvest to Hallways initiative on 24 August 2026: $125m total, comprising $50m for cafeteria infrastructure such as cold storage, stoves and food-safety upgrades, $20m in National School Lunch Program Equipment Assistance Grants, $25m in additional Farm to School grants for FY2026, and $30m from HHS for school meal nutrition research. It pairs a Local Option procurement pathway with a voluntary Pledge for Healthier School Meals aligned to the 2025-2030 Dietary Guidelines.",
+   "so_what": "Capital aimed at stoves and cold storage rather than menus signals that the constraint on school food is skilled labour and physical plant, so the schools that gain are those able to hire cooks and reopen real kitchens — reframing food service as a staffing and facilities strategy, and as a curricular asset, rather than a contract to be outsourced.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "U.S. Department of Agriculture",
+   "source_url": "https://www.usda.gov/about-usda/news/press-releases/2026/08/24/usda-announces-harvest-hallways-initiative-invest-child-nutrition-programs",
+   "source_date": "2026-08-24",
+   "source_type": "policy",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "stlouisfed-lfp-drop-is-mostly-measurement",
+   "title": "Most of 2026's labor force participation drop is statistical artifact",
+   "type": "signal",
+   "summary": "St. Louis Fed economist Alexander Bick decomposes the 0.82 percentage-point fall in US labor force participation from December 2025 to June 2026 (to 61.6%, the lowest since 1976 outside COVID). Roughly 43% of the decline comes from a January 2026 population-control adjustment reflecting revised immigration estimates, 16% from population ageing, and only 41% from actual behavioural change — nearly all of that concentrated in a single month.",
+   "so_what": "The headline statistic most often cited as evidence that young people are being pushed out of work is largely a bookkeeping correction, which is a live teachable case in statistical literacy: schools can use it to show students how a revision to the denominator manufactures a crisis in the numerator.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of St. Louis, On the Economy",
+   "source_url": "https://www.stlouisfed.org/on-the-economy/2026/aug/what-is-behind-sharp-drop-labor-force-participation",
+   "source_date": "2026-08-04",
+   "source_type": "report",
+   "first_seen": "2026-08-28",
+   "sightings": 1
+  },
+  {
+   "id": "delayed-retirement-crowding-out-question",
+   "title": "Delayed retirement, not AI, questioned as youth advancement bottleneck",
+   "type": "signal",
+   "summary": "NPR's Planet Money, via WBUR's Here & Now on 17 August 2026, examined whether older workers postponing retirement — for financial reasons and because they like the work — is what is closing off advancement for younger employees. The framing puts the classic lump-of-labour question back into mainstream economic journalism at exactly the moment AI has become the default explanation for stalled entry-level careers.",
+   "so_what": "If the bottleneck for young workers is occupancy of senior roles rather than automation of junior ones, the schooling response is patience-and-positioning — long-horizon career navigation, lateral entry, adjacency — rather than the AI-proofing curriculum most schools are currently buying.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "WBUR Here & Now / NPR Planet Money",
+   "source_url": "https://www.wbur.org/hereandnow/2026/08/17/older-workers-retirement",
+   "source_date": "2026-08-17",
+   "source_type": "podcast",
+   "first_seen": "2026-08-28",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -2139,7 +2431,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-24",
-   "status_note": "No direct new evidence on the capability question in 3 days; but a 194,631-paper analysis showing causal overclaim tripling since 2000 — and AI summaries amplifying it — warns that evidence for either pole will reach schools pre-inflated.",
+   "status_note": "Extending, not reframing: machine-discovered strategies persisted across all five human generations in 9 of 15 mixed populations, while frontier agents were found to optimise competently but rarely innovate — both consistent with the conditional-amplification pole added on 24 August. Held rather than revised.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -2165,8 +2457,8 @@
     "agent-time-horizons-3-month-doubling"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-13",
-   "status_note": "Re-confirmed; no new evidence either way in 14 days. The quietest of the five this cycle."
+   "last_revised": "2026-08-28",
+   "status_note": "Materially reframed: with ~90% of December 2025 biomedical papers showing AI writing signatures, detection-based integrity now enforces a standard the professions have abandoned, so the live question is no longer surveillance versus redesign but what a defence can and cannot certify."
   },
   {
    "id": "cu-credential",
@@ -2193,7 +2485,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-27",
-   "status_note": "Materially reframed: a St. Louis Fed decomposition shows the college premium is mostly continuous full-time attachment rather than higher hourly pay, and proposed accreditation rules would judge institutions on earnings and completion — shifting the question from whether the credential holds value to which measurable outcome replaces prestige as the currency."
+   "status_note": "Holding at the reprice pole; a DHS four-year visa cap effective 15 September makes multi-year US programmes structurally unfinishable for international students, adding completion risk to the value calculation. Revised yesterday; not re-revised."
   },
   {
    "id": "cu-legitimacy",
@@ -2219,7 +2511,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "Strengthening toward capability-led adoption, with a twist: districts now hold access to ~3,001 digital tools and meaningfully use four, suggesting the real brake is institutional absorption capacity rather than either capability or consent."
+   "status_note": "New angle rather than new direction: an EEOC consent decree establishing that outsourcing software does not outsource the accommodation duty suggests adoption will be gated by procurement liability, a third constraint alongside capability and consent."
   },
   {
    "id": "cu-campus",
@@ -2248,7 +2540,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-13",
-   "status_note": "First genuine counter-evidence: Seoul's fertility rate has climbed from 0.55 to 0.63 with first-half 2026 births up 18.7%, complicating the assumption that the demographic input to the campus question only moves one way."
+   "status_note": "Both poles gained evidence: Korea's rebound reached 24 consecutive months with TFR up to 0.88, while 98 of the 100 largest US districts carry fiscal red flags and insurers began pricing wildfire risk by neighbourhood — capacity and insurability now matter as much as demography."
   }
  ],
  "verification": {
@@ -2258,6 +2550,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-08-28-the-derivation",
+   "date": "2026-08-28",
+   "title": "The Derivation",
+   "year": "2032",
+   "axis": "CU 01 resolving toward machines as a source of method — supplying techniques humans cannot invent but can learn and pass on — crossed with CU 02 resolving toward live defence, after the professions themselves normalised machine-written prose",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Machines as source of method — AI supplies techniques no human in the room derived, which humans then learn, use well, and transmit."
+    },
+    {
+     "id": "cu-assessment",
+     "title": "When the exam stops being verifiable, what becomes proof of learning?",
+     "pole": "Live defence — writing is assumed machine-assisted everywhere, so proof moves to what a student can answer out loud, unaided, in a room."
+    }
+   ],
+   "premise": "By 2032 nobody pretends written work is unassisted; the research literature stopped pretending first, and schools followed. Mount Vernon assesses almost everything through defence: fifteen minutes, two examiners, no screen. It works. It is also the year the tenth-grade chemistry sequence adopted a separation protocol that came out of an optimisation run at a materials lab — faster and cleaner than the textbook method, and derived by no one. Students learn it, use it, teach it to the year below. The defence questions about it are answerable. The question of why it works is not, and the department has quietly stopped asking it.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Amara, 16",
+     "vignette": "She defended the protocol on Thursday and did well — she could justify every step, predict what breaks if you change the temperature, explain the trade-off against the old method. Afterwards she asked Dr. Prashad why the second wash works and he said, honestly, that nobody knows, it just does, it fell out of the search. She has been turning that over since. She is not upset about it exactly. She has just noticed that she has never before learned something no person understood, and she cannot tell whether that makes her more capable or less."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dr. Prashad, 22 years in",
+     "vignette": "He can teach the protocol. He cannot derive it, and after four months of trying he has accepted he probably never will — the reasoning, if there is any, is not in a form a person holds. What unsettles him is how good the results are. His students are more competent than any cohort he has taught, on a method he does not understand, and he catches himself hoping a student will one day ask a question he cannot deflect, because that would mean the understanding still matters to someone besides him."
+    },
+    {
+     "role": "Parent",
+     "name": "Ellen",
+     "vignette": "She is a nurse and she is unbothered. Half of what she does at work rests on protocols nobody at the bedside derived either, and she has watched that save lives for twenty years. Her sister, an engineer, thinks the school is teaching cargo cult. They argued about it at dinner and neither could quite land the blow, because Ellen's version has outcomes on its side and her sister's has something harder to name — a claim about what school is supposed to be for that neither of them can make precise."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Osei, Head of School",
+     "vignette": "Defence assessment has been the school's best decade of work and she is not going back. But she has started reading the protocol adoptions the way a lawyer reads a contract, because there is now a category of thing the school teaches that it cannot itself vouch for, and no policy governs how it enters the curriculum. A department head decides. She is drafting language and keeps deleting it, because every version either forbids something clearly good or permits everything."
+    }
+   ],
+   "tension": "Making assessment honest and making knowledge legible turn out to be different projects, and the first one succeeded. A student can now demonstrate real command of a method — apply it, predict its failures, teach it onward — while the chain of human understanding behind it is simply absent, and no defence question detects the difference, because competence and comprehension have come apart and only one of them is testable. Schools have always transmitted more than any individual teacher understood; what is new is that the surplus no longer sits in some other human's head. It sits nowhere.",
+   "provocations": [
+    "Do we have a policy for adopting a method whose derivation no person can supply — and who currently makes that call, department by department, without one?",
+    "Our defence assessments test whether a student can use and justify a method. Should any of them test whether a student can reconstruct why it works — and what do we do when the answer is that nobody can?",
+    "If competence without comprehension produces better outcomes, what exactly is our argument for comprehension, and is it one we are prepared to make to a parent whose child is thriving?"
+   ]
+  },
   {
    "id": "sc-2026-08-27-the-placement-rate",
    "date": "2026-08-27",
