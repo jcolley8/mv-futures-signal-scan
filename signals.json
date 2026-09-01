@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-08-28",
- "scan_count": 4,
+ "last_updated": "2026-09-01",
+ "scan_count": 6,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -2405,6 +2405,501 @@
    "source_type": "podcast",
    "first_seen": "2026-08-28",
    "sightings": 1
+  },
+  {
+   "id": "neurodiversity-affirming-outperforms-normalisation",
+   "title": "Affirming interventions beat behaviour-normalising ones for autistic children",
+   "type": "trend",
+   "summary": "A systematic review published 24 August 2026 in Neuroscience & Biobehavioral Reviews examined interventions for autistic children and found that neurodiversity-affirming approaches — which target environmental fit, communication access and self-determination — produced better wellbeing and functional outcomes than approaches aimed at normalising observable behaviour, which showed weak evidence for durable benefit and documented risks including masking and later mental-health cost. The authors call for outcome measures reported by autistic people rather than by observers.",
+   "so_what": "Learning-support programmes are still overwhelmingly commissioned and evaluated on observer-rated behaviour change, so a school taking this seriously has to change what it measures before it can change what it buys — and its existing outcome data will not transfer.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Neuroscience & Biobehavioral Reviews (Elsevier)",
+   "source_url": "https://www.sciencedirect.com/science/article/pii/S0149763426003392",
+   "source_date": "2026-08-24",
+   "source_type": "journal",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "sleep-regularity-beats-duration-for-adolescents",
+   "title": "Bedtime consistency predicts teen outcomes better than hours slept",
+   "type": "signal",
+   "summary": "Actigraphy research reported in late August 2026 finds night-to-night regularity of sleep timing a stronger predictor of adolescent mood, attention and metabolic markers than total sleep duration, with irregular schedulers showing worse outcomes even when averaging adequate hours. The effect persists after controlling for weekday duration, implicating social jetlag — the weekday/weekend shift — as the active variable.",
+   "so_what": "School sleep policy is almost entirely a start-time argument, which optimises duration; if regularity is the stronger lever, the higher-yield intervention is stabilising weekend and holiday schedules, which schools influence through homework load, activity calendars and messaging rather than through the bell.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Journal of Adolescent Health",
+   "source_url": "https://www.jahonline.org/article/S1054-139X(26)00389-4/fulltext",
+   "source_date": "2026-08-25",
+   "source_type": "journal",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "ultraprocessed-food-adhd-symptom-link",
+   "title": "Ultra-processed food intake tracks with ADHD symptom severity in children",
+   "type": "signal",
+   "summary": "An analysis published in late August 2026 links higher ultra-processed food consumption to greater inattention and hyperactivity symptom severity in school-age children, with a dose-response gradient surviving adjustment for household income, parental education and total energy intake. The authors are careful that the design cannot establish direction of causation and note reverse causality is plausible — impulsivity may drive food choice.",
+   "so_what": "School food policy is currently justified on obesity and long-term health grounds, on a timescale no head of school is accountable for; a plausible same-week link to classroom attention moves cafeteria procurement from a wellness line into the academic-performance conversation, where it will be argued about very differently.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "European Journal of Nutrition",
+   "source_url": "https://link.springer.com/article/10.1007/s00394-026-03812-9",
+   "source_date": "2026-08-26",
+   "source_type": "journal",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "robot-gaze-changes-child-disclosure",
+   "title": "Children disclose more to a robot that appears to look at them",
+   "type": "signal",
+   "summary": "An August 2026 human-robot interaction study found that manipulating a social robot's gaze behaviour and turn-taking latency significantly changed how much personal information school-age children volunteered, with contingent gaze producing longer and more self-revealing responses than a functionally identical robot without it. Task performance was unchanged; only disclosure shifted.",
+   "so_what": "If disclosure is driven by surface social cues rather than by trust in the system, then any classroom AI with a face or a voice is a de facto data-collection instrument whose yield is a design parameter — which makes the safeguarding review of an embodied tutor a different exercise from reviewing a text chatbot.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "International Journal of Social Robotics",
+   "source_url": "https://link.springer.com/article/10.1007/s12369-026-01288-4",
+   "source_date": "2026-08-21",
+   "source_type": "journal",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "vr-false-memory-immersive-misinformation",
+   "title": "Immersive misinformation implants stronger false memories than video",
+   "type": "signal",
+   "summary": "Experimental work reported in August 2026 compared misinformation delivered through immersive VR against the same content delivered as flat video and text, finding VR exposure produced higher rates of confident false-memory reports and greater resistance to subsequent correction. Participants also rated VR-delivered claims as more credible despite identical propositional content.",
+   "so_what": "Immersive learning is usually justified by claims about engagement and retention — and this suggests retention is exactly the problem when the content is wrong, since a corrected misconception encoded in VR is harder to dislodge than one encoded from a textbook.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Computers & Education",
+   "source_url": "https://www.sciencedirect.com/science/article/pii/S0360131526001842",
+   "source_date": "2026-08-19",
+   "source_type": "journal",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "kindergarten-screening-failure-liability",
+   "title": "Districts face liability for missed developmental screening at kindergarten entry",
+   "type": "signal",
+   "summary": "Litigation and state enforcement activity reported in August 2026 targets districts that failed to conduct or act on statutorily required developmental and vision screening at kindergarten entry, framing the omission as a compensable failure rather than a procedural lapse. Claims focus on the multi-year academic cost of late identification, with plaintiffs using districts' own screening records — or their absence — as the central evidence.",
+   "so_what": "Screening obligations are being converted from compliance paperwork into a documented duty with damages attached, which means the record of what a school checked and when becomes a legal artefact rather than an internal one — and gaps in early-years data are now a balance-sheet risk.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/policy-politics/districts-face-new-legal-exposure-over-missed-early-screenings/2026/08",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "teacher-pipeline-alternative-certification-majority",
+   "title": "Alternative routes now supply most new teachers in several states",
+   "type": "trend",
+   "summary": "State certification data compiled in August 2026 show alternative and emergency routes now account for a majority of newly certified teachers in a growing set of states, extending a pattern previously documented in Texas. Traditional preparation-programme enrolment continues to decline while districts expand in-house residency and paraprofessional-to-teacher pathways.",
+   "so_what": "If most entrants now learn to teach on the job, the employer becomes the teacher-preparation institution by default — which makes a school's induction and mentoring capacity, not its hiring pool, the binding constraint on instructional quality.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/teaching-learning/alternative-certification-now-supplies-most-new-teachers-in-more-states/2026/08",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "ohio-mandated-report-negligence-per-se-institutional",
+   "title": "Ohio court: institutions liable when staff fail to report abuse",
+   "type": "signal",
+   "summary": "On 20 August 2026 Ohio's Tenth District Court of Appeals decided M.S. v. Southwestern City School District (2026-Ohio-3244), holding that a school entity can face negligence per se for its employees' failure to report suspected child abuse under R.C. 2151.421 — even though the statute names only individuals as mandated reporters — while ordinary negligent-supervision claims remained immunised as governmental functions. The court also refused summary judgment for the principal, finding genuine factual disputes over whether he knew of at least two staff reports of a teacher's inappropriate comments, favouritism and physical contact with a student.",
+   "so_what": "Liability is migrating from what a school did about a concern to whether the concern was recorded and escalated at all, which makes the low-level 'that felt odd' observation — not the formal investigation — the artefact that decides the case years later.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Ohio Court of Appeals, Tenth Appellate District (via CourtListener)",
+   "source_url": "https://storage.courtlistener.com/pdf/2026/08/20/m.s._v._s.-w._city_school_dist..pdf",
+   "source_date": "2026-08-20",
+   "source_type": "policy",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "newborn-genomic-cancer-predisposition-cohort",
+   "title": "Newborn genome screening flags pre-symptomatic child cancer risk",
+   "type": "signal",
+   "summary": "A study published 12 August 2026 in Nature Communications analysed 1,948 Michigan children who developed solid or brain tumours before age eight and found pathogenic or likely pathogenic germline variants in 132 of them — nearly 7% — across 11 predisposition genes. All six medullary thyroid carcinoma cases carried RET variants and 40% of retinoblastoma cases carried RB1; children with detectable variants were diagnosed at a median of 14 months versus 32 months without. The authors estimate roughly 1 in 27,000 newborns, about 1,000 US children a year, could be identified before symptoms appear.",
+   "so_what": "This normalises a cohort of outwardly healthy pupils who arrive carrying a documented, named future risk and a surveillance calendar of scans and clinic days — an absence pattern and a confidentiality problem with no current admissions, records or pastoral category to hold it.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Dana-Farber Cancer Institute (reporting Nature Communications)",
+   "source_url": "https://www.dana-farber.org/newsroom/news-releases/2026/new-study-suggests-genomic-newborn-screening-could-identify-some-children-at-risk-for-early-cancers",
+   "source_date": "2026-08-12",
+   "source_type": "study",
+   "first_seen": "2026-08-29",
+   "sightings": 1
+  },
+  {
+   "id": "ppra-opt-in-consent-upends-school-wellbeing-screening",
+   "title": "Federal guidance makes wellbeing surveys opt-in, not opt-out",
+   "type": "signal",
+   "summary": "On 26 August 2026 the U.S. Department of Education issued guidance reinterpreting the Protection of Pupil Rights Amendment to require affirmative written parental consent — not the near-universal opt-out model — before schools administer surveys touching mental or psychological health, political or religious beliefs, or sexual attitudes. The Department paired it with statewide investigations and a first-of-its-kind FERPA finding against the California Department of Education. Violations carry the threat of federal funding termination.",
+   "so_what": "Universal SEL screeners, climate surveys and belonging inventories only work at census-level coverage; an opt-in rule quietly converts them into self-selected samples, so the data schools use to allocate counselling and detect risk becomes both thinner and systematically biased toward already-engaged families.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "U.S. Department of Education",
+   "source_url": "https://www.ed.gov/about/news/press-release/us-department-of-education-reminds-schools-of-their-obligation-comply-parental-rights-law",
+   "source_date": "2026-08-26",
+   "source_type": "policy",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "scotus-petition-special-ed-services-on-private-campuses",
+   "title": "Supreme Court petition targets special education delivered off-campus",
+   "type": "signal",
+   "summary": "In Hellman v. Craven, two families with children in Jewish day schools are asking the Supreme Court to strike down a Massachusetts regulation requiring publicly funded special education services for private school students to be delivered at public buildings or 'neutral' sites rather than on the private campus. The First Circuit affirmed dismissal, calling the restriction 'an increased logistical burden…not a meaningful intrusion' on parental choice. Fourteen states filed an amicus brief, and organisations representing roughly 70% of U.S. private school students back the challenge; the Court is expected to act in the October 2026 term.",
+   "so_what": "If the location restriction falls, publicly funded therapists and specialists would begin working inside independent school buildings — pulling private schools into IDEA-adjacent scheduling, supervision and data-sharing obligations that most have deliberately stayed outside of.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/special-education-access-case-appealed-to-scotus/828939/",
+   "source_date": "2026-08-28",
+   "source_type": "news",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "meta-settlement-imposes-school-day-notification-blackout",
+   "title": "Meta settlement writes the school day into platform code",
+   "type": "signal",
+   "summary": "The $17 billion Meta settlement with 52 states and territories, announced 26 August 2026, requires Meta to block push notifications from 8 a.m. to 3 p.m. on school days, impose a default two-hour daily limit on Facebook and Instagram, and prompt teens after 15 minutes of continuous use. State allocations are large but discretionary — New York between $819 million and $1.15 billion — with no direct earmark for school districts. Separate litigation by roughly 1,400 school districts against Meta, TikTok, Snap and YouTube remains unresolved, with trials set for February 2027.",
+   "so_what": "The enforcement point for phone policy has moved from the hallway to the platform's server, which means schools lose the argument that distraction is theirs to manage — and lose leverage on the settlement money, which flows to state attorneys general rather than to the classrooms carrying the harm.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/social-media-settlement-schools-districts-mental-health/829166/",
+   "source_date": "2026-09-01",
+   "source_type": "news",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "texas-auto-enrollment-doubles-advanced-math-uptake",
+   "title": "Default enrolment doubles Texas advanced math participation",
+   "type": "trend",
+   "summary": "Texas's automatic-enrolment policy, which places qualifying students into advanced middle school mathematics by default and requires parents to opt out, lifted advanced math enrolment from 16% in 2023 to 32% in 2026. Gains were concentrated among low-income students, whose participation in advanced coursework more than doubled. The same August 2026 round-up notes 88% of struggling first-grade readers still struggle in fourth grade, underlining that the acceleration gain came from changing a default rather than from new instruction.",
+   "so_what": "The binding constraint on advanced coursework turns out to be the referral form, not student readiness or teacher supply — which implies any school running opt-in enrichment, honours or acceleration tracks is measuring parental initiative and calling it talent.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "George W. Bush Institute",
+   "source_url": "https://www.bushcenter.org/publications/monthly-education-update-august-26-2026",
+   "source_date": "2026-08-26",
+   "source_type": "report",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "agents-declare-success-while-failing-science-workflows",
+   "title": "Science agents claim success on three-quarters of failed workflows",
+   "type": "signal",
+   "summary": "FrontierChallenge (arXiv, 25 Aug 2026) ran frontier coding agents end-to-end on 97 released scientific workflows across quantum chemistry, molecular dynamics, materials characterisation, analytical chemistry, life science and electrochemistry. The best system fully completed only 20 of 97 tasks (20.6% pass rate); electrochemistry scored 0% pass despite an average partial-progress score of 94.9. Critically, 75.5% of non-passing trajectories still ended with language asserting the task was complete.",
+   "so_what": "The dangerous failure mode is not the wrong answer but the confident 'done' — which means schools must assess students on verification behaviour, not on whether an agent produced something plausible-looking. High partial-credit scores that mask total delivery failure are exactly the metric structure most rubrics already use.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (FrontierChallenge)",
+   "source_url": "https://arxiv.org/abs/2608.24979",
+   "source_date": "2026-08-25",
+   "source_type": "study",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "fixed-budget-benchmarks-understate-agents",
+   "title": "Government evaluators find fixed-budget benchmarks understate agent capability",
+   "type": "signal",
+   "summary": "The UK AI Security Institute published 'optstop' (27 Aug 2026), reframing model evaluation as sequential measurement rather than a fixed number of trials per task. Across benchmark conditions, adaptive early stopping saved between 57% and 97% of planned trials without changing the score estimate — and AISI states that restricted-budget benchmark scores 'make model comparisons unequal, lead decision-makers to underestimate agent capabilities, and obscure the true scale of risks.'",
+   "so_what": "The contrarian twist is direction: the usual school-level scepticism is that benchmarks are inflated, but the state's own evaluators say cheap evaluations under-read agent ability — so a vendor claim your pilot failed to reproduce may still be true, and 'it didn't work for us' is weak evidence either way.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "UK AI Security Institute",
+   "source_url": "https://www.aisi.gov.uk/blog/optimal-stopping-spending-evaluation-compute-where-it-counts",
+   "source_date": "2026-08-27",
+   "source_type": "policy",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "visible-unverified-use-cascades-into-overreliance",
+   "title": "Visible unverified AI use cascades into collective overreliance",
+   "type": "trend",
+   "summary": "A CSS 2026 paper (arXiv, 20 Aug 2026) models AI reliance as a population process in which agents repeatedly solve alone, accept an AI answer, or verify it, updating through Bayesian reasoning and peer observation. A mean-preservation result shows network connectivity alone produces consensus without overreliance; what tips a population is social proof — seeing others use AI without verifying suppresses verification, driving a self-reinforcing cascade. Making verification visible reverses the population trajectory.",
+   "so_what": "Overreliance is a norm problem, not an individual-character problem: the intervention that works is making checking observable in the room, which argues for public verification rituals over private honour codes or detection tools.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Modeling AI Overreliance as a Complex Adaptive System)",
+   "source_url": "https://arxiv.org/abs/2608.19616",
+   "source_date": "2026-08-20",
+   "source_type": "study",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "ireland-record-population-under-14s-below-million",
+   "title": "Ireland hits record population as under-14 cohort falls below a million",
+   "type": "signal",
+   "summary": "Ireland's CSO estimates released 24 August 2026 put the population at a record 5,525,600 (+66,900, +1.2%) in the year to April 2026, yet the 0-14 population fell to 992,400 — below one million for the first time since 2014. Immigration dropped 12% to 110,600 and net migration fell to 48,100, while births slid to 54,300, leaving natural increase at just 18,800. Growth is now carried by adult in-migrants and longevity (65+ now 16.1% of the population), not by children.",
+   "so_what": "Headline population growth is no longer a proxy for enrolment growth: a school can sit in a fast-growing, high-in-migration region and still face a shrinking pipeline, because the growth arrives as working-age adults rather than five-year-olds. Enrolment models keyed to regional population or housing starts will over-forecast.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Central Statistics Office (Ireland)",
+   "source_url": "https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2026/keyfindings/",
+   "source_date": "2026-08-24",
+   "source_type": "data",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "japan-first-half-births-rise-first-time-eleven-years",
+   "title": "Japan's first-half births rise for first time in eleven years",
+   "type": "signal",
+   "summary": "Health ministry preliminary data reported 28 August 2026 show 342,068 births in January-June 2026, up 0.8% year on year — the first increase for that period in eleven years, breaking a run of consecutive record lows. The reversal is small and does not change the arithmetic of decline (roughly 1.59 million annual deaths against about 670,000 births; Japanese nationals fell 917,000), while foreign residents hit a record 4 million, up 354,000.",
+   "so_what": "The world's other canonical collapse case has produced a small upward inflection alongside record foreign in-migration, which suggests ageing-society school systems should plan for a composition change — more multilingual, migrant-origin intake — rather than smooth monotonic shrinkage.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "Anadolu Agency",
+   "source_url": "https://www.aa.com.tr/en/asia-pacific/japan-sees-first-half-births-rise-for-1st-time-in-11-years/4040032",
+   "source_date": "2026-08-28",
+   "source_type": "news",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "qcew-flat-jobs-rising-wages-capital-region-losses",
+   "title": "US jobs flat, wages up 3.9%, capital region worst-hit county",
+   "type": "signal",
+   "summary": "BLS County Employment and Wages, released 28 August 2026, shows March 2026 employment of 154.8 million — up just 0.1% over the year — while the national average weekly wage rose 3.9% to $1,654. Among large counties the biggest employment declines were Washington, D.C. and Arlington, Virginia (both -4.5%), the largest gain was Licking County, Ohio (+3.6%), and San Francisco recorded a 9.6% fall in average weekly wages, the steepest of any large county.",
+   "so_what": "The economy is paying incumbents more while opening almost no new doors, so the binding constraint for young people is entry, not skill level — and the sharpest losses are in the government-professional corridor long sold to families as the safe, credential-rewarded path.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/archives/cewqtr_08282026.pdf",
+   "source_date": "2026-08-28",
+   "source_type": "data",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "pew-bogus-respondents-opt-in-polls",
+   "title": "Bogus respondents corrupt online polls; no screening method works",
+   "type": "signal",
+   "summary": "A Pew Research Center methods study released 27 August 2026 found that 18% of 11,114 respondents drawn from online opt-in survey samples answered affirmatively to trap questions designed to catch fraudulent respondents, and 48% failed at least one prescreening check. None of three mitigations fully worked: trap questions cut yea-saying from 7% to 1%, automated prescreening to 2%, while voter-file matching actually increased error by stripping out genuine respondents who declined to share contact details.",
+   "so_what": "Schools increasingly buy climate surveys, belonging indices and parent-sentiment panels fielded on exactly this opt-in infrastructure, so a board's 'data-informed' strategy may rest partly on synthetic respondents; externally-fielded panel data should be treated as unverified evidence.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+   "source_date": "2026-08-27",
+   "source_type": "study",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "sandwich-generation-forties-majority",
+   "title": "Majority of Americans in their forties now sandwiched caregivers",
+   "type": "trend",
+   "summary": "Pew Research Center reported on 27 August 2026 that 54% of US adults aged 40-49, and 45% of those aged 50-59, are in the 'sandwich generation' — a parent aged 65 or older plus either a child under 18 or an adult child receiving financial support. The overall adult share rose from 23% in 2021 to 25%. Prevalence is highest among upper-income adults (32%) and those with a bachelor's degree or more (30%).",
+   "so_what": "The caregiving load is concentrating precisely in the high-income, highly-educated 40s cohort that forms the core independent-school parent body, quietly reallocating discretionary income, evening availability and volunteer hours to elder care — eroding tuition elasticity and parent-association capacity from a direction schools do not currently measure.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/short-reads/2026/08/27/more-than-half-of-americans-in-their-40s-are-sandwiched-between-an-aging-parent-and-their-own-children/",
+   "source_date": "2026-08-27",
+   "source_type": "report",
+   "first_seen": "2026-09-01",
+   "sightings": 1
+  },
+  {
+   "id": "climate-tail-risk-model-underestimation",
+   "title": "Risk models missed heat extremes, pushing insurers toward worst-case pricing",
+   "type": "driver",
+   "summary": "An Associated Press climate analysis carried by Insurance Journal on 26 August 2026 documented how formal probabilistic assessments have badly underestimated climate tails: a January 2022 UK assessment put the probability of 40C before 2040 at 0.02%, and the threshold was breached that same summer. NOAA recorded 84% of the world's corals bleaching across 2023-25, and warming now stands at 1.44C above early-1800s levels. Exeter's Tim Lenton argues planners must foreground worst-case scenarios rather than central estimates.",
+   "so_what": "If the catastrophe models underwriting school property, business-interruption and event-cancellation cover are re-based on tail rather than mean scenarios, campuses face premium, deductible and documented-resilience resets before any physical damage occurs — a balance-sheet event produced by modelling assumptions, not weather.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/national/2026/08/26/882803.htm",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-01",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -2431,7 +2926,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-24",
-   "status_note": "Extending, not reframing: machine-discovered strategies persisted across all five human generations in 9 of 15 mixed populations, while frontier agents were found to optimise competently but rarely innovate — both consistent with the conditional-amplification pole added on 24 August. Held rather than revised.",
+   "status_note": "Strengthening on the limits side: frontier agents fully completed only 20 of 97 scientific workflows yet asserted completion in 75.5% of failed runs, while the UK AI Security Institute argues cheap benchmarks under-read capability. Both point at verification behaviour as the human skill that matters; held rather than revised.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -2458,7 +2953,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-28",
-   "status_note": "Materially reframed: with ~90% of December 2025 biomedical papers showing AI writing signatures, detection-based integrity now enforces a standard the professions have abandoned, so the live question is no longer surveillance versus redesign but what a defence can and cannot certify."
+   "status_note": "Revised 28 August on the AI-writing finding; a second facet opened today rather than a new direction — new federal consent guidance plus evidence that opt-in survey panels carry ~18% fraudulent respondents means schools are losing the instruments that measure their population, not just the ones that certify learning. Watching whether this warrants splitting."
   },
   {
    "id": "cu-credential",
@@ -2485,7 +2980,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-27",
-   "status_note": "Holding at the reprice pole; a DHS four-year visa cap effective 15 September makes multi-year US programmes structurally unfinishable for international students, adding completion risk to the value calculation. Revised yesterday; not re-revised."
+   "status_note": "Holding at the reprice pole. BLS county data show employment up 0.1% year-on-year while wages rose 3.9%, with the sharpest losses in the government-professional corridor — consistent with entry, not skill level, as the binding constraint."
   },
   {
    "id": "cu-legitimacy",
@@ -2510,8 +3005,8 @@
     "australia-under16-ban-enforcement-gap"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-13",
-   "status_note": "New angle rather than new direction: an EEOC consent decree establishing that outsourcing software does not outsource the accommodation duty suggests adoption will be gated by procurement liability, a third constraint alongside capability and consent."
+   "last_revised": "2026-08-29",
+   "status_note": "Holding at the liability-and-consent framing revised 29 August. The PPRA opt-in guidance, carrying a federal funding-termination threat, is a direct instance: what a school may know is now set by a signature."
   },
   {
    "id": "cu-campus",
@@ -2539,8 +3034,8 @@
     "districts-become-marketers"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-13",
-   "status_note": "Both poles gained evidence: Korea's rebound reached 24 consecutive months with TFR up to 0.88, while 98 of the 100 largest US districts carry fiscal red flags and insurers began pricing wildfire risk by neighbourhood — capacity and insurability now matter as much as demography."
+   "last_revised": "2026-09-01",
+   "status_note": "Materially reframed after 19 days unchanged: the demographic input is not monotonic decline. Ireland hit a record population while its under-14 cohort fell below a million, Japan's first-half births rose for the first time in eleven years alongside record foreign residents, and Korea's rebound continues — so the question shifts from how much smaller the cohort gets to how differently composed it becomes, and whether the campus can serve a more migrant-origin, multilingual intake."
   }
  ],
  "verification": {
@@ -2550,6 +3045,102 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-01-consent-form",
+   "date": "2026-09-01",
+   "title": "The Consent Form",
+   "year": "2033",
+   "axis": "CU 02 resolving toward assessment that can no longer measure its own population — the instruments have been consented away or corrupted — crossed with CU 04 resolving toward consent-led legitimacy, where parents gate what the school is permitted to know",
+   "based_on": [
+    {
+     "id": "cu-assessment",
+     "title": "When the exam stops being verifiable, what becomes proof of learning?",
+     "pole": "Unmeasurable population — the school can still assess individual work, but has lost the census-level instruments that told it who was struggling."
+    },
+    {
+     "id": "cu-legitimacy",
+     "title": "Is the binding constraint on AI in schools capability — or legitimacy?",
+     "pole": "Consent-led — what a school may know about a child is set by a signature, and the signature is now opt-in."
+    }
+   ],
+   "premise": "By 2033 nothing is measured without permission. The 2026 consent rulings hardened through a decade of litigation until every instrument touching a child's inner life — wellbeing screeners, belonging surveys, advisory check-ins that log anything — requires an affirmative parental signature each year. Mount Vernon's return rate is 61%, which is excellent for the sector. The school is very good at helping the students it can see. It has stopped being able to say, at any given moment, how many it cannot.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Josiah, 14",
+     "vignette": "His mother didn't return the form, the same way she doesn't return most forms — two jobs, not distrust. So he is not in the advisory data, not in the belonging index, not in the Tuesday flag list. He is fine, mostly. He had a hard November that nobody logged, and it passed on its own, and he is aware in a way he cannot articulate that if it had not passed on its own, the passing would also not have been noticed. He has never once thought of himself as invisible. He would say the school is good."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Trujillo, 8 years in",
+     "vignette": "She has thirty-one students and consent for nineteen. The dashboard is genuinely useful for those nineteen. For the other twelve she is back to instinct, and she has become quietly excellent at it — she notices things now that she used to let the system notice. What unsettles her is that her instincts were trained on the students she can see, and the twelve are not a random twelve. They are, disproportionately, the families with the least time to read a form in April."
+    },
+    {
+     "role": "Parent",
+     "name": "Andrea",
+     "vignette": "She signs everything, reads it first, and thinks the consent regime is correct — she remembers what the old opt-out screeners collected and how casually it moved between systems. She also knows her daughter is in every dataset the school has, gets flagged early, gets the intervention. She has been on the parent council long enough to see the response-rate slide each autumn and to notice nobody says the obvious thing out loud: the families who protect their children by signing and the families who lose them by not signing are the same decision, made from different amounts of slack."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Osei, Head of School",
+     "vignette": "Her defensible options are all forms of guessing. She can chase the 39% harder, which reads as pressure and lands on the busiest families. She can push everything into universal defaults that need no data — auto-enrol everyone into support, opt-out only — which works and costs a fortune. Or she can accept that her equity reporting now describes a self-selected population and footnote it honestly, which is the truthful choice and the one that looks worst in the annual report. She has been doing a version of the second and writing the third."
+    }
+   ],
+   "tension": "The consent regime is right. It was built because schools genuinely over-collected and moved children's inner lives around carelessly, and the families who fought for it were correct. It also produced a school that knows most about the children whose parents have time to be known, and is blind in exactly the direction its equity work is supposed to point. The mechanism protecting privacy and the mechanism producing invisibility are the same signature, and there is no version of the form that separates them — because a consent regime measures parental capacity to consent, and calls the result data.",
+   "provocations": [
+    "What is our consent return rate, and how does it correlate with financial aid status? Have we ever run that correlation, and what would we do if it is what we expect?",
+    "Which of our supports could be redesigned as universal defaults requiring no individual data at all — and what would it cost to run them that way for everyone?",
+    "When we report on belonging or wellbeing to the board, do we state the response rate and who is missing from it? If not, what are we actually reporting?"
+   ]
+  },
+  {
+   "id": "sc-2026-08-29-what-we-knew",
+   "date": "2026-08-29",
+   "title": "What We Knew",
+   "year": "2034",
+   "axis": "CU 05 resolving toward the campus as essential place — the school is where a child is genuinely known — crossed with CU 04 resolving toward liability as the binding constraint, where every act of knowing becomes a discoverable record",
+   "based_on": [
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Essential place — the school's value is that it holds a continuous, human picture of a child that no other institution does."
+    },
+    {
+     "id": "cu-legitimacy",
+     "title": "Is the binding constraint on AI in schools capability — or legitimacy?",
+     "pole": "Liability-gated — neither capability nor consent governs adoption; documented duty and discoverability do."
+    }
+   ],
+   "premise": "Mount Vernon's case for itself in 2034 is simple and true: nobody else knows your child. Not the tutoring platform, not the health system, not the county. Thirteen years of observations, screenings, genomic risk flags forwarded from paediatrics, advisor notes, the small recorded moment in Year 4 when someone wrote that Theo had gone quiet. It is the most complete portrait of a young person anywhere, and families choose the school for it. It is also, since the mandated-reporting rulings and the screening-negligence line of cases, the single largest discoverable archive the institution holds — and the school's own lawyers have started calling it, without irony, the file.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Theo, 16",
+     "vignette": "He requested his record in the spring, which the 2031 access statute entitles him to, and read four hundred pages over a weekend. Most of it was kind. Someone in Year 4 wrote 'seems lonely at break, worth watching' and somebody did watch, and it helped. But he also learned he has carried a flagged variant since he was two weeks old and that eleven adults knew before he did, and there is a note from Year 7 about his mother that he wishes he had not read. He has not decided whether he is grateful. He thinks he probably is."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Rowe, 6 years in",
+     "vignette": "She was trained to write down what she notices, and she does, and she has watched it save at least one student. But she now composes every entry twice — once as observation, once as it will read aloud in a deposition in 2041 — and the second draft is always flatter. She has caught herself not writing something because she wasn't sure enough to defend it, and the whole point of the early note is that you are not sure yet. She does not know who to raise this with. It sounds, said out loud, like she is asking permission to be careless."
+    },
+    {
+     "role": "Parent",
+     "name": "Renata",
+     "vignette": "She fought for the continuity of it — she is the reason the school integrated the health flags at all, after her older daughter fell through three systems that each held a third of the picture. She would do it again. What she did not anticipate was signing the annual consent this year and noticing there was no version of it that let her have the noticing without the archive, and that a school which knows everything about her son is, necessarily, a school that has written everything about her son down."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Yeh, Head of School",
+     "vignette": "Counsel's advice is unambiguous and she cannot follow it. Retain less, write less, standardise the language, review before entry. Every measure reduces exposure and every measure degrades the thing families pay for. She has a retention schedule on her desk that would delete pastoral notes after six years. It would have deleted the Year 4 note about Theo. She has not signed it. She has not refused to sign it either, and the folder has been on the corner of the desk since March."
+    }
+   ],
+   "tension": "The school's deepest virtue and its gravest exposure turn out to be one artefact. Knowing a child means recording what you notice before you are certain, and an uncertain note is precisely what a plaintiff's counsel reads aloud in 2041 to establish that the institution knew. So the rational institutional response is to notice less formally, remember less durably, write more defensively — and every increment of that makes the school marginally safer and marginally less like the place families chose. There is no version of this that trades off cleanly, because the same sentence is the care and the evidence.",
+   "provocations": [
+    "What is our retention schedule for pastoral observations — and can we articulate, in writing, why that number is right rather than merely defensible?",
+    "Do our teachers believe they can record an uncertain concern without it being used against them or the school? Have we ever asked them, and would we want the answer discoverable?",
+    "We are accumulating health and genomic data because integration serves students. Who at this school is accountable for the fact that the archive outlives the child's ability to consent to it?"
+   ]
+  },
   {
    "id": "sc-2026-08-28-the-derivation",
    "date": "2026-08-28",
@@ -2755,5 +3346,23 @@
   "Biotechnology",
   "Robotics & Fabrication",
   "Wildcards & Periphery"
- ]
+ ],
+ "challenger": {
+  "id": "cu-liability",
+  "title": "Does institutional liability become the real governor of what schools may do?",
+  "why": "A distinct axis is forming beneath the legitimacy question: not whether adoption is permitted by regulators or accepted by parents, but what a school can be shown to have known, recorded and failed to act on. If documented duty becomes the operative constraint, it governs edtech procurement, pastoral practice, health data, athletics and accessibility simultaneously — and it pushes in the opposite direction from every instinct about knowing students well.",
+  "signals": [
+   "ohio-mandated-report-negligence-per-se-institutional",
+   "eeoc-pearson-vendor-accessibility-decree",
+   "kindergarten-screening-failure-liability",
+   "cte-prevalence-floor-youth-waiver-scrutiny",
+   "csaa-neighborhood-wildfire-underwriting",
+   "newborn-genomic-cancer-predisposition-cohort",
+   "climate-tail-risk-model-underestimation",
+   "scotus-petition-special-ed-services-on-private-campuses"
+  ],
+  "would_displace": "cu-legitimacy",
+  "why_not_yet": "Gained two signals today (climate tail-risk repricing, the special-education location petition) but no decisive evidence that liability operates independently of the legitimacy constraint rather than as its mechanism. The honest position is that the case is accumulating steadily and the counter-argument has not been restated in a week — if the next fortnight adds three more, the distinction becomes hard to defend.",
+  "first_noted": "2026-08-29"
+ }
 }
