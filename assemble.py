@@ -17,6 +17,7 @@ A delta may contain any of:
   sightings                { "<signal id>": <int new count> }
   critical_uncertainties   [ {…} ]   replaces the current set
   scenario                 {…}       prepended to the scenario archive
+  challenger               {…}       strongest uncertainty NOT on the list
   sectors                  [ "…" ]   replaces the sector list
   archived                 [ "<signal id>" ]  marks entries archived
 """
@@ -82,6 +83,15 @@ for date, path in deltas:
         corpus["critical_uncertainties"] = d["critical_uncertainties"]
     if d.get("sectors"):
         corpus["sectors"] = d["sectors"]
+    if d.get("challenger"):
+        ch = d["challenger"]
+        prev = corpus.get("challenger") or {}
+        # preserve the date this challenger first started knocking
+        if prev.get("id") and prev.get("id") == ch.get("id"):
+            ch.setdefault("first_noted", prev.get("first_noted", date))
+        else:
+            ch.setdefault("first_noted", date)
+        corpus["challenger"] = ch
     if d.get("scenario"):
         sc = d["scenario"]
         corpus["scenarios"] = ([sc] + [x for x in corpus["scenarios"]

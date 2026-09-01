@@ -232,6 +232,18 @@ h2 + .h2sub{font-size:13px;color:var(--muted);margin:0 0 14px;max-width:80ch}
   font-size:11.5px;color:var(--ink-2);padding:4px 8px;cursor:pointer;font-family:inherit;text-align:left}
 .culinks button:hover{border-color:var(--navy);color:var(--ink)}
 
+/* challenger */
+.chal{background:transparent;border:1px dashed var(--rule);border-left:4px dashed var(--navy);
+  border-radius:8px;padding:15px 20px;margin-top:4px}
+.chal-head{display:flex;gap:14px;align-items:baseline;flex-wrap:wrap}
+.chal-tag{font-size:10.5px;font-weight:800;letter-spacing:.1em;color:var(--muted);flex:none;
+  text-transform:uppercase;padding-top:3px}
+.chal h3{font-size:16px;margin:0;font-weight:620;line-height:1.35;flex:1;color:var(--ink-2)}
+.chal-meta{font-size:11.5px;color:var(--muted);margin:7px 0 0;line-height:1.5}
+.chal-meta b{color:var(--ink-2);font-weight:650}
+.chal p.why{font-size:13px;color:var(--ink-2);margin:9px 0 0;max-width:80ch}
+.chal p.whynot{font-size:12.5px;color:var(--muted);margin:7px 0 0;max-width:80ch;font-style:italic}
+
 /* scenario */
 .scn{background:var(--frost);border:1px solid var(--hair);border-top:4px solid var(--navy);
   border-radius:8px;padding:22px 24px}
@@ -373,8 +385,10 @@ footer b{color:var(--ink-2)}
 <div class="tiles" id="tiles"></div>
 
 <h2>Critical uncertainties</h2>
-<p class="h2sub">The five forces surfacing from this scan that are both <b>highly uncertain</b> in how they resolve and <b>highly consequential regardless of which way they go</b>. These are the axes worth building scenarios on. Click any card to open it.</p>
+<p class="h2sub">The five forces surfacing from this scan that are both <b>highly uncertain</b> in how they resolve and <b>highly consequential regardless of which way they go</b>. These are the axes worth building scenarios on. Click any card to open it. Below them sits the <b>challenger</b> — the strongest force <i>not</i> currently on the list, and why it has not displaced one.</p>
 <div class="cus" id="cus"></div>
+
+<div id="challenger"></div>
 
 <h2>Today's scenario</h2>
 <p class="h2sub">A short, plausible future built by crossing two of the critical uncertainties above and letting them resolve one particular way — then asking what an ordinary week feels like from inside it. Not a prediction. A rehearsal.</p>
@@ -492,6 +506,25 @@ document.querySelectorAll('.culinks button').forEach(b=>b.addEventListener('clic
   document.getElementById('q').value = byId[b.dataset.sig].title;
   render(); document.getElementById('cards').scrollIntoView({behavior:'smooth',block:'start'});
 }));
+
+/* ---------- challenger ---------- */
+(function(){
+  const c = META.challenger;
+  const el = document.getElementById('challenger');
+  if(!c || !c.title){ el.innerHTML=''; return; }
+  const days = c.first_noted ? daysBetween(c.first_noted, META.last_updated) : null;
+  const knocking = days === null ? '' :
+    (days === 0 ? '<b>raised today</b>' : `<b>knocking for ${days} day${days===1?'':'s'}</b>`);
+  const disp = c.would_displace ? ` &middot; would most likely displace <b>${esc(c.would_displace)}</b>` : '';
+  const n = (c.signals||[]).length;
+  el.innerHTML = `
+    <section class="chal">
+      <div class="chal-head"><span class="chal-tag">Challenger</span><h3>${esc(c.title)}</h3></div>
+      <p class="chal-meta">${knocking}${disp}${n?` &middot; grounded in ${n} signal${n===1?'':'s'}`:''}</p>
+      ${c.why?`<p class="why">${esc(c.why)}</p>`:''}
+      ${c.why_not_yet?`<p class="whynot">Not promoted: ${esc(c.why_not_yet)}</p>`:''}
+    </section>`;
+})();
 
 /* ---------- scenario ---------- */
 (function(){
