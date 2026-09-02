@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-01",
- "scan_count": 6,
+ "last_updated": "2026-09-02",
+ "scan_count": 7,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -2631,7 +2631,7 @@
    "source_date": "2026-08-26",
    "source_type": "policy",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "scotus-petition-special-ed-services-on-private-campuses",
@@ -2900,6 +2900,250 @@
    "source_type": "news",
    "first_seen": "2026-09-01",
    "sightings": 1
+  },
+  {
+   "id": "interleaved-homework-closes-equity-gap-calculus",
+   "title": "Mixed-topic homework lifts calculus grades most for lower-achieving students",
+   "type": "signal",
+   "summary": "A quasi-experiment with 585 undergraduate calculus students (npj Science of Learning, 28 Aug 2026) replaced topic-blocked homework with problems interleaved across assignments. Final-exam performance rose for all students, but the gain was disproportionately concentrated among students with below- or slightly-above-average initial performance, and among underrepresented-minority and first-generation students. The only change was the sequencing of existing problems — no extra instructional time, tutoring, or content.",
+   "so_what": "Interleaving is usually taught as a desirable difficulty that novices and struggling learners cannot yet afford; this inverts that caution and reframes problem-set architecture as an equity lever, meaning a department can narrow attainment gaps by reshuffling a worksheet rather than buying an intervention.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "npj Science of Learning (Nature Portfolio)",
+   "source_url": "https://www.nature.com/articles/s41539-026-00450-6",
+   "source_date": "2026-08-28",
+   "source_type": "journal",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "bci-cleared-for-consumer-devices-not-just-medical",
+   "title": "FDA lets implanted BCI drive phones, laptops and tablets",
+   "type": "signal",
+   "summary": "On 26 August 2026 Paradromics announced FDA approval to expand its Connect-One early feasibility study so the implanted Connexus BCI can control ordinary internet-connected personal devices — laptops, tablets, phones and wheelchair-mounted screens — through its Convey software, without a separate FDA submission for each new device. The company's first human implant was completed in June 2026 at the University of Michigan; the trial spans UC Davis, Mass General and Michigan.",
+   "so_what": "The regulatory unit of analysis has shifted from a single approved appliance to a general-purpose software platform, which is the step that turns an assistive implant into something with an app ecosystem — and puts neural-input accommodations, and their data-governance questions, on a school's assistive-technology roadmap far earlier than a medical-device timeline would suggest.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Paradromics",
+   "source_url": "https://paradromics.com/news/paradromics-receives-fda-approval-to-expand-bci-access-to-personal-computing-devices-in-connect-one-clinical-study/",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "reading-brain-continuous-not-categorical-dyslexia",
+   "title": "Cortical reading traits are continuous, challenging categorical dyslexia models",
+   "type": "signal",
+   "summary": "A Cerebral Cortex study (22 Aug 2026) of 1,068 Human Connectome Project adults, including 396 twins for heritability decomposition, separated reading-related cortical traits into heritable and experience-dependent components. Heritable surface-area traits in left anterior middle temporal gyrus tracked semantic reading; experience-dependent thickness in left auditory core and right arcuate fasciculus properties tracked phonological skill. Crucially, all these traits related to reading ability continuously across the whole population, which the author frames as challenging categorical models of dyslexia.",
+   "so_what": "If the neurobiology is dimensional rather than diagnostic, the school's identification apparatus — a threshold, a label, an eligibility line — is measuring a cut point that does not exist in the brain, and the practical implication is profile-matched instruction for every reader rather than a separate track for the diagnosed few.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Cerebral Cortex (Oxford University Press)",
+   "source_url": "https://academic.oup.com/cercor/article/36/8/bhag125/8768725",
+   "source_date": "2026-08-22",
+   "source_type": "journal",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "vermont-yrbs-poor-mental-health-drops-third-to-quarter",
+   "title": "Vermont youth survey shows sharp two-year mental health rebound",
+   "type": "signal",
+   "summary": "Vermont's 2025 Youth Risk Behavior Survey, released and analysed in late August 2026 with over 15,000 middle and high school respondents, found roughly one in four high school students reporting poor mental health, down from one in three in 2023. E-cigarette use in the past 30 days fell to 14% from 26% in 2019. Gains were unevenly distributed: female students reported poor mental health at twice the rate of males, and LGBTQ+ students and students with educational disabilities showed elevated self-harm and suicidal ideation alongside lower community connectedness.",
+   "so_what": "If the aggregate curve is genuinely bending, the strategic question shifts from universal crisis response to targeted work with the specific subgroups whose numbers are not moving — and universal SEL budgets justified on 'everyone is in crisis' framing will start to look misallocated.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "VTDigger",
+   "source_url": "https://vtdigger.org/2026/08/27/are-the-kids-all-right-mental-health-issues-drop-but-disparities-remain/",
+   "source_date": "2026-08-27",
+   "source_type": "data",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "depression-recovers-suicide-risk-decouples-by-neighborhood",
+   "title": "Teen depression recovered but suicide risk decoupled by neighbourhood violence",
+   "type": "signal",
+   "summary": "A Penn Nursing study published in Pediatrics on 1 September 2026 linked depression and suicide-risk screenings from more than 71,000 paediatric primary care visits in Philadelphia (2017-2024) to neighbourhood shooting data. Adolescent depression returned to pre-pandemic levels, but suicide risk did not track it: in high-violence neighbourhoods suicide risk rose about 2 percentage points above pre-pandemic levels while falling 2.2 points in low-violence neighbourhoods, independent of neighbourhood economic conditions.",
+   "so_what": "Depression screening and suicide-risk screening are measuring different things that have come apart, so a school seeing its wellbeing survey scores improve may be watching risk concentrate rather than recede — and the strongest predictor is a student's home postcode, not anything happening inside the building.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Penn Nursing / Pediatrics",
+   "source_url": "https://www.newswise.com/articles/penn-nursing-study-youth-suicide-risk-remains-high-in-violent-neighborhoods-despite-post-pandemic-recovery/?sc=c98",
+   "source_date": "2026-09-01",
+   "source_type": "study",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "social-jet-lag-anxiety-effect-small",
+   "title": "Social jet lag meta-analysis finds only a small anxiety link",
+   "type": "signal",
+   "summary": "A University of Southampton systematic review in Sleep Medicine Reviews, reported on 31 August 2026, pooled 12 studies covering more than 235,000 people aged 12-18 plus six narrative reviews. It found the association between social jet lag — the weekday-to-weekend shift in sleep timing — and adolescent anxiety to be consistent across studies and unlikely to be chance, but explicitly small in magnitude, with no comparable signal reported for other outcomes.",
+   "so_what": "A consistent-but-small effect is the honest ceiling on what a school can buy with sleep-hygiene messaging, so it belongs in health curriculum framing rather than in the business case for expensive timetable changes — and schools should expect the same 'real but small' verdict to arrive for other single-behaviour wellbeing levers.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Sleep Medicine Reviews (via The Irish News)",
+   "source_url": "https://www.irishnews.com/news/uk/so-called-social-jet-lag-linked-to-higher-anxiety-levels-in-teenagers-study-FHQOCHBVQFM7LCTUQJV7ADNRVM/",
+   "source_date": "2026-08-31",
+   "source_type": "journal",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "meta-xr-operator-ai-agents-test-vr-apps",
+   "title": "Meta ships AI agent layer that builds and play-tests VR apps",
+   "type": "signal",
+   "summary": "On 26 August 2026 Meta released XR Operator as an experimental component of Meta XR SDK v205 — an OpenXR API layer that lets AI agents see, navigate and interact inside the Meta XR Simulator, build Unity scenes, capture screenshots and run natural-language test scenarios, exposed over Model Context Protocol. Meta demonstrated an agent that wrote the logic for an interactive VR tic-tac-toe game, drove the virtual controllers and played it to completion. Known limits include no audio, unreliable animation evaluation and no finger tracking.",
+   "so_what": "The bottleneck in student VR development has always been the tedium of donning a headset to test every change; an agent that plays the build removes it, meaning a middle-schooler can iterate a spatial app from a text editor. It also makes 'did the student actually build this?' much harder to answer in an XR design course.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/meta-ai-vr-dev-tool-test-quest-games/",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "teradyne-jaka-upc-cobot-patent-suit",
+   "title": "Universal Robots owner sues second Chinese cobot maker in Europe",
+   "type": "signal",
+   "summary": "On 27 August 2026 Teradyne Robotics filed suit against JAKA's German subsidiary at the Unified Patent Court's Copenhagen Local Division, asserting multiple hardware and software patents on collaborative robot arms. It is Teradyne's second enforcement action of 2026, following a copyright case against Elite Robots in February that produced a German preliminary injunction in April. Teradyne Robotics posted Q2 2026 revenue of $100M, up from $75M a year earlier.",
+   "so_what": "The cheap cobot arms that made a credible six-axis robotics lab affordable for a school are largely Chinese, and Europe is now injuncting them one vendor at a time — a purchasing-risk signal for any multi-year robotics curriculum built on a single low-cost import.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/teradyne-robotics-sues-another-chinese-cobot-maker/",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "creality-sparkx-i8-quarteks-purge-waste",
+   "title": "Four-filament hotend cuts multi-material purge waste 40-60 percent",
+   "type": "signal",
+   "summary": "Creality revealed the SPARKX i8 on 31 August 2026, a desktop FFF machine whose QuarTeks system routes four filaments through separate internal paths inside a single hotend, leaving a shared path under 1mm rather than the ~35mm that must be purged on conventional swappers. Creality claims sub-one-second filament changes and 40-60% less purge waste than standard multi-material units, with the machine currently in crowdfunding rather than general sale.",
+   "so_what": "Multi-colour printing in school makerspaces is quietly rationed by the purge tower — the waste block often outweighs the student's part — so a hotend-level fix changes the economics of letting every student print in four colours rather than one. Watch consumable spend per print, not printer price, as the real budget line.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Fabbaloo",
+   "source_url": "https://www.fabbaloo.com/news/creality-reveals-sparkx-i8-with-four-filament-quarteks-extrusion-system",
+   "source_date": "2026-08-31",
+   "source_type": "news",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "amt130-huntington-bla-accelerated-approval",
+   "title": "First Huntington's disease gene therapy filed for accelerated FDA approval",
+   "type": "signal",
+   "summary": "On 2 September 2026 uniQure submitted a BLA to the FDA for ifezuntirgene inilparvovec (AMT-130), a one-time AAV gene therapy for Huntington's disease, supported by three-year Phase I/II data across 26 US patients (randomised against 10 sham-treated) and 13 European open-label patients showing slowed disease progression. The company requested priority review, which would compress review to six months after the 60-day filing period.",
+   "so_what": "Huntington's is the archetypal condition where testing minors is discouraged precisely because nothing can be done; a disease-modifying therapy inverts that logic and pushes predictive genetic testing down into adolescence, meaning schools will begin advising students who know their own decades-long neurological trajectory — a counselling and accommodations problem with no precedent in K-12 practice.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "uniQure (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/09/02/3354993/0/en/uniqure-announces-submission-of-biologics-license-application-for-ifezuntirgene-inilparvovec-amt-130-in-huntington-s-disease.html",
+   "source_date": "2026-09-02",
+   "source_type": "news",
+   "first_seen": "2026-09-02",
+   "sightings": 1
+  },
+  {
+   "id": "federal-autism-elopement-alert-protocol",
+   "title": "Federal autism elopement alert protocol creates new institutional duty",
+   "type": "signal",
+   "summary": "HHS, working with DOJ and FEMA, launched the first National Autism Missing and Endangered Person Alert Initiative, publishing federal guidance for state, tribal and local jurisdictions to adopt Missing and Endangered Person protocols for autistic wanderers. The fact sheet cites research that 49% of autistic children have attempted to elope after age 4 and that an average of eight autistic children die each month in the US following elopement, mostly by drowning; adoption depends on local jurisdictions taking up the federal template.",
+   "so_what": "Once a recognised national alert protocol exists, the standard of care shifts from 'we called the parents' to 'we invoked the protocol within minutes' — meaning a school's elopement-risk register, water-hazard proximity assessment and emergency script become discoverable documents rather than internal good practice.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "U.S. Department of Health and Human Services",
+   "source_url": "https://www.hhs.gov/press-room/fact-sheet-hhs-launches-national-autism-missing-person-alert-initiative.html",
+   "source_date": "2026-08-21",
+   "source_type": "policy",
+   "first_seen": "2026-09-02",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -2926,7 +3170,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-24",
-   "status_note": "Strengthening on the limits side: frontier agents fully completed only 20 of 97 scientific workflows yet asserted completion in 75.5% of failed runs, while the UK AI Security Institute argues cheap benchmarks under-read capability. Both point at verification behaviour as the human skill that matters; held rather than revised.",
+   "status_note": "Re-confirmed; nothing decisive in 24 hours. Meta shipping an agent layer that builds and play-tests VR apps extends the pattern of agents as competent executors rather than originators.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -2953,7 +3197,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-28",
-   "status_note": "Revised 28 August on the AI-writing finding; a second facet opened today rather than a new direction — new federal consent guidance plus evidence that opt-in survey panels carry ~18% fraudulent respondents means schools are losing the instruments that measure their population, not just the ones that certify learning. Watching whether this warrants splitting."
+   "status_note": "Strengthening on the measurement facet flagged yesterday: cortical reading traits are continuous rather than categorical, and depression and suicide-risk screening have measurably decoupled — the instruments schools use to classify students are losing their scientific footing at the same time consent regimes are thinning their coverage."
   },
   {
    "id": "cu-credential",
@@ -2980,33 +3224,37 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-27",
-   "status_note": "Holding at the reprice pole. BLS county data show employment up 0.1% year-on-year while wages rose 3.9%, with the sharpest losses in the government-professional corridor — consistent with entry, not skill level, as the binding constraint."
+   "status_note": "Quiet; no new evidence in 24 hours. Unchanged for 6 days."
   },
   {
-   "id": "cu-legitimacy",
-   "title": "Is the binding constraint on AI in schools capability — or legitimacy?",
-   "question": "Model capability is compounding on a roughly three-month doubling curve, but Korea legislated away a $385M national AI textbook program faster than it could be implemented. Does adoption run at the speed of technology, or at the speed of teacher, parent and public consent?",
-   "why_it_matters": "It determines whether a school's AI strategy is a technology roadmap or a trust-building campaign. It also determines vendor risk: anything built on procurement mandates sits on a political fault line. And with only 18% of teachers receiving formal guidance, de facto policy is currently being written classroom by classroom — meaning the first serious incident, not the strategic plan, will likely set the rules.",
-   "pole_a": "Capability-led — governments and institutions embed AI structurally (curriculum hours, licensure exams, procurement) and adoption tracks the capability curve.",
-   "pole_b": "Legitimacy-led — reversals, bans, litigation and parent backlash gate adoption; the constraint is consent, and schools that moved fast absorb the reputational cost.",
+   "id": "cu-liability",
+   "title": "Does institutional liability become the real governor of what schools may do?",
+   "question": "Schools are accumulating duties that attach not to outcomes but to documentation — what was recorded, when it was escalated, whether a protocol was invoked. Does this become the operative constraint on institutional behaviour, displacing pedagogy, budget and even regulation as the thing that actually decides what a school does?",
+   "why_it_matters": "If documented duty is the binding constraint, it governs edtech procurement, pastoral practice, health and genomic data, athletics, accessibility and admissions simultaneously — a single force reaching every part of the institution. And it pushes against the school's own instincts: knowing a child well means recording uncertain observations early, which is exactly what creates exposure. A school that optimises for defensibility becomes measurably safer and quietly less like the place families chose, and there is no clean trade between the two because the same record is the care and the evidence.",
+   "pole_a": "Liability as governor — documented duty sets the boundary of practice; policy, retention schedules and counsel shape what teachers write down, what schools screen for, and what technology can be adopted.",
+   "pole_b": "Liability as friction — it raises cost and paperwork but does not change core practice; schools absorb it as insurance and compliance overhead the way they absorbed FERPA, and pedagogy continues to be decided on pedagogical grounds.",
    "watch": [
-    "Whether other national systems follow China's licensure-embedded model or Korea's rollback",
-    "Whether EU AI Act enforcement produces disclosure schools can actually use in procurement",
-    "The first significant legal action involving AI grading or AI tutoring of a minor",
-    "Whether the teacher AI-guidance gap closes or widens in the next survey cycle"
+    "Whether a court extends the Ohio negligence-per-se reasoning beyond mandated reporting to other statutory school duties",
+    "Whether insurers begin pricing pastoral-record retention practice, not just incident history, into education liability premiums",
+    "Whether districts or independent schools adopt formal retention schedules that shorten the life of pastoral observations",
+    "Whether accessibility review acquires a veto over edtech procurement following the EEOC vendor reasoning",
+    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care"
    ],
    "signals": [
-    "korea-ai-textbook-rollback",
-    "china-ai-plus-education-action-plan",
-    "teacher-ai-governance-vacuum",
-    "eu-ai-act-enforcement-live",
-    "eu-ai-content-marking-live",
-    "agent-time-horizons-3-month-doubling",
-    "australia-under16-ban-enforcement-gap"
+    "ohio-mandated-report-negligence-per-se-institutional",
+    "eeoc-pearson-vendor-accessibility-decree",
+    "kindergarten-screening-failure-liability",
+    "cte-prevalence-floor-youth-waiver-scrutiny",
+    "csaa-neighborhood-wildfire-underwriting",
+    "newborn-genomic-cancer-predisposition-cohort",
+    "climate-tail-risk-model-underestimation",
+    "scotus-petition-special-ed-services-on-private-campuses",
+    "federal-autism-elopement-alert-protocol",
+    "special-education-complaints-jump-46-percent"
    ],
-   "first_identified": "2026-08-13",
-   "last_revised": "2026-08-29",
-   "status_note": "Holding at the liability-and-consent framing revised 29 August. The PPRA opt-in guidance, carrying a federal funding-termination threat, is a direct instance: what a school may know is now set by a signature."
+   "first_identified": "2026-09-02",
+   "last_revised": "2026-09-02",
+   "status_note": "Promoted from challenger after five days. Displaces cu-legitimacy, whose own 29 August revision had already conceded that liability rather than capability or consent was the operative constraint on AI adoption. The deciding evidence is that six of its ten grounding signals have no AI component at all — reporting duty, screening negligence, athletics waivers, elopement protocol, special-education delivery, accessibility — so it is not a mechanism of the AI-legitimacy question but a broader force that happens to include it."
   },
   {
    "id": "cu-campus",
@@ -3035,7 +3283,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-01",
-   "status_note": "Materially reframed after 19 days unchanged: the demographic input is not monotonic decline. Ireland hit a record population while its under-14 cohort fell below a million, Japan's first-half births rose for the first time in eleven years alongside record foreign residents, and Korea's rebound continues — so the question shifts from how much smaller the cohort gets to how differently composed it becomes, and whether the campus can serve a more migrant-origin, multilingual intake."
+   "status_note": "Revised yesterday on the composition finding; holding. Vermont's youth mental-health rebound alongside widening subgroup disparities is consistent with the campus mattering more for some students than the aggregate suggests."
   }
  ],
  "verification": {
@@ -3045,6 +3293,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-02-the-determination",
+   "date": "2026-09-02",
+   "title": "The Determination",
+   "year": "2035",
+   "axis": "CU 05 resolving toward liability as governor — documented determinations become the operative artefact — crossed with CU 02 resolving toward evidence that no longer supports the categories the record requires",
+   "based_on": [
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — what a school records, and when, decides what it may do; the determination is the legally operative act."
+    },
+    {
+     "id": "cu-assessment",
+     "title": "When the exam stops being verifiable, what becomes proof of learning?",
+     "pole": "Dimensional evidence — the science says reading, attention and risk are continuous, so the thresholds the record demands are administrative fictions."
+    }
+   ],
+   "premise": "By 2035 the learning science is settled and inconvenient: reading, attention and executive function are continuous traits with no natural cut point, and Mount Vernon teaches accordingly — profile-matched instruction for every student, no separate track. But the legal architecture runs on determinations. Accommodations, funding, testing arrangements and the school's own defensibility all require a named, dated finding that a specific child does or does not meet a threshold. So the school makes determinations it does not scientifically believe in, and its support programme, which is genuinely excellent, runs on a different logic entirely.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Priya, 15",
+     "vignette": "She reads at the 31st percentile on phonological decoding and the 78th on semantic comprehension, which her teachers use well — she gets exactly the instruction that profile implies. She is also, formally, Not Determined, because 31 sits above the line. Her friend Wes is at 27 and has a determination, and gets the same instruction Priya does, plus extra time on external exams. Priya has worked out that four percentile points, on one of two measures, is the whole difference. She has stopped mentioning it because it makes her sound like she is complaining about a friend."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Adeyemi, 12 years in",
+     "vignette": "He writes two documents for every student now. The profile, which is true and useful and drives what he actually does on Monday. And the determination language, which uses a vocabulary of thresholds and deficits he was taught in 2029 was scientifically obsolete, because that is the language the accommodations file requires. He is fluent in both. What bothers him is that he is good at the second one — he can write a determination that gets a child what they need, and he knows that skill is a form of advocacy that has nothing to do with teaching."
+    },
+    {
+     "role": "Parent",
+     "name": "Tom",
+     "vignette": "He paid for the private evaluation, $4,200, because the school's own assessment put his daughter four points the wrong side of a line. The private one found a determination. He is not naive about what he bought and he does not feel good about it, and he would tell you plainly that a family without $4,200 has a child with the same brain and a different file. He has raised it at two parent evenings. Both times people agreed with him warmly and nothing happened, because nobody in the room controls the threshold."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Yeh, Head of School",
+     "vignette": "She has a paper from her learning-support director arguing the school should stop making determinations it does not believe and fund all supports universally from its own budget. It is intellectually correct and it would cost $2.1M a year, forfeit external testing accommodations that only a determination unlocks, and expose the school to a claim from any family whose child was later diagnosed elsewhere and could show the school declined to assess. She has read it four times. She has not circulated it."
+    }
+   ],
+   "tension": "The school got the science right and cannot act on it, because the legal instrument that protects children requires a category the science says does not exist. Refusing to make determinations would be honest and would strip students of accommodations and the institution of its defence; making them sustains a threshold that everyone in the building knows is arbitrary and that wealth can purchase across. The record is not a description of the child. It is the child's legal standing, and it has quietly become the thing the school is really administering — while the actual teaching, which is good and evidence-based, happens alongside it in a language the file cannot hold.",
+   "provocations": [
+    "Where do our own assessment thresholds sit, who set them, and can anyone here articulate the evidence for that specific cut point rather than a nearby one?",
+    "How many of our determinations were unlocked by a privately funded external evaluation, and what is that number's trend? Would we publish it?",
+    "If we fully funded supports without requiring a determination, what would it cost — and which of the barriers to doing so are legal, which financial, and which simply that nobody has costed it?"
+   ]
+  },
   {
    "id": "sc-2026-09-01-consent-form",
    "date": "2026-09-01",
@@ -3348,21 +3644,21 @@
   "Wildcards & Periphery"
  ],
  "challenger": {
-  "id": "cu-liability",
-  "title": "Does institutional liability become the real governor of what schools may do?",
-  "why": "A distinct axis is forming beneath the legitimacy question: not whether adoption is permitted by regulators or accepted by parents, but what a school can be shown to have known, recorded and failed to act on. If documented duty becomes the operative constraint, it governs edtech procurement, pastoral practice, health data, athletics and accessibility simultaneously — and it pushes in the opposite direction from every instinct about knowing students well.",
+  "id": "cu-evidence",
+  "title": "Can a school still know what is true about its own students?",
+  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules are converting census screeners into self-selected samples, opt-in survey panels carry roughly 18% fraudulent respondents, grading floors were found to destroy the early-warning signal they were meant to protect, the standard chronic-absence threshold fires a semester late, agents assert success on three-quarters of failed tasks, and causal overclaim in the literature has tripled since 2000. If a school cannot trust its own measurement, every downstream decision — staffing, intervention, equity reporting — rests on evidence of unknown quality.",
   "signals": [
-   "ohio-mandated-report-negligence-per-se-institutional",
-   "eeoc-pearson-vendor-accessibility-decree",
-   "kindergarten-screening-failure-liability",
-   "cte-prevalence-floor-youth-waiver-scrutiny",
-   "csaa-neighborhood-wildfire-underwriting",
-   "newborn-genomic-cancer-predisposition-cohort",
-   "climate-tail-risk-model-underestimation",
-   "scotus-petition-special-ed-services-on-private-campuses"
+   "ppra-opt-in-consent-upends-school-wellbeing-screening",
+   "pew-bogus-respondents-opt-in-polls",
+   "indianapolis-unwinds-no-zero-grading-floor",
+   "empirical-absenteeism-threshold-half-of-ten-percent",
+   "agents-declare-success-while-failing-science-workflows",
+   "causal-overclaim-social-science-ai",
+   "depression-recovers-suicide-risk-decouples-by-neighborhood",
+   "reading-brain-continuous-not-categorical-dyslexia"
   ],
-  "would_displace": "cu-legitimacy",
-  "why_not_yet": "Gained two signals today (climate tail-risk repricing, the special-education location petition) but no decisive evidence that liability operates independently of the legitimacy constraint rather than as its mechanism. The honest position is that the case is accumulating steadily and the counter-argument has not been restated in a week — if the next fortnight adds three more, the distinction becomes hard to defend.",
-  "first_noted": "2026-08-29"
+  "would_displace": "cu-credential",
+  "why_not_yet": "Newly named, with eight grounding signals already, and arguably a facet of cu-assessment rather than a separate force — cu-assessment asks what certifies learning, this asks whether the school can see its own population at all. Held for now on the argument that they may be one question; if the next fortnight keeps producing measurement-integrity signals that have nothing to do with certifying student work, the split becomes necessary.",
+  "first_noted": "2026-09-02"
  }
 }
