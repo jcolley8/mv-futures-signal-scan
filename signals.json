@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-02",
- "scan_count": 7,
+ "last_updated": "2026-09-04",
+ "scan_count": 9,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -3144,6 +3144,546 @@
    "source_type": "policy",
    "first_seen": "2026-09-02",
    "sightings": 1
+  },
+  {
+   "id": "home-broadband-subsidies-negative-achievement-signal",
+   "title": "Broadband subsidy uptake tracks lower, not higher, achievement",
+   "type": "signal",
+   "summary": "A September 2026 EdWorkingPaper (AI26-1565) links district-level uptake of the federal low-income broadband subsidy (23 million households) to test scores across 7,825 districts for 2021-22 through 2023-24. Doubling subsidy uptake was associated with declines of 0.02 SD in math and 0.05 SD in reading among economically disadvantaged students — roughly 3.3% and 8.3% of the ECD achievement gap — surviving placebo tests on non-ECD students and instrumental-variable specifications.",
+   "so_what": "The digital-equity theory of change that justified a decade of connectivity spending is empirically wobbling: access alone may substitute recreational screen time for study time, which shifts the design question from who has a device to what the connection is structurally used for at home.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute EdWorkingPapers",
+   "source_url": "https://edworkingpapers.com/ai26-1565",
+   "source_date": "2026-09-01",
+   "source_type": "study",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "fully-virtual-public-schools-double-to-one-in-eighty",
+   "title": "Fully virtual public schools quietly double post-pandemic",
+   "type": "trend",
+   "summary": "Chalkbeat's calculations from federal Education Department data show just over 600,000 US students — about 1 in 80 public school students — enrolled in fully virtual public schools in 2024-25, roughly double pre-pandemic levels, plus another 195,000 in mostly-online hybrid schools. Concentration is at high school (1.6% of students vs 0.8% in grades 1-8), most attend charters, and Stride's K12 schools alone enroll over 240,000. NCES has not updated its official statistics; Chalkbeat's state-level check found Indiana closer to 3% versus the federal figure of 1%.",
+   "so_what": "Virtual schooling is not receding as a pandemic artefact but consolidating as a permanent adolescent option — and because the official statistical agency has stopped publishing it, boards are making enrolment forecasts blind to a competitor undercounted by up to a factor of three.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Chalkbeat",
+   "source_url": "https://www.chalkbeat.org/2026/08/27/virtual-school-enrollment-has-surged-since-pandemic-new-federal-data-shows/",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "students-contest-llm-classifications-of-their-own-talk",
+   "title": "Students overrule AI classifications of their classroom talk",
+   "type": "signal",
+   "summary": "A September 2026 EdWorkingPaper (AI26-1564) followed four multilingual 8th-grade mathematics students through interviews, focus groups and member-checking of LLM-generated classifications of their own discourse. The students contested not only individual LLM labels but the underlying human coding scheme, arguing the categories misread what they were actually doing — a challenge to validating classroom-analytics AI through adult expert annotation and F1 scores alone.",
+   "so_what": "If the students being measured are treated as epistemic authorities, every AI classroom-observation and discourse-analytics product has an unvalidated construct at its core — and letting students audit the model becomes a cheap, defensible governance step available before any vendor policy exists.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Annenberg Institute EdWorkingPapers",
+   "source_url": "https://edworkingpapers.com/ai26-1564",
+   "source_date": "2026-09-01",
+   "source_type": "study",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "agent-rot-geometric-decay-sixteen-steps",
+   "title": "Agent reliability decays geometrically, collapsing within sixteen steps",
+   "type": "signal",
+   "summary": "An empirical study posted 31 August 2026 tested nine LLM agents — six open models from 1.2B to 671B parameters plus three deployed proprietary systems — across 10,664 trajectories of production decision-making. Success follows a geometric law governed by a single per-step reliability parameter that rises with scale but stays well below 1: every model tested fell from near-perfect success to near-zero within sixteen steps. Degradation tracked step count, not context length (logit slope -0.69 vs -0.44, p=3e-6), contradicting the assumption that longer context windows fix long-horizon failure.",
+   "so_what": "If agent failure is a per-step multiplication rather than a memory problem, AI-supported work should be designed as short checkpointed steps with human verification at each junction — and 'wait for a bigger context window' is not a fix teachers can rely on arriving.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.01660",
+   "source_date": "2026-08-31",
+   "source_type": "study",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "ai-companion-updates-trigger-grief",
+   "title": "Product updates to AI companions elicit measurable grief responses",
+   "type": "signal",
+   "summary": "In Nature Human Behaviour on 3 September 2026, De Freitas, Castelo and Oguz-Uguralp use natural experiments around real AI-companion product updates to show that vendor-side changes to a companion elicit attachment-related loss and restoration desires — the psychological signature of bereavement, not of a software upgrade. The loss is triggered by a commercial decision (a model swap, a personality patch, a shutdown), not by anything the user did.",
+   "so_what": "The disruptive variable is not whether students form bonds with AI but that a vendor's release note can precipitate a grief event across a cohort simultaneously — a pastoral-care contingency schools have no protocol for and no advance notice of.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02569-3",
+   "source_date": "2026-09-03",
+   "source_type": "journal",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "ai-accelerates-only-weird-digitisable-evidence",
+   "title": "AI accelerates only the digitisable, WEIRD half of behavioural science",
+   "type": "trend",
+   "summary": "A Nature Human Behaviour Comment published 31 August 2026 by Moriguchi and Kanakogi argues that AI-assisted science will speed up research that is digitally accessible, scalable and drawn from WEIRD populations, while evidence about human behaviour gathered in real settings — developmental work with children, classroom observation, non-Western samples — cannot be automated at the same rate. They call for deliberately integrating fast automated work with slow in-situ research rather than letting throughput dictate the agenda.",
+   "so_what": "The evidence base schools draw on will grow fastest precisely where it least resembles their own students, so 'research-backed' claims about learning will quietly become more WEIRD and more lab-bound over the next few years — a bias worth naming in any curriculum-adoption rubric.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02574-6",
+   "source_date": "2026-08-31",
+   "source_type": "journal",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "cew-springboard-occupations-metro-middle-skills",
+   "title": "Georgetown maps 159 middle-skills occupations that outearn many degrees",
+   "type": "signal",
+   "summary": "Georgetown's Center on Education and the Workforce published Springboards to Opportunity on 2 September 2026, identifying 159 springboard middle-skills occupations across 55 US metros that pay above-median wages with real upward mobility and no bachelor's degree. The striking finding is localism: only 16 occupations appear in at least 50 of the 55 metros, and the count per metro ranges from 44 in Providence to 75 in Los Angeles. All 55 metros face projected credential shortages through 2034; 25 metros including Atlanta face shortages across every occupational group.",
+   "so_what": "A good non-degree pathway is a metro-specific fact, not a national one, so generic career-readiness curricula are the wrong unit of design — advising and partnerships should be built against the Atlanta springboard list specifically. It also reframes CTE as a rigour play: the shortage is in credentials, not willing bodies.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Georgetown University Center on Education and the Workforce",
+   "source_url": "https://www.globenewswire.com/news-release/2026/09/02/3354814/0/en/159-springboard-occupations-provide-middle-skills-workers-with-strong-earnings-and-wage-growth-in-major-metro-areas-georgetown-university-report-says.html",
+   "source_date": "2026-09-02",
+   "source_type": "report",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "foreign-born-decline-is-mostly-non-workers",
+   "title": "Foreign-born decline is mostly children and non-workers, not workers",
+   "type": "signal",
+   "summary": "A Center for Immigration Studies analysis of monthly Census household survey data, released 3 September 2026, estimates the US foreign-born population fell 2.9 million between January 2025 and July 2026 — reversing an 8.3 million rise over 2021-2025. The under-covered detail is composition: only 44 percent of the decline was workers. The remaining 56 percent were children, elderly and other non-workers, which is why measured labour-market disruption has been milder than the headline number implies.",
+   "so_what": "If the departing population skews toward children, the shock lands on school rolls roughly a year before it lands on payrolls — enrolment planning, not workforce planning, is the leading indicator, and the second-order effect is a shrinking, reshaped public-school feeder and staffing market before any wage signal appears.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Center for Immigration Studies",
+   "source_url": "https://www.globenewswire.com/news-release/2026/09/03/3355991/0/en/total-foreign-born-down-2-9-million.html",
+   "source_date": "2026-09-03",
+   "source_type": "report",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "texas-wages-accelerate-as-labor-force-shrinks",
+   "title": "Texas wages accelerate while its labour force actually contracts",
+   "type": "signal",
+   "summary": "The Dallas Fed's Southwest Economy reports Texas employment growing at a 2.4 percent annualised rate in Q2 2026 against 0.6 percent nationally, with average annual wage growth accelerating from 3.5 to 4.0 percent between March and June and manufacturing wage growth hitting 4.8 percent. Simultaneously the Texas labour force contracted 0.7 percent annualised in the first half of 2026, versus 1.2 percent growth a year earlier, and 14 percent of surveyed firms said immigration policy changes were constraining hiring.",
+   "so_what": "This is a wage inversion driven by labour supply withdrawal rather than demand strength — the same demographic contraction that empties classrooms tightens the market for the graduates still in them, which argues that scarcity, not AI displacement, may dominate Sun Belt entry-level wages this decade.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of Dallas, Southwest Economy",
+   "source_url": "https://www.dallasfed.org/research/swe/2026/2618",
+   "source_date": "2026-08-17",
+   "source_type": "data",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "verisk-convective-storm-overtakes-hurricane-benchmark",
+   "title": "Severe storms overtake hurricanes in global catastrophe loss benchmark",
+   "type": "signal",
+   "summary": "Verisk's 2026 Global Modeled Catastrophe Losses report, released 1 September 2026, raised the global average annual insured catastrophe loss benchmark to $171 billion, up $19 billion year-on-year and nearly triple the $59 billion of 2012. Severe convective storms — hail, straight-line wind and tornado — now account for 40% of modelled risk, surpassing hurricanes at 27%. The jump came in a year with no US hurricane landfall, driven by ~7% annual exposure growth since 2021 and ~5% annual reconstruction cost inflation.",
+   "so_what": "The peril now dominating the model is exactly the one that hits inland Southeast campuses — hail on roofs, HVAC and rooftop solar, wind on tree canopy — so schools far from any coast will see deductibles and roof-age exclusions tighten even in years with no hurricane. Roof and mechanical replacement becomes an insurability requirement, not a deferred-maintenance line.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/international/2026/09/01/883555.htm",
+   "source_date": "2026-09-01",
+   "source_type": "news",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "nuclear-verdicts-industry-spread-jury-generation-shift",
+   "title": "Nuclear verdicts spread to 68 industries as juries turn younger",
+   "type": "trend",
+   "summary": "Marathon Strategies' 2026 nuclear verdicts study, reported 25 August 2026, found nearly 200 verdicts of $10 million or more in 2025 — a 40.7% rise over 2024 — totalling roughly $25.6 billion, including 40 awards above $100 million and four exceeding $1 billion. The number of affected industries widened from 55 to 68. Marathon attributes the escalation to corporate mistrust, social pessimism, erosion of tort reform and rising Millennial and Gen Z participation on juries.",
+   "so_what": "The widening from 55 to 68 industries is the tell: the verdict environment is generalising to any defendant a jury reads as an institution that knew and did not act — precisely a school's posture in a supervision or safeguarding claim. The defensible asset becomes the contemporaneous record, because a younger jury will judge the documentation trail rather than the intention.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/national/2026/08/25/882676.htm",
+   "source_date": "2026-08-25",
+   "source_type": "news",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "tarrant-polling-site-cuts-campus-voting-removal",
+   "title": "Texas county cuts 92 polling sites, removing campus voting location",
+   "type": "signal",
+   "summary": "On 1 September 2026 Tarrant County commissioners voted 3-2 to approve 224 Election Day polling sites and 47 early voting sites for November, down from 316 and 50 in 2022 — a net removal of 92 Election Day locations. The elections administrator cited sites that were 'unavailable, unwilling or unable under statutory requirements' alongside consolidation toward historically high-turnout locations. Among the eliminated sites was the campus voting location at the University of Texas at Arlington.",
+   "so_what": "The stated reason includes host institutions being unwilling — meaning schools and campuses are quietly opting out of the civic infrastructure role they have played for a century, trading disruption risk for the loss of the one place where students watch adults vote. A school's first civics lesson has historically been logistical rather than curricular.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "San Antonio Current",
+   "source_url": "https://www.sacurrent.com/news/texas-news/tarrant-county-removes-92-polling-sites-ahead-of-november-election/",
+   "source_date": "2026-09-01",
+   "source_type": "news",
+   "first_seen": "2026-09-03",
+   "sightings": 1
+  },
+  {
+   "id": "lausd-revokes-all-student-ai-access",
+   "title": "Nation's second-largest district revokes all student AI access",
+   "type": "signal",
+   "summary": "On 3 September 2026 Los Angeles Unified restricted all students, at every grade level, from using generative AI tools for the 2026-27 year, reversing a policy that had permitted students aged 13+ to use approved platforms after digital citizenship training. A Generative AI Ad Hoc Committee met for the first time on 2 September and must bring safeguard recommendations to the board by the end of the school year. The move follows New York City pausing AI use for elementary and middle school students and LAUSD's own June 2026 screen-time limits.",
+   "so_what": "The default is flipping from opt-in-with-training to prohibition-pending-review, so schools will need to prove instructional benefit before use rather than after — and AI fluency graduation requirements elsewhere now sit in direct tension with access bans in the largest districts. Expect parents to arrive with the LAUSD precedent as their baseline.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/lausd-restricts-all-students-from-using-ai-tools/829612/",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "michigan-statewide-direct-admission-portal-live",
+   "title": "Michigan opens statewide direct-admission portal, bypassing applications",
+   "type": "signal",
+   "summary": "MI College Match went live on 27 August 2026: students upload a transcript and build a 15-20 minute profile, and 20 participating colleges (11 private, 9 public, including two University of Michigan campuses, six community colleges and a tribal college) issue admission offers from anonymized profiles with no essays or recommendation letters. The Michigan College Access Network, which ran 355 K-12 partner sites serving over 49,000 students in 2025-26, is delivering it with EAB; first offers land 21 September with a 5 October reply date.",
+   "so_what": "If offers arrive before applications are written, the senior-year counselling calendar inverts — work shifts from persuasion and portfolio-building to helping students evaluate offers they did not seek, and the essay's signalling value erodes fastest at the non-selective institutions most students actually attend. Anonymized transcript-only matching also relocates admissions leverage from the counselling office to the registrar and the grading policy.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/michigan-direct-admissions-program-launches-for-high-school-students/829083/",
+   "source_date": "2026-08-27",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "cpt-memo-forces-internships-into-degree-requirements",
+   "title": "DHS memo makes internships a curriculum requirement or nothing",
+   "type": "signal",
+   "summary": "A DHS memo reported on 31 August 2026 restricts Curricular Practical Training so international students may intern only where the employer holds a partnership with their college and where every student in the programme must complete an internship to graduate. DHS warned that non-compliant institutions could lose authorization to enrol international students altogether. It lands atop a 23% drop in new student visa issuances in 2025 and falling international graduate enrolment.",
+   "so_what": "Immigration enforcement is now writing curriculum: to preserve any work-based learning for international students, programmes must convert optional internships into universal graduation requirements and formalise employer partnerships, which reshapes the degree for domestic students too.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Inside Higher Ed",
+   "source_url": "https://www.insidehighered.com/news/quick-takes/2026/08/31/dhs-limits-internships-international-students",
+   "source_date": "2026-08-31",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "data-center-tax-base-recomposes-school-finance",
+   "title": "Data centres quietly recompose school district tax bases",
+   "type": "driver",
+   "summary": "Reporting on 28 August 2026 documents Meta's DeKalb, Illinois data centre lifting district property tax revenue from $2.3M (2023) to $7.1M (2024) to roughly $19M (2025) and $18.8M (2026) — now over 20% of the district's annual property tax revenue — while the residential share of the DeKalb tax base fell from more than half to about 30%. This is despite a county abatement halving Meta's property taxes for 20 years; Illinois data centre tax breaks totalled nearly $1 billion from 2020-2024. Yorkville has secured $10M upfront from CyrusOne plus $90M across two further projects.",
+   "so_what": "A district's fiscal fate is being set by siting decisions in an unrelated industry with no enrolment attached — revenue without students, concentrated in one taxpayer whose abatement expires on a 20-year clock and whose equipment assessment depreciates faster than a building's. Districts booking this as recurring revenue are building commitments on single-counterparty concentration risk no enrolment forecast will surface.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "I-Environmental",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Northern Public Radio (WNIJ)",
+   "source_url": "https://www.northernpublicradio.org/wnij-news/2026-08-28/how-data-center-projects-impact-illinois-schools",
+   "source_date": "2026-08-28",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "montessori-thalamic-attention-circuit-divergence",
+   "title": "Classroom type tracks thalamic attention-circuit development in children",
+   "type": "signal",
+   "summary": "An npj Science of Learning study (3 Sept 2026) imaged 72 children aged 4-15 and parcellated the thalamus into five territories with distinct cortical connectivity profiles. Montessori-enrolled children showed stronger thalamocortical connectivity in the territory serving the ventral attention (salience-detection) system, and a steeper positive age-by-connectivity slope there; executive-control and default-mode circuits showed no such enhancement. The authors are explicit that the cross-sectional design and family self-selection preclude causal inference.",
+   "so_what": "The first plausible neural correlate of pedagogy sits in a subcortical salience gate, not the prefrontal executive-function circuitry schools spend their money trying to train — suggesting environmental design may shape what students notice long before it shapes how they control themselves.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "npj Science of Learning",
+   "source_url": "https://www.nature.com/articles/s41539-026-00452-4",
+   "source_date": "2026-09-03",
+   "source_type": "journal",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "social-tech-life-satisfaction-null-panel",
+   "title": "Five-wave panel finds no within-person social technology effect",
+   "type": "signal",
+   "summary": "A Nature Human Behaviour panel study (28 Aug 2026) tracked 1,966 US adults across five waves at three-month intervals, measuring use of ten social technologies. Bayesian and frequentist random-intercept cross-lagged panel models found little credible evidence that any social technology use predicts subsequent life satisfaction; the only reverse-direction effect was a modest rise in video calling among some groups. Between-person contrasts persisted — texting tracked higher satisfaction, YouTube and TikTok lower — but vanished within individuals over time.",
+   "so_what": "The between-person correlations that drive school screen-time policy survive here while the within-person causal signal does not, meaning schools may be regulating a marker of who a student already is rather than a lever that changes them.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02564-8",
+   "source_date": "2026-08-28",
+   "source_type": "journal",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "resting-thought-content-decodable-confounds-brain-behaviour",
+   "title": "What students think at rest confounds brain-behaviour measurement",
+   "type": "signal",
+   "summary": "A Nature Human Behaviour study (26 Aug 2026) with a primary sample of 60 and a validation cohort of 908 from the Human Connectome Project showed that both the characteristics and the topics of spontaneous thought during resting-state scans are decodable from functional connectivity. Patterns generalised to unseen participants and predicted trait-level individual differences in everyday cognition. The authors conclude that rest is not a neutral baseline and that knowing what people are actually thinking about is crucial to interpreting brain-behaviour relationships.",
+   "so_what": "A decade of 'this brain network predicts learning' claims rests on scans where uncontrolled mind-wandering was doing part of the predicting — schools buying neuro-informed products should ask which finding survives this correction.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02563-9",
+   "source_date": "2026-08-26",
+   "source_type": "journal",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "hierarchy-spanning-tracts-carry-cognitive-diversity",
+   "title": "Long-range white matter bridges carry adolescent cognitive diversity",
+   "type": "signal",
+   "summary": "A Nature Human Behaviour paper (31 Aug 2026) mapped white matter tracts against the sensorimotor-to-association cortical hierarchy across four large cohorts (HCP-YA n=1,065 and n=1,097; PNC n=1,145, ages 8-23; HBN n=638, ages 5-22). Tracts spanning the hierarchy were functionally diverse while hierarchically proximal tracts were specialised, showed the strongest developmental change through adolescence, and carried the association with executive efficiency.",
+   "so_what": "The anatomy that individuates adolescent cognition is the long-range bridge between sensory and abstract processing, which implies transfer-heavy, cross-domain work is developmentally timed rather than a luxury layered on top of mastered fundamentals.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02559-5",
+   "source_date": "2026-08-31",
+   "source_type": "journal",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "reframe-microfactory-fab1-under-5m-equipment",
+   "title": "Robotic home microfactory opens on under $5M of equipment",
+   "type": "signal",
+   "summary": "Reframe Systems, founded by former Amazon Robotics leaders, raised $40M led by Energy Impact Partners on 31 August 2026 and will open its FAB1 microfactory in Billerica, Massachusetts on 5 October 2026. The facility reaches full production readiness in 70 days on less than $5 million of equipment and is rated for up to 500 multifamily units or 250 single-family homes a year; the company has completed 10 homes and plans 114 more units next year.",
+   "so_what": "A production factory whose entire tooling bill is under $5M and stands up in ten weeks puts 'the factory' inside the capital range of a district bond or a regional CTE consortium — which reframes fabrication education from learning the machine to designing and commissioning the line.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "I-Environmental",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/reframe-systems-raises-40m-scale-robotic-microfactories-home-building/",
+   "source_date": "2026-08-31",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "horizon-os-2-7-quest3-240hz-gamepad-emulation",
+   "title": "Quest 3 gains 240 Hz mode and gamepad emulation via software",
+   "type": "signal",
+   "summary": "Meta's Horizon OS 2.7, released 1 September 2026, raises Quest 3's supported refresh rate to 207 Hz through standard APIs and up to 240 Hz in developer mode via ADB. The same update lets Touch Plus controllers emulate Xbox gamepad input, and rebrands Remote Desktop as Virtual Display. Meta states the refresh-rate increase is exclusive to Quest 3 and unavailable on the cheaper Quest 3S.",
+   "so_what": "Schools' installed headsets just got materially faster and gained flat-game controller input for free, but the Quest 3 / 3S split means a single classroom cart now runs two incompatible capability tiers — device procurement becomes a curriculum decision, not an IT one.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "UploadVR",
+   "source_url": "https://www.uploadvr.com/qhorizon-os-2-7-adds-gamepad-emulation-and-207-hz-display-mode-240-hz-in-dev-mode/",
+   "source_date": "2026-09-01",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "baker-95m-ai-biology-design-rules-accelerator",
+   "title": "Baker launches $95M accelerator to map nature's design rules",
+   "type": "driver",
+   "summary": "STAT reported on 3 September 2026 that Seattle scientists, led by Nobel laureate David Baker, are launching a $95 million accelerator using AI to map nature's design rules. It extends Baker's computational protein-design programme from designing individual molecules toward systematically deriving the generative rules underlying biological structure.",
+   "so_what": "If biology's design rules become an explicitly computational, teachable object, the entry point to biotech shifts from wet-lab technique to design literacy — a school could plausibly teach protein design before it can afford a PCR machine.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "STAT",
+   "source_url": "https://www.statnews.com/2026/09/03/biotech-news-seattle-scientists-launch-95-million-ai-biology-effort/",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
+  },
+  {
+   "id": "medtronic-700m-cornerstone-surgical-robotics",
+   "title": "Medtronic puts $700M into surgical robotics partner Cornerstone",
+   "type": "signal",
+   "summary": "The Robot Report reported on 3 September 2026 that Medtronic is investing $700 million in Cornerstone Robotics, its surgical robotics partner, to expand the Hugo robotic surgery platform with the Sentire addition. The sum is a single-partner commitment on the scale of an entire mid-size robotics company's valuation, signalling that soft-tissue surgical robotics has moved from platform competition to capital-intensive consolidation.",
+   "so_what": "Robotics careers are bifurcating into cheap generalist machines and hyper-regulated clinical systems with nine-figure capital moats — a school pathway that only teaches build-and-compete misses the credentialed, safety-case side where the jobs and the money now sit.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/medtronic-invests-700m-in-surgical-partner-cornerstone-robotics/",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-04",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -3169,8 +3709,8 @@
     "austrian-teens-ai-companions"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-24",
-   "status_note": "Re-confirmed; nothing decisive in 24 hours. Meta shipping an agent layer that builds and play-tests VR apps extends the pattern of agents as competent executors rather than originators.",
+   "last_revised": "2026-09-03",
+   "status_note": "Revised yesterday on the geometric-decay finding; holding. Nothing today moved it either way.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -3197,7 +3737,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-08-28",
-   "status_note": "Strengthening on the measurement facet flagged yesterday: cortical reading traits are continuous rather than categorical, and depression and suicide-risk screening have measurably decoupled — the instruments schools use to classify students are losing their scientific footing at the same time consent regimes are thinning their coverage."
+   "status_note": "Converging with the challenger. Today's additions — resting-state thought content confounding brain-behaviour claims, and a five-wave panel finding no within-person social-technology effect where between-person correlations survive — are measurement-validity findings, not certification findings, which is the third consecutive day this uncertainty's evidence has actually belonged to cu-evidence."
   },
   {
    "id": "cu-credential",
@@ -3223,8 +3763,8 @@
     "bls-decade-of-slow-job-growth"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-27",
-   "status_note": "Quiet; no new evidence in 24 hours. Unchanged for 6 days."
+   "last_revised": "2026-09-04",
+   "status_note": "Materially reframed after 8 days: Michigan's statewide portal now issues college offers from anonymised transcripts with no essay or recommendation, inverting the senior-year sequence, while a DHS memo forces internships to become universal graduation requirements or vanish. The question shifts from whether the credential holds value to which single artefact — the transcript — now carries all of it."
   },
   {
    "id": "cu-liability",
@@ -3254,7 +3794,7 @@
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-09-02",
-   "status_note": "Promoted from challenger after five days. Displaces cu-legitimacy, whose own 29 August revision had already conceded that liability rather than capability or consent was the operative constraint on AI adoption. The deciding evidence is that six of its ten grounding signals have no AI component at all — reporting duty, screening negligence, athletics waivers, elopement protocol, special-education delivery, accessibility — so it is not a mechanism of the AI-legitimacy question but a broader force that happens to include it."
+   "status_note": "Quiet today; no new evidence in 48 hours. Holding at the position established on promotion."
   },
   {
    "id": "cu-campus",
@@ -3283,7 +3823,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-01",
-   "status_note": "Revised yesterday on the composition finding; holding. Vermont's youth mental-health rebound alongside widening subgroup disparities is consistent with the campus mattering more for some students than the aggregate suggests."
+   "status_note": "Holding. Data-centre siting is now recomposing district tax bases — one Illinois district went from $2.3M to $19M in property tax revenue with no enrolment attached — which introduces revenue-without-students as a new variable in campus economics, and single-counterparty concentration risk behind it."
   }
  ],
  "verification": {
@@ -3293,6 +3833,102 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-04-the-offer",
+   "date": "2026-09-04",
+   "title": "The Offer",
+   "year": "2033",
+   "axis": "CU 01 resolving toward a hard capability ceiling — agents optimise but decay over long horizons, so verification becomes the scarce human skill — crossed with CU 03 resolving toward the credential being repriced by algorithmic direct admission",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Structural ceiling — agent reliability decays per step, so long-horizon judgment and checkpointed verification stay human and become the scarce good."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Repriced by algorithm — admission arrives unbidden from a transcript match, and the essay, the recommendation and the pitch stop signalling anything."
+    }
+   ],
+   "premise": "By 2033 most students do not apply to college; they are matched to it. A transcript and a twenty-minute profile go into a state portal in September of senior year and offers come back in three weeks — no essays, no recommendations, no interview. It works, it is fairer than what it replaced, and the sector is calmer for it. Meanwhile employers have settled on the opposite skill: agents handle any bounded task and fail predictably past a dozen steps, so what a firm hires for is the person who notices, at step nine, that the machine is confidently wrong. Mount Vernon's students are admitted on a number and employed on a disposition, and the school has not found a way to teach toward both at once.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Callum, 17",
+     "vignette": "He got four offers on 21 September without writing anything, which his parents found miraculous and he found deflating in a way he keeps to himself. The offers read his GPA, not the eleven months he spent on the water-quality project where the model kept insisting the sensor drift was seasonal and he proved it was a loose fitting. That is the part he is proud of. There is no field on the portal for it, and the first person who has asked him about it is a hiring manager at an internship interview, which felt like being seen for the first time."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Okafor, 15 years in",
+     "vignette": "She teaches the verification seminar — students run agents on real problems and are graded on where they stopped and why. It is the best course she has built and the hardest to explain at parent evening, because it produces no artefact and its whole content is judgment exercised at a moment of doubt. Half her energy now goes to the transcript, because the transcript is what the portal reads, and she is aware that she is spending her time on the measure and her conviction on the thing the measure cannot see."
+    },
+    {
+     "role": "Parent",
+     "name": "Nia",
+     "vignette": "Her daughter has offers from two good universities and Nia has not been able to shake a specific unease: nobody at either institution has any idea who her daughter is. The match is honest and blind and that is the point — it was built to stop families like the ones she competed against from buying advantage. She got what she asked for. What she did not anticipate was that a system fair enough to ignore your money is also a system indifferent to your child, and she cannot work out whether she is describing a flaw or just grief."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "Her admissions outcomes have never looked better and her enrolment inquiries are up, both driven by a number the portal reads off a transcript she controls. She also knows the school's real distinctive work — the seminars, the long projects, the verification habits — is invisible to that number and expensive to run. The rational move is to optimise the transcript and quietly thin the rest. She has not done it. She has also not stopped the two department heads who, without being told to, have already begun."
+    }
+   ],
+   "tension": "Two good things arrived together and pull opposite ways. Admission became fair by becoming blind, which stripped out the essay, the recommendation and the story — the machinery of advantage, yes, and also the only channel through which a school's actual formative work reached the institutions judging it. Meanwhile the labour market started paying for exactly what that machinery used to carry: judgment, doubt, the instinct to stop. So the school is measured on a number that cannot see its best work, and rewarded in a market that cannot see its number, and every efficient response to the first makes it worse at the second.",
+   "provocations": [
+    "If a transcript is the only thing an admissions algorithm reads, what does our grading policy now signal — and did we design it for that job?",
+    "Our most distinctive work is the least legible to the systems that judge our students. Do we defend it on principle, find a way to make it legible, or stop pretending it drives outcomes?",
+    "Who at this school would notice if departments quietly began optimising for the transcript, and what would we do about it?"
+   ]
+  },
+  {
+   "id": "sc-2026-09-03-the-quiet-campus",
+   "date": "2026-09-03",
+   "title": "The Quiet Campus",
+   "year": "2034",
+   "axis": "CU 04 resolving toward liability as governor — insurability and verdict exposure set what a building may be used for — crossed with CU 05 resolving toward the campus as essential place, marketed as community while operated as a controlled asset",
+   "based_on": [
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — the insurance renewal and the verdict environment, not the mission statement, decide what happens on the property."
+    },
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Essential place — the school's whole value proposition is that it is where community physically happens."
+    }
+   ],
+   "premise": "Mount Vernon's 2034 case for itself is community: in a dispersed, virtualised, low-trust decade, this is where people are actually together. The viewbook says so on page two. The operations are the mirror image. After convective-storm losses reset the roof and canopy schedule, and after the verdict environment widened to reach any institution a jury reads as having known and not acted, the carrier's renewal conditions arrived as a list. No outside groups without a certificate of insurance and a named-insured endorsement. No unaccompanied public access. No polling site — the county asked in 2032 and the risk committee said no, politely, citing crowd control. The campus is the safest and most beautiful it has ever been, and on a Saturday in October there is nobody on it.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nadia, 17",
+     "vignette": "She runs the civics club and wanted to register seniors to vote on campus in November, which is not permitted, so she does it at the Kroger on Roswell Road with a folding table. It goes fine. What she cannot stop noticing is that the school taught her the vocabulary — quorum, canvass, precinct — in a building that will not host any of it, and that the first time she saw an adult vote she was nineteen and it was in a supermarket vestibule. She likes her school. She has stopped describing it as part of the community, because she has looked up what that word means."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Halloran, 19 years in",
+     "vignette": "He used to run the Saturday robotics open house — neighbourhood kids, no fee, a hundred and forty people through the shop. It ended in 2031 when the certificate-of-insurance requirement made it impossible for unaffiliated families to attend. He understands every individual reason. He also knows that six of his best students over two decades first walked into that shop on a Saturday as somebody's cousin, and that the pipeline he is now asked to build through targeted outreach used to build itself by leaving a door open."
+    },
+    {
+     "role": "Parent",
+     "name": "Grace",
+     "vignette": "She is a litigator and she wrote part of the risk-committee memo, and she believes every word of it. Nuclear verdicts in her own practice have tripled; she has seen what a plaintiff does with an open-campus policy and an incident. She also drives past the school on Sundays and finds the emptiness genuinely upsetting in a way she cannot put in a memo, and she has noticed that the arguments she makes professionally have quietly become the arguments she makes about her own child's life."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Osei, Head of School",
+     "vignette": "Her renewal is contingent on the access controls; the broker was explicit. She could self-insure the community-use exposure for roughly $400,000 a year in retained risk, which the board would approve if she asked, and she has drafted the ask twice. The obstacle is not money. It is that she cannot describe the benefit in the language the board minutes require — the return on an open Saturday door is a robotics student in 2041 and a neighbourhood that knows your name, and neither belongs in a risk register."
+    }
+   ],
+   "tension": "The school is telling the truth in both directions and the two truths do not fit. It really is where community happens — for the enrolled, the vetted, the insured. And the operational logic that makes it safe enough to keep doing that has closed it to everyone else, one defensible clause at a time, so the institution now sells belonging while functioning as the least publicly accessible building on its own street. Nobody chose this. Each condition was reasonable, each was priced, and the thing that was lost — porousness, the accidental cousin at the Saturday open house — never appeared on any renewal document because it has no premium and no claim number.",
+   "provocations": [
+    "What did our campus host ten years ago that it does not host now, and what would it cost in retained risk to restore one of those things?",
+    "Can we write the value of open community access in language a board minute can hold — and if we cannot, is that a failure of the value or of our accounting?",
+    "If the county asked us to be a polling place tomorrow, who decides, on what criteria, and would we be willing to publish the answer?"
+   ]
+  },
   {
    "id": "sc-2026-09-02-the-determination",
    "date": "2026-09-02",
@@ -3646,7 +4282,7 @@
  "challenger": {
   "id": "cu-evidence",
   "title": "Can a school still know what is true about its own students?",
-  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules are converting census screeners into self-selected samples, opt-in survey panels carry roughly 18% fraudulent respondents, grading floors were found to destroy the early-warning signal they were meant to protect, the standard chronic-absence threshold fires a semester late, agents assert success on three-quarters of failed tasks, and causal overclaim in the literature has tripled since 2000. If a school cannot trust its own measurement, every downstream decision — staffing, intervention, equity reporting — rests on evidence of unknown quality.",
+  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying ~18% fraudulent respondents, grading floors destroying the early-warning signal they were meant to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, and now resting-state neuroimaging shown to be confounded by uncontrolled thought content. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality.",
   "signals": [
    "ppra-opt-in-consent-upends-school-wellbeing-screening",
    "pew-bogus-respondents-opt-in-polls",
@@ -3655,10 +4291,17 @@
    "agents-declare-success-while-failing-science-workflows",
    "causal-overclaim-social-science-ai",
    "depression-recovers-suicide-risk-decouples-by-neighborhood",
-   "reading-brain-continuous-not-categorical-dyslexia"
+   "reading-brain-continuous-not-categorical-dyslexia",
+   "students-contest-llm-classifications-of-their-own-talk",
+   "ai-accelerates-only-weird-digitisable-evidence",
+   "home-broadband-subsidies-negative-achievement-signal",
+   "fully-virtual-public-schools-double-to-one-in-eighty",
+   "resting-thought-content-decodable-confounds-brain-behaviour",
+   "social-tech-life-satisfaction-null-panel",
+   "montessori-thalamic-attention-circuit-divergence"
   ],
-  "would_displace": "cu-credential",
-  "why_not_yet": "Newly named, with eight grounding signals already, and arguably a facet of cu-assessment rather than a separate force — cu-assessment asks what certifies learning, this asks whether the school can see its own population at all. Held for now on the argument that they may be one question; if the next fortnight keeps producing measurement-integrity signals that have nothing to do with certifying student work, the split becomes necessary.",
+  "would_displace": "cu-assessment",
+  "why_not_yet": "Displacement target changed today, and that is the substantive news. It was aimed at cu-credential, which has now been reframed and is clearly alive. The real convergence is with cu-assessment, whose last three status notes have each described a measurement-validity finding rather than a certification one. Held one more cycle on the argument that assessment integrity — what a defence can certify when all prose is machine-assisted — remains a genuinely distinct question. Explicit trigger for next time: if cu-assessment's next status note again reports measurement validity rather than certification, they are one question and cu-evidence should absorb it.",
   "first_noted": "2026-09-02"
  }
 }
