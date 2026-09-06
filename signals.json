@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-04",
- "scan_count": 9,
+ "last_updated": "2026-09-05",
+ "scan_count": 10,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -3684,6 +3684,209 @@
    "source_type": "news",
    "first_seen": "2026-09-04",
    "sightings": 1
+  },
+  {
+   "id": "bls-august-rebound-led-by-low-credential-sectors",
+   "title": "Payroll rebound carried by restaurants, schools and construction",
+   "type": "signal",
+   "summary": "The BLS Employment Situation released 4 September 2026 showed August payrolls up 162,000 with unemployment at 4.1%, but the composition inverts the usual prestige ranking of career pathways: food services and drinking places added 59,000, local government education 42,000, construction 22,000 and manufacturing 16,000, while the information sector — computing infrastructure, publishing and broadcasting — shed 23,000. Labor force participation edged up to 61.6% but is down 0.5 percentage point since January, and teen unemployment rose to 14.1%.",
+   "so_what": "The sectors doing the actual hiring are the ones school advising treats as fallbacks, while the screen-based knowledge pathway schools present as the safe destination is the one contracting — an argument for ranking pathways by demonstrated local absorption rather than inherited prestige.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+   "source_date": "2026-09-04",
+   "source_type": "data",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "clevelandfed-dire-need-for-younger-skilled-labor",
+   "title": "Fed contacts report age-structured, not just skill-structured, trades shortage",
+   "type": "signal",
+   "summary": "The Cleveland Fed's Fourth District Beige Book (2 September 2026) records construction contacts in 'dire need of younger skilled labor', with skilled-trades scarcity constraining hiring plans across the district, while a services firm imposed a 10% salary cut on its top staff and other firms froze wages or cut bonuses. AI appears in employer testimony as both a reason to hire and a reason to shrink administrative headcount, with workforce boards reporting most contacts already using or adopting AI within 12 months.",
+   "so_what": "Employer testimony locates the shortage specifically at the young end of skilled trades, which reframes early high-school trades exposure as a market-timing decision rather than a values-driven alternative to college — and shows AI functioning as a two-directional force inside a single labour market, not a one-way destroyer of junior roles.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of Cleveland",
+   "source_url": "https://www.clevelandfed.org/publications/beige-book/2026/20260902-beige-book",
+   "source_date": "2026-09-02",
+   "source_type": "report",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "detectors-near-perfect-blind-to-hybrid-student-writing",
+   "title": "Near-perfect AI detectors stay blind to hybrid student writing",
+   "type": "signal",
+   "summary": "Nature's technology feature (25 August 2026) reports that leading detectors have genuinely closed the false-positive gap — Pangram Labs claims a 0.0041% false-positive rate, and independent Epoch AI testing found zero false positives across 495 human-written texts for both Pangram and GPTZero. But the same reporting shows internal Pangram testing in which consumer AI had substantially modified student essays: the model labelled the result fully human 41% of the time, roughly 8% of author-mimicking passages passed as human, and 'humanizer' rewriting sharply raised error rates.",
+   "so_what": "Detection has become safe to use and useless to rely on at the same time: it now exonerates reliably but cannot see the hybrid human-AI writing that is actually the norm, which collapses the case for detection-based integrity policy and moves the burden onto process evidence and in-person demonstration of competence.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Nature",
+   "source_url": "https://www.nature.com/articles/d41586-026-02569-3",
+   "source_date": "2026-08-25",
+   "source_type": "news",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "concept-explanations-lift-mental-models-only-at-anomalies",
+   "title": "AI explanations lift human understanding only at surprises",
+   "type": "signal",
+   "summary": "MIT's Kenny, Tomov and Shah published a Nature paper (2 September 2026) on Concept-Wrapper Network, which grounds autonomous-vehicle decisions in human-readable concepts such as 'approaching stopped vehicle'. In simulation, explanations improved mental models for 8/9 domain experts and 27/30 non-experts, and in a 99-participant public-road study situational awareness rose with large effect sizes for surprising events (perception d=1.290, comprehension d=0.996) — but with no measurable change during routine operation.",
+   "so_what": "The instructional payload of AI explanation is concentrated entirely at the moment of anomaly, so explainability used as continuous narration teaches nothing; schools should design AI tools to stay quiet until the model does something unexpected, and build student oversight practice around those breach moments.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Nature",
+   "source_url": "https://www.nature.com/articles/s41586-026-10950-5",
+   "source_date": "2026-09-02",
+   "source_type": "journal",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "llm-dependence-modelled-as-epidemic-with-tipping-points",
+   "title": "Complexity scientists model LLM dependence as epidemic with tipping points",
+   "type": "driver",
+   "summary": "A preprint posted to arXiv on 3 September 2026 by Ricard Sole, David Krakauer, Michael Levin, Manlio de Domenico and colleagues treats LLM adoption epidemiologically, modelling transitions among uncoupled, coupled and persistently dependent users. Social transmission, recovery and collective reinforcement generate tipping points and technological lock-in, so that modest increases in usage past a critical threshold produce rapid population-level shifts toward persistent dependence; the authors propose 'cognitive immunization' — reducing transmission and preserving reversibility — as the countermeasure.",
+   "so_what": "If dependence is contagious and threshold-driven rather than dose-driven, a school's AI policy is a public-health intervention: what matters is peer visibility and the preservation of reversible unassisted practice, not per-student usage caps.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Universitat Pompeu Fabra, Santa Fe Institute, Tufts)",
+   "source_url": "https://arxiv.org/abs/2609.03344",
+   "source_date": "2026-09-03",
+   "source_type": "study",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "school-closures-fail-to-deliver-savings",
+   "title": "New research finds school closures rarely deliver promised savings",
+   "type": "signal",
+   "summary": "Stanford's Francis Pearman, examining nearly a decade of California school closures, finds districts often lose more enrollment-based funding after closing schools — as displaced families defect to charter and private schools — than they save on buildings, because most costs are staff compensation, not facilities. The finding lands as more than a dozen large districts close schools this year; Cleveland, down from about 74,000 students in 2000 to 34,000 in 2025, closed or merged 29 of roughly 90 schools this autumn projecting $30 million in annual savings.",
+   "so_what": "Public-district consolidation may function as an involuntary voucher, pushing mid-year, mid-cycle enrollment inquiries toward independent and charter schools from families who never planned to leave the system — an admissions inflow driven by disruption rather than choice, arriving with different expectations and financial-aid needs.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "NPR",
+   "source_url": "https://www.npr.org/2026/08/29/nx-s1-5945658/more-school-districts-are-shrinking-new-research-asks-whether-closures-work",
+   "source_date": "2026-08-29",
+   "source_type": "news",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "us-born-muslims-report-more-discrimination",
+   "title": "US-born Muslims report far more discrimination than immigrants",
+   "type": "signal",
+   "summary": "Pew's 3 September 2026 portrait of Muslim Americans finds 61% of US-born Muslims experienced discrimination in the past year versus 39% of foreign-born Muslims — a 22-point inversion of the usual assimilation assumption. The population has grown from 2.4 million in 2007 to roughly 5.5 million, with mosques rising from about 1,200 in 2000 to nearly 2,800 in 2020, while 43% of all US adults say Muslims are less patriotic.",
+   "so_what": "The second generation — the students actually sitting in American classrooms — perceives more hostility than their immigrant parents did, so belonging work aimed at newcomers misses the cohort that needs it; identity-safety is a native-born adolescent issue, not an arrival issue.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/religion/2026/09/03/25-years-after-9-11-a-portrait-of-muslim-americans/",
+   "source_date": "2026-09-03",
+   "source_type": "report",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "gallup-record-89-corruption-us-worst-oecd",
+   "title": "Record 89% of Americans see widespread government corruption",
+   "type": "trend",
+   "summary": "Gallup, publishing 2 September 2026, reports 89% of US adults say corruption is widespread in government — a 10-point jump in one year and the highest in two decades, from a survey of 1,000 adults fielded 1 May to 10 June 2026. The rise is driven by Democrats (91%, up from 76%) and independents (90%, up 12 points since 2024); the US now sits 30 points above the OECD median of 59%, and the 18-point gap between perceived government and business corruption is the widest ever recorded.",
+   "so_what": "When institutional distrust becomes near-unanimous and bipartisan, civics instruction premised on how the system works loses credibility with students; the more defensible pedagogy shifts toward verification, institutional design and repair — how legitimacy is built and lost rather than how procedures function.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Gallup",
+   "source_url": "https://news.gallup.com/poll/713933/record-high-say-government-corruption-widespread.aspx",
+   "source_date": "2026-09-02",
+   "source_type": "data",
+   "first_seen": "2026-09-05",
+   "sightings": 1
+  },
+  {
+   "id": "working-class-self-identification-jumps-to-60",
+   "title": "Six in ten Americans now call themselves working class",
+   "type": "signal",
+   "summary": "Pew reports on 31 August 2026 that 60% of US adults describe themselves as working class, up from 54% two years earlier, based on 8,512 adults surveyed 20-26 January 2026. Half of college graduates (50%) and half of upper-income adults (50%) claim the label; the age gap is negligible, while the partisan gap persists even after controlling for income, occupation and education, widening to 23 points among upper-income respondents.",
+   "so_what": "Class is detaching from income and becoming an elective identity, which means affluent independent-school families increasingly do not see themselves as affluent — reshaping how tuition increases, financial aid messaging and any curriculum touching privilege or inequality will be received.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/politics/2026/08/31/who-sees-themselves-as-working-class/",
+   "source_date": "2026-08-31",
+   "source_type": "report",
+   "first_seen": "2026-09-05",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -3710,7 +3913,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-03",
-   "status_note": "Revised yesterday on the geometric-decay finding; holding. Nothing today moved it either way.",
+   "status_note": "Holding; revised 3 Sept. Two additions sharpen rather than move it: AI explanation improves human understanding only at anomalies, not during routine operation, and a complexity-science preprint models LLM dependence as threshold-driven contagion rather than dose-driven habit.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -3736,8 +3939,8 @@
     "agent-time-horizons-3-month-doubling"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-08-28",
-   "status_note": "Converging with the challenger. Today's additions — resting-state thought content confounding brain-behaviour claims, and a five-wave panel finding no within-person social-technology effect where between-person correlations survive — are measurement-validity findings, not certification findings, which is the third consecutive day this uncertainty's evidence has actually belonged to cu-evidence."
+   "last_revised": "2026-09-05",
+   "status_note": "Materially reframed on the certification side, which is why the challenger's trigger did not fire. Detectors have closed the false-positive gap — zero false positives across 495 human texts in independent testing — but labelled substantially AI-modified student essays fully human 41% of the time. Detection is now safe to use and useless to rely on, which settles the surveillance option and leaves process evidence and in-person demonstration as the only live answers."
   },
   {
    "id": "cu-credential",
@@ -3764,7 +3967,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-04",
-   "status_note": "Materially reframed after 8 days: Michigan's statewide portal now issues college offers from anonymised transcripts with no essay or recommendation, inverting the senior-year sequence, while a DHS memo forces internships to become universal graduation requirements or vanish. The question shifts from whether the credential holds value to which single artefact — the transcript — now carries all of it."
+   "status_note": "Revised yesterday; holding, and reinforced today. August payrolls grew in food service, local government education, construction and manufacturing while the information sector shed 23,000, and Cleveland Fed contacts report a shortage specifically of *younger* skilled trades labour — hiring is concentrating where school advising ranks lowest."
   },
   {
    "id": "cu-liability",
@@ -3794,7 +3997,7 @@
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-09-02",
-   "status_note": "Quiet today; no new evidence in 48 hours. Holding at the position established on promotion."
+   "status_note": "Quiet for a third day; no new evidence since promotion. Holding."
   },
   {
    "id": "cu-campus",
@@ -3823,7 +4026,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-01",
-   "status_note": "Holding. Data-centre siting is now recomposing district tax bases — one Illinois district went from $2.3M to $19M in property tax revenue with no enrolment attached — which introduces revenue-without-students as a new variable in campus economics, and single-counterparty concentration risk behind it."
+   "status_note": "Strengthening on an unexpected mechanism: Stanford research finds district closures often lose more enrolment funding than they save, because displaced families defect to charter and private schools. Independent-school seats may fill through neighbouring institutional failure rather than through their own draw — capacity pressure arriving without any improvement in the value proposition."
   }
  ],
  "verification": {
@@ -3833,6 +4036,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-05-full-house",
+   "date": "2026-09-05",
+   "title": "Full House",
+   "year": "2034",
+   "axis": "CU 03 resolving toward the credential repriced by a labour market hiring in low-prestige sectors — crossed with CU 05 resolving toward the campus filling up, but from other schools' failures rather than its own draw",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Repriced — hiring concentrates in sectors school advising treats as fallbacks, while the knowledge-work destination schools sell keeps contracting."
+    },
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Essential by default — public consolidation pushes families out of closing districts, and independent seats fill without the school having done anything to earn it."
+    }
+   ],
+   "premise": "Mount Vernon has a waitlist for the first time in fifteen years, and Dr. Ellis knows exactly why. Atlanta's public districts have closed forty-one schools since 2029 — the savings never materialised, the enrolment losses did — and each closure sends a wave of families who never intended to leave the system. The school is at 104% capacity. Sixty percent of its parents describe themselves as working class, including the ones earning $280,000. And the pathway the school sells, the four-year degree into knowledge work, is the one the labour market has spent five years quietly repricing downward while hiring in construction, care, food and skilled trades.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Reuben, 16",
+     "vignette": "He arrived in Year 9 when his middle school closed, on 70% aid, and he is doing well. His uncle is a controls technician on data-centre builds clearing $190,000 and has offered to get him into the apprenticeship at eighteen. Reuben's advisor is supportive in the careful way adults are when they are worried about you. He can't tell whether the school is offering him a future or an argument, and he has noticed that the students whose parents went to college are the ones being told to keep their options open."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Duarte, 13 years in",
+     "vignette": "Her classes have gone from eighteen to twenty-four, and a third of each section arrived mid-year from a closure. They are good kids carrying an interrupted transcript and a sense that school is something that happens to them. She is teaching more students, less well, to a curriculum aimed at a destination the Bureau of Labor Statistics stopped growing years ago. Nobody has asked her to change anything. Enrolment is up; from the board's angle, the year is a success."
+    },
+    {
+     "role": "Parent",
+     "name": "Yolanda",
+     "vignette": "She earns $310,000 as a hospital administrator and calls herself working class without irony — her father laid pipe, and she has decided that is what she is. She wants her son at a school with people like her, which now means something she could not define under oath. When the tuition letter came with a 6% increase, she felt the way she would have at twenty-five: squeezed, a little insulted. She gave to the annual fund anyway. She would not describe herself as wealthy to anyone, including herself."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "Every metric she reports is up. The waitlist is real, aid applications are up 40%, and the discount rate is at 31% and climbing. She is filling classrooms with families displaced by other institutions' collapse, on a value proposition — the college pathway — that her own scan data says is weakening. She could say this out loud at the October board meeting. She has drafted it. The draft's problem is that it describes the school's best year in a decade as a form of drift, and she cannot find a version that does not sound ungrateful."
+    }
+   ],
+   "tension": "The school is succeeding and the success is not its own. Seats fill because neighbouring institutions are failing, not because the promise got more true — and the promise itself, a degree pathway into knowledge work, is the thing the labour market has been quietly discounting while it hires in the sectors this school's advising treats as consolation. Meanwhile the families arriving no longer describe themselves as the class the school is priced for, which makes every tuition conversation feel like a betrayal to people who are, by any measure but their own, affluent. Nothing here is a crisis. That is the difficulty: a full house is the least likely condition under which anyone reopens the question of what the house is for.",
+   "provocations": [
+    "What share of our enrolment growth over the last three years came from families displaced by a school closure rather than families who chose us — and do we track the difference?",
+    "Our advising ranks pathways by prestige. If we ranked them by demonstrated local hiring, what would change, and who would object?",
+    "Our parent body increasingly does not identify as affluent. Does our tuition, aid and philanthropy messaging speak to the families we have, or the ones we think we have?"
+   ]
+  },
   {
    "id": "sc-2026-09-04-the-offer",
    "date": "2026-09-04",
@@ -4282,7 +4533,7 @@
  "challenger": {
   "id": "cu-evidence",
   "title": "Can a school still know what is true about its own students?",
-  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying ~18% fraudulent respondents, grading floors destroying the early-warning signal they were meant to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, and now resting-state neuroimaging shown to be confounded by uncontrolled thought content. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality.",
+  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying ~18% fraudulent respondents, grading floors destroying the early-warning signal they were meant to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, and resting-state neuroimaging confounded by uncontrolled thought content. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality.",
   "signals": [
    "ppra-opt-in-consent-upends-school-wellbeing-screening",
    "pew-bogus-respondents-opt-in-polls",
@@ -4301,7 +4552,7 @@
    "montessori-thalamic-attention-circuit-divergence"
   ],
   "would_displace": "cu-assessment",
-  "why_not_yet": "Displacement target changed today, and that is the substantive news. It was aimed at cu-credential, which has now been reframed and is clearly alive. The real convergence is with cu-assessment, whose last three status notes have each described a measurement-validity finding rather than a certification one. Held one more cycle on the argument that assessment integrity — what a defence can certify when all prose is machine-assisted — remains a genuinely distinct question. Explicit trigger for next time: if cu-assessment's next status note again reports measurement validity rather than certification, they are one question and cu-evidence should absorb it.",
+  "why_not_yet": "The trigger set on 4 September did not fire, and that is the honest result. It required cu-assessment's next status note to report measurement validity again rather than certification; instead cu-assessment produced a decisive certification finding — detectors now exonerate reliably but miss hybrid human-AI writing 41% of the time, which settles the surveillance option and leaves the certification question very much alive as its own force. Held on that basis, with no new grounding signals today. The trigger stands for the next cycle.",
   "first_noted": "2026-09-02"
  }
 }
