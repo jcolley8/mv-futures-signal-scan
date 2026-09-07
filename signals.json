@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-05",
- "scan_count": 10,
+ "last_updated": "2026-09-07",
+ "scan_count": 11,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -885,7 +885,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "eu-ai-content-marking-live",
@@ -1045,7 +1045,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "college-board-smart-glasses-sat-ban",
@@ -1069,7 +1069,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "asia-exam-glasses-cheating",
@@ -1279,7 +1279,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "china-health-first-schools",
@@ -1416,7 +1416,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "roblox-facial-age-estimation",
@@ -1486,7 +1486,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "mirror-life-moratorium",
@@ -1644,7 +1644,7 @@
    "source_date": "2026-08-19",
    "source_type": "journal",
    "first_seen": "2026-08-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "imagery-rescripting-fear-of-failure",
@@ -1776,7 +1776,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "ed-dept-defends-edtech-against-screen-time-bans",
@@ -2068,7 +2068,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "schell-games-layoffs-xr-education-studios",
@@ -2156,7 +2156,7 @@
    "source_date": "2026-08-25",
    "source_type": "report",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "four-year-visa-cap-triggers-preemptive-withdrawals",
@@ -2291,7 +2291,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "cte-prevalence-floor-youth-waiver-scrutiny",
@@ -2314,7 +2314,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "eeoc-pearson-vendor-accessibility-decree",
@@ -2337,7 +2337,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "harvest-to-hallways-kitchen-recapitalisation",
@@ -2810,7 +2810,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "qcew-flat-jobs-rising-wages-capital-region-losses",
@@ -2899,7 +2899,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "interleaved-homework-closes-equity-gap-calculus",
@@ -2921,7 +2921,7 @@
    "source_date": "2026-08-28",
    "source_type": "journal",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "bci-cleared-for-consumer-devices-not-just-medical",
@@ -3390,7 +3390,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "tarrant-polling-site-cuts-campus-voting-removal",
@@ -3749,7 +3749,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "concept-explanations-lift-mental-models-only-at-anomalies",
@@ -3817,7 +3817,7 @@
    "source_date": "2026-08-29",
    "source_type": "news",
    "first_seen": "2026-09-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "us-born-muslims-report-more-discrimination",
@@ -3887,6 +3887,326 @@
    "source_type": "report",
    "first_seen": "2026-09-05",
    "sightings": 1
+  },
+  {
+   "id": "australia-elite-universities-drop-atar-guarantees",
+   "title": "Australian elite universities scrap ATAR entry guarantees",
+   "type": "signal",
+   "summary": "The University of Melbourne has eliminated guaranteed-ATAR admission for all 2027 courses, retaining it only for equity applicants, and the University of Sydney has discontinued its equivalent scheme, per Times Higher Education on 7 September 2026. The trigger is federal 'managed growth' funding reform, under which institutions exceeding assigned domestic quotas by more than 5% or 750 students face penalties; Western Sydney University estimates it is already 15.5% above quota. The University of Queensland warned rationing places would 'most impact on low-SES students, who were more heavily represented among our lower ATAR applicants.' The reform targets concentration in which the five wealthiest institutions took 38% of sector revenue last year, up from 35% pre-pandemic.",
+   "so_what": "The published-threshold model that lets a counsellor tell a family 'this score guarantees a place' is being replaced by discretionary, quota-rationed selection in a system many families treat as a predictable backup — and a transparent number is being swapped for institutional judgment at precisely the moment schools are being told numbers no longer prove anything.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Times Higher Education",
+   "source_url": "https://www.timeshighereducation.com/news/leading-australian-universities-ditch-entry-guarantees",
+   "source_date": "2026-09-07",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "federal-court-rejects-title-ix-trans-exclusion-mandate",
+   "title": "Judge rules Title IX does not mandate trans athlete exclusion",
+   "type": "signal",
+   "summary": "U.S. District Judge Cynthia Valenzuela ruled on 2 September 2026 that Title IX does not require schools to exclude transgender athletes from teams matching their gender identity, rejecting the Justice Department's theory in its suit against California. DOJ had sought to strip $44.3 billion in federal funding from the California Department of Education over athlete AB Hernandez's participation at the CIF State Track Championship. The court held that Title IX regulations 'expressly permit schools' to maintain separate sex-based teams but do not compel exclusion. DOJ said it is 'evaluating our options for appeal.'",
+   "so_what": "The binding constraint for an independent school is not federal funding it may not take, but the state athletic association whose eligibility rules now sit between a federal enforcement posture and a contrary district-court reading — membership imports that exposure, which turns athletic participation policy from an athletic-director memo into a board-level legal document.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/policy-politics/title-ix-doesnt-require-transgender-athletes-exclusion-judge-rules/2026/09",
+   "source_date": "2026-09-02",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "ed-dept-rule-lets-it-cancel-grants-for-convenience",
+   "title": "Proposed rule lets Education Dept cancel grants for convenience",
+   "type": "driver",
+   "summary": "The U.S. Department of Education issued proposed regulations on 26 August 2026 that would let it terminate multiyear competitive grants 'for convenience' when it deems doing so in the government's best interest, cut subsequent-year funding, eliminate certain grantee appeal processes, and drop the requirement to publish grant notices in the Federal Register. It would also let the department enforce presidential executive orders directly against recipients. The department has already terminated over $2 billion in multiyear grants in 18 months, including $1 billion in school mental health grants. Affected streams include school counsellor expansion, teacher preparation and Title I; comments close 23 September 2026.",
+   "so_what": "Any staffing line an independent school built on a grant-funded partner — a counselling consortium, a university teacher-residency pipeline, a mental health provider — becomes cancellable mid-cycle with no appeal, so those roles need bridge-funding reserves rather than renewal assumptions; it also thins the local public counselling capacity families rely on after hours.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/policy-politics/ed-dept-would-have-more-power-to-cut-off-grants-under-new-rules/2026/08",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "korea-births-rise-for-24th-consecutive-month",
+   "title": "Korean births rise 15.6% in 24th straight monthly gain",
+   "type": "trend",
+   "summary": "Statistics Korea reported on 26 August 2026 that June births reached 23,111, up 15.6% from 19,996 a year earlier — the 24th consecutive month of year-on-year growth and the fastest June rate since records began in 1981. First-half 2026 births totalled 145,804, up 15.4%, and the total fertility rate rose to 0.88 from 0.77, with officials projecting roughly 0.9 for the full year. June marriages rose 14% to 21,075, extending a recovery underway since May 2023. Deaths of 27,794 still exceeded births, producing a natural decline of 4,683 for the month.",
+   "so_what": "Two years of sustained rebound off a historic floor makes the 'inevitable enrolment cliff' framing used to justify contraction planning empirically contestable — a school that consolidates campuses or sells capacity on a monotonic-decline assumption may lock in scarcity just as a cohort turns, and marriage timing is a leading indicator that can be tracked locally.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "The Korea Times",
+   "source_url": "https://www.koreatimes.co.kr/southkorea/society/20260826/births-up-156-in-june-extend-gains-for-24th-month",
+   "source_date": "2026-08-26",
+   "source_type": "data",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "shaping-curricula-build-generalizable-time-codes",
+   "title": "Curriculum order decides whether learning generalises",
+   "type": "signal",
+   "summary": "A Nature Neuroscience study published 3 September 2026 trained 24 recurrent neural networks and 20 mice on a temporal delayed nonmatch-to-sample task while recording medial entorhinal cortex with Neuropixels probes. Shaped networks were far more noise-robust (F10,242 = 180.10, P = 4.65e-106) and supported cross-context decoding of elapsed time (t = 12.1, P = 1.3e-23); properly shaped mice developed lower-dimensional state representations (P = 2.73e-3), while animals given only the truncated sequence fell behind by day 8 (t = 4.2, P = 0.001). The authors conclude that the structure of prior experience, not total practice volume, governs whether abstract, transferable representations form at all.",
+   "so_what": "It supplies mechanistic evidence that the sequence of a scope-and-sequence is the intervention, not scaffolding around it: a badly ordered unit does not merely slow students, it locks in a rigid strategy that later review cannot unwind — which argues for auditing course sequencing as rigorously as schools currently audit assessment.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02409-7",
+   "source_date": "2026-09-03",
+   "source_type": "journal",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "polygenic-embryo-selection-intelligence-normalised",
+   "title": "Public treats intelligence embryo screening like medical screening",
+   "type": "driver",
+   "summary": "A registered report in Nature Human Behaviour published 26 August 2026 surveyed 1,467 US and 623 Chinese participants on polygenic embryo screening. Although respondents stated more willingness to screen for medical conditions such as heart disease than for non-medical traits, over half still endorsed non-medical trait testing, and in forced-choice implantation scenarios participants avoided embryos flagged for low intelligence and antisocial behaviour nearly as strongly as embryos flagged for heart disease. The pattern held across both samples; perceived controllability of a trait did not explain avoidance, whereas perceived seriousness of consequences did.",
+   "so_what": "The stated medical/non-medical line that clinics and regulators rely on collapses at the point of decision, so cognitive-trait selection normalises through consumer behaviour rather than policy — and schools admitting the classes of the late 2030s should expect parent expectations about innate academic potential, and disclosure questions about genetic reports, well before any regulation arrives.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "S-Social",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02562-w",
+   "source_date": "2026-08-26",
+   "source_type": "journal",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "nis-teen-2025-routine-adolescent-vaccination-slide",
+   "title": "US teen vaccination coverage slips across routine vaccines",
+   "type": "signal",
+   "summary": "CDC's MMWR of 3 September 2026 reported 2025 National Immunization Survey-Teen results from 18,692 adolescents aged 13-17. Tdap coverage fell from 91.3% to 88.8% and MenACWY from 90.1% to 89.0% year over year, while MenB (2+ doses) dropped from 15.9% to 12.5%; HPV coverage stalled for a fourth consecutive year at 77.7% for one dose and 63.4% up to date. HPV coverage ran 12.0 percentage points lower in rural than urban areas, with one-dose jurisdictional coverage spanning 49.5% in Mississippi to 94.1% in Rhode Island.",
+   "so_what": "Declines in Tdap and MenACWY — the two vaccines most often tied to state school-entry requirements — signal that exemption and hesitancy pressure is now reaching mandated products, not just optional ones, which turns a school's own enrolment-health file from a compliance chore into a leading indicator with real dormitory and overnight-trip exposure math behind it.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "CDC Morbidity and Mortality Weekly Report",
+   "source_url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a1.htm",
+   "source_date": "2026-09-03",
+   "source_type": "data",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "cannabis-marks-polysubstance-risk-in-teen-overdose-deaths",
+   "title": "Cannabis present in 42.7% of teen overdose deaths",
+   "type": "signal",
+   "summary": "A CDC MMWR Notes from the Field published 3 September 2026 analysed 209,166 overdose deaths from January 2021 to June 2025 across 31 states and Washington DC. Cannabis was detected in 21.0% of all overdose deaths but listed as a cause in only 0.8% and as the sole drug in 0.004% — nine deaths. Detection was highest in the youngest group, 42.7% of deaths among 12-17 year olds versus 16.7% among those 50 and over, despite lower self-reported adolescent use; among adolescent decedents with cannabis present, 88.6% also involved illegally manufactured fentanyls and 69.0% involved stimulants.",
+   "so_what": "The data reframe adolescent cannabis use as a marker of proximity to a contaminated supply chain rather than a standalone risk, which is a different message than most school drug-education curricula deliver — and makes the case for pairing any cannabis policy with practical fentanyl-contamination content and naloxone availability, since the lethal event is almost never the drug the student thought they were taking.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "CDC Morbidity and Mortality Weekly Report",
+   "source_url": "https://www.cdc.gov/mmwr/volumes/75/wr/mm7534a2.htm",
+   "source_date": "2026-09-03",
+   "source_type": "data",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "vitestro-aletta-fda-autonomous-blood-draw",
+   "title": "FDA clears first autonomous blood-drawing robot",
+   "type": "signal",
+   "summary": "The FDA authorised Vitestro's Aletta on 19 August 2026, making it the first autonomous venipuncture device cleared in the United States; it had carried a European CE mark for roughly two years. Aletta combines near-infrared imaging, ultrasound and AI to locate a vein, and achieved a 94.5% first-attempt success rate across a Dutch trial of more than 1,600 patients. One human phlebotomist can supervise up to three machines, and authorisation covers non-hospitalised adult settings only. Clinical chemists including Joe El-Khoury have flagged that melanin can degrade infrared vein detection and are pressing Vitestro to publish skin-tone-stratified data.",
+   "so_what": "A licensed, credentialed clinical skill just moved to a 3:1 supervision ratio, which is the clearest evidence yet that health-sciences and CTE pathways should teach robot oversight, exception handling and device-bias auditing rather than the manual procedure alone — and it hands the makerspace an ethics case with published performance numbers and a named equity gap.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "IEEE Spectrum",
+   "source_url": "https://spectrum.ieee.org/blood-draw-robot-vitestro-aletta",
+   "source_date": "2026-09-07",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "rayneo-io-499-display-glasses-40-countries",
+   "title": "RayNeo ships $499 display glasses across 40 countries",
+   "type": "signal",
+   "summary": "TCL subsidiary RayNeo began retail sales on 4 September 2026 at IFA Berlin of the iO smart glasses at $499 (€549), weighing 33 grams with a heads-up display, live captions, multilingual translation and AI voice summaries. It simultaneously priced the GT Max at $429 and the GT at $329, both with Dolby Vision playback and audio tuned by Bang & Olufsen. Sales run through RayNeo's own store and Amazon across 40 countries including the EU, UK, US, Canada, Mexico and Asia-Pacific. RayNeo is an Official Worldwide Olympic Partner.",
+   "so_what": "Display glasses with live captioning have crossed below the price of a mid-range Chromebook, so they arrive on campus as ordinary student purchases rather than IT-provisioned devices — and the same $499 object is simultaneously a disability accommodation and an undetectable assessment-integrity problem, which means any blanket ban collides with the accessibility office on day one.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "PR Newswire (RayNeo/TCL)",
+   "source_url": "https://www.prnewswire.com/news-releases/rayneo-showcases-next-generation-cinematic-ar-and-ai-smart-glasses-at-ifa-2026-with-dolby-and-bang--olufsen-302870067.html",
+   "source_date": "2026-09-04",
+   "source_type": "advertisement",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "zanvastro-alexander-disease-first-approval",
+   "title": "FDA approves first Alexander disease therapy",
+   "type": "signal",
+   "summary": "On 3 September 2026 the FDA approved Zanvastro (zilganersen), an Ionis antisense oligonucleotide, as the first therapy targeting the cause of Alexander disease, a GFAP-mutation leukodystrophy affecting fewer than one in a million people. Approval rested on 49 patients aged 2 and older plus four infants; patients aged 5+ with gait impairment showed significantly better walking speed at 61 weeks versus untreated controls, and children aged 2-4 gained standing, walking, running and jumping skills while controls declined. The drug is delivered by intrathecal injection every three months and carried Orphan Drug, Fast Track, Breakthrough Therapy and Rare Pediatric Disease designations.",
+   "so_what": "Schools should expect to enrol and retain students who would previously have withdrawn or died mid-education, but whose treatment requires quarterly spinal injections, medical absence patterns and support plans built around stabilisation rather than decline — a slow-growing cohort that nursing capacity and duty-of-care planning has no current line for.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "daraxonrasib-ras-inhibitor-voucher-speed",
+   "title": "First RAS inhibitor approved via priority voucher pilot",
+   "type": "signal",
+   "summary": "The FDA approved Rasonque (daraxonrasib) from Revolution Medicines on 26 August 2026, the first targeted therapy inhibiting multiple forms of RAS, the driver mutated in roughly 90-95% of the 67,000 US pancreatic cancer diagnoses each year. In a 500-patient trial of previously treated metastatic pancreatic adenocarcinoma, median overall survival was 13.2 months versus 6.7 months on standard chemotherapy. The approval came 6.5 months ahead of the user-fee deadline under Commissioner Marty Makary's National Priority Voucher pilot, the same pathway that delivered a 61-day gene therapy review earlier in 2026. RAS had been considered undruggable for four decades.",
+   "so_what": "The voucher pilot is quietly rewriting how fast biomedical facts become public facts, so science curricula and the medical assumptions embedded in family-support policies will now age in months rather than years — a school's textbook cycle and its illness-and-bereavement protocols are both calibrated to a slower FDA than the one now operating.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "screwworm-eua-expands-to-pets",
+   "title": "FDA authorises screwworm prevention for household pets",
+   "type": "signal",
+   "summary": "On 3 September 2026 the FDA issued an emergency use authorisation for Capstar (nitenpyram) and generic nitenpyram tablets to prevent and treat New World screwworm infestation in dogs, puppies, cats and kittens weighing at least 2 pounds and aged 4 weeks or older. This expands a June 2026 EUA that covered treatment only, and marks the first prevention option authorised for companion animals as USDA tracks confirmed US detections on a public dashboard. New World screwworm is a flesh-eating fly larva eradicated from the United States in 1966; its return already triggered a separate 27 August 2026 EUA for cattle. The FDA's standard for issuing the authorisation was only that it is 'reasonable to believe' the products may be effective.",
+   "so_what": "A parasite the US declared eradicated 60 years ago is now the subject of emergency authorisations for household pets, which puts campus animals, agricultural and equestrian programmes and southern-state service-learning trips inside a live veterinary-biosecurity question — and risk registers built around human infectious disease have no line for a zoonotic vector arriving through the animals students touch.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
+  },
+  {
+   "id": "california-subrogation-cap-legislative-split",
+   "title": "California lawmakers resist wildfire subrogation limits",
+   "type": "driver",
+   "summary": "California Senate Democrats broke with Governor Gavin Newsom on 26 August 2026 over his end-of-session package to shield PG&E, Edison International and Sempra from wildfire liability when their equipment ignites fires. Newsom's plan would bar insurers from suing utilities to recoup policyholder payouts — the subrogation right insurers say holds statewide premiums down — in exchange for faster payouts from the $21 billion state wildfire fund to survivors who surrender their right to litigate. The Senate counter-proposal preserves insurer subrogation. The fight lands with the Eaton Fire alone carrying estimated losses of $24-45 billion.",
+   "so_what": "If a state can legislate away the insurer's right to chase the party that caused a catastrophe, the cost migrates into property premiums paid by every institution in the risk pool, including schools nowhere near the ignition point — and it becomes the template argument for capping the liability of any well-capitalised defendant, which cuts both ways for an institution that is itself a deep-pocket defendant.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/west/2026/08/26/882867.htm",
+   "source_date": "2026-08-26",
+   "source_type": "news",
+   "first_seen": "2026-09-07",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -3909,38 +4229,59 @@
     "clinicians-request-ai-free-practice",
     "llm-homogenization-of-thought",
     "ai-narrows-science",
-    "austrian-teens-ai-companions"
+    "austrian-teens-ai-companions",
+    "vitestro-aletta-fda-autonomous-blood-draw"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-03",
-   "status_note": "Holding; revised 3 Sept. Two additions sharpen rather than move it: AI explanation improves human understanding only at anomalies, not during routine operation, and a complexity-science preprint models LLM dependence as threshold-driven contagion rather than dose-driven habit.",
+   "status_note": "Quiet today; no new evidence. Holding at the 3 September framing — explanation helps only at anomalies, and dependence looks threshold-driven rather than dose-driven. One indirect touch: the FDA cleared an autonomous venipuncture device supervised 3:1 by a human, which is this uncertainty's question posed in a licensed clinical skill rather than a classroom.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
-   "id": "cu-assessment",
-   "title": "When the exam stops being verifiable, what becomes proof of learning?",
-   "question": "Assessment integrity is failing simultaneously at every level — honor codes, standardized tests, and hiring screens. Does the system respond by restoring surveillance, or by redesigning assessment so that AI use is simply irrelevant to the evidence?",
-   "why_it_matters": "Whatever fills this vacuum in the next 24–36 months becomes the default definition of a diploma for a generation. New York is retiring Regents with no agreed replacement measure; whoever supplies credible competency infrastructure in that gap sets the standard. A school that builds serious performance assessment now is either three years early or three years wasted.",
-   "pole_a": "Surveillance restoration — proctoring, device profiling, faraday rooms, biometric verification; the exam survives by being physically secured.",
-   "pole_b": "Performance redesign — oral defense, studio critique, live problem-solving, portfolios of shipped work; verification moves from the artifact to the person in the room.",
+   "id": "cu-evidence",
+   "title": "Can a school still know what is true about its own students?",
+   "question": "Every instrument a school uses to see its own population is degrading at once, and from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying roughly 18% fraudulent respondents, grading floors destroying the early-warning signal they were built to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, detectors that exonerate reliably but cannot see hybrid human-AI writing, and now $499 display glasses that make the conditions of an assessment unverifiable. Does the school rebuild its evidence base around a small set of instruments it can actually defend — or keep operating on inherited measures whose validity it can no longer check?",
+   "why_it_matters": "This absorbs the assessment question rather than sitting beside it. 'What counts as proof of learning' turned out to be one instance of a general failure: the problem is not that the exam is cheatable, it is that the school can no longer establish the conditions under which any observation was made. That reaches further than assessment — into wellbeing screening, attendance triggers, placement decisions, learning-support identification, survey data used in strategic planning and the research base schools cite when they change practice. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality, and the institution's confidence becomes untethered from its actual knowledge. The uncomfortable version: a school could be wrong about its students for a decade and have no instrument capable of telling it so.",
+   "pole_a": "Evidence rebuilt — the school narrows to a small number of instruments it directly controls and can verify: work produced in the room, observed performance, longitudinal teacher judgment held to inter-rater standards. Fewer measures, defended, with known error bars.",
+   "pole_b": "Evidence outsourced — inherited instruments are retained at unknown validity and the gap is managed with vendors, disclaimers and legal review; decisions continue to be made on numbers nobody in the building can audit.",
    "watch": [
-    "What New York actually adopts to measure its six Portrait of a Graduate competencies",
-    "Whether College Board's pre-emptive wearable bans hold once glasses become indistinguishable from eyewear",
-    "Whether accreditors begin asking for evidence of assessment redesign rather than proctoring compliance",
-    "Whether employer viva-style screening diffuses from tech into professional hiring generally"
+    "Whether any school publishes error bars or a known-limitations statement alongside its own wellbeing or climate survey data",
+    "Whether accreditors begin asking how a school validates its instruments rather than whether it administers them",
+    "Whether the accommodation case for display glasses forces a formal rule before the integrity case does",
+    "Whether teacher judgment gets rehabilitated as a measurement instrument, with moderation and inter-rater checks, rather than treated as bias to be engineered out",
+    "Whether a district or independent school retires a measure outright on validity grounds rather than replacing it with another vendor product"
    ],
    "signals": [
+    "ppra-opt-in-consent-upends-school-wellbeing-screening",
+    "pew-bogus-respondents-opt-in-polls",
+    "indianapolis-unwinds-no-zero-grading-floor",
+    "empirical-absenteeism-threshold-half-of-ten-percent",
+    "agents-declare-success-while-failing-science-workflows",
+    "causal-overclaim-social-science-ai",
+    "depression-recovers-suicide-risk-decouples-by-neighborhood",
+    "reading-brain-continuous-not-categorical-dyslexia",
+    "students-contest-llm-classifications-of-their-own-talk",
+    "ai-accelerates-only-weird-digitisable-evidence",
+    "home-broadband-subsidies-negative-achievement-signal",
+    "fully-virtual-public-schools-double-to-one-in-eighty",
+    "resting-thought-content-decodable-confounds-brain-behaviour",
+    "social-tech-life-satisfaction-null-panel",
+    "montessori-thalamic-attention-circuit-divergence",
     "princeton-ends-unproctored-honor-exams",
     "ny-regents-to-portrait-of-a-graduate",
     "college-board-smart-glasses-sat-ban",
     "asia-exam-glasses-cheating",
     "in-person-interviews-return-ai-fraud",
     "cbse-twice-yearly-board-exams",
-    "agent-time-horizons-3-month-doubling"
+    "agent-time-horizons-3-month-doubling",
+    "detectors-near-perfect-blind-to-hybrid-student-writing",
+    "rayneo-io-499-display-glasses-40-countries",
+    "australia-elite-universities-drop-atar-guarantees",
+    "shaping-curricula-build-generalizable-time-codes"
    ],
-   "first_identified": "2026-08-13",
-   "last_revised": "2026-09-05",
-   "status_note": "Materially reframed on the certification side, which is why the challenger's trigger did not fire. Detectors have closed the false-positive gap — zero false positives across 495 human texts in independent testing — but labelled substantially AI-modified student essays fully human 41% of the time. Detection is now safe to use and useless to rely on, which settles the surveillance option and leaves process evidence and in-person demonstration as the only live answers."
+   "first_identified": "2026-09-07",
+   "last_revised": "2026-09-07",
+   "status_note": "PROMOTED today, and it absorbs cu-assessment rather than merely displacing it. The standing trigger set on 2 September was that cu-evidence should take the slot the moment cu-assessment's evidence turned from certification to measurement validity. It turned today: RayNeo began retail sales of 33-gram display glasses with live captioning at $499 across 40 countries — the same object is a disability accommodation and an undetectable assessment aid, so the school can no longer establish the conditions under which a performance occurred, and cannot ban its way out without colliding with accessibility. Combined with 5 September's detector finding, cu-assessment's live content had become entirely about degraded instruments. Challenger since 2 September; five days knocking."
   },
   {
    "id": "cu-credential",
@@ -3963,11 +4304,14 @@
     "uk-entry-level-hiring-skills-mismatch",
     "datacenter-trades-wage-boom",
     "hii-high-school-career-signing-day",
-    "bls-decade-of-slow-job-growth"
+    "bls-decade-of-slow-job-growth",
+    "australia-elite-universities-drop-atar-guarantees",
+    "vitestro-aletta-fda-autonomous-blood-draw",
+    "korea-births-rise-for-24th-consecutive-month"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-04",
-   "status_note": "Revised yesterday; holding, and reinforced today. August payrolls grew in food service, local government education, construction and manufacturing while the information sector shed 23,000, and Cleveland Fed contacts report a shortage specifically of *younger* skilled trades labour — hiring is concentrating where school advising ranks lowest."
+   "last_revised": "2026-09-07",
+   "status_note": "Revised. The reprice is now visible on the admissions side as well as the labour side: Melbourne has scrapped guaranteed-ATAR entry for all 2027 courses and Sydney has dropped its equivalent, replacing a published threshold with quota-rationed institutional discretion under federal managed-growth penalties. A transparent number is being withdrawn precisely when schools are being told numbers no longer prove anything. Against that, the FDA's clearance of an autonomous blood-draw robot supervised 3:1 shows a licensed credential losing headcount without losing authority — the credential survives as a supervision licence rather than a performance one."
   },
   {
    "id": "cu-liability",
@@ -3993,11 +4337,16 @@
     "climate-tail-risk-model-underestimation",
     "scotus-petition-special-ed-services-on-private-campuses",
     "federal-autism-elopement-alert-protocol",
-    "special-education-complaints-jump-46-percent"
+    "special-education-complaints-jump-46-percent",
+    "california-subrogation-cap-legislative-split",
+    "ed-dept-rule-lets-it-cancel-grants-for-convenience",
+    "federal-court-rejects-title-ix-trans-exclusion-mandate",
+    "screwworm-eua-expands-to-pets",
+    "zanvastro-alexander-disease-first-approval"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-02",
-   "status_note": "Quiet for a third day; no new evidence since promotion. Holding."
+   "last_revised": "2026-09-07",
+   "status_note": "Revived decisively after five quiet days, and no longer the weakest of the five. Three independent additions: California's Senate broke with the Governor over a package barring insurers from subrogating against utilities that ignite fires — a template for legislating away recovery against a deep-pocket defendant, with the cost migrating into every institution's premium; the Education Department proposed rules letting it cancel multiyear grants 'for convenience' and eliminating grantee appeal; and a federal judge held Title IX does not compel transgender athlete exclusion, leaving athletic eligibility suspended between a federal enforcement posture and a contrary court reading. In each case the operative question is not what is right but what is defensible, and by whom."
   },
   {
    "id": "cu-campus",
@@ -4026,7 +4375,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-01",
-   "status_note": "Strengthening on an unexpected mechanism: Stanford research finds district closures often lose more enrolment funding than they save, because displaced families defect to charter and private schools. Independent-school seats may fill through neighbouring institutional failure rather than through their own draw — capacity pressure arriving without any improvement in the value proposition."
+   "status_note": "Quiet; no new evidence in six days, and now the weakest of the five — the challenger names it as the displacement target. The 1 September mechanism still stands: district closures often lose more enrolment funding than they save, so independent seats may fill through neighbouring institutional failure rather than through any improvement in the value proposition."
   }
  ],
  "verification": {
@@ -4036,6 +4385,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-07-discoverable",
+   "date": "2026-09-07",
+   "title": "Discoverable",
+   "year": "2035",
+   "axis": "CU 04 resolving toward liability as governor — what a school records is decided by counsel, not by pedagogy — crossed with CU 03 resolving toward the credential HOLDING its value, for the unexpected reason that the transcript is the one document about a child that has been hardened against legal challenge",
+   "based_on": [
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — documented duty sets the boundary of practice; retention schedules and counsel decide what teachers write down about children."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Holds — and hardens. After a decade in which every other claim about a student became contestable, the audited, timestamped, appealable transcript survives as the only assertion an institution will stand behind."
+    }
+   ],
+   "premise": "By 2035 the transcript is a legal instrument. Three waves did it: the negligence-per-se line that made a missed statutory duty actionable on its face, the discovery orders that pulled a decade of advisory notes into two separate suits, and the carrier language that now prices pastoral-record practice directly. Mount Vernon's response was orderly and, everyone agrees, correct. Advisory observations are retained 180 days. Narrative comments were retired in 2031 in favour of a rubric bank of 340 approved statements. The transcript itself, by contrast, got better: every grade carries an evidence link, an appeal window and a timestamp, and it is the one document about a child the school has been willing to defend under oath. Universities and employers noticed. The credential is worth more than it was in 2026 — because it is now the only part of the record that means anything.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Theo, 17",
+     "vignette": "He had a bad year in Year 10 — his father was ill, and he stopped turning things in. Two teachers noticed and one of them, Mr. Reyes, more or less carried him through it. None of that is anywhere. The grades are, permanently, with evidence links. When he asked Mr. Reyes for a recommendation, he got a form: attendance, course rigour, three rubric statements from the approved bank. It was accurate. Theo read it four times looking for the year in it and eventually understood that the school's memory of him and his own memory of the school are two different documents, and only one of them is admissible."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Reyes, 21 years in",
+     "vignette": "He still notices everything. He has simply stopped writing it down, and he did not decide this — it happened over four years of small, reasonable trainings. Say it in the room, not in the system. He is aware that the thing that made him good at this job is now the thing he practices off the record, and that when he retires in six years it leaves with him, because nothing he knew about a student was ever stored anywhere. He keeps a paper notebook in his bag. He knows what it is. He keeps it anyway."
+    },
+    {
+     "role": "Parent",
+     "name": "Devon",
+     "vignette": "He asked for his daughter's file after a placement decision he disagreed with, and he got it in eleven days, complete, beautifully organised, and it told him nothing. Grades with evidence links. Three rubric statements. No trace of the two years of conversations he had had with her teachers, all of which he remembers as substantive. His complaint has nowhere to go — the file is not incomplete, it is exactly what the retention policy says it should be. He has begun to suspect that the school's transparency and the school's opacity are the same policy, and that he preferred the version where he had to ask a person."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "Her transcript is the best in the region and she is proud of it; the audit trail took four years and it is the reason three universities now take her school's grades at face value. She also signed the 180-day retention schedule, and she can trace the line from that signature to the fact that no adult in this building can now write a sentence about a child that will outlive a semester. Counsel calls it a clean posture. Her development office calls it a problem, because alumni give to people who remembered them. She has asked twice for a legal opinion on a protected pastoral record. Both times the answer was that anything you create is discoverable, and the only safe document is the one you never wrote."
+    }
+   ],
+   "tension": "The school got exactly what the decade demanded: a credential that holds because it can survive a challenge. But a record hardens by shedding everything that cannot be defended, and what could not be defended was the part that knew the child — the uncertain observation, the early worry, the note that says something is different this term. So the institution ends up with an unimpeachable account of a student's performance and no account at all of their formation, and it cannot fix this by writing more, because the writing is the exposure. The credential kept its value by becoming the only thing the school is willing to say. Nobody is doing anything wrong. Every clause is prudent. And a graduate now leaves with a document that would win in court and could not tell you who they were.",
+   "provocations": [
+    "What do we currently record about a student that would survive a subpoena, and what do we record that we would rather not have to explain? Which of those two is the one we would want a parent to read?",
+    "Our retention schedule was written by counsel. Who in this school is responsible for arguing the cost side of it, and have we ever asked them to put a number on what a shorter memory costs us?",
+    "If the transcript is the only artefact anyone outside trusts, are we improving it because it is true or because it is defensible — and would we be able to tell the difference?"
+   ]
+  },
   {
    "id": "sc-2026-09-05-full-house",
    "date": "2026-09-05",
@@ -4531,28 +4928,29 @@
   "Wildcards & Periphery"
  ],
  "challenger": {
-  "id": "cu-evidence",
-  "title": "Can a school still know what is true about its own students?",
-  "why": "Every instrument schools use to see their population is degrading at once, from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying ~18% fraudulent respondents, grading floors destroying the early-warning signal they were meant to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, and resting-state neuroimaging confounded by uncontrolled thought content. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality.",
+  "id": "cu-boundary",
+  "title": "Where does the student end and the equipment begin?",
+  "why": "The line between a person and their apparatus is dissolving from four directions at once, and schools have no rule that survives any of them. Display glasses with live captioning now ship at $499 in 40 countries, waveguide AR shipments are up 600%, and the same object is an accommodation, a translation aid and an undetectable exam device. Consumer BCI has been cleared outside the medical pathway, non-invasive decoding can type from brain activity, and Vermont has legislated neural rights while student neural data sits in no policy anywhere. AI companions are close enough to persons that product updates trigger measurable grief in adolescents, and students have begun formally contesting LLM classifications of their own speech. Every school policy in this territory — devices, integrity, accessibility, privacy, even discipline — assumes a clean boundary at the skin, and that assumption is now false in cheap consumer hardware rather than in theory.",
   "signals": [
-   "ppra-opt-in-consent-upends-school-wellbeing-screening",
-   "pew-bogus-respondents-opt-in-polls",
-   "indianapolis-unwinds-no-zero-grading-floor",
-   "empirical-absenteeism-threshold-half-of-ten-percent",
-   "agents-declare-success-while-failing-science-workflows",
-   "causal-overclaim-social-science-ai",
-   "depression-recovers-suicide-risk-decouples-by-neighborhood",
-   "reading-brain-continuous-not-categorical-dyslexia",
+   "rayneo-io-499-display-glasses-40-countries",
+   "waveguide-ar-glasses-600-percent",
+   "smart-glasses-in-schools",
+   "college-board-smart-glasses-sat-ban",
+   "asia-exam-glasses-cheating",
+   "bci-cleared-for-consumer-devices-not-just-medical",
+   "china-first-commercial-bci",
+   "brain2qwerty-noninvasive-typing",
+   "vermont-neural-rights-statute",
+   "neural-data-student-privacy",
+   "austrian-teens-ai-companions",
+   "ai-companion-updates-trigger-grief",
+   "meta-settlement-imposes-school-day-notification-blackout",
+   "australia-under16-ban-enforcement-gap",
    "students-contest-llm-classifications-of-their-own-talk",
-   "ai-accelerates-only-weird-digitisable-evidence",
-   "home-broadband-subsidies-negative-achievement-signal",
-   "fully-virtual-public-schools-double-to-one-in-eighty",
-   "resting-thought-content-decodable-confounds-brain-behaviour",
-   "social-tech-life-satisfaction-null-panel",
-   "montessori-thalamic-attention-circuit-divergence"
+   "vitestro-aletta-fda-autonomous-blood-draw"
   ],
-  "would_displace": "cu-assessment",
-  "why_not_yet": "The trigger set on 4 September did not fire, and that is the honest result. It required cu-assessment's next status note to report measurement validity again rather than certification; instead cu-assessment produced a decisive certification finding — detectors now exonerate reliably but miss hybrid human-AI writing 41% of the time, which settles the surveillance option and leaves the certification question very much alive as its own force. Held on that basis, with no new grounding signals today. The trigger stands for the next cycle.",
-  "first_noted": "2026-09-02"
+  "would_displace": "cu-campus",
+  "why_not_yet": "cu-campus is stale but not wrong, and its mechanism — seats filling through other institutions' collapse — is a live financial question this school will face in an admissions cycle, not a decade. The boundary question is better grounded (16 signals) but currently arrives at the school as a policy problem rather than a strategic one: every instance so far is answerable by a rule, even a hard one. It becomes a genuine uncertainty at the point where the rule stops working in both directions at once — when banning the device is an accessibility violation and permitting it is an integrity failure, with no third option. Promote it if a school, court or examining board is forced to adjudicate a display-glasses accommodation request against an integrity policy, or if student neural or affective data enters a school system under any vendor contract.",
+  "first_noted": "2026-09-07"
  }
 }
