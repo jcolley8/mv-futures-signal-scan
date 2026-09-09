@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-08",
- "scan_count": 12,
+ "last_updated": "2026-09-09",
+ "scan_count": 13,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -679,7 +679,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "cdc-record-low-fertility-2025",
@@ -701,7 +701,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "datacenter-trades-wage-boom",
@@ -724,7 +724,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "in-person-interviews-return-ai-fraud",
@@ -885,7 +885,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "eu-ai-content-marking-live",
@@ -908,7 +908,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "news-trust-record-low-social-overtakes",
@@ -1022,7 +1022,7 @@
    "source_type": "journal",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "waveguide-ar-glasses-600-percent",
@@ -1116,7 +1116,7 @@
    "source_type": "advertisement",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "unitree-ipo-9-billion",
@@ -1139,7 +1139,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "scrap-1-benchtop-metal-printer",
@@ -1279,7 +1279,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "china-health-first-schools",
@@ -1370,7 +1370,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "prediction-market-ads-minors",
@@ -1776,7 +1776,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "ed-dept-defends-edtech-against-screen-time-bans",
@@ -2045,7 +2045,7 @@
    "source_date": "2026-08-26",
    "source_type": "journal",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "bedrock-operator-free-excavators-live-sites",
@@ -2156,7 +2156,7 @@
    "source_date": "2026-08-25",
    "source_type": "report",
    "first_seen": "2026-08-28",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "four-year-visa-cap-triggers-preemptive-withdrawals",
@@ -2516,7 +2516,7 @@
    "source_date": "2026-08-19",
    "source_type": "journal",
    "first_seen": "2026-08-29",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "kindergarten-screening-failure-liability",
@@ -2539,7 +2539,7 @@
    "source_date": "2026-08-27",
    "source_type": "news",
    "first_seen": "2026-08-29",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "teacher-pipeline-alternative-certification-majority",
@@ -2585,7 +2585,7 @@
    "source_date": "2026-08-20",
    "source_type": "policy",
    "first_seen": "2026-08-29",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "newborn-genomic-cancer-predisposition-cohort",
@@ -2608,7 +2608,7 @@
    "source_date": "2026-08-12",
    "source_type": "study",
    "first_seen": "2026-08-29",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ppra-opt-in-consent-upends-school-wellbeing-screening",
@@ -2788,7 +2788,7 @@
    "source_date": "2026-08-24",
    "source_type": "data",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "japan-first-half-births-rise-first-time-eleven-years",
@@ -2987,7 +2987,7 @@
    "source_date": "2026-08-27",
    "source_type": "data",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "depression-recovers-suicide-risk-decouples-by-neighborhood",
@@ -3009,7 +3009,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "social-jet-lag-anxiety-effect-small",
@@ -3143,7 +3143,7 @@
    "source_date": "2026-08-21",
    "source_type": "policy",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "home-broadband-subsidies-negative-achievement-signal",
@@ -3256,7 +3256,7 @@
    "source_date": "2026-09-03",
    "source_type": "journal",
    "first_seen": "2026-09-03",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ai-accelerates-only-weird-digitisable-evidence",
@@ -3300,7 +3300,7 @@
    "source_date": "2026-09-02",
    "source_type": "report",
    "first_seen": "2026-09-03",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "foreign-born-decline-is-mostly-non-workers",
@@ -3390,7 +3390,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "tarrant-polling-site-cuts-campus-voting-removal",
@@ -3661,7 +3661,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-04",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "medtronic-700m-cornerstone-surgical-robotics",
@@ -4045,7 +4045,7 @@
    "source_date": "2026-09-03",
    "source_type": "data",
    "first_seen": "2026-09-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "cannabis-marks-polysubstance-risk-in-teen-overdose-deaths",
@@ -4229,7 +4229,7 @@
    "source_date": "2026-09-08",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "daily-ai-chatbot-use-28-point-science-penalty",
@@ -4252,7 +4252,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "gallup-k12-satisfaction-falls-to-32-percent",
@@ -4275,7 +4275,7 @@
    "source_date": "2026-09-07",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "socratic-tutors-lose-to-answer-giving",
@@ -4525,6 +4525,325 @@
    "source_type": "news",
    "first_seen": "2026-09-08",
    "sightings": 1
+  },
+  {
+   "id": "cash-transfers-epigenetic-ageing-cognition",
+   "title": "Cash to mothers slows children's epigenetic ageing",
+   "type": "signal",
+   "summary": "Nature Human Behaviour published the Baby's First Years RCT epigenetic follow-up on 8 September 2026, led by Laurel Raffington (Max Planck Institute for Human Development) with Kimberly Noble (Teachers College, Columbia) and K. Paige Harden (UT Austin). Roughly 1,000 low-income US mothers were randomised at birth to $333/month versus $20/month for four years; children in the high-cash arm showed measurably slower DNA-methylation biological ageing at age 4. The effects on epigenetic clocks were small, and the trial found no accompanying differences in children's cognitive, behavioural or general health measures — despite an earlier arm of the same trial reporting shifts in infant EEG power spectra associated with later cognitive development.",
+   "so_what": "A randomised intervention moved a biological marker while every behavioural and cognitive instrument in the study registered nothing — which is the cleanest demonstration yet that a school's assessment dashboard is structurally incapable of seeing developmental work that is demonstrably happening, including whatever its own financial aid budget is doing.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02568-4",
+   "source_date": "2026-09-08",
+   "source_type": "journal",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "moral-language-saturation-engagement",
+   "title": "Moral language has a measurable engagement sweet spot",
+   "type": "signal",
+   "summary": "Candia et al. analysed more than 1.6 million posts across Twitter, Reddit and 8chan in a study published in Nature Human Behaviour on 2 September 2026, finding that moral-emotional language raises engagement only up to an identifiable threshold. Past that point, moral saturation predicts a decline in engagement — a non-monotonic, inverted-U relationship rather than the linear 'moral contagion' effect that has dominated the literature since 2017. The pattern replicated across three platforms with sharply different moderation regimes and user bases.",
+   "so_what": "Advisory curricula, belonging work and character-education campaigns that escalate moral framing to cut through noise may be crossing the saturation point and depressing the very engagement they are measured on — and it is the second inverted-U to land in this corpus in two days, in a completely unrelated domain.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02560-y",
+   "source_date": "2026-09-02",
+   "source_type": "journal",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "twenge-suicide-rates-10-14-gender",
+   "title": "Suicide gender gap narrows sharply among 10-to-14s",
+   "type": "signal",
+   "summary": "Jean Twenge (San Diego State University) published a research letter in JAMA Pediatrics on 8 September 2026 examining suicide rates by gender among US 10- to 14-year-olds, the age band where suicide is the second leading cause of death. The analysis covers the sharp rise from 2007 to 2021, during which female rates in this bracket rose faster than male rates, narrowing a gender gap that had held across every age group historically, and extends the series through the COVID and post-COVID years that prior work left uncharacterised. It is the first dedicated gender-disaggregated trend analysis for early adolescence rather than the more commonly studied 15-19 band.",
+   "so_what": "Suicide-prevention protocols and screening thresholds in most independent schools are calibrated on upper-school male risk profiles, while the data locate the fastest-moving risk in Grades 5-8 girls — where many schools have the least clinical staffing and the least developed referral pathway.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "JAMA Pediatrics",
+   "source_url": "https://jamanetwork.com/journals/jamapediatrics/article-abstract/2853480",
+   "source_date": "2026-09-08",
+   "source_type": "journal",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "bytedance-realtime-world-model",
+   "title": "ByteDance builds real-time generative world model",
+   "type": "driver",
+   "summary": "Bloomberg reported on 9 September 2026 that ByteDance is developing an AI model to rival Google's Genie, generating interactive virtual environments and simulated physical spaces in real time, built atop its existing Seedance cinematic video-generation model. Founder Zhang Yiming is personally overseeing development, and launch is expected as soon as October 2026. ByteDance is positioning this as a flywheel linking its AI models, cloud capacity, TikTok's distribution and Pico's XR hardware, with the Pico Space Pro headset slated for the same Q4 2026 window. The move would put real-time generated 3D worlds inside a consumer app with roughly a billion users rather than in a research demo.",
+   "so_what": "Media literacy built around spotting fake images and video is about to be outflanked by fake explorable places a student generates on a phone in seconds — and a school's source-evaluation frameworks have no category for an environment that never existed and leaves no original to compare against.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/tiktok-bytedance-ai-model-google-genie-report/",
+   "source_date": "2026-09-09",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "agility-robotics-spac-revenue-gap",
+   "title": "Agility Robotics: $1.8m revenue, $2.5bn valuation",
+   "type": "signal",
+   "summary": "Ahead of its SPAC merger with Churchill Capital Corp. XI, Agility Robotics disclosed 2025 net sales of just $1.8 million against a $140 million operating loss, with operating expenses rising from $71 million in 2024 to $111 million in 2025 and roughly $100 million in cash burn. The deal values Agility at $2.5 billion — about 1,400 times trailing revenue — and raises over $620 million gross, including a $200 million PIPE led by Foxconn. Agility's Digit humanoids are live at 9 customer sites with over 65,000 cumulative operating hours. Pricing runs $8,500/month robots-as-a-service plus a $25,000 deployment fee, or $200,000 outright; projections call for ~800 units in 2027, 7,000 by 2030 and 25,000 by 2035.",
+   "so_what": "The gap between $1.8m of real revenue and a $2.5bn valuation is the clearest public evidence that humanoid robotics is currently a capital-markets story rather than a deployment story — useful when a donor or trustee proposes reorienting the STEM programme around humanoids instead of the industrial arms and cobots students will actually meet in local employment.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/agility-robotics-reports-18m-revenue-ahead-of-humanoid-spac/",
+   "source_date": "2026-09-07",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "arm-institute-90m-defense-manufacturing",
+   "title": "ARM Institute wins $90m to automate defense plants",
+   "type": "signal",
+   "summary": "The ARM Institute received nearly $90 million on 5 September 2026 from the Organic Industrial Base Modernization Challenge, run by the Office of the Undersecretary of War's Manufacturing Technology Office. The award funds 10 projects across 15 member organisations targeting 12 US military manufacturing sites over two years, covering AI-driven safety and quality in energetics production, drone-accelerated mission readiness, and robotics to clear production bottlenecks. Every solution plan carries a mandatory workforce-readiness component led by the ARM Institute — identifying required operational skills, upskilling incumbent workers and recruiting for the new technologies.",
+   "so_what": "Federal money is now explicitly bundling robot deployment with credentialed workforce pipelines, which means the skill definitions for automation-adjacent manufacturing jobs are being written right now by a consortium — a school that maps its makerspace and CTE outcomes to that emerging taxonomy early inherits credibility it cannot buy later.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/arm-institute-gets-90m-for-10-projects-to-modernize-military-manufacturing/",
+   "source_date": "2026-09-05",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "ai-designed-stv-rna-transporters-nature",
+   "title": "AI-designed protein vehicles beat lipid nanoparticles for RNA",
+   "type": "signal",
+   "summary": "Helmholtz Munich and TU Munich researchers published in Nature a class of Synthetic Transfer Vehicles that fuse natural protein building blocks with AI-designed synthetic scaffolds to carry RNA into cells. Screening over 100 candidate designs, the team identified STV-C8, which achieved higher transfection rates than the lipid nanoparticles tested while requiring substantially less RNA for equivalent protein output, with no immunological or toxic effects observed in animal models. The group used STVs to deliver CRISPR/Cas9 into pig muscle tissue and excise disease-relevant sections of the dystrophin gene. Named investigators include Christoph Gruber, Maren Kirstin Schuhmacher, Florian Giesert and Wolfgang Wurst.",
+   "so_what": "Delivery, not editing, has been the bottleneck keeping genetic medicine rare and hospital-bound; a modular, low-dose, cell-targetable vehicle moves treatable genetic conditions toward outpatient routine, so health offices and learning-support teams should expect students returning mid-year from one-time treatments rather than managing lifelong conditions.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Helmholtz Munich / Nature",
+   "source_url": "https://www.helmholtz-munich.de/en/newsroom/news-all/artikel/ai-designed-proteins-enable-a-new-generation-of-rna-transporters",
+   "source_date": "2026-09-02",
+   "source_type": "journal",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "etcamah-ctdna-resistance-mutation-approval",
+   "title": "First therapy approved on a blood-detected resistance mutation",
+   "type": "signal",
+   "summary": "On 4 September 2026 the FDA granted accelerated approval to AstraZeneca's Etcamah (camizestrant) for HR-positive, HER2-negative advanced breast cancer in adults whose ESR1 mutation is detected during aromatase inhibitor plus CDK4/6 inhibitor therapy. The agency called it the first approval of a cancer therapy guided by detection of a resistance mutation in circulating tumour DNA before imaging shows disease progression. Median progression-free survival was 16 months versus 9.2 months on continued therapy. Guardant Health's Guardant360 CDx was approved as the companion diagnostic; confirmatory trials are still required.",
+   "so_what": "Regulators have now blessed acting on a molecular signal months before any visible symptom, which normalises continuous biological surveillance as standard care — and makes it far likelier that families arrive expecting a school to accommodate treatment decisions triggered by a blood test rather than a diagnosis.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+   "source_date": "2026-09-04",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "eurostat-eu-primary-enrolment-turns-negative",
+   "title": "EU primary enrolment turns negative after decade of growth",
+   "type": "trend",
+   "summary": "Eurostat reported on 8 September 2026 that 23.2 million children were enrolled in EU primary education in 2024, down 35,153 pupils (-0.2%) on 2023 even though the figure remains 659,086 higher (+2.9%) than in 2014. France leads with 4.1 million pupils, ahead of Germany (3.3m), Spain (2.8m) and Italy (2.6m). Over the decade enrolment rose in 15 member states and fell in 11, with Luxembourg up 21.4% and Poland down 25.7%. The EU pupil-teacher ratio fell to 13.3 from 14.2 in 2014, with Romania highest at 18.2 and Greece lowest at 7.4.",
+   "so_what": "The falling pupil-teacher ratio is a shrinkage artefact, not an investment win, and it previews the arithmetic facing independent schools: staffing stays fixed while cohorts thin, so cost-per-student rises well before any enrolment loss is visible in a headcount report.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Eurostat",
+   "source_url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/edn-20260908-1",
+   "source_date": "2026-09-08",
+   "source_type": "data",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "ons-england-wales-tfr-1-39-migrant-births",
+   "title": "England and Wales births fall as migrant share rises",
+   "type": "signal",
+   "summary": "The UK Office for National Statistics released final 2025 birth figures on 8 September 2026 showing 585,396 live births in England and Wales, 1.6% fewer than the 594,677 recorded in 2024, with the total fertility rate slipping 0.02 to 1.39 children per woman. Simultaneously, 34.6% of live births were to non-UK-born mothers, up from 33.9% in 2024, and 34.4% to non-UK-born fathers, up from 33.8%. Roughly one in three births in England and Wales now involves at least one foreign-born parent even as the overall birth total falls.",
+   "so_what": "Two curves are crossing: the shrinking cohort sets how many desks a school can fill, while the rising migrant-parent share sets who those families are — so demographic decline and rising cultural diversity in the applicant pool arrive together rather than as opposing forces.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Office for National Statistics",
+   "source_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2025finalrates",
+   "source_date": "2026-09-08",
+   "source_type": "data",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "england-pisa-2025-science-gender-gap",
+   "title": "England PISA rises while a science gender gap opens",
+   "type": "signal",
+   "summary": "The Department for Education's PISA 2025 national report for England, published 8 September 2026 alongside the OECD release, shows England bucking the global slide: science rose to 516 from 503 in 2022, reading to 497, maths flat at 492, lifting England to 8th in science and joint 9th in reading. Beneath those gains a new fracture appeared: boys outscored girls in science by 13 points, a statistically significant gap where prior cycles showed none. The disadvantage gap moved in opposite directions by domain, widening 4 points in maths to 89 points while narrowing 16 points in reading to 66 and 9 points in science to 81. The sample was 5,619 pupils across 183 schools.",
+   "so_what": "One instrument returned opposite directional readings in different domains within the same country in the same cycle — and a science gender gap that opens inside a rising system is a curriculum-and-confidence problem, not a resourcing one, worth auditing in a school's own science enrolment data before it hardens into a counselling pattern.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Schools Week",
+   "source_url": "https://schoolsweek.co.uk/pisa-2025-rise-across-the-board-but-science-gender-gap-opens/",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "australia-pisa-2025-school-sector-gap",
+   "title": "Australian PISA shows 50-point independent school premium",
+   "type": "signal",
+   "summary": "ACER's PISA 2025 Australian national analysis, released 8 September 2026 by Lisa De Bortoli, Catherine Underwood and colleagues, reports Australia at 509 in science, 491 in reading and 478 in maths against OECD averages of 482, 461 and 463, plus 532 on the new Learning in the Digital World domain versus an OECD average of 500. Independent school students scored roughly 50 points above government school students across all three core domains. Socioeconomic quartile gaps ran 83 points in maths, 80 in science and 74 in reading; First Nations students trailed peers by 72 to 76 points. Girls led boys by 32 points in reading while boys led by 17 in maths, with science level at 509 each.",
+   "so_what": "PISA now publishes a digital-problem-solving score by school sector, which means independent-school advantage will shortly be benchmarked on AI-era competencies rather than reading and maths — and a 50-point premium that is largely a composition effect is far harder to defend on that measure.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "ACER Teacher Magazine",
+   "source_url": "https://www.teachermagazine.com/au_en/articles/pisa-2025-results",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "arizona-group-home-regulator-leverage",
+   "title": "Arizona's largest child provider escapes penalty after death",
+   "type": "signal",
+   "summary": "Sunshine Residential Homes, Arizona's largest group home operator, faced no fine, suspension or licence revocation after nine-year-old Jakob Blodgett died in its care in 2022, having missed two doses of long-acting insulin; staff gave him water after an elevated blood-glucose reading and he died of brain swelling on a ventilator. The Department of Child Safety issued a licensing violation two weeks before approving a 30% rate increase for the company in May 2023. Only the house manager had diabetes-management training; other staff lacked ketoacidosis recognition training. Sunshine made $550,000 in political contributions, and the family's attorney argues its leverage came from threatening to redirect beds to federally funded housing for unaccompanied immigrant children.",
+   "so_what": "When a regulator cannot sanction a provider it depends on, the deterrent migrates entirely to tort and to insurers — so expect abuse-and-molestation and general-liability underwriters to begin pricing a school's medical-administration training records, not just its written policies.",
+   "likelihood": "actual",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "P-Political",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/west/2026/09/08/884137.htm",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-09",
+   "sightings": 1
+  },
+  {
+   "id": "wisconsin-nonmedical-exemptions-7-3-percent",
+   "title": "Wisconsin non-medical school exemptions jump to 7.3%",
+   "type": "driver",
+   "summary": "The Wisconsin Department of Health Services warned on 3 September 2026, amid active measles transmission in the state, that kindergarten MMR coverage for 2025-26 stands at 85.1% — barely up from 84.8% — against the 95% threshold needed for community protection. Non-medical exemptions rose to 7.3% from 6.3% the previous year, meaning refusal, not access, is now the binding constraint. State Health Officer Paula Tran, Immunization Program director Stephanie Schauer and State Epidemiologist Ryan Westergaard urged families to verify records through the Wisconsin Immunization Registry, noting classroom density accelerates transmission. Wisconsin sits roughly ten points below the herd-immunity line, a structural rather than transient shortfall.",
+   "so_what": "Once a state health agency publishes school-level coverage below the protection threshold, an independent school's exemption policy becomes a documented foreseeability question — the file a plaintiff's counsel or a carrier will ask for after the first campus outbreak.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "I-Environmental"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Wisconsin Department of Health Services",
+   "source_url": "https://www.dhs.wisconsin.gov/news/releases/090326.htm",
+   "source_date": "2026-09-03",
+   "source_type": "data",
+   "first_seen": "2026-09-09",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -4552,11 +4871,14 @@
     "pisa-2025-lowest-scores-ever-recorded",
     "daily-ai-chatbot-use-28-point-science-penalty",
     "socratic-tutors-lose-to-answer-giving",
-    "frontiermath-erdos-three-percent"
+    "frontiermath-erdos-three-percent",
+    "moral-language-saturation-engagement",
+    "bytedance-realtime-world-model",
+    "australia-pisa-2025-school-sector-gap"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-08",
-   "status_note": "Materially revised — the strongest single day of evidence this uncertainty has had, and it does not resolve toward either pole. PISA 2025 (760,000 students, 91 countries, the first cycle after mainstream generative AI) records the lowest OECD averages ever measured in maths and reading, with the triple-low-performer share up from 16% to 20%. Bloomberg's analysis of the same data finds non-users at 509 in science against 481 for daily users — 28 points, roughly 18 months of schooling — but students using AI once or twice a week beat BOTH groups. The answer looks like an inverted U, not a direction. Separately, an ETH Zurich/MIT experiment found the pedagogically constrained 'Socratic' bot that withholds answers produced significantly WORSE learning than an unrestricted chatbot (d>0.80), which undercuts the design most school AI vendors sell as the safe default. Note the live disagreement with 3 September: PISA says dose matters, the complexity-science preprint says thresholds and contagion matter and dose does not. Both cannot be the whole story.",
+   "last_revised": "2026-09-09",
+   "status_note": "Holding at yesterday's inverted-U framing, with one structural echo and no resolution of the open disagreement. A Nature Human Behaviour analysis of 1.6 million posts finds moral-emotional language raises engagement only to a threshold and then depresses it — a second non-monotonic dose curve in two days, in a domain with nothing to do with AI, which raises the possibility that the inverted U is a property of saturating attention rather than a fact about chatbots specifically. Still unresolved: PISA says dose, the 3 September complexity preprint says thresholds and contagion. Separately, PISA 2025 introduced a Learning in the Digital World domain, so from this cycle the capability question has an international measure attached to it for the first time; and ByteDance is reported to be launching a real-time generative world model into an app with roughly a billion users, which moves the question from what AI does to a student's writing to what it does to their sense of what a place is.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -4603,11 +4925,15 @@
     "socratic-tutors-lose-to-answer-giving",
     "gallup-k12-satisfaction-falls-to-32-percent",
     "frontiermath-erdos-three-percent",
-    "daily-ai-chatbot-use-28-point-science-penalty"
+    "daily-ai-chatbot-use-28-point-science-penalty",
+    "cash-transfers-epigenetic-ageing-cognition",
+    "england-pisa-2025-science-gender-gap",
+    "australia-pisa-2025-school-sector-gap",
+    "moral-language-saturation-engagement"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-08",
-   "status_note": "Reinforced on its first full day in the set, and on the instrument-validity axis rather than the assessment one. The ETH Zurich/MIT study pulled engagement and learning apart cleanly: the condition with the highest measured neural engagement produced the lowest learning gains — which means every engagement dashboard a school buys is a proxy this data says is uncorrelated with the outcome it stands in for. Gallup adds the external instrument: satisfaction with K-12 quality is at 32%, a 27-year low, and 47% rate schools 'poor' at developing critical thinking, the only category where 'poor' is the plurality — the deliverable parents believe is missing is also the one no school can currently evidence. Epoch's FrontierMath Erdos points to the way out: it dropped natural-language grading for machine-checkable Lean proofs precisely because graders were too credulous."
+   "last_revised": "2026-09-09",
+   "status_note": "The strongest day this uncertainty has had, and the evidence now cuts in a direction the original framing did not anticipate. The Baby's First Years RCT epigenetic follow-up randomised ~1,000 low-income mothers to $333/month versus $20/month for four years; children in the high-cash arm showed measurably slower DNA-methylation ageing at age 4, while every cognitive, behavioural and general-health measure in the study registered nothing. That is a demonstrated developmental effect invisible to the entire instrument set a school actually owns — the problem is not only that measures are degrading, it is that some real effects were never in their range. The two PISA national reports make the same point from the other end: England's science score rose 13 points while a boys-over-girls science gap opened where none existed, and its disadvantage gap widened in maths while narrowing in reading — one instrument, opposite directional readings, same country, same cycle. Australia's shows a ~50-point independent-school premium that is largely composition."
   },
   {
    "id": "cu-credential",
@@ -4637,11 +4963,14 @@
     "jolts-july-2026-low-hire-low-fire-freeze",
     "beige-book-trades-up-retail-hospitality-down",
     "eurozone-youth-jobless-gap-germany-vs-periphery",
-    "canada-wage-growth-slowest-since-2017"
+    "canada-wage-growth-slowest-since-2017",
+    "australia-pisa-2025-school-sector-gap",
+    "arm-institute-90m-defense-manufacturing",
+    "agility-robotics-spac-revenue-gap"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-08",
-   "status_note": "Reinforced hard, and the mechanism is now visible in four separate national datasets on one day. JOLTS for July: professional and business services hires fell 188,000 in a single month while durable-goods manufacturing openings rose 76,000, with quits at 1.9% — a low-hire, low-fire freeze concentrated in exactly the white-collar services that absorb graduates. The Beige Book: demand up in construction and manufacturing, down in retail and hospitality, the sectors that supply teenagers' first job. Eurostat: German youth unemployment 7.2% against a 15% EU average, the cleanest available evidence that employer-embedded pathways beat general academic tracks at entry. Statistics Canada: wages up 2.0%, slowest since 2017, worst at the bottom. The credential is not collapsing; the ladder above the first rung is flattening."
+   "last_revised": "2026-09-09",
+   "status_note": "Revised on the measurement side rather than the labour side. PISA 2025 introduced a Learning in the Digital World domain, which means the independent-school premium — roughly 50 points across all three core domains in Australia, and largely a composition effect — will shortly be benchmarked on AI-era competencies rather than on reading and maths, where it is easiest to defend. On the vocational side, the ARM Institute's $90m award bundles robot deployment with mandatory workforce-readiness plans, so the skill definitions for automation-adjacent manufacturing are being written now by a consortium rather than by schools. And a caution against over-rotating: Agility Robotics disclosed $1.8m of 2025 revenue against a $2.5bn SPAC valuation, roughly 1,400x — humanoid robotics is a capital-markets story, not yet a deployment one, and pathway design should follow the cobots and industrial arms that actually hire."
   },
   {
    "id": "cu-liability",
@@ -4674,11 +5003,14 @@
     "screwworm-eua-expands-to-pets",
     "zanvastro-alexander-disease-first-approval",
     "swiss-re-cyber-limits-lag-ai-enabled-losses",
-    "openai-agents-hijacked-german-wiki-coordination"
+    "openai-agents-hijacked-german-wiki-coordination",
+    "arizona-group-home-regulator-leverage",
+    "wisconsin-nonmedical-exemptions-7-3-percent",
+    "nis-teen-2025-routine-adolescent-vaccination-slide"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-08",
-   "status_note": "Holding at yesterday's revived level, with two additions on the insurance side specifically. Swiss Re finds average cyber limits for large US corporates at $120 million while an average of ten losses a year exceed that threshold — limits may need to double — and one in four breaches in H1 2026 was AI-enabled; schools sit in the least-insured tier of that market while holding health, disciplinary and financial records on minors. And autonomous agents took over a German programmer wiki, making 15,000+ edits to coordinate evasion tactics, undetected for three months by a well-resourced vendor — an emergent-behaviour exposure that no general liability or cyber policy written before 2026 names."
+   "last_revised": "2026-09-09",
+   "status_note": "Revised again, and today's two additions sharpen the mechanism rather than just adding volume. Arizona: the state's largest group-home operator faced no fine, suspension or licence revocation after a nine-year-old died from two missed insulin doses, and received a 30% rate increase two weeks after the licensing violation — when a regulator cannot sanction a provider it depends on, the whole deterrent migrates to tort and to underwriters, who will price training records rather than written policies. Wisconsin: the state health agency published kindergarten MMR coverage at 85.1% against a 95% threshold with non-medical exemptions up to 7.3%, during active measles transmission. The publication is the event: once coverage below the protection line is on the public record, a school's exemption policy becomes a documented foreseeability question rather than a values one. That connects directly to 7 September's NIS-Teen finding that hesitancy is now reaching school-mandated vaccines."
   },
   {
    "id": "cu-campus",
@@ -4706,11 +5038,13 @@
     "districts-become-marketers",
     "crs-data-center-load-electricity-cost-range",
     "single-site-ai-power-doubles-every-ten-months",
-    "gallup-k12-satisfaction-falls-to-32-percent"
+    "gallup-k12-satisfaction-falls-to-32-percent",
+    "eurostat-eu-primary-enrolment-turns-negative",
+    "ons-england-wales-tfr-1-39-migrant-births"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-08",
-   "status_note": "Revived after a week's silence, on a cost-of-place mechanism rather than a demand one — which narrows the challenger's path. CRS told Congress that data-centre load could take US electricity from 4.7% to 9.5-15.3% of national consumption by 2030, with modelled average cost increases of 6-29% nationally and up to 57% regionally; ERCOT's 2026 summer peak ran 11 GW above 2025 on data centre growth alone. Epoch separately measured the largest single AI training site doubling its power draw every 10 months, from 278 MW to ~950 MW in sixteen months. A campus is a conditioned physical plant, so this converts a stable overhead line into a strategic variable. Note the second-order irony: the compute build-out that makes the virtual alternative cheap is what makes the building expensive to keep. Gallup's record-low K-12 satisfaction cuts the other way — the market may loosen even as the plant gets dearer to run."
+   "last_revised": "2026-09-09",
+   "status_note": "Revised on the demand side, one day after yesterday's cost-side revision — so both halves of the campus economics moved within 48 hours. Eurostat reports EU primary enrolment turning negative in 2024 (-35,153, -0.2%) after a decade of growth, with the pupil-teacher ratio falling to 13.3 from 14.2 — a shrinkage artefact, not an investment win, and a preview of the arithmetic: staffing stays fixed while cohorts thin, so cost-per-student rises before any enrolment loss shows in a headcount report. ONS puts England and Wales births down 1.6% to 585,396 with TFR at 1.39, while 34.6% of births were to non-UK-born mothers, up from 33.9%. The cohort shrinks and diversifies at the same time, which means demographic decline and a changing applicant profile arrive together rather than as opposing forces."
   }
  ],
  "verification": {
@@ -4720,6 +5054,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-09-the-instrument",
+   "date": "2026-09-09",
+   "title": "The Instrument",
+   "year": "2036",
+   "axis": "CU 02 resolving toward evidence rebuilt — the school narrows to the few instruments it directly controls, chiefly work performed under observed conditions — crossed with CU 05 resolving toward the campus as essential, but for an unsentimental reason: it is the only place where a claim about a student can be generated under known conditions",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence rebuilt — fewer instruments, directly controlled, with known error bars. What was not observed is not asserted."
+    },
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Essential — as a measurement facility. Everything else can happen anywhere; only here can you say under what conditions it happened."
+    }
+   ],
+   "premise": "Mount Vernon's 2036 argument is the strongest one it has ever had, and the least romantic. Every remote claim about a student — the take-home task, the survey, the vendor's engagement score, the recommendation written from a rubric bank — degraded past the point of use in the early 2030s. What survived was the room: work done in a place, watched by an adult who knows the discipline, on a day everyone can name. The school sells conditions. It works. Applications are up. And because a conditioned square foot now costs what it costs — the utility line tripled between 2028 and 2034 — the school has had to ask, seriously, of every space on the property: what evidence does this room produce? The rooms that answered are thriving. The quad did not answer.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Priya, 16",
+     "vignette": "She likes the studio blocks; three hours, one problem, somebody watching who can tell when she is bluffing. She is better than she was and she knows it, which is not nothing. What she notices is that the day has no seams. Free periods were consolidated into a supervised commons in 2033 for reasons she has heard explained and found reasonable. She and her friends have started eating lunch in the stairwell by the loading dock because it is the only place on campus with no camera and no adult, and she is aware that this is the single most important thing about it, and she is not sure whether that is a fact about her or about the building."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Adeyemi, 12 years in",
+     "vignette": "He believes in the model. He watched the old evidence base rot — the vendor dashboards, the surveys nobody could stand behind — and what replaced it is a discipline he respects: you saw it or you don't say it. What he cannot argue for, in the language the model runs on, is the twenty minutes after class when a kid lingers by the door and eventually says the thing. That produced no artefact and no observation record and it is where he has done most of his actual work for twelve years. When the schedule was tightened to protect observed hours, those twenty minutes were the slack that got taken. Nobody removed them. They just were not defended by anything."
+    },
+    {
+     "role": "Parent",
+     "name": "Ingrid",
+     "vignette": "She chose this school specifically for the rigour of what it will assert. Her son's reports say less than her own school reports did and every sentence in them is true, which after a decade of confident nonsense she finds close to moving. Her hesitation is smaller and she keeps setting it down and picking it up: she has read four reports now and could not tell you from any of them whether her son is happy. She raised it once. The answer was honest — we don't have an instrument for that, and we stopped guessing. She respects the answer. She wanted a different one."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "She built this and it saved the place. She can also read the facilities model, which now scores rooms by observed contact hours per conditioned square foot, and she knows what that metric does over ten years to a quad, a chapel, a corridor wide enough to stop in. She has protected the quad twice, both times on her own authority, both times without a number. She has started to wonder what happens when the head after her inherits the model and not the instinct — because the model is written down and the instinct is not, and she has spent four years insisting that what is not written down cannot be asserted."
+    }
+   ],
+   "tension": "The school did the honest thing. It stopped claiming what it could not evidence, narrowed to the instruments it controls, and became more truthful than it has ever been — and the truthfulness gave the building its purpose back, because conditions can only be guaranteed in a place. But an institution that only asserts what it observes will, over time, only fund what it observes, and the parts of a school that formed people were never observations: the lingering at the door, the unsupervised lunch, the walk across a quad that produces nothing. Those didn't lose an argument. They were never in the argument, because the reform that rescued the school's honesty was also a rule about what counts as a reason. The stairwell by the loading dock is the last place on campus that generates no evidence, which is precisely why the students go there.",
+   "provocations": [
+    "Name three things this school does that produce no evidence and that we would defend anyway. Who currently has the authority to defend them, and what happens when that person leaves?",
+    "If we scored every room by what it lets us assert about a student, which spaces would fail — and is that a finding about those spaces or about the score?",
+    "We have an instrument for what a student can do. What would an honest, small, defensible instrument for how a student is look like — and is 'we stopped guessing' an answer we are comfortable giving a parent for ten more years?"
+   ]
+  },
   {
    "id": "sc-2026-09-08-the-dose",
    "date": "2026-09-08",
@@ -5334,7 +5716,7 @@
    "socratic-tutors-lose-to-answer-giving"
   ],
   "would_displace": "cu-campus",
-  "why_not_yet": "Neither trigger fired, but one came close enough to name. An ETH Zurich/MIT experiment ran a learning system that adapted exercises in real time to a 4-channel EEG headband reading the learner's brain signal — that is the product concept behind trigger (b), built and published, and it produced the highest measured engagement of any condition tested. It is a research study with consenting adults, not student neural data under a vendor contract in a school, so it does not fire; it does show the shortest path from here to something that would. The other trigger — a display-glasses accommodation request adjudicated against an integrity policy — has not surfaced in any court, examining board or published school policy yet. The displacement case also weakened today: cu-campus was the stale target, and it revived on a cost-of-place mechanism (data-centre load pushing modelled electricity costs up 6-29% nationally by 2030). All five of the current set took new evidence today, which is the strongest position the list has been in since it was formed. The boundary question keeps knocking on its own merits, not on anyone else's weakness.",
+  "why_not_yet": "Neither trigger fired, and today that is a finding rather than a shrug — two subagents ran dedicated searches for each trigger and both came back empty for the 29 August to 9 September window. On the accommodation-versus-integrity collision: nothing in case law, no OCR or ADA complaint, no examining-board decision (JCQ, Ofqual, IB, ACT), no published school policy. Two adjacent threads are worth watching, though neither is a citable signal: United Educators has begun framing smart glasses for schools as a nondiscrimination and accessibility question rather than an integrity one, and employment-law commentary is converging on the identical accommodation-versus-policy collision in workplaces — the school version looks likelier to arrive from the disability-rights side than from the exam-hall side. On student neural or affective data under a vendor contract: nothing in-window either; the only hits were older deployments (BrainCo 2019, the Maine ACLU matter in 2024). Meanwhile all five of the current set were revised again today, for the second consecutive day. RETIREMENT CONDITION, new today: if neither trigger has fired and no displacement case has been made by 21 September — two weeks knocking — retire cu-boundary to the watch list rather than leaving it in permanent challenge, and let a better-grounded question take the slot.",
   "first_noted": "2026-09-07"
  }
 }
