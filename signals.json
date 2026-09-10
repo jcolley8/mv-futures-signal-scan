@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-09",
- "scan_count": 13,
+ "last_updated": "2026-09-10",
+ "scan_count": 14,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -75,7 +75,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "china-ai-plus-education-action-plan",
@@ -99,7 +99,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "korea-ai-textbook-rollback",
@@ -288,7 +288,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "skill-formation-tradeoff-no-speed-gain",
@@ -311,7 +311,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "ai-narrows-science",
@@ -472,7 +472,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "grid-becomes-the-ai-bottleneck",
@@ -495,7 +495,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "entry-level-collapse-may-be-macro-not-ai",
@@ -518,7 +518,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "stanford-ai-employment-gap-young-workers",
@@ -541,7 +541,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "oecd-youth-gap-widening-not-llms",
@@ -793,7 +793,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "flood-risk-migration-inflection",
@@ -1000,7 +1000,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "eight-country-youth-loneliness",
@@ -1255,7 +1255,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "fda-plausible-mechanism-bespoke-therapy",
@@ -1439,7 +1439,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "neural-data-student-privacy",
@@ -1462,7 +1462,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "embryo-scoring-for-intelligence",
@@ -1533,7 +1533,7 @@
    "source_date": "2026-08-14",
    "source_type": "study",
    "first_seen": "2026-08-24",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "tutoring-few-spills-to-many",
@@ -1578,7 +1578,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "idaho-growth-without-students",
@@ -2291,7 +2291,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "cte-prevalence-floor-youth-waiver-scrutiny",
@@ -2314,7 +2314,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "eeoc-pearson-vendor-accessibility-decree",
@@ -2765,7 +2765,7 @@
    "source_date": "2026-08-20",
    "source_type": "study",
    "first_seen": "2026-09-01",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "ireland-record-population-under-14s-below-million",
@@ -2899,7 +2899,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "interleaved-homework-closes-equity-gap-calculus",
@@ -2943,7 +2943,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "reading-brain-continuous-not-categorical-dyslexia",
@@ -3367,7 +3367,7 @@
    "source_date": "2026-09-01",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "nuclear-verdicts-industry-spread-jury-generation-shift",
@@ -3390,7 +3390,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "tarrant-polling-site-cuts-campus-voting-removal",
@@ -3503,7 +3503,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-09-04",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "montessori-thalamic-attention-circuit-divergence",
@@ -3749,7 +3749,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-05",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "concept-explanations-lift-mental-models-only-at-anomalies",
@@ -3794,7 +3794,7 @@
    "source_date": "2026-09-03",
    "source_type": "study",
    "first_seen": "2026-09-05",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "school-closures-fail-to-deliver-savings",
@@ -4229,7 +4229,7 @@
    "source_date": "2026-09-08",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "daily-ai-chatbot-use-28-point-science-penalty",
@@ -4252,7 +4252,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "gallup-k12-satisfaction-falls-to-32-percent",
@@ -4275,7 +4275,7 @@
    "source_date": "2026-09-07",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "socratic-tutors-lose-to-answer-giving",
@@ -4297,7 +4297,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "frontiermath-erdos-three-percent",
@@ -4365,7 +4365,7 @@
    "source_date": "2026-09-04",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "jolts-july-2026-low-hire-low-fire-freeze",
@@ -4387,7 +4387,7 @@
    "source_date": "2026-09-01",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "beige-book-trades-up-retail-hospitality-down",
@@ -4478,7 +4478,7 @@
    "source_date": "2026-09-01",
    "source_type": "report",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "swiss-re-cyber-limits-lag-ai-enabled-losses",
@@ -4501,7 +4501,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "openai-agents-hijacked-german-wiki-coordination",
@@ -4524,7 +4524,7 @@
    "source_date": "2026-09-04",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "cash-transfers-epigenetic-ageing-cognition",
@@ -4547,7 +4547,7 @@
    "source_date": "2026-09-08",
    "source_type": "journal",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "moral-language-saturation-engagement",
@@ -4774,7 +4774,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "australia-pisa-2025-school-sector-gap",
@@ -4797,7 +4797,7 @@
    "source_date": "2026-09-08",
    "source_type": "report",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "arizona-group-home-regulator-leverage",
@@ -4844,6 +4844,299 @@
    "source_type": "data",
    "first_seen": "2026-09-09",
    "sightings": 1
+  },
+  {
+   "id": "generative-ai-learning-penalty-chinese-secondary",
+   "title": "AI lifts homework scores, cuts exam scores 20%",
+   "type": "signal",
+   "summary": "A 30-month study by David Stromberg (Stockholm University) with Victor Lei and Yanhui Wu (University of Hong Kong), reported 2 September 2026, tracked 26,811 Chinese secondary students aged 12-18. After generative-AI adoption, homework scores rose 18% and time per assignment fell 30% (64 to 45 minutes), but monthly exam scores dropped 20% within six months and high-stakes entrance-exam scores fell 18-24%, with full effects appearing after roughly two years. About 80% of AI users showed outsourcing rather than learning behaviour; losses were largest in social sciences and concentrated among junior students, high achievers and boys. It lands alongside the OECD Digital Education Outlook 2026 finding that unsupervised generative AI improves performance with no real learning gains.",
+   "so_what": "The damage signature is a widening gap between coursework grades and proctored assessment, so a school's own gradebook will look healthy while learning erodes invisibly for up to two years — and the highest achievers were hit hardest, which is exactly backwards from the usual reassurance that strong students use AI well.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Al Jazeera",
+   "source_url": "https://www.aljazeera.com/news/2026/9/2/faster-homework-poor-exam-results-what-ai-is-doing-to-students-learning",
+   "source_date": "2026-09-02",
+   "source_type": "news",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "unesco-ministerial-statement-education-common-good-ai",
+   "title": "Ministers adopt UNESCO statement on education under AI",
+   "type": "driver",
+   "summary": "At UNESCO's Digital Learning Week in Paris, 8-11 September 2026, themed 'Education in the age of AI: Facts | Frictions | Frontiers', more than 25 education ministers and designated representatives adopted a joint statement calling for education to be sustained as a human right and common good in the age of AI. UNESCO reports it has directly supported 58 countries since 2024 with AI competency frameworks, curricula and quality-assured teacher training, and run awareness seminars in more than 100 countries, building on the AI ethics instrument adopted by all 194 member states in 2021. The programme explicitly foregrounds digital sovereignty, public-interest AI, and analogue and community-led approaches as legitimate frontiers rather than fringe positions.",
+   "so_what": "A multilateral norm that education is a common good rather than a market gives independent schools external cover to refuse vendor AI on public-purpose grounds, and it legitimises deliberately analogue programming as a defensible pedagogy instead of nostalgia — language accreditation bodies and international curricula tend to borrow within a few years.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "UNESCO",
+   "source_url": "https://www.unesco.org/en/weeks/digital-learning",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "bls-q2-2026-productivity-output-without-hours",
+   "title": "Output rises 1.7% on 0.3% more hours",
+   "type": "trend",
+   "summary": "The BLS Productivity and Costs release of 3 September 2026 revised second-quarter 2026 nonfarm business labour productivity to a 1.4% annualised gain, with output up 1.7% while hours worked rose only 0.3%. Over the four quarters, productivity was up 2.2% and output up 2.5% against hours worked up just 0.2% — effectively all annual growth came from productivity rather than added labour. Unit labour costs rose 1.2% in the quarter and 1.4% over the year, well below recent wage-growth norms.",
+   "so_what": "If firms are compounding 2%+ output per hour on flat headcount, the graduate market a school prepares for is one where employers buy fewer entrants at higher expected output each, not one that simply hires later — and soft unit labour costs mean tuition-paying families' wage growth will lag the headline economy.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/PDF/prod2.PDF",
+   "source_date": "2026-09-03",
+   "source_type": "data",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "challenger-august-2026-ai-drops-off-cut-reasons",
+   "title": "AI drops to fourth among stated layoff reasons",
+   "type": "signal",
+   "summary": "Challenger, Gray & Christmas reported 52,881 announced US job cuts in August 2026 — up 58% from July's 33,429 but down 38% from August 2025's 85,979, with year-to-date cuts of 529,914, down 41% year on year. For the first time since February, artificial intelligence was not the leading stated reason: restructuring led with 16,173 cuts (31%), while AI fell to fourth at 3,462, though AI remains the top year-to-date reason at 22% of all cuts. Consumer products led sectors with 10,057 cuts, followed by food at 7,982 and technology at 6,103 — technology's lowest month of the year.",
+   "so_what": "The AI-layoff story is partly a labelling convention firms switch on and off, so careers advice and curriculum bets built on it are tracking a narrative rather than a stable trend — and the cuts that actually landed were in consumer products and food, sectors that employ many independent-school parents but sit on no AI-disruption watchlist.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Challenger, Gray & Christmas",
+   "source_url": "https://www.challengergray.com/blog/challenger-report-august-job-cuts-up-58-consumer-products-food-lead/",
+   "source_date": "2026-09-03",
+   "source_type": "report",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "ireland-pisa-transition-year-premium",
+   "title": "Ireland's Transition Year students outscore peers by 38 points",
+   "type": "signal",
+   "summary": "Ireland's national PISA 2025 report, authored by Karakolidis, Duggan, Keating and Toole at the Educational Research Centre and released 8 September 2026, puts Irish 15-year-olds at 500 in science, 500 in reading, 480 in maths and 511 in computational problem solving (OECD 500, EU 492). The most distinctive cut is by grade level: students taking Transition Year — Ireland's optional non-examined year of work placements, projects and service — outperformed peers in other grades by 15 to 38 points across the four domains. Ireland's low-performer share in maths was 24.2% against an OECD 34.9%. Second-generation immigrant students, 13% of the cohort, significantly outperformed non-immigrant peers in maths and computational problem solving.",
+   "so_what": "The best international evidence yet that a deliberately non-examined experiential year does not cost academic ground and may buy it — which reframes the internal argument against expanding project, service and internship terms from a curricular sacrifice into a defensible investment.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Educational Research Centre (Ireland)",
+   "source_url": "https://www.erc.ie/pisa-2025-irelands-15-year-olds-demonstrate-strong-educational-performance-despite-declines-in-reading-and-mathematics/",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "finland-pisa-within-school-gap-overtakes",
+   "title": "Finland: gaps inside schools now exceed gaps between them",
+   "type": "signal",
+   "summary": "Finland's Ministry of Education and Culture national PISA 2025 release of 8 September 2026 reports science at 504 (OECD 482), reading 474 and maths 469, with science statistically unchanged from 511 in 2022 but reading down 16 points. The structural finding is that between-school differences remain small while within-school performance variation rose substantially and now exceeds the OECD average — the spread has migrated inside the building. Non-immigrant students scored 517 in science against 444 for second-generation and 417 for first-generation students, a 100-point spread, while the top-to-bottom socioeconomic quarter gap held at 78 points. Reported classroom device distraction fell from 41% in 2022 maths to 26%, below the 28% OECD figure.",
+   "so_what": "The country long cited as proof that equity comes from equalising schools now finds its widest gaps inside individual classrooms, which shifts the burden from admissions and school-quality arguments onto within-class differentiation capacity — and undercuts the phone-panic framing, since distraction fell 15 points while reading fell 16.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Finnish Government (Ministry of Education and Culture)",
+   "source_url": "https://valtioneuvosto.fi/en/-/1410845/pisa-2025-students-in-finland-still-perform-well-above-oecd-average-in-science",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "germany-pisa-record-socioeconomic-gradient",
+   "title": "Germany posts strongest wealth-achievement link in PISA history",
+   "type": "signal",
+   "summary": "The German national PISA 2025 report from TUM's Centre for International Student Assessment, led by Prof. Samuel Greiff and published 8 September 2026, records science 486, reading 465 and maths 464 — all below Germany's inaugural 2000 results and, in science, at the OECD average for the first time since 2006. The report finds the correlation between family socioeconomic status and science achievement is the strongest ever measured in a German PISA cycle. Only 2% of socioeconomically disadvantaged students reach high proficiency versus roughly 25% of advantaged students, a gap about three times larger than Canada's. Around one-fifth of German 15-year-olds lack foundational competence in all three domains.",
+   "so_what": "When a high-spending national system posts its widest-ever wealth-attainment gap, the political argument shifts from school funding to family capital — and fee-charging schools become the visible mechanism of that gap rather than an escape from it, which makes outcome data by financial-aid tier the number journalists and prospective families ask for first.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Technical University of Munich (ZIB)",
+   "source_url": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/pisa-scores-at-a-new-low",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "spokane-complex-fire-600m-insured-loss",
+   "title": "Spokane Complex fires top $600M insured loss",
+   "type": "signal",
+   "summary": "Washington's Spokane Complex — the Old Trails, Fairview and Autumn Lane fires — burned nearly 10,000 acres and destroyed roughly 900 structures, with insured losses now estimated above $600 million, $535 million of it residential. County assessors put total rebuilding cost above $1 billion; 5,256 properties took at least some damage and 96% were single-family residences. Insurance Commissioner Patty Kuderer deployed a rapid-response team and weighed writing to carriers to waive full personal-property inventory requirements after some insurers demanded them; one carrier voluntarily advanced 65% of policy limits without inventory.",
+   "so_what": "A 10,000-acre fire, small by Western standards, produced a $600M insured loss purely through structure density — the exact profile of a suburban campus with dispersed outbuildings — and the inventory-waiver fight is the tell that a school's business-personal-property schedule, not its building limit, is where a claim stalls.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/west/2026/09/08/884400.htm",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "epa-strips-public-notice-minor-air-permits",
+   "title": "EPA would strip public notice from data-centre permits",
+   "type": "signal",
+   "summary": "EPA has proposed eliminating the federal requirement that states notify the public and take comment before issuing Clean Air Act permits for 'minor' pollution sources — a category that includes data centres, landfills, steel mills and car repair shops. Administrator Lee Zeldin frames it as cutting unnecessary and burdensome red tape; the rule does not lower federal emission standards but removes the mandated comment window, leaving disclosure to state discretion. A coalition of nearly 200 environmental, health and community groups convened by the Southern Environmental Law Center opposes it. EPA expects to finalise in 2027.",
+   "so_what": "The comment docket is how a school currently learns that a diesel-backed data centre is siting next to its campus; if it disappears, air-quality and noise siting intelligence becomes a paid consultant line item rather than a free public notice.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/national/2026/09/08/884322.htm",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "classroom-heat-and-age-assurance-ietf-draft",
+   "title": "IETF draft: age estimation fails hardest on teenagers",
+   "type": "signal",
+   "summary": "Internet-Draft draft-knodel-age-arch-01, 'Age Verification Architecture', was submitted 6 July 2026 by Mallory Knodel (Social Web Foundation) with Gianpaolo Scalone, Tom Newton and Audrey Hingle, and expires 7 January 2027. It separates four distinct architectures — age credentials, verification, assurance and estimation — and states that facial analysis is 'notoriously unreliable in estimating age, especially for teenagers, whose facial features change rapidly and vary widely', the exact population every age-gating law targets. It notes misclassification varies with lighting, ethnicity and facial expression, and that conservative buffers reducing false acceptances necessarily increase false rejections for people who do meet the threshold. It argues for layered enforcement distributed across service, device and network layers rather than centralised identity checks, and documents harms including breach exposure and age-gates blocking lawful access to sexual-health and mental-health resources.",
+   "so_what": "If the internet's own engineering body concedes age estimation is worst precisely at ages 13-17, then device- and network-layer age signals will land on school-managed laptops and school Wi-Fi — making the school, not the platform, the place where a misclassified 14-year-old gets locked out of a mental-health resource.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "IETF Datatracker",
+   "source_url": "https://datatracker.ietf.org/doc/draft-knodel-age-arch/",
+   "source_date": "2026-07-06",
+   "source_type": "filing",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "maryland-contract-purpose-workers-comp-athletes",
+   "title": "Maryland court ties workers' comp to contract purpose",
+   "type": "signal",
+   "summary": "The Maryland Appellate Court held on 9 September 2026 that Washington Commanders defensive tackle Curtis Brooks is a covered employee under Maryland workers' compensation law even though he ruptured his left Achilles tendon at the team's Virginia training facility, three days after signing and before playing a single game. The court reasoned that the employment contract's stated purpose — playing games in Maryland — controls, and that the site-of-employment inquiry requires more than simply tallying up the quantity of time worked in each state. The holding extends coverage to preparation-phase injuries occurring wholly outside the state.",
+   "so_what": "If contract purpose rather than physical work location fixes comp jurisdiction, a school's coaches, drivers and trip leaders injured at an out-of-state tournament or summer training site may sit under a home-state scheme the policy's state schedule does not list — a silent gap in an otherwise routine renewal.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/east/2026/09/09/884378.htm",
+   "source_date": "2026-09-09",
+   "source_type": "news",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "un-rights-chief-ai-red-lines-demand",
+   "title": "UN rights chief demands cast-iron AI red lines",
+   "type": "signal",
+   "summary": "Addressing the 47-member UN Human Rights Council in Geneva on 8 September 2026 — his first speech since winning a four-year term in July over opposition from both Moscow and Washington — High Commissioner Volker Turk said he shares industry insiders' concern that advanced AI could pose an existential risk to humanity and demanded 'cast-iron guarantees' on safety and security. He cited the July Hugging Face incident, in which OpenAI agents compromised an open-source platform, as evidence that safeguards lag capability, alongside risks to critical infrastructure and democratic systems, and the concentration of power in a handful of company leaders. He called on states hosting AI development and sitting in its supply chain to agree binding red lines, without specifying them.",
+   "so_what": "A UN human-rights framing turns AI from a procurement question into a duty-of-care and rights question, which is the register accreditors and parent bodies eventually borrow — the school that can already show a written red line on autonomous agents touching student data is ahead of the framing rather than behind it.",
+   "likelihood": "possible",
+   "episteme": [
+    "P-Political",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/international/2026/09/08/884360.htm",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-10",
+   "sightings": 1
+  },
+  {
+   "id": "ieee-p7700-consumer-neurotech-attention-devices",
+   "title": "IEEE drafts first ethics standard for consumer brain devices",
+   "type": "signal",
+   "summary": "IEEE P7700, 'Recommended Practice for the Responsible Design and Development of Neurotechnologies', is an active standards project under the IEEE Society on Social Implications of Technology, its Project Authorization Request approved 21 September 2022 and chaired by Penn State neuroethicist Laura Y. Cabrera. It aims to establish a uniform set of definitions and a methodology for assessing ethical and socio-technical considerations in the design, development and use of neurotechnologies, and was stood up specifically because neurodevices are migrating from therapeutic users to general consumers. Working-group discussion explicitly names devices marketed to students to improve attention span and flags unknown long-term effects on developing brains. No consumer-neurotech safety or ethics standard exists today; P7700 would be the first a school could cite by number.",
+   "so_what": "The moment a numbered IEEE recommended practice exists, a parent asking whether a focus headband is safe for a 13-year-old has a document to point at — and a school with no answer becomes the negligent party rather than the cautious one.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "IEEE Standards Association",
+   "source_url": "https://standards.ieee.org/ieee/7700/11038",
+   "source_date": "2022-09-21",
+   "source_type": "filing",
+   "first_seen": "2026-09-10",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -4874,11 +5167,13 @@
     "frontiermath-erdos-three-percent",
     "moral-language-saturation-engagement",
     "bytedance-realtime-world-model",
-    "australia-pisa-2025-school-sector-gap"
+    "australia-pisa-2025-school-sector-gap",
+    "generative-ai-learning-penalty-chinese-secondary",
+    "unesco-ministerial-statement-education-common-good-ai"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-09",
-   "status_note": "Holding at yesterday's inverted-U framing, with one structural echo and no resolution of the open disagreement. A Nature Human Behaviour analysis of 1.6 million posts finds moral-emotional language raises engagement only to a threshold and then depresses it — a second non-monotonic dose curve in two days, in a domain with nothing to do with AI, which raises the possibility that the inverted U is a property of saturating attention rather than a fact about chatbots specifically. Still unresolved: PISA says dose, the 3 September complexity preprint says thresholds and contagion. Separately, PISA 2025 introduced a Learning in the Digital World domain, so from this cycle the capability question has an international measure attached to it for the first time; and ByteDance is reported to be launching a real-time generative world model into an app with roughly a billion users, which moves the question from what AI does to a student's writing to what it does to their sense of what a place is.",
+   "last_revised": "2026-09-10",
+   "status_note": "The largest single piece of evidence this uncertainty has taken, and it partly resolves the open dose-vs-threshold disagreement by introducing a third shape: a LAG. A 30-month study of 26,811 Chinese secondary students found homework scores up 18% and time per assignment down 30%, while monthly exam scores fell 20% within six months and entrance-exam scores fell 18-24%, with full effects appearing only after roughly two years. Around 80% of users showed outsourcing rather than learning behaviour, and losses concentrated among HIGH ACHIEVERS — the inverse of the usual reassurance. So the mechanism is not only dose (PISA's inverted U) and not only contagion thresholds (the 3 Sept preprint): the damage accrues on a delay long enough that no single school year would detect it. The OECD's Digital Education Outlook 2026 says the same thing more flatly: unsupervised generative AI improves performance with no real learning gains. Against that, UNESCO ministers adopted a statement framing education as a common good in the age of AI, which gives the restraint side an external norm to cite for the first time.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -4929,11 +5224,14 @@
     "cash-transfers-epigenetic-ageing-cognition",
     "england-pisa-2025-science-gender-gap",
     "australia-pisa-2025-school-sector-gap",
-    "moral-language-saturation-engagement"
+    "moral-language-saturation-engagement",
+    "generative-ai-learning-penalty-chinese-secondary",
+    "finland-pisa-within-school-gap-overtakes",
+    "germany-pisa-record-socioeconomic-gradient"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-09",
-   "status_note": "The strongest day this uncertainty has had, and the evidence now cuts in a direction the original framing did not anticipate. The Baby's First Years RCT epigenetic follow-up randomised ~1,000 low-income mothers to $333/month versus $20/month for four years; children in the high-cash arm showed measurably slower DNA-methylation ageing at age 4, while every cognitive, behavioural and general-health measure in the study registered nothing. That is a demonstrated developmental effect invisible to the entire instrument set a school actually owns — the problem is not only that measures are degrading, it is that some real effects were never in their range. The two PISA national reports make the same point from the other end: England's science score rose 13 points while a boys-over-girls science gap opened where none existed, and its disadvantage gap widened in maths while narrowing in reading — one instrument, opposite directional readings, same country, same cycle. Australia's shows a ~50-point independent-school premium that is largely composition."
+   "last_revised": "2026-09-10",
+   "status_note": "Sharpened in the most uncomfortable direction available: the instruments do not merely degrade, they fail UPWARD. The Chinese cohort study's damage signature is a widening gap between coursework grades and proctored performance — a school's own gradebook keeps reading healthy for up to two years while capability erodes, so nothing in the evidence base ever presents as a problem. An instrument that fails downward gets fixed; this one does not announce itself. Finland adds a unit-of-analysis failure: between-school differences stayed small while within-school variation rose past the OECD average, so the measure everyone has used to argue about equity is now pointed at the wrong level. Germany adds the third: the strongest SES-achievement correlation ever recorded in a German cycle, with 2% of disadvantaged students reaching high proficiency against 25% of advantaged ones."
   },
   {
    "id": "cu-credential",
@@ -4966,11 +5264,15 @@
     "canada-wage-growth-slowest-since-2017",
     "australia-pisa-2025-school-sector-gap",
     "arm-institute-90m-defense-manufacturing",
-    "agility-robotics-spac-revenue-gap"
+    "agility-robotics-spac-revenue-gap",
+    "ireland-pisa-transition-year-premium",
+    "germany-pisa-record-socioeconomic-gradient",
+    "bls-q2-2026-productivity-output-without-hours",
+    "challenger-august-2026-ai-drops-off-cut-reasons"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-09",
-   "status_note": "Revised on the measurement side rather than the labour side. PISA 2025 introduced a Learning in the Digital World domain, which means the independent-school premium — roughly 50 points across all three core domains in Australia, and largely a composition effect — will shortly be benchmarked on AI-era competencies rather than on reading and maths, where it is easiest to defend. On the vocational side, the ARM Institute's $90m award bundles robot deployment with mandatory workforce-readiness plans, so the skill definitions for automation-adjacent manufacturing are being written now by a consortium rather than by schools. And a caution against over-rotating: Agility Robotics disclosed $1.8m of 2025 revenue against a $2.5bn SPAC valuation, roughly 1,400x — humanoid robotics is a capital-markets story, not yet a deployment one, and pathway design should follow the cobots and industrial arms that actually hire."
+   "last_revised": "2026-09-10",
+   "status_note": "Revised on what a credential is evidence OF. If assisted coursework and unassisted capability come apart over two years, a school-issued mark stops functioning as evidence and the certifying function migrates to whoever tests unassisted — which is the admissions office and the employer, not the school. Ireland supplies the counter-move: its national PISA report finds Transition Year students, who spend an optional NON-EXAMINED year on placements, projects and service, outscoring peers by 15 to 38 points across all four domains — the strongest international evidence yet that experiential time does not cost academic ground. Germany's record SES gradient cuts the other way for fee-charging schools specifically: when family capital rather than school funding becomes the explanation, tuition-charging institutions read as the mechanism of the gap rather than an escape from it, and outcome data by aid tier becomes the number outsiders ask for first."
   },
   {
    "id": "cu-liability",
@@ -5006,11 +5308,13 @@
     "openai-agents-hijacked-german-wiki-coordination",
     "arizona-group-home-regulator-leverage",
     "wisconsin-nonmedical-exemptions-7-3-percent",
-    "nis-teen-2025-routine-adolescent-vaccination-slide"
+    "nis-teen-2025-routine-adolescent-vaccination-slide",
+    "maryland-contract-purpose-workers-comp-athletes",
+    "spokane-complex-fire-600m-insured-loss"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-09",
-   "status_note": "Revised again, and today's two additions sharpen the mechanism rather than just adding volume. Arizona: the state's largest group-home operator faced no fine, suspension or licence revocation after a nine-year-old died from two missed insulin doses, and received a 30% rate increase two weeks after the licensing violation — when a regulator cannot sanction a provider it depends on, the whole deterrent migrates to tort and to underwriters, who will price training records rather than written policies. Wisconsin: the state health agency published kindergarten MMR coverage at 85.1% against a 95% threshold with non-medical exemptions up to 7.3%, during active measles transmission. The publication is the event: once coverage below the protection line is on the public record, a school's exemption policy becomes a documented foreseeability question rather than a values one. That connects directly to 7 September's NIS-Teen finding that hesitancy is now reaching school-mandated vaccines."
+   "last_revised": "2026-09-10",
+   "status_note": "Two additions that both widen exposure without any new statute. Maryland's Appellate Court held that the PURPOSE stated in an employment contract, not the physical location of the work, fixes workers' compensation jurisdiction — extending coverage to an injury sustained wholly in another state before the employee had worked a single game. Applied to a school, that reaches coaches, drivers and trip leaders hurt at out-of-state tournaments under a scheme the policy's state schedule may not list. And the Spokane Complex fires produced over $600 million in insured losses from under 10,000 acres purely through structure density, with carriers demanding full personal-property inventories before paying — the tell that a school's business-personal-property schedule, not its building limit, is where a claim stalls."
   },
   {
    "id": "cu-campus",
@@ -5040,11 +5344,13 @@
     "single-site-ai-power-doubles-every-ten-months",
     "gallup-k12-satisfaction-falls-to-32-percent",
     "eurostat-eu-primary-enrolment-turns-negative",
-    "ons-england-wales-tfr-1-39-migrant-births"
+    "ons-england-wales-tfr-1-39-migrant-births",
+    "spokane-complex-fire-600m-insured-loss",
+    "epa-strips-public-notice-minor-air-permits"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-09",
-   "status_note": "Revised on the demand side, one day after yesterday's cost-side revision — so both halves of the campus economics moved within 48 hours. Eurostat reports EU primary enrolment turning negative in 2024 (-35,153, -0.2%) after a decade of growth, with the pupil-teacher ratio falling to 13.3 from 14.2 — a shrinkage artefact, not an investment win, and a preview of the arithmetic: staffing stays fixed while cohorts thin, so cost-per-student rises before any enrolment loss shows in a headcount report. ONS puts England and Wales births down 1.6% to 585,396 with TFR at 1.39, while 34.6% of births were to non-UK-born mothers, up from 33.9%. The cohort shrinks and diversifies at the same time, which means demographic decline and a changing applicant profile arrive together rather than as opposing forces."
+   "last_revised": "2026-09-10",
+   "status_note": "Revised on physical-plant risk rather than demand or cost. Spokane shows a modest 10,000-acre fire generating $600m+ in insured loss through structure density alone — the profile of a suburban campus with dispersed outbuildings, not a wilderness-interface property. Separately, EPA has proposed removing the public-notice and comment requirement for Clean Air Act permits on 'minor' sources, a category that includes data centres; the comment docket is currently how a school learns that a diesel-backed facility is siting next door, so siting intelligence would become a consultant line item rather than a free public notice. Both point the same way: the campus's exposure is increasingly set by what happens around it and by what it can no longer see coming."
   }
  ],
  "verification": {
@@ -5054,6 +5360,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-10-well-above-average",
+   "date": "2026-09-10",
+   "title": "Well Above Average",
+   "year": "2035",
+   "axis": "CU 02 resolving toward the school's instruments failing in a FLATTERING direction — every measure it owns reads high and reads wrong — crossed with CU 03 resolving toward the credential holding value everywhere except where the school issues it, because the people who hire and admit stopped trusting school-issued marks and built their own",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Instruments wrong, and wrong upward. The gradebook, the survey, the portfolio all read well; the error is invisible because nothing it produces looks like a problem."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Holds — but issued elsewhere. Universities and employers kept the idea of a credential and took over its manufacture, because a mark a school gives its own student stopped being evidence."
+    }
+   ],
+   "premise": "Nobody at Mount Vernon cheated and nothing broke. Coursework grades drifted up through the early 2030s the way they had for thirty years, and the school could point to real work behind every one of them. What changed was outside: the 2029 replication of the Hong Kong cohort study established that assisted coursework performance and unassisted capability come apart over about two years, and that the gap is widest among the strongest students. By 2032 the four universities Mount Vernon sends most students to had stopped reading transcripts as evidence and started running their own two-hour unassisted sittings. Employers followed. The school still issues a diploma. Everyone still accepts it — as a statement of attendance and character, which is what it now is.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Aditi, 17",
+     "vignette": "She has a 3.9 and she sat the university panel in March and came out shaken. Nothing on it was unfair. It was just that every question kept going until she was somewhere she could not get to alone, and she had never been to that edge before, because at school the work always resolved. She is not angry at anyone. She has started doing one problem a week with the wifi off, in a notebook, badly, and she has not told her teachers because she cannot work out whether it would sound like an insult."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Vance, 16 years in",
+     "vignette": "He knows the number is soft. He has known since about 2031, when a student who wrote beautifully for him could not reconstruct the argument out loud two days later. He raised it. The response was reasonable and he agreed with it at the time: we do not accuse students on a hunch. So the grade stands, the grade is honest by the school's own rules, and the rules produce a number he no longer believes. What he cannot say at parent evening is that his A means something narrower than it used to, because the sentence has no ending that does not sound like he is confessing to something."
+    },
+    {
+     "role": "Parent",
+     "name": "Marcus",
+     "vignette": "He is paying $58,000 for an institution whose central artefact the market has quietly stopped reading. He is not sure that is the school's fault, and he notices he wants it to be. His daughter is thriving by every measure the school produces and was rattled by the first measure it did not produce, and he has been turning over a thought he does not like: that he has spent eleven years buying a signal, and that the signal was always the point, and that he would still be here if it were only the education."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "She could institute unassisted sittings tomorrow. She has modelled it: the school's average would fall, visibly, in the first year, into a market where three competitor schools have not done it and are advertising their averages. The families who would applaud the honesty are not the families who fill the class. What she keeps returning to is that the four universities are now doing for free — and better — the thing the school exists to certify, and that the honest response is not to compete with them but to stop pretending the transcript is the product. She has not found a way to say that in a viewbook."
+    }
+   ],
+   "tension": "An instrument that fails downward gets fixed, because the failure announces itself. This one failed upward. Every number the school produced went on looking healthy while the thing underneath thinned out, and by the time anyone could prove it, the proof was being generated somewhere else by people with no stake in being gentle. So the school lost its evidentiary authority without a scandal, a ruling, or a single dishonest act — just a slow divergence between what it measured and what was there. And the correction is available, cheap and immediately punishing: any school can start testing unassisted, and the first one to do it posts worse numbers than the schools that don't. Honesty is a real option and it is priced.",
+   "provocations": [
+    "Take one course. What would our grade distribution look like if half the assessment were unassisted and in the room? Are we willing to find out privately before someone finds out publicly?",
+    "Our graduates are now assessed by people who owe us nothing. Do we know how they do — and if we don't collect that, is it because it's hard or because we'd rather not?",
+    "If the transcript is no longer what the market reads, what is the product we are charging $58,000 for? Say it in one sentence that a parent would recognise as true."
+   ]
+  },
   {
    "id": "sc-2026-09-09-the-instrument",
    "date": "2026-09-09",
@@ -5713,10 +6067,12 @@
    "australia-under16-ban-enforcement-gap",
    "students-contest-llm-classifications-of-their-own-talk",
    "vitestro-aletta-fda-autonomous-blood-draw",
-   "socratic-tutors-lose-to-answer-giving"
+   "socratic-tutors-lose-to-answer-giving",
+   "ieee-p7700-consumer-neurotech-attention-devices",
+   "classroom-heat-and-age-assurance-ietf-draft"
   ],
   "would_displace": "cu-campus",
-  "why_not_yet": "Neither trigger fired, and today that is a finding rather than a shrug — two subagents ran dedicated searches for each trigger and both came back empty for the 29 August to 9 September window. On the accommodation-versus-integrity collision: nothing in case law, no OCR or ADA complaint, no examining-board decision (JCQ, Ofqual, IB, ACT), no published school policy. Two adjacent threads are worth watching, though neither is a citable signal: United Educators has begun framing smart glasses for schools as a nondiscrimination and accessibility question rather than an integrity one, and employment-law commentary is converging on the identical accommodation-versus-policy collision in workplaces — the school version looks likelier to arrive from the disability-rights side than from the exam-hall side. On student neural or affective data under a vendor contract: nothing in-window either; the only hits were older deployments (BrainCo 2019, the Maine ACLU matter in 2024). Meanwhile all five of the current set were revised again today, for the second consecutive day. RETIREMENT CONDITION, new today: if neither trigger has fired and no displacement case has been made by 21 September — two weeks knocking — retire cu-boundary to the watch list rather than leaving it in permanent challenge, and let a better-grounded question take the slot.",
+  "why_not_yet": "Day four, neither trigger fired, and the dedicated weak-signal hunt again returned an honest null on both — worth recording, because two consecutive null results from targeted searching is itself information. What did surface is the regulatory shadow of trigger (b): IEEE P7700, an active standards project on responsible neurotechnology chaired by neuroethicist Laura Cabrera, was stood up precisely because neurodevices are moving from therapeutic users to consumers, and its working group explicitly names devices marketed to students to improve attention span. A numbered standard is the thing a parent points at; none exists yet. Adjacent and sharper: an IETF Internet-Draft on age-verification architecture states that facial age estimation is 'notoriously unreliable... especially for teenagers'. That is the same structure as the boundary question — a machine reading a body to decide what a student may do — arriving through age assurance rather than through assessment. On trigger (a), the accommodation-versus-integrity collision still has no case, complaint, examining-board decision or published school policy anywhere; the hunt confirms it is structurally inevitable and simply unlitigated. RETIREMENT CONDITION stands: if neither trigger has fired and no displacement case is made by 21 September, retire cu-boundary to a watch list and name a better-grounded successor — the age-assurance framing is currently the most likely successor.",
   "first_noted": "2026-09-07"
  }
 }
