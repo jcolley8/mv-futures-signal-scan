@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-10",
- "scan_count": 14,
+ "last_updated": "2026-09-11",
+ "scan_count": 15,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -449,7 +449,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "eu-ai-act-enforcement-live",
@@ -495,7 +495,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "entry-level-collapse-may-be-macro-not-ai",
@@ -701,7 +701,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "datacenter-trades-wage-boom",
@@ -885,7 +885,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "eu-ai-content-marking-live",
@@ -1045,7 +1045,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "college-board-smart-glasses-sat-ban",
@@ -1116,7 +1116,7 @@
    "source_type": "advertisement",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "unitree-ipo-9-billion",
@@ -1139,7 +1139,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "scrap-1-benchtop-metal-printer",
@@ -1186,7 +1186,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "eth-zurich-3d-biocement",
@@ -1232,7 +1232,7 @@
    "source_type": "journal",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "vermont-neural-rights-statute",
@@ -1255,7 +1255,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "fda-plausible-mechanism-bespoke-therapy",
@@ -1279,7 +1279,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "china-health-first-schools",
@@ -1439,7 +1439,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "neural-data-student-privacy",
@@ -1462,7 +1462,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "embryo-scoring-for-intelligence",
@@ -1776,7 +1776,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "ed-dept-defends-edtech-against-screen-time-bans",
@@ -1844,7 +1844,7 @@
    "source_date": "2026-08-11",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "districts-hold-3001-tools-use-four",
@@ -2112,7 +2112,7 @@
    "source_date": "2026-08-24",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "empirical-absenteeism-threshold-half-of-ten-percent",
@@ -2539,7 +2539,7 @@
    "source_date": "2026-08-27",
    "source_type": "news",
    "first_seen": "2026-08-29",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "teacher-pipeline-alternative-certification-majority",
@@ -2654,7 +2654,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "meta-settlement-imposes-school-day-notification-blackout",
@@ -2877,7 +2877,7 @@
    "source_date": "2026-08-27",
    "source_type": "report",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "climate-tail-risk-model-underestimation",
@@ -2943,7 +2943,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "reading-brain-continuous-not-categorical-dyslexia",
@@ -3009,7 +3009,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-02",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "social-jet-lag-anxiety-effect-small",
@@ -3120,7 +3120,7 @@
    "source_date": "2026-09-02",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "federal-autism-elopement-alert-protocol",
@@ -3212,7 +3212,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-03",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "agent-rot-geometric-decay-sixteen-steps",
@@ -3256,7 +3256,7 @@
    "source_date": "2026-09-03",
    "source_type": "journal",
    "first_seen": "2026-09-03",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "ai-accelerates-only-weird-digitisable-evidence",
@@ -3571,7 +3571,7 @@
    "source_date": "2026-08-26",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "hierarchy-spanning-tracts-carry-cognitive-diversity",
@@ -4114,7 +4114,7 @@
    "source_date": "2026-09-04",
    "source_type": "advertisement",
    "first_seen": "2026-09-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "zanvastro-alexander-disease-first-approval",
@@ -4137,7 +4137,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "daraxonrasib-ras-inhibitor-voucher-speed",
@@ -4365,7 +4365,7 @@
    "source_date": "2026-09-04",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "jolts-july-2026-low-hire-low-fire-freeze",
@@ -4478,7 +4478,7 @@
    "source_date": "2026-09-01",
    "source_type": "report",
    "first_seen": "2026-09-08",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "swiss-re-cyber-limits-lag-ai-enabled-losses",
@@ -4593,7 +4593,7 @@
    "source_date": "2026-09-08",
    "source_type": "journal",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "bytedance-realtime-world-model",
@@ -4638,7 +4638,7 @@
    "source_date": "2026-09-07",
    "source_type": "news",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "arm-institute-90m-defense-manufacturing",
@@ -4661,7 +4661,7 @@
    "source_date": "2026-09-05",
    "source_type": "news",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ai-designed-stv-rna-transporters-nature",
@@ -4728,7 +4728,7 @@
    "source_date": "2026-09-08",
    "source_type": "data",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ons-england-wales-tfr-1-39-migrant-births",
@@ -4751,7 +4751,7 @@
    "source_date": "2026-09-08",
    "source_type": "data",
    "first_seen": "2026-09-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "england-pisa-2025-science-gender-gap",
@@ -5136,6 +5136,278 @@
    "source_date": "2022-09-21",
    "source_type": "filing",
    "first_seen": "2026-09-10",
+   "sightings": 2
+  },
+  {
+   "id": "feature-interference-task-uncertainty-cognitive-limits",
+   "title": "Task uncertainty entangles neural codes, not capacity",
+   "type": "signal",
+   "summary": "In Nature Neuroscience on 10 September 2026, Cheng Xue (University of Chicago) and senior author Marlene R. Cohen combined macaque V1 electrophysiology, human psychophysics and recurrent neural network modelling to show that performance losses under task uncertainty are caused by 'feature interference' — the brain builds stronger representations of task-irrelevant features when the rule is ambiguous — rather than by a fixed attentional bottleneck. Both monkeys and humans lost perceptual accuracy when they did not know which feature would be probed; artificially trained networks matched on the same task did not degrade, isolating the biological mechanism. The authors conclude that cognitive capacity limits may stem from interference between neural representations of different stimuli, tasks or memories.",
+   "so_what": "If distractibility is representational entanglement rather than limited attentional fuel, the fix is not teaching students to focus harder but removing ambiguity about what a task is actually assessing — meaning vague, open-ended, multi-goal assignments may be imposing a measurable cost that clearer task framing would erase for free.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02430-w",
+   "source_date": "2026-09-10",
+   "source_type": "journal",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "youth-antipsychotic-metabolic-harm-beyond-weight",
+   "title": "Youth antipsychotic harm hides behind stable weight",
+   "type": "signal",
+   "summary": "Till J. Adam and Christoph U. Correll of Charite Universitatsmedizin Berlin, with collaborators at King's College London, the University of Cincinnati and the University of Eastern Finland, followed 510 largely antipsychotic-naive young people aged 4-17 (55.7% male) for 12 months with plasma-concentration-verified adherence, publishing in Nature Mental Health on 7 September 2026. They separated two dysregulation pathways: body-composition-INDEPENDENT rises in total cholesterol, fasting glucose and triglycerides — strongest with olanzapine, partially with risperidone, weaker with quetiapine and aripiprazole — and body-composition-dependent insulin resistance tracking weight and fat-mass gain. The conclusion is a call for cardiometabolic monitoring beyond weight in medicated youth.",
+   "so_what": "Weight stability is the school-visible proxy, and it misses one of the two harm channels entirely — so the student on olanzapine whose weight has not moved is the one a health office will wrongly mark as tolerating treatment well, and any medication or 504 review using weight as its only metabolic checkpoint is demonstrably measuring the wrong thing.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Mental Health",
+   "source_url": "https://www.nature.com/articles/s44220-026-00721-6",
+   "source_date": "2026-09-07",
+   "source_type": "journal",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "fcc-foreign-robot-import-ban-industry-split",
+   "title": "FCC bans foreign robots; industry splits on impact",
+   "type": "driver",
+   "summary": "MassRobotics published survey results on 7 September 2026 covering the FCC's July 2026 rule barring new authorizations for foreign-produced 'advanced robotic devices' — ground-based connected robots over 4.4 lb with environmental sensors, 200+ kbps connectivity and navigation software. To qualify as US-produced, 65% of a robot's component cost must be domestic, rising to 75% by 2029. Of 14 member companies surveyed, 43% called the ruling beneficial or very beneficial, 43% called it detrimental or very detrimental, and 14% expected no impact; 29% have onshoring plans they have not started.",
+   "so_what": "Most classroom and competition robots a school buys — Chinese-made humanoids, mobile platforms, AMR kits — now sit on the wrong side of an FCC authorization line, so a STEM programme's three-year procurement plan and its spare-parts pipeline may quietly become unfulfillable, and existing units may not survive re-authorization after a firmware or radio change.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/massrobotics-shares-member-survey-results-around-fcc-restrictions/",
+   "source_date": "2026-09-07",
+   "source_type": "report",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "swarmer-ratel-combat-ugv-consolidation",
+   "title": "Erik Prince-chaired Swarmer buys Ukrainian combat-robot maker",
+   "type": "signal",
+   "summary": "On 10 September 2026 Swarmer, an Austin autonomy-software firm chaired by Erik Prince and led by co-founder Alex Fink, signed a definitive agreement to acquire Kyiv-based Ratel Robotics for up to $224 million in cash and stock with earnouts. Ratel, founded in 2023 and employing over 300 people, builds uncrewed ground vehicles for logistics, casualty evacuation, reconnaissance, de-mining, strike and drone-launch missions; it booked $86 million in contracts during 2026 and accounted for roughly 37% of Ukraine's UGV spending through mid-April 2026. Swarmer's swarm-control software has run more than 100,000 combat missions in Ukraine since April 2024; combined headcount reaches about 500.",
+   "so_what": "The most capitalised destination for a talented FIRST or VEX graduate is now armed autonomy, which turns a robotics programme's career-pathways night and its competition sponsorship policy into an ethics decision the board will eventually be asked about — better settled before the first offer letter than after.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "P-Political",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/swarmer-to-acquire-ukrainian-ugv-maker-ratel-robotics-for-up-to-224m/",
+   "source_date": "2026-09-10",
+   "source_type": "news",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "steam-frame-modular-passthrough-upgrade",
+   "title": "Valve headset gets user-installable camera upgrade module",
+   "type": "signal",
+   "summary": "A leaked Komodo Station product page revealed the Arcturus Vision Camera, a colour-passthrough module for Valve's Steam Frame built by Arcturus Industries, the computer-vision firm behind the headset's tracking. Specs list dual 32-megapixel sensors, 10-bit HDR, 5K stereo capture at up to 60 FPS, 125 x 105 degree binocular field of view and 64mm IPD, supporting real-time environment mapping, spatial video and Gaussian splatting. Steam Frame ships with a Gen 4 PCIe (x1) slot and two MIPI connectors, and Valve plans to publish CAD files so third parties can design their own accessories. FCC filings are complete and inventory imported, but Valve has announced neither price nor date.",
+   "so_what": "If headsets become upgradeable at the slot rather than replaceable at the unit, a school's XR cart stops being a three-year write-off and starts behaving like a desktop tower — which changes the capital request, the e-waste line, and whether a maker programme can legitimately fabricate its own accessories from published CAD.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "I-Environmental"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/steam-frame-color-passthrough-camera-upgrade/",
+   "source_date": "2026-09-02",
+   "source_type": "news",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "china-gene-therapy-child-deaths",
+   "title": "Two children die in China gene-therapy trials",
+   "type": "signal",
+   "summary": "Nature reported on 8 September 2026 that two children died after AAV-delivered gene-editing therapies in China. A six-year-old girl died in March 2025 following a single-patient, spinally injected CHD3 correction for Snijders Blok-Campeau syndrome at Xinhua Hospital, Shanghai, run by neuroscientist Zilong Qiu and clinician Yongguo Yu, which proceeded despite monkey toxicology showing liver damage and despite the child being only mildly symptomatic. The fourth and last boy enrolled in a four-patient Duchenne muscular dystrophy trial by HuidaGene Therapeutics died of acute respiratory distress syndrome. Ethicists cited direct researcher-family contact as a conflict of interest, and Chinese authorities are expected to tighten oversight of fast-track gene-editing trials.",
+   "so_what": "Bespoke one-shot gene therapy is becoming a live option for families of children with ultra-rare conditions, on timelines that ignore the academic calendar — and school medical-accommodation, extended-absence and re-entry policies are written for chronic illness and surgery, not for a pupil leaving mid-year for an experimental single-patient treatment that may not return them.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "P-Political",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Nature",
+   "source_url": "https://www.nature.com/articles/d41586-026-02497-2",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "engineered-bacteria-ocean-rock-weathering",
+   "title": "Engineered marine bacteria speed rock-weathering carbon removal",
+   "type": "signal",
+   "summary": "A Nature Biotechnology study from Michael Springer's group at Harvard's Wyss Institute engineered the marine bacterium Alteromonas macleodii to constitutively produce the siderophore petrobactin, which strips iron and prevents mineral passivation, yielding a 2.6-fold increase in olivine dissolution rate over abiotic controls. Pilot reactors running on unprocessed seawater and renewable acetate measured 0.50 g CO2 removed per day, with life-cycle analysis projecting net removal of 1.13 kg per day at industrial scale, a 74% gain over seawater alone. Glucose feedstock was ruled out because its upstream footprint alone is 2.8 kg CO2 per kg. Biofilm accumulation, secondary calcium silicate precipitation and the need for engineered cells to survive roughly seven residence times remain unsolved.",
+   "so_what": "Climate mitigation is shifting from emissions accounting toward the deliberate release of engineered organisms into open water, which campus sustainability pledges and environmental-science curricula are not written to evaluate — and a school positioned as anti-GMO in the canteen may find its carbon-offset purchases funding synthetic biology within a decade.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "I-Environmental",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Biotechnology",
+   "source_name": "Nature Biotechnology",
+   "source_url": "https://www.nature.com/articles/s41587-026-03287-x",
+   "source_date": "2026-09-03",
+   "source_type": "journal",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "global-over-65s-outnumber-under-fives",
+   "title": "Over-65s now outnumber under-fives worldwide",
+   "type": "trend",
+   "summary": "The US Census Bureau's 'An Aging World: 2025', released 3 September 2026, records that sometime between 2020 and 2025 adults aged 65 and over outnumbered children aged 0 to 5 globally for the first time in human history. The 65-plus share rises from 10.5% of world population in 2025 to 19.6% by 2060, and in the US from 18.9% to 23.4%; Europe moves from 21.0% to 30.8% and South Korea reaches 41%. More than half of the projected 2 billion global population increase to 2060, roughly 1.148 billion people, is people aged 65 and over, and the 85-plus population is expected to quadruple in 160 countries.",
+   "so_what": "Grandparent-funded tuition is an unmeasured pillar of independent-school affordability and it is the first discretionary spending that long-term eldercare consumes — so planned-giving and financial-aid models should be stress-tested against a family balance sheet carrying two dependent generations at once rather than one.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "U.S. Census Bureau",
+   "source_url": "https://www.census.gov/library/stories/2026/09/an-aging-world.html",
+   "source_date": "2026-09-03",
+   "source_type": "report",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "eeg-visual-reconstruction-nvol",
+   "title": "EEG now reconstructs the image a person saw",
+   "type": "signal",
+   "summary": "On 2 September 2026 Minyi Wang, Zhenqin Wu and Rihui Li posted arXiv:2609.02582, 'EEG-based Visual Retrieval and Reconstruction: From Neurally Visible Optimal Layer to Hierarchical Diffusion Generation'. Using the THINGS-EEG dataset and a per-subject Neural Visibility Optimal Layer with layer-wise contrastive learning, they report 78.1% mean Top-1 accuracy in 200-way image retrieval from scalp EEG, rising to 86.4% with CSLS re-ranking, then drive a conditional diffusion model to regenerate the seen image. The pipeline is non-invasive and subject-calibrated rather than requiring implants. This is retrieval and reconstruction of perceptual content, not of intention or language.",
+   "so_what": "The consumer EEG headband a school might one day buy for focus training sits on the same signal that, at 86% accuracy, can identify what a child was looking at — which makes any brain-sensing device in a building a records-retention and consent problem long before it becomes a pedagogy problem.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.02582",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "synthetic-gaze-identity-state",
+   "title": "Synthetic eye movements now carry identity and fatigue",
+   "type": "signal",
+   "summary": "Kamrul Hasan, Mehedi Hasan Raju and Oleg V. Komogortsev posted 'EyeMakeYou: Identity-, Task-, and Subjective-State-Conditioned Diffusion for High-Frequency Gaze Synthesis' (arXiv:2609.04501) on 3 September 2026. It is a diffusion model generating five-second, 1000 Hz bivariate gaze-velocity sequences conditioned jointly on an identity embedding, a task embedding and self-reported subjective ratings of overall difficulty, mental tiredness and eye tiredness, starting from an identity-removed reference trajectory. The authors report higher median spatial accuracy and closer real-to-synthetic embedding similarity than prior generative baselines, and show the synthetic traces retain the task-dependent statistical link between subjective reports and eye-movement features. The stated purpose is relieving data scarcity in eye-movement biometrics; the same capability is a spoofing generator.",
+   "so_what": "Two things break at once: eye-movement biometrics — the identity check being built into headsets and remote proctoring — becomes forgeable, and the inverse claim holds, that a headset's gaze stream discloses how tired and how overwhelmed a student feels, which is affective data no school consent form currently names.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.04501",
+   "source_date": "2026-09-03",
+   "source_type": "study",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "greenpassport-request-carbon",
+   "title": "Per-request carbon passports for cross-border AI inference",
+   "type": "driver",
+   "summary": "Rui Lu posted 'GreenPassport: Request-Level Carbon Accounting for Cross-Border AI Inference' (arXiv:2609.06784) on 6 September 2026, arguing regional grid averages cannot represent where an individual AI request was actually served. The proposed GPCA scheme attaches service boundary, serving site, network route, local comparator, uncertainty and data provenance to each single inference call, with a public implementation covering data-centre instances, accelerators, model families, electricity mixes, routes and cloud-region carbon intensity. Against EcoLogits under aligned measurement boundaries it reports a 56.3% reduction in median absolute percentage error and 15.5% in median absolute error, with zero rule overstatement in deterministic conformance tests.",
+   "so_what": "If carbon attribution moves from the provider's annual report down to the individual API call, a school's AI usage stops being invisible overhead and becomes a line item a board, an accreditor or a parent can itemise per student per assignment.",
+   "likelihood": "possible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.06784",
+   "source_date": "2026-09-06",
+   "source_type": "study",
+   "first_seen": "2026-09-11",
+   "sightings": 1
+  },
+  {
+   "id": "fungal-minimal-cognition",
+   "title": "A case that fungi learn without neurons",
+   "type": "signal",
+   "summary": "Kristina Sekrst posted 'Fungal Memory and Minimal Cognition' (arXiv:2609.02345) on 2 September 2026, a paper for Topics in Cognitive Science arguing that mycelial networks meet four operational criteria for cognition — feedback-guided regulation of behaviour, maintenance of internal viability conditions, structural modulation based on past environmental interactions, and plasticity supporting adaptive response — with no neurons and no symbolic representation. The evidence assembled includes directional regrowth toward previously encountered resources after spatial displacement, stress priming persisting across multiple cell divisions, and transgenerational memory via spore imprinting. The framework is explicitly enactivist and anti-representationalist: memory as temporally extended environmental coupling rather than stored symbols.",
+   "so_what": "If learning is a property of coupled living systems rather than of brains, the tidy line schools draw between real understanding and mere pattern-matching — the line currently doing all the work in every AI-and-assessment policy — has no principled place to stand.",
+   "likelihood": "preposterous",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.02345",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-11",
    "sightings": 1
   }
  ],
@@ -5169,11 +5441,12 @@
     "bytedance-realtime-world-model",
     "australia-pisa-2025-school-sector-gap",
     "generative-ai-learning-penalty-chinese-secondary",
-    "unesco-ministerial-statement-education-common-good-ai"
+    "unesco-ministerial-statement-education-common-good-ai",
+    "feature-interference-task-uncertainty-cognitive-limits"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-10",
-   "status_note": "The largest single piece of evidence this uncertainty has taken, and it partly resolves the open dose-vs-threshold disagreement by introducing a third shape: a LAG. A 30-month study of 26,811 Chinese secondary students found homework scores up 18% and time per assignment down 30%, while monthly exam scores fell 20% within six months and entrance-exam scores fell 18-24%, with full effects appearing only after roughly two years. Around 80% of users showed outsourcing rather than learning behaviour, and losses concentrated among HIGH ACHIEVERS — the inverse of the usual reassurance. So the mechanism is not only dose (PISA's inverted U) and not only contagion thresholds (the 3 Sept preprint): the damage accrues on a delay long enough that no single school year would detect it. The OECD's Digital Education Outlook 2026 says the same thing more flatly: unsupervised generative AI improves performance with no real learning gains. Against that, UNESCO ministers adopted a statement framing education as a common good in the age of AI, which gives the restraint side an external norm to cite for the first time.",
+   "status_note": "Quiet on its central question; no new evidence on dose vs threshold vs lag, so the three-way disagreement opened yesterday stands untouched. One indirect touch worth logging: a Nature Neuroscience study finds that performance losses under task uncertainty come from 'feature interference' — the brain building stronger representations of task-IRRELEVANT features when the rule is ambiguous — rather than from a fixed attentional bottleneck. If capacity limits are representational entanglement rather than depleted fuel, then 'students can't focus' and 'students outsource' may share a cause: an ambiguous task is expensive, and a tool that resolves ambiguity for you is correspondingly hard to refuse. Holding at the 10 September framing.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -5227,11 +5500,15 @@
     "moral-language-saturation-engagement",
     "generative-ai-learning-penalty-chinese-secondary",
     "finland-pisa-within-school-gap-overtakes",
-    "germany-pisa-record-socioeconomic-gradient"
+    "germany-pisa-record-socioeconomic-gradient",
+    "youth-antipsychotic-metabolic-harm-beyond-weight",
+    "eeg-visual-reconstruction-nvol",
+    "synthetic-gaze-identity-state",
+    "feature-interference-task-uncertainty-cognitive-limits"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-10",
-   "status_note": "Sharpened in the most uncomfortable direction available: the instruments do not merely degrade, they fail UPWARD. The Chinese cohort study's damage signature is a widening gap between coursework grades and proctored performance — a school's own gradebook keeps reading healthy for up to two years while capability erodes, so nothing in the evidence base ever presents as a problem. An instrument that fails downward gets fixed; this one does not announce itself. Finland adds a unit-of-analysis failure: between-school differences stayed small while within-school variation rose past the OECD average, so the measure everyone has used to argue about equity is now pointed at the wrong level. Germany adds the third: the strongest SES-achievement correlation ever recorded in a German cycle, with 2% of disadvantaged students reaching high proficiency against 25% of advantaged ones."
+   "last_revised": "2026-09-11",
+   "status_note": "Revised on the cleanest school-shaped instance yet of a proxy that misses a whole channel. A 12-month study of 510 largely antipsychotic-naive 4-to-17-year-olds, with adherence verified by plasma concentration, separated TWO cardiometabolic harm pathways: one that tracks weight and fat mass, and one that is body-composition-INDEPENDENT — rises in cholesterol, fasting glucose and triglycerides, strongest on olanzapine. Weight is the school-visible proxy, and it is blind to half the harm, so the medicated student whose weight has not moved is precisely the one a health office records as doing fine. Alongside it, two arXiv results show how much a body now discloses without being asked: scalp EEG reconstructing which image a person saw at 86.4% top-1 accuracy in 200-way retrieval, and synthesised 1000 Hz gaze traces that carry identity, task AND self-reported difficulty and tiredness. The evidence problem is becoming two-sided — the instruments a school chooses miss things, while instruments it never chose disclose things."
   },
   {
    "id": "cu-credential",
@@ -5272,7 +5549,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-10",
-   "status_note": "Revised on what a credential is evidence OF. If assisted coursework and unassisted capability come apart over two years, a school-issued mark stops functioning as evidence and the certifying function migrates to whoever tests unassisted — which is the admissions office and the employer, not the school. Ireland supplies the counter-move: its national PISA report finds Transition Year students, who spend an optional NON-EXAMINED year on placements, projects and service, outscoring peers by 15 to 38 points across all four domains — the strongest international evidence yet that experiential time does not cost academic ground. Germany's record SES gradient cuts the other way for fee-charging schools specifically: when family capital rather than school funding becomes the explanation, tuition-charging institutions read as the mechanism of the gap rather than an escape from it, and outcome data by aid tier becomes the number outsiders ask for first."
+   "status_note": "Quiet. No new evidence today, and recording that honestly is more useful than manufacturing a revision. The 10 September position stands: if assisted coursework and unassisted capability diverge over roughly two years, the certifying function migrates to whoever tests unassisted, and Ireland's Transition Year result remains the strongest counter-argument that non-examined time costs nothing academically. One adjacent note rather than evidence: the Swarmer-Ratel deal puts the best-capitalised destination for a competition-robotics graduate in armed autonomy, which is a question about what a pathway leads to rather than what a credential is worth."
   },
   {
    "id": "cu-liability",
@@ -5310,11 +5587,14 @@
     "wisconsin-nonmedical-exemptions-7-3-percent",
     "nis-teen-2025-routine-adolescent-vaccination-slide",
     "maryland-contract-purpose-workers-comp-athletes",
-    "spokane-complex-fire-600m-insured-loss"
+    "spokane-complex-fire-600m-insured-loss",
+    "fcc-foreign-robot-import-ban-industry-split",
+    "china-gene-therapy-child-deaths",
+    "youth-antipsychotic-metabolic-harm-beyond-weight"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-10",
-   "status_note": "Two additions that both widen exposure without any new statute. Maryland's Appellate Court held that the PURPOSE stated in an employment contract, not the physical location of the work, fixes workers' compensation jurisdiction — extending coverage to an injury sustained wholly in another state before the employee had worked a single game. Applied to a school, that reaches coaches, drivers and trip leaders hurt at out-of-state tournaments under a scheme the policy's state schedule may not list. And the Spokane Complex fires produced over $600 million in insured losses from under 10,000 acres purely through structure density, with carriers demanding full personal-property inventories before paying — the tell that a school's business-personal-property schedule, not its building limit, is where a claim stalls."
+   "last_revised": "2026-09-11",
+   "status_note": "Revised on procurement and duty-of-care rather than on litigation. The FCC's July rule bars new authorizations for foreign-produced connected ground robots over 4.4 lb, with a 65% domestic component-cost threshold rising to 75% by 2029 — which puts most classroom and competition robots on the wrong side of an authorization line and makes a STEM programme's procurement plan and spare-parts pipeline a compliance question, not just a budget one. Separately, Nature reported two child deaths in Chinese AAV gene-editing trials, including a six-year-old treated despite monkey toxicology showing liver damage and despite being only mildly symptomatic. Bespoke one-shot therapy is now a live option for families of children with ultra-rare conditions, on timelines that ignore the academic calendar — and school extended-absence and re-entry policies are written for chronic illness and surgery, not for a pupil who leaves mid-year for an experimental treatment."
   },
   {
    "id": "cu-campus",
@@ -5346,11 +5626,13 @@
     "eurostat-eu-primary-enrolment-turns-negative",
     "ons-england-wales-tfr-1-39-migrant-births",
     "spokane-complex-fire-600m-insured-loss",
-    "epa-strips-public-notice-minor-air-permits"
+    "epa-strips-public-notice-minor-air-permits",
+    "global-over-65s-outnumber-under-fives",
+    "greenpassport-request-carbon"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-10",
-   "status_note": "Revised on physical-plant risk rather than demand or cost. Spokane shows a modest 10,000-acre fire generating $600m+ in insured loss through structure density alone — the profile of a suburban campus with dispersed outbuildings, not a wilderness-interface property. Separately, EPA has proposed removing the public-notice and comment requirement for Clean Air Act permits on 'minor' sources, a category that includes data centres; the comment docket is currently how a school learns that a diesel-backed facility is siting next door, so siting intelligence would become a consultant line item rather than a free public notice. Both point the same way: the campus's exposure is increasingly set by what happens around it and by what it can no longer see coming."
+   "last_revised": "2026-09-11",
+   "status_note": "Revised lightly, on the long-horizon demand side. The US Census Bureau records that adults aged 65+ outnumbered children aged 0-5 globally for the first time in human history sometime between 2020 and 2025, with the 65+ share rising from 10.5% to 19.6% of world population by 2060 and the 85+ population quadrupling in 160 countries. Grandparent-funded tuition is an unmeasured pillar of independent-school affordability and the first discretionary spending long-term eldercare consumes, so the question for a campus is not only how many children exist but which household balance sheet is paying — one increasingly carrying two dependent generations at once."
   }
  ],
  "verification": {
@@ -5360,6 +5642,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-11-rearview",
+   "date": "2026-09-11",
+   "title": "Rearview",
+   "year": "2036",
+   "axis": "CU 01 resolving toward the LAG being the real mechanism — assisted work erodes capability on a two-year delay, so no single school year can detect it — crossed with CU 02 resolving toward the school accepting that it cannot see the present and rebuilding around the only evidence it can trust, which is two years old",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Lag. Not dose, not contagion — delay. The damage is real, measurable, and arrives about twenty-four months after the behaviour that caused it."
+    },
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Only in hindsight. The school stops pretending its current-year instruments mean anything and reorganises around a rolling two-year lookback."
+    }
+   ],
+   "premise": "Mount Vernon runs on a delay now. After the lag finding replicated four times between 2028 and 2031, the school did the honest thing and stopped reporting current-year outcomes as outcomes. What it reports instead is the Cohort Review: every June, the class that graduated two years ago is re-tested, surveyed and interviewed, and the results are attributed back to the practices that were in place when they were sophomores. It is the most rigorous evidence any school in the region produces. It is also, structurally, always about a school that no longer exists — different teachers, different tools, a different AI policy revised twice since. Dr. Ellis describes it to trustees as flying on instruments. She has stopped adding that the instruments show where you were, not where you are.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Jonah, 17",
+     "vignette": "His year is the one being measured for a report nobody will read until he is twenty. He understands the logic and he finds it strange to be, as he puts it, evidence. What bothers him more is subtler: the teachers keep adjusting to findings about the class of 2034, who had different software and a different schedule, and he can feel the adjustments landing slightly beside him — solutions to a problem that was someone else's. He has stopped asking whether a new rule is because of something he did. It never is."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Bhatt, 8 years in",
+     "vignette": "She changed her whole assessment design in 2033 on a Cohort Review finding, and the 2036 review will tell her whether it worked, by which time she will have changed it twice more for other reasons. She has made peace with most of this. The part she cannot make peace with is that the review is genuinely good evidence and it has made her less willing to trust the thing she used to trust — the sense, in the room, in November, that a particular kid has stopped thinking and started retrieving. She still has it. She no longer says it out loud, because the school has agreed that current-year impressions are not evidence, and she agreed too."
+    },
+    {
+     "role": "Parent",
+     "name": "Adaeze",
+     "vignette": "She chose Mount Vernon precisely because of the Cohort Review — she works in pharmacovigilance and she recognised an institution that had accepted a hard measurement problem instead of marketing around it. What she did not anticipate is what it feels like from inside: she is paying, this year, for a programme whose effects on her daughter will be legible in 2038, and the school's honest answer to how is she doing is that it will be able to say in two years. She believes the honesty. She would like, once, an answer that is merely true rather than defensible."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "The Review is the best thing she has built and she suspects it has one flaw she cannot get out of her head. It measures the practices she recorded, and what a school actually does is mostly not recorded — so the Review reliably evaluates the policies and quietly ignores the teaching. Three years of findings have pushed her toward more policy, because policy is what the instrument can see. She has started to wonder whether she has built a machine that will slowly convert her school into the kind of school her machine is good at measuring, and whether anyone would be able to tell her if she had."
+    }
+   ],
+   "tension": "The school did everything right. It faced a real finding — that capability erodes on a two-year delay — and instead of pretending otherwise it rebuilt its evidence base around the only window that can actually see. The result is rigorous, honest, and permanently pointed backwards. Every decision is a well-evidenced response to a school that has already changed, applied to students who were not in it. And because the instrument reads policy more reliably than practice, the institution drifts toward being the kind of place its own measurement can describe — not through anyone's bad faith, but because that is what measuring something for long enough does to it. Meanwhile the teacher who can feel it happening in November has agreed, reasonably, that what she feels is not evidence.",
+   "provocations": [
+    "If our best evidence is always two years old, what are we entitled to claim about this year's students — and what are we currently claiming anyway?",
+    "Our measurement sees policy more clearly than it sees teaching. Over ten years, which one does that make us better at? Is anyone watching for the drift?",
+    "A veteran teacher's November instinct is not evidence and is often right. Where in our system does that judgement go, and what does it cost us that it has nowhere to go?"
+   ]
+  },
   {
    "id": "sc-2026-09-10-well-above-average",
    "date": "2026-09-10",
@@ -6069,10 +6399,13 @@
    "vitestro-aletta-fda-autonomous-blood-draw",
    "socratic-tutors-lose-to-answer-giving",
    "ieee-p7700-consumer-neurotech-attention-devices",
-   "classroom-heat-and-age-assurance-ietf-draft"
+   "classroom-heat-and-age-assurance-ietf-draft",
+   "eeg-visual-reconstruction-nvol",
+   "synthetic-gaze-identity-state",
+   "steam-frame-modular-passthrough-upgrade"
   ],
   "would_displace": "cu-campus",
-  "why_not_yet": "Day four, neither trigger fired, and the dedicated weak-signal hunt again returned an honest null on both — worth recording, because two consecutive null results from targeted searching is itself information. What did surface is the regulatory shadow of trigger (b): IEEE P7700, an active standards project on responsible neurotechnology chaired by neuroethicist Laura Cabrera, was stood up precisely because neurodevices are moving from therapeutic users to consumers, and its working group explicitly names devices marketed to students to improve attention span. A numbered standard is the thing a parent points at; none exists yet. Adjacent and sharper: an IETF Internet-Draft on age-verification architecture states that facial age estimation is 'notoriously unreliable... especially for teenagers'. That is the same structure as the boundary question — a machine reading a body to decide what a student may do — arriving through age assurance rather than through assessment. On trigger (a), the accommodation-versus-integrity collision still has no case, complaint, examining-board decision or published school policy anywhere; the hunt confirms it is structurally inevitable and simply unlitigated. RETIREMENT CONDITION stands: if neither trigger has fired and no displacement case is made by 21 September, retire cu-boundary to a watch list and name a better-grounded successor — the age-assurance framing is currently the most likely successor.",
+  "why_not_yet": "Day five. Neither trigger fired, and the weak-signal hunt returned a THIRD consecutive confirmed null on student neural or affective data under a school vendor contract — which has stopped being an absence and become the finding itself: the capability is being built in the literature far ahead of any procurement. Today supplied the sharpest demonstration yet. Scalp EEG now reconstructs which image a person was looking at, 78.1% top-1 in 200-way retrieval and 86.4% with re-ranking, non-invasive and subject-calibrated. And a diffusion model synthesises 1000 Hz gaze traces conditioned jointly on identity, task AND self-reported difficulty and tiredness — meaning eye tracking is simultaneously forgeable as a biometric and disclosive as affective data. Both are the boundary question exactly: a machine reading a body to know something about a student nobody asked them. On trigger (a) there is now a concrete lead rather than a void — 'Smart glasses bans and disability rights law' in Disability Compliance for Higher Education (DOI 10.1002/dhe.70063), which is squarely the accommodation-versus-integrity collision but sits behind a paywall that refused every fetch; it was not counted because it could not be read. RETIREMENT CONDITION stands at 21 September. The successor case, if it comes to that, is age assurance — but on today's evidence the boundary question is strengthening, not fading.",
   "first_noted": "2026-09-07"
  }
 }
