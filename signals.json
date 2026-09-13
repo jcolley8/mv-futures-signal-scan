@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-11",
- "scan_count": 15,
+ "last_updated": "2026-09-12",
+ "scan_count": 16,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -241,7 +241,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "districts-become-marketers",
@@ -449,7 +449,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "eu-ai-act-enforcement-live",
@@ -518,7 +518,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "stanford-ai-employment-gap-young-workers",
@@ -541,7 +541,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "oecd-youth-gap-widening-not-llms",
@@ -610,7 +610,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "uk-entry-level-hiring-skills-mismatch",
@@ -1232,7 +1232,7 @@
    "source_type": "journal",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "vermont-neural-rights-statute",
@@ -1255,7 +1255,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "fda-plausible-mechanism-bespoke-therapy",
@@ -1439,7 +1439,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "neural-data-student-privacy",
@@ -1462,7 +1462,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "embryo-scoring-for-intelligence",
@@ -1533,7 +1533,7 @@
    "source_date": "2026-08-14",
    "source_type": "study",
    "first_seen": "2026-08-24",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "tutoring-few-spills-to-many",
@@ -1844,7 +1844,7 @@
    "source_date": "2026-08-11",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "districts-hold-3001-tools-use-four",
@@ -1866,7 +1866,7 @@
    "source_date": "2026-08-12",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "seoul-fertility-rebound-marriages-surge",
@@ -1957,7 +1957,7 @@
    "source_date": "2026-08-05",
    "source_type": "report",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "teaching-heuristics-over-mentalizing",
@@ -2023,7 +2023,7 @@
    "source_date": "2026-08-24",
    "source_type": "journal",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "moral-education-effect-size-discussion",
@@ -2291,7 +2291,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "cte-prevalence-floor-youth-waiver-scrutiny",
@@ -2337,7 +2337,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "harvest-to-hallways-kitchen-recapitalisation",
@@ -2360,7 +2360,7 @@
    "source_date": "2026-08-24",
    "source_type": "policy",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "stlouisfed-lfp-drop-is-mostly-measurement",
@@ -2516,7 +2516,7 @@
    "source_date": "2026-08-19",
    "source_type": "journal",
    "first_seen": "2026-08-29",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "kindergarten-screening-failure-liability",
@@ -2631,7 +2631,7 @@
    "source_date": "2026-08-26",
    "source_type": "policy",
    "first_seen": "2026-09-01",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "scotus-petition-special-ed-services-on-private-campuses",
@@ -2654,7 +2654,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "meta-settlement-imposes-school-day-notification-blackout",
@@ -2721,7 +2721,7 @@
    "source_date": "2026-08-25",
    "source_type": "study",
    "first_seen": "2026-09-01",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "fixed-budget-benchmarks-understate-agents",
@@ -2765,7 +2765,7 @@
    "source_date": "2026-08-20",
    "source_type": "study",
    "first_seen": "2026-09-01",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "ireland-record-population-under-14s-below-million",
@@ -2855,7 +2855,7 @@
    "source_date": "2026-08-27",
    "source_type": "study",
    "first_seen": "2026-09-01",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "sandwich-generation-forties-majority",
@@ -2899,7 +2899,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "interleaved-homework-closes-equity-gap-calculus",
@@ -2943,7 +2943,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "reading-brain-continuous-not-categorical-dyslexia",
@@ -3053,7 +3053,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "teradyne-jaka-upc-cobot-patent-suit",
@@ -3212,7 +3212,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-03",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "agent-rot-geometric-decay-sixteen-steps",
@@ -3367,7 +3367,7 @@
    "source_date": "2026-09-01",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "nuclear-verdicts-industry-spread-jury-generation-shift",
@@ -3390,7 +3390,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-03",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "tarrant-polling-site-cuts-campus-voting-removal",
@@ -3571,7 +3571,7 @@
    "source_date": "2026-08-26",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "hierarchy-spanning-tracts-carry-cognitive-diversity",
@@ -3749,7 +3749,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-05",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "concept-explanations-lift-mental-models-only-at-anomalies",
@@ -3886,7 +3886,7 @@
    "source_date": "2026-08-31",
    "source_type": "report",
    "first_seen": "2026-09-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "australia-elite-universities-drop-atar-guarantees",
@@ -4206,7 +4206,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "pisa-2025-lowest-scores-ever-recorded",
@@ -4229,7 +4229,7 @@
    "source_date": "2026-09-08",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "daily-ai-chatbot-use-28-point-science-penalty",
@@ -4252,7 +4252,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "gallup-k12-satisfaction-falls-to-32-percent",
@@ -4275,7 +4275,7 @@
    "source_date": "2026-09-07",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "socratic-tutors-lose-to-answer-giving",
@@ -4774,7 +4774,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-09",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "australia-pisa-2025-school-sector-gap",
@@ -4797,7 +4797,7 @@
    "source_date": "2026-09-08",
    "source_type": "report",
    "first_seen": "2026-09-09",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "arizona-group-home-regulator-leverage",
@@ -4866,7 +4866,7 @@
    "source_date": "2026-09-02",
    "source_type": "news",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "unesco-ministerial-statement-education-common-good-ai",
@@ -4955,7 +4955,7 @@
    "source_date": "2026-09-08",
    "source_type": "report",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "finland-pisa-within-school-gap-overtakes",
@@ -4977,7 +4977,7 @@
    "source_date": "2026-09-08",
    "source_type": "report",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "germany-pisa-record-socioeconomic-gradient",
@@ -5000,7 +5000,7 @@
    "source_date": "2026-09-08",
    "source_type": "report",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "spokane-complex-fire-600m-insured-loss",
@@ -5022,7 +5022,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "epa-strips-public-notice-minor-air-permits",
@@ -5045,7 +5045,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "classroom-heat-and-age-assurance-ietf-draft",
@@ -5068,7 +5068,7 @@
    "source_date": "2026-07-06",
    "source_type": "filing",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "maryland-contract-purpose-workers-comp-athletes",
@@ -5136,7 +5136,7 @@
    "source_date": "2022-09-21",
    "source_type": "filing",
    "first_seen": "2026-09-10",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "feature-interference-task-uncertainty-cognitive-limits",
@@ -5339,7 +5339,7 @@
    "source_date": "2026-09-02",
    "source_type": "study",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "synthetic-gaze-identity-state",
@@ -5362,7 +5362,7 @@
    "source_date": "2026-09-03",
    "source_type": "study",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "greenpassport-request-carbon",
@@ -5409,6 +5409,255 @@
    "source_type": "study",
    "first_seen": "2026-09-11",
    "sightings": 1
+  },
+  {
+   "id": "irs-proposed-rule-race-conscious-aid-tax-exempt-schools",
+   "title": "IRS rule would strip exemption for race-conscious aid",
+   "type": "signal",
+   "summary": "Treasury and the IRS published a notice of proposed rulemaking in the Federal Register on 4 September 2026, 'Racial Nondiscrimination in Private Schools' (REG-119986-25, RIN 1545-BS05), which would deny 501(c)(3) status to any private school that discriminates on the basis of race, colour or national or ethnic origin in educational policies, admissions, scholarships, loans, athletics or school-supported programmes — with the rule specifying that this applies 'for any purpose', explicitly including race-conscious policies adopted to remedy past discrimination. Treasury estimates roughly 18,000 tax-exempt private schools and about 750,000 students are affected. Comments are due 3 November 2026 and the rule would apply to taxable years beginning after 31 May 2027.",
+   "so_what": "Every named diversity scholarship, affinity programme and donor gift agreement carrying a race-based restriction becomes a tax-exemption liability rather than a mission statement — and the work of re-papering donor intent has to begin before the November comment deadline, not after a final rule.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "ME-Moral/Ethical",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Federal Register (Treasury / IRS)",
+   "source_url": "https://www.federalregister.gov/documents/2026/09/04/2026-18127/racial-nondiscrimination-in-private-schools",
+   "source_date": "2026-09-04",
+   "source_type": "filing",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "us-pisa-2025-questionnaire-nonresponse-blocks-equity-cuts",
+   "title": "US PISA equity breakdowns lost to questionnaire non-response",
+   "type": "signal",
+   "summary": "In the PISA 2025 results released 8 September 2026, the United States could not publish breakdowns by race or family poverty because more than 40% of participating US students failed to complete the background questionnaire. The OECD additionally flagged the US results over incomplete school participation, warning that bias in the figures is not possible to rule out. The headline numbers still landed: 74% of US 15-year-olds reached basic reading proficiency against a 69% OECD average, 65% in maths matching the OECD average, with above-average science and computational problem solving — but US reading fell 14 points from 2022, and the US now has the largest gap between its highest- and lowest-performing readers of any participating system.",
+   "so_what": "The US improved its international rank only because other systems fell faster, and the subgroup data that would show whether that masks a widening equity gap simply does not exist — so any benchmarking a school does against 'US performance' this cycle is against a number with no interior.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Chalkbeat",
+   "source_url": "https://www.chalkbeat.org/2026/09/08/pisa-results-2025-show-us-gaining-as-other-countries-decline/",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "dutch-pisa-2025-reading-collapse-math-gender-gap-returns",
+   "title": "Dutch PISA: reading collapses while maths holds world-class",
+   "type": "signal",
+   "summary": "The Dutch national PISA 2025 report, released 8 September 2026 by the University of Twente, Expertisecentrum Nederlands and KBA Nijmegen, tested over 6,600 students and found 39% of Dutch 15-year-olds below proficiency level 2 in reading, up from 33% in 2022, with top-tier readers falling from 7% to 4%. The country's profile has split apart: only 9 of 91 systems beat the Netherlands in mathematics, but 34 beat it in reading and 19 in science. Boys have regained a measurable advantage in mathematics and in the new computational problem-solving domain after the gap had closed, while girls lead in reading. Over a third of Dutch 15-year-olds report using AI for learning at least weekly, and Dutch students reported the lowest sense of personal environmental impact of any PISA country.",
+   "so_what": "A system can hold world-class mathematics while its reading floor caves in, so a school's STEM results are no evidence its literacy pipeline is sound — audit reading proficiency separately from overall academic reputation rather than letting one stand in for the other.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "PISA-Nederland / University of Twente",
+   "source_url": "https://www.pisa-nederland.nl/pisa-2025/",
+   "source_date": "2026-09-08",
+   "source_type": "report",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "retrievability-precondition-llm-oversight",
+   "title": "Oversight fails when verification knowledge is unretrievable",
+   "type": "signal",
+   "summary": "Xinyu Fu, Narayan Ramasubbu and Dennis Galletta posted 'Knowing Is Not Enough: Information Retrievability as a Precondition to Effective LLM Oversight' (arXiv:2609.01976) on 2 September 2026, reporting two field experiments with 640 customer-facing employees. The binding constraint on catching LLM errors is not user skill, motivation or engagement but information retrievability — whether oversight-relevant knowledge is accessible at the moment of review. Self-generated explanations during onboarding improved error detection and strengthened recall of the verification reasoning itself, while daily retrieval cues sustained detection as LLM use became routine rather than decaying with familiarity. The authors name two mechanisms, generative encoding and cue-supported reactivation.",
+   "so_what": "If checking AI depends on cued retrieval rather than disposition, a school's AI-use policy and 'always verify' honour pledge are doing almost no work — the leverage is in making students generate their own explanation of why an answer is right, then re-cueing it at every assignment.",
+   "likelihood": "possible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (University of Pittsburgh)",
+   "source_url": "https://arxiv.org/abs/2609.01976",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "350000-ai-coaching-conversations-oversight",
+   "title": "Reviewing every AI output fails at scale, clinicians find",
+   "type": "signal",
+   "summary": "Matthew Scult, John Havlik, Kevin Ramotar, Ethan Goh and Manoj Kanagaraj posted arXiv:2609.09533 on 8 September 2026, reporting on more than 350,000 AI coaching conversations held with clients between therapy sessions. They argue the field's default safeguard — clinician review of every AI output — collapses at this volume and may paradoxically reduce safety, because sustained vigilance degrades. In its place they specify a three-layer human-on-the-loop model combining preventive design, real-time monitoring and continuous clinician evaluation, with clinical findings driving iterative system changes.",
+   "so_what": "Any school deploying AI in wellbeing, advisory or counselling support will be told a counsellor reviews everything; this is evidence that promise is unkeepable past a few thousand exchanges, and that the real question to put to a vendor is what monitors the monitoring.",
+   "likelihood": "plausible",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "S-Social",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.09533",
+   "source_date": "2026-09-08",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "neuroadaptive-overfitting-slow-fast-bci",
+   "title": "Framework names new failure mode in AI-driven neural interfaces",
+   "type": "signal",
+   "summary": "On 1 September 2026 Aarthy Nagarajan posted arXiv:2609.01767, 'Slow-Fast Brain-Computer Interfaces: Preventing Neuroadaptive Overfitting in AI-Mediated Neural Interfaces'. It names a closed-loop failure mode in which an AI-mediated BCI becomes over-optimised to short-term proxies of success — decoding accuracy, task completion — while drifting away from the user's durable goals, eroding intent fidelity, authorship and clinical durability. The proposed remedy is a three-speed assistance policy, fast, guarded and slow, gated on decoder confidence, uncertainty, fatigue and stated objectives, so the system hands control back when errors would be costly. The paper argues evaluation must shift from how accurately a system decodes to when it acts autonomously versus returns control.",
+   "so_what": "The same failure mode already applies to adaptive learning software: a tutor optimised on completion and engagement can quietly overwrite a student's own intent and authorship, so an edtech review should ask vendors when the system yields control back, not just how accurate it is.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.01767",
+   "source_date": "2026-09-01",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "parliaments-ai-work-compensation-absent",
+   "title": "Parliaments debate AI and work without discussing compensation",
+   "type": "signal",
+   "summary": "Juliana Chueri and Petter Tornberg posted arXiv:2609.02296 on 2 September 2026, analysing 1,514,950 parliamentary speeches across 33 legislatures from 2023 to 2026 to see how parties frame AI and employment. Compensating displaced workers accounts for just 2.3% of response-frame mentions, against 55.2% for enablement and investment, 21.8% for regulation and restriction and 20.6% for training. Rightist parties favour unrestricted enablement; the left is split, with social democrats adoption-oriented, greens divided evenly and only the radical left strongly restrictionist. The authors conclude the live cleavage is whether states should accelerate or steer AI, not whether they should cushion workers.",
+   "so_what": "Across 33 democracies the political answer to AI and jobs is overwhelmingly 'more training', so the burden of adjustment lands on schools rather than on transfers — and families will increasingly treat the school as the insurance policy.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "arXiv (Univ. of Amsterdam / VU Amsterdam)",
+   "source_url": "https://arxiv.org/abs/2609.02296",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "ny-climate-superfund-struck-down-preemption",
+   "title": "Federal judge voids New York's $75B climate superfund",
+   "type": "signal",
+   "summary": "On 3 September 2026 US District Judge Brenda Sannes struck down New York's Climate Change Superfund Act, signed in 2024 to make large fossil-fuel emitters pay $3 billion a year for 25 years into a state fund for infrastructure repair and resilience. Sannes held the statute was preempted by the Clean Air Act, which makes EPA the primary regulator of greenhouse gases, and that reaching foreign producers' global conduct intruded on the federal foreign-affairs power. The challenge was brought by fossil-fuel interests, the US Chamber of Commerce, 22 Republican state attorneys general and the EPA itself; parallel federal suits target similar laws in Vermont, Michigan and Hawaii, and climate groups are urging appeal to the Second Circuit.",
+   "so_what": "The retrospective-polluter-pays route to funding climate resilience is now blocked in its leading state, which pushes the cost of hardening buildings, HVAC and stormwater onto institutions' own capital budgets — a school should assume resilience capex is self-funded, not offset by state adaptation grants, through at least the appeal cycle.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal",
+   "source_url": "https://www.insurancejournal.com/news/east/2026/09/03/883790.htm",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "gallup-union-influence-record-high-47",
+   "title": "Record 47 percent want unions to gain influence",
+   "type": "signal",
+   "summary": "Gallup found on 1 September 2026 that 47% of Americans want labor unions to have more influence, the highest in the 25 years it has asked, up 4 points from 43% in 2023 and nearly double the 25% record low of 2009. Union approval stands at 71%, tying the recent 2022 high and up from the 48% all-time low in 2009. The desire for more union power is now 73% among Democrats, up 12 points since 2023, 45% among independents and 19% among Republicans. A notable expectation gap persists: while 47% want unions stronger, only 27% expect that to happen. Survey of 1,200 US adults, 3-24 August 2026.",
+   "so_what": "Faculty and staff organising is a low-frequency, high-consequence event for a head of school, and the sentiment base it draws on is now at a quarter-century peak while institutional trust generally sits at a low — compensation transparency, grievance routes and labour-law exposure are worth stress-testing before a first credible drive, because by then it is a governance crisis rather than an HR matter.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Gallup",
+   "source_url": "https://news.gallup.com/poll/713936/record-high-unions-influence.aspx",
+   "source_date": "2026-09-01",
+   "source_type": "data",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "eeg-decodes-decision-correctness-vr",
+   "title": "EEG flags whether a decision is right, mid-decision",
+   "type": "signal",
+   "summary": "Posted 2 September 2026, arXiv:2609.02436 by Christopher Baker, Stephen Hinton, Tom Reed and Stephen Fairclough shows that spatial-covariance EEG features carry a pre-emptive signal of whether a decision will be correct, available inside the response window itself rather than after the fact. In a VR target-detection task with 23 participants, weighting group votes by this neural signal raised accuracy on contested trials from 57% to 88% as group size grew from 2 to 16 — but only under high cognitive workload, where it was actively detrimental under low workload. It outperformed post-hoc behavioural confidence ratings precisely because it reads a judgement still in progress.",
+   "so_what": "If correctness can be read off a headset before a student answers, the boundary between assessing work and surveilling thought collapses — and a school would need a position on covert confidence-reading long before any vendor ships it.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.02436",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "thermosaic-wearable-thermal-illusion",
+   "title": "Wearable Peltier array speeds felt temperature by 40%",
+   "type": "signal",
+   "summary": "arXiv:2609.05347, 'TherMosaic' by Zining Zhang, Jiasheng Li, Myungin Lee, Zeyu Yan, Jin Ryong Kim and Huaishu Peng, submitted 4 September 2026, uses a 2x2 array of independently controlled Peltier modules on the fingertip and exploits spatial summation plus thermal adaptation to cut perceived temperature-transition time by roughly 30-40% across three perceptual studies. Peltier thermal displays have been too sluggish to synchronise with visual events; the wearable prototype demonstrates thermal cues arriving fast enough to lock to what the eye sees in VR. This is a perceptual trick rather than a faster heat pump — it changes when a temperature is felt, not how fast it is delivered.",
+   "so_what": "Temperature is the last unfaked sense in immersive learning, and closing that gap moves VR field trips from looking like a rainforest or a foundry to feeling like one — which is where claims about experiential learning stop being marketing.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.05347",
+   "source_date": "2026-09-04",
+   "source_type": "study",
+   "first_seen": "2026-09-12",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -5442,11 +5691,14 @@
     "australia-pisa-2025-school-sector-gap",
     "generative-ai-learning-penalty-chinese-secondary",
     "unesco-ministerial-statement-education-common-good-ai",
-    "feature-interference-task-uncertainty-cognitive-limits"
+    "feature-interference-task-uncertainty-cognitive-limits",
+    "retrievability-precondition-llm-oversight",
+    "350000-ai-coaching-conversations-oversight",
+    "neuroadaptive-overfitting-slow-fast-bci"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-10",
-   "status_note": "Quiet on its central question; no new evidence on dose vs threshold vs lag, so the three-way disagreement opened yesterday stands untouched. One indirect touch worth logging: a Nature Neuroscience study finds that performance losses under task uncertainty come from 'feature interference' — the brain building stronger representations of task-IRRELEVANT features when the rule is ambiguous — rather than from a fixed attentional bottleneck. If capacity limits are representational entanglement rather than depleted fuel, then 'students can't focus' and 'students outsource' may share a cause: an ambiguous task is expensive, and a tool that resolves ambiguity for you is correspondingly hard to refuse. Holding at the 10 September framing.",
+   "last_revised": "2026-09-12",
+   "status_note": "Revised, and it adds a FOURTH mechanism to the open dose-vs-threshold-vs-lag question rather than resolving it: oversight capacity. Two field experiments with 640 employees find that whether people catch LLM errors is governed not by skill, motivation or engagement but by information RETRIEVABILITY — whether the knowledge needed to verify is accessible at the moment of review. Self-generated explanations at onboarding improved detection and, critically, daily retrieval cues stopped detection decaying as use became routine. That makes 'always verify' honour pledges close to inert and points the leverage at cue design instead. Separately, a study of 350,000+ AI coaching conversations argues the default safeguard — human review of every output — collapses at volume and may reduce safety, because sustained vigilance degrades. And a BCI paper names 'neuroadaptive overfitting': a closed-loop system over-optimised to short-term proxies like completion and accuracy while drifting from the user's durable goals, eroding authorship. All three describe the same shape — the human check is the thing that fails, and it fails structurally rather than through laziness.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -5504,11 +5756,15 @@
     "youth-antipsychotic-metabolic-harm-beyond-weight",
     "eeg-visual-reconstruction-nvol",
     "synthetic-gaze-identity-state",
-    "feature-interference-task-uncertainty-cognitive-limits"
+    "feature-interference-task-uncertainty-cognitive-limits",
+    "us-pisa-2025-questionnaire-nonresponse-blocks-equity-cuts",
+    "dutch-pisa-2025-reading-collapse-math-gender-gap-returns",
+    "eeg-decodes-decision-correctness-vr",
+    "retrievability-precondition-llm-oversight"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-11",
-   "status_note": "Revised on the cleanest school-shaped instance yet of a proxy that misses a whole channel. A 12-month study of 510 largely antipsychotic-naive 4-to-17-year-olds, with adherence verified by plasma concentration, separated TWO cardiometabolic harm pathways: one that tracks weight and fat mass, and one that is body-composition-INDEPENDENT — rises in cholesterol, fasting glucose and triglycerides, strongest on olanzapine. Weight is the school-visible proxy, and it is blind to half the harm, so the medicated student whose weight has not moved is precisely the one a health office records as doing fine. Alongside it, two arXiv results show how much a body now discloses without being asked: scalp EEG reconstructing which image a person saw at 86.4% top-1 accuracy in 200-way retrieval, and synthesised 1000 Hz gaze traces that carry identity, task AND self-reported difficulty and tiredness. The evidence problem is becoming two-sided — the instruments a school chooses miss things, while instruments it never chose disclose things."
+   "last_revised": "2026-09-12",
+   "status_note": "The starkest instance yet of an instrument with no interior. In PISA 2025 the United States could not publish ANY breakdown by race or family poverty because more than 40% of participating US students did not complete the background questionnaire, and the OECD separately flagged US results over incomplete school participation, warning bias cannot be ruled out. The headline still shipped and the US rank improved — but only because other systems fell faster, and the subgroup data that would show whether that masks a widening equity gap does not exist. A national instrument now produces a number with nothing inside it. The Netherlands adds the companion failure: a profile that split, world-class in mathematics (only 9 of 91 systems beat it) while 39% of 15-year-olds fall below level 2 in reading, up from 33% — so one domain's result is no evidence about another, and reputation built on the strong half conceals the weak one."
   },
   {
    "id": "cu-credential",
@@ -5545,11 +5801,12 @@
     "ireland-pisa-transition-year-premium",
     "germany-pisa-record-socioeconomic-gradient",
     "bls-q2-2026-productivity-output-without-hours",
-    "challenger-august-2026-ai-drops-off-cut-reasons"
+    "challenger-august-2026-ai-drops-off-cut-reasons",
+    "dutch-pisa-2025-reading-collapse-math-gender-gap-returns"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-10",
-   "status_note": "Quiet. No new evidence today, and recording that honestly is more useful than manufacturing a revision. The 10 September position stands: if assisted coursework and unassisted capability diverge over roughly two years, the certifying function migrates to whoever tests unassisted, and Ireland's Transition Year result remains the strongest counter-argument that non-examined time costs nothing academically. One adjacent note rather than evidence: the Swarmer-Ratel deal puts the best-capitalised destination for a competition-robotics graduate in armed autonomy, which is a question about what a pathway leads to rather than what a credential is worth."
+   "status_note": "Quiet for a third day; no new direct evidence, and recording that is more useful than manufacturing a revision. The 10 September position stands. One oblique touch: the Dutch split profile — world-class maths alongside a collapsing reading floor — is a reminder that a credential's signal is domain-specific in a way institutions and families routinely treat as general, which is the same error in miniature that the wider certification question turns on."
   },
   {
    "id": "cu-liability",
@@ -5590,11 +5847,14 @@
     "spokane-complex-fire-600m-insured-loss",
     "fcc-foreign-robot-import-ban-industry-split",
     "china-gene-therapy-child-deaths",
-    "youth-antipsychotic-metabolic-harm-beyond-weight"
+    "youth-antipsychotic-metabolic-harm-beyond-weight",
+    "irs-proposed-rule-race-conscious-aid-tax-exempt-schools",
+    "ny-climate-superfund-struck-down-preemption",
+    "gallup-union-influence-record-high-47"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-11",
-   "status_note": "Revised on procurement and duty-of-care rather than on litigation. The FCC's July rule bars new authorizations for foreign-produced connected ground robots over 4.4 lb, with a 65% domestic component-cost threshold rising to 75% by 2029 — which puts most classroom and competition robots on the wrong side of an authorization line and makes a STEM programme's procurement plan and spare-parts pipeline a compliance question, not just a budget one. Separately, Nature reported two child deaths in Chinese AAV gene-editing trials, including a six-year-old treated despite monkey toxicology showing liver damage and despite being only mildly symptomatic. Bespoke one-shot therapy is now a live option for families of children with ultra-rare conditions, on timelines that ignore the academic calendar — and school extended-absence and re-entry policies are written for chronic illness and surgery, not for a pupil who leaves mid-year for an experimental treatment."
+   "last_revised": "2026-09-12",
+   "status_note": "The most consequential single item this uncertainty has taken, and it is aimed directly at fee-charging schools. Treasury and the IRS published a proposed rule on 4 September ('Racial Nondiscrimination in Private Schools', REG-119986-25) that would deny 501(c)(3) status to any private school considering race, colour or national origin in admissions, scholarships, loans, athletics or school-supported programmes — 'for any purpose', explicitly including policies adopted to remedy past discrimination. Roughly 18,000 tax-exempt private schools and 750,000 students are in scope. Comments close 3 November 2026; applicability begins with taxable years after 31 May 2027. This is liability-as-governor at the level of institutional existence rather than of premium or verdict: the exemption itself becomes conditional on what the school can document about its own decisions. Two supporting items: a federal judge struck down New York's $75bn Climate Change Superfund Act on Clean Air Act preemption, closing the polluter-pays route to resilience funding; and Gallup finds a record 47% wanting unions to have more influence, the sentiment base from which a faculty organising drive would draw."
   },
   {
    "id": "cu-campus",
@@ -5628,11 +5888,12 @@
     "spokane-complex-fire-600m-insured-loss",
     "epa-strips-public-notice-minor-air-permits",
     "global-over-65s-outnumber-under-fives",
-    "greenpassport-request-carbon"
+    "greenpassport-request-carbon",
+    "ny-climate-superfund-struck-down-preemption"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-11",
-   "status_note": "Revised lightly, on the long-horizon demand side. The US Census Bureau records that adults aged 65+ outnumbered children aged 0-5 globally for the first time in human history sometime between 2020 and 2025, with the 65+ share rising from 10.5% to 19.6% of world population by 2060 and the 85+ population quadrupling in 160 countries. Grandparent-funded tuition is an unmeasured pillar of independent-school affordability and the first discretionary spending long-term eldercare consumes, so the question for a campus is not only how many children exist but which household balance sheet is paying — one increasingly carrying two dependent generations at once."
+   "last_revised": "2026-09-12",
+   "status_note": "Revised on who pays to harden the plant. A federal judge voided New York's Climate Change Superfund Act — $3bn a year for 25 years from large emitters into a state resilience fund — on Clean Air Act preemption and foreign-affairs grounds, with parallel suits pending against Vermont, Michigan and Hawaii. The leading state route to publicly funded adaptation is blocked through at least the Second Circuit appeal, which means roof, HVAC and stormwater hardening should be modelled as self-funded capital rather than as something a state adaptation grant will offset. Taken with the 11 September demographic finding, the campus question is now squeezed from three directions at once: fewer children, a household balance sheet carrying two dependent generations, and resilience capex with no external payer."
   }
  ],
  "verification": {
@@ -5642,6 +5903,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-12-proof-of-blindness",
+   "date": "2026-09-12",
+   "title": "Proof of Blindness",
+   "year": "2033",
+   "axis": "CU 02 resolving toward evidence rebuilt — but rebuilt to answer someone else's question — crossed with CU 04 resolving toward liability as governor, where tax exemption itself is conditioned on what a school can prove about its own admissions and aid decisions",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence rebuilt, and audited. The school collects more, keeps it longer, and structures it to survive examination — because the examination is now the point."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor, at the level of existence. Not a verdict or a premium: the 501(c)(3) letter, conditioned on a documented record of what was and was not considered."
+    }
+   ],
+   "premise": "The 2027 rule did not say schools must be blind. It said they must not consider race for any purpose, and left them to demonstrate it. Six years on, Mount Vernon's Admissions Data Integrity function is four people and a vendor contract, and its job is the strangest one in the building: to prove a negative. Demonstrating that race played no part in 812 decisions requires a record complete enough to show what DID play a part in each — which means the school now collects more demographic data than it ever did when it was allowed to use it, retains it for seven years, and has it audited annually by a firm that also does bank compliance. The aid formula is public, mechanical, and untouched by any human since 2029. The audit has never found anything. Everyone involved is proud of that and slightly unable to say why it feels the way it does.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Teodora, 17",
+     "vignette": "She checked a box on a form in seventh grade and has been told, accurately, that it has never been used to decide anything about her. It is in her file, it will be in her file until she is twenty-four, and its only function is to be available to an auditor confirming it was ignored. She has worked out the shape of this and finds it funny in a way that annoys her friends: the school knows exactly what she is, keeps careful records of it, and is required to have done nothing with it. She would not say she feels unseen. She would say she feels filed."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms. Okonjo, 14 years in",
+     "vignette": "She sat on the aid committee until it was dissolved in 2029 and replaced by the formula, and she does not want it back — the old process was humane and indefensible, and she can name two decisions from her time on it that she could not have explained to an auditor or, honestly, to the families who lost out. What she misses is narrower and she keeps it to herself. The formula cannot be told that this particular kid's application is thin because his mother died in March. There is a field for hardship. The field is not the thing."
+    },
+    {
+     "role": "Parent",
+     "name": "Wes",
+     "vignette": "He is a compliance lawyer and he reads the school's annual Integrity Statement the way he reads any well-drafted document: with admiration and a small cold feeling. It is true, it is complete, and it discloses that the school holds his daughter's demographic data for seven years for the sole purpose of proving it was not used. He understands exactly why. He also knows that a record built to be audited is a record built to be produced, and that the school's promise is not that the data is private but that its use is documented — which is a different promise, and the one he actually bought."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "Her exemption depends on the audit and the audit depends on the record, so she built the best record in the region, and it works. The part she cannot get out of her head is the direction of travel. Every year the audit asks a slightly sharper question, and every year she answers it by collecting slightly more — because the only defence against a question about what you considered is a complete account of everything you considered. She is aware she is running an institution that knows more about its students than any of her predecessors did, holds it longer, and is permitted to do less with it than any of them were. She cannot find the place where that trade went wrong, which is what worries her about it."
+    }
+   ],
+   "tension": "The rule asked for blindness and got surveillance, because proving you did not look requires a record of everything you did look at. So the school ends up holding more sensitive data than it ever held when it was free to act on it — collected not to serve students but to defend the institution's tax status — and the defence works, and the audit is clean, and nobody has done anything wrong. Meanwhile the humane, unauditable judgement that the old committee exercised has been replaced by a formula that is fairer in every case it can see and blind to the only things a person would have noticed. The evidence base got better and the knowing got worse, and the mechanism was not malice or drift but a compliance obligation discharged conscientiously.",
+   "provocations": [
+    "What data do we collect solely to demonstrate that we did not use it? Who told the families that is what it is for, and in what words?",
+    "Our aid formula is fair in every case it can see. Name a case it cannot see, and say who at this school has the authority to act on it anyway — and what happens to them if they do.",
+    "If the audit asks a sharper question every year and our only answer is more record, where does that end? Is there a point at which we would rather argue than comply, and have we ever named it?"
+   ]
+  },
   {
    "id": "sc-2026-09-11-rearview",
    "date": "2026-09-11",
@@ -6402,10 +6711,13 @@
    "classroom-heat-and-age-assurance-ietf-draft",
    "eeg-visual-reconstruction-nvol",
    "synthetic-gaze-identity-state",
-   "steam-frame-modular-passthrough-upgrade"
+   "steam-frame-modular-passthrough-upgrade",
+   "eeg-decodes-decision-correctness-vr",
+   "neuroadaptive-overfitting-slow-fast-bci",
+   "thermosaic-wearable-thermal-illusion"
   ],
   "would_displace": "cu-campus",
-  "why_not_yet": "Day five. Neither trigger fired, and the weak-signal hunt returned a THIRD consecutive confirmed null on student neural or affective data under a school vendor contract — which has stopped being an absence and become the finding itself: the capability is being built in the literature far ahead of any procurement. Today supplied the sharpest demonstration yet. Scalp EEG now reconstructs which image a person was looking at, 78.1% top-1 in 200-way retrieval and 86.4% with re-ranking, non-invasive and subject-calibrated. And a diffusion model synthesises 1000 Hz gaze traces conditioned jointly on identity, task AND self-reported difficulty and tiredness — meaning eye tracking is simultaneously forgeable as a biometric and disclosive as affective data. Both are the boundary question exactly: a machine reading a body to know something about a student nobody asked them. On trigger (a) there is now a concrete lead rather than a void — 'Smart glasses bans and disability rights law' in Disability Compliance for Higher Education (DOI 10.1002/dhe.70063), which is squarely the accommodation-versus-integrity collision but sits behind a paywall that refused every fetch; it was not counted because it could not be read. RETIREMENT CONDITION stands at 21 September. The successor case, if it comes to that, is age assurance — but on today's evidence the boundary question is strengthening, not fading.",
+  "why_not_yet": "Day six, and the boundary question keeps getting sharper while its formal trigger stays unfired. Today's demonstration is the most pointed yet: spatial-covariance EEG features carry a PRE-EMPTIVE signal of whether a decision will be correct, available inside the response window rather than after it, outperforming post-hoc confidence ratings precisely because they read a judgement still in progress. Weighting group votes by that signal lifted contested-trial accuracy from 57% to 88% — under high cognitive workload only. If correctness can be read off a headset before a student answers, the line between assessing work and surveilling thought has nowhere left to sit. Alongside it, 'neuroadaptive overfitting' names how a closed-loop system drifts from a user's durable goals toward short-term proxies, eroding authorship — the boundary question asked from inside the device. On the vendor-contract trigger: a FOURTH consecutive confirmed null, with one caveat worth recording — the hunter's patent-database reach was poor, so the null is solid for contracts and deployments and weak for patent-stage intent. The architecture is nonetheless visible: an IETF draft (draft-vandemeent-rvp-continuous-verification-02, out of window) specifies continuous identity verification via a five-layer cascade — keystroke dynamics, face, fingerprint, iris, device context, vocal acoustics and behavioural intent — re-verifying at EVERY interaction rather than once per session. That is how continuous biometric verification would arrive in a school as a product. On the accommodation trigger: the Masinter article in Disability Compliance for Higher Education is confirmed to exist but remains unread — Wiley returned 403 and Crossref, OpenAlex and Semantic Scholar were all unreachable from this environment, so its date and whether it describes an actual case are still unknown. It needs a library route, not another agent pass. RETIREMENT CONDITION stands at 21 September, but on six days of evidence this question is strengthening.",
   "first_noted": "2026-09-07"
  }
 }
