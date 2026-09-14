@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-12",
- "scan_count": 16,
+ "last_updated": "2026-09-14",
+ "scan_count": 17,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -472,7 +472,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "grid-becomes-the-ai-bottleneck",
@@ -495,7 +495,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 5
+   "sightings": 6
   },
   {
    "id": "entry-level-collapse-may-be-macro-not-ai",
@@ -1163,7 +1163,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "bambu-h2c-tariff-delay",
@@ -1255,7 +1255,7 @@
    "source_type": "policy",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "fda-plausible-mechanism-bespoke-therapy",
@@ -1279,7 +1279,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "china-health-first-schools",
@@ -1439,7 +1439,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "neural-data-student-privacy",
@@ -1462,7 +1462,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "embryo-scoring-for-intelligence",
@@ -1754,7 +1754,7 @@
    "source_date": "2026-08-11",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ultra-rare-gene-therapy-approval-cluster",
@@ -1776,7 +1776,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-24",
-   "sightings": 5
+   "sightings": 6
   },
   {
    "id": "ed-dept-defends-edtech-against-screen-time-bans",
@@ -1844,7 +1844,7 @@
    "source_date": "2026-08-11",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "districts-hold-3001-tools-use-four",
@@ -2023,7 +2023,7 @@
    "source_date": "2026-08-24",
    "source_type": "journal",
    "first_seen": "2026-08-27",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "moral-education-effect-size-discussion",
@@ -2090,7 +2090,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "regenxbio-second-aav-safety-pause",
@@ -2112,7 +2112,7 @@
    "source_date": "2026-08-24",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "empirical-absenteeism-threshold-half-of-ten-percent",
@@ -2337,7 +2337,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "harvest-to-hallways-kitchen-recapitalisation",
@@ -2539,7 +2539,7 @@
    "source_date": "2026-08-27",
    "source_type": "news",
    "first_seen": "2026-08-29",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "teacher-pipeline-alternative-certification-majority",
@@ -2631,7 +2631,7 @@
    "source_date": "2026-08-26",
    "source_type": "policy",
    "first_seen": "2026-09-01",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "scotus-petition-special-ed-services-on-private-campuses",
@@ -2654,7 +2654,7 @@
    "source_date": "2026-08-28",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "meta-settlement-imposes-school-day-notification-blackout",
@@ -2943,7 +2943,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "reading-brain-continuous-not-categorical-dyslexia",
@@ -2965,7 +2965,7 @@
    "source_date": "2026-08-22",
    "source_type": "journal",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "vermont-yrbs-poor-mental-health-drops-third-to-quarter",
@@ -2987,7 +2987,7 @@
    "source_date": "2026-08-27",
    "source_type": "data",
    "first_seen": "2026-09-02",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "depression-recovers-suicide-risk-decouples-by-neighborhood",
@@ -3009,7 +3009,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-02",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "social-jet-lag-anxiety-effect-small",
@@ -3053,7 +3053,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "teradyne-jaka-upc-cobot-patent-suit",
@@ -3097,7 +3097,7 @@
    "source_date": "2026-08-31",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "amt130-huntington-bla-accelerated-approval",
@@ -3120,7 +3120,7 @@
    "source_date": "2026-09-02",
    "source_type": "news",
    "first_seen": "2026-09-02",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "federal-autism-elopement-alert-protocol",
@@ -3212,7 +3212,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-03",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "agent-rot-geometric-decay-sixteen-steps",
@@ -3234,7 +3234,7 @@
    "source_date": "2026-08-31",
    "source_type": "study",
    "first_seen": "2026-09-03",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "ai-companion-updates-trigger-grief",
@@ -3526,7 +3526,7 @@
    "source_date": "2026-09-03",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "social-tech-life-satisfaction-null-panel",
@@ -3571,7 +3571,7 @@
    "source_date": "2026-08-26",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "hierarchy-spanning-tracts-carry-cognitive-diversity",
@@ -3593,7 +3593,7 @@
    "source_date": "2026-08-31",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "reframe-microfactory-fab1-under-5m-equipment",
@@ -3616,7 +3616,7 @@
    "source_date": "2026-08-31",
    "source_type": "news",
    "first_seen": "2026-09-04",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "horizon-os-2-7-quest3-240hz-gamepad-emulation",
@@ -4000,7 +4000,7 @@
    "source_date": "2026-09-03",
    "source_type": "journal",
    "first_seen": "2026-09-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "polygenic-embryo-selection-intelligence-normalised",
@@ -4137,7 +4137,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-07",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "daraxonrasib-ras-inhibitor-voucher-speed",
@@ -4342,7 +4342,7 @@
    "source_date": "2026-09-04",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "single-site-ai-power-doubles-every-ten-months",
@@ -4365,7 +4365,7 @@
    "source_date": "2026-09-04",
    "source_type": "data",
    "first_seen": "2026-09-08",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "jolts-july-2026-low-hire-low-fire-freeze",
@@ -4524,7 +4524,7 @@
    "source_date": "2026-09-04",
    "source_type": "news",
    "first_seen": "2026-09-08",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "cash-transfers-epigenetic-ageing-cognition",
@@ -4547,7 +4547,7 @@
    "source_date": "2026-09-08",
    "source_type": "journal",
    "first_seen": "2026-09-09",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "moral-language-saturation-engagement",
@@ -4593,7 +4593,7 @@
    "source_date": "2026-09-08",
    "source_type": "journal",
    "first_seen": "2026-09-09",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "bytedance-realtime-world-model",
@@ -5113,7 +5113,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ieee-p7700-consumer-neurotech-attention-devices",
@@ -5136,7 +5136,7 @@
    "source_date": "2022-09-21",
    "source_type": "filing",
    "first_seen": "2026-09-10",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "feature-interference-task-uncertainty-cognitive-limits",
@@ -5158,7 +5158,7 @@
    "source_date": "2026-09-10",
    "source_type": "journal",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "youth-antipsychotic-metabolic-harm-beyond-weight",
@@ -5180,7 +5180,7 @@
    "source_date": "2026-09-07",
    "source_type": "journal",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "fcc-foreign-robot-import-ban-industry-split",
@@ -5271,7 +5271,7 @@
    "source_date": "2026-09-08",
    "source_type": "news",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "engineered-bacteria-ocean-rock-weathering",
@@ -5339,7 +5339,7 @@
    "source_date": "2026-09-02",
    "source_type": "study",
    "first_seen": "2026-09-11",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "synthetic-gaze-identity-state",
@@ -5362,7 +5362,7 @@
    "source_date": "2026-09-03",
    "source_type": "study",
    "first_seen": "2026-09-11",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "greenpassport-request-carbon",
@@ -5385,7 +5385,7 @@
    "source_date": "2026-09-06",
    "source_type": "study",
    "first_seen": "2026-09-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "fungal-minimal-cognition",
@@ -5635,7 +5635,7 @@
    "source_date": "2026-09-02",
    "source_type": "study",
    "first_seen": "2026-09-12",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "thermosaic-wearable-thermal-illusion",
@@ -5657,6 +5657,278 @@
    "source_date": "2026-09-04",
    "source_type": "study",
    "first_seen": "2026-09-12",
+   "sightings": 1
+  },
+  {
+   "id": "learning-reshapes-neural-manifold-geometry",
+   "title": "Learning flattens and compacts neural representation geometry",
+   "type": "signal",
+   "summary": "Rainer W. Friedrich's group at the Friedrich Miescher Institute and University of Basel reported in Nature Neuroscience on 10 September 2026 that odour discrimination training in juvenile and adult zebrafish restructures population activity in area pDp, a piriform-cortex homolog, without invoking classical attractor dynamics. Two-photon calcium imaging with CASCADE spike inference showed trained fish had significantly higher 'manifold capacity' across all odour categories, with effective manifold radius, dimensionality, centre alignment and axis alignment all decreasing — four geometric parameters moving together to make task-relevant information linearly readable. Euclidean separation between learned and novel odour representations grew and linear discriminant classification accuracy rose consistently after training. The authors frame learning as an optimisation of representational geometry rather than the strengthening of stored patterns.",
+   "so_what": "If expertise is a geometry change that makes information linearly readable rather than a store of retrievable facts, the school's implicit model of practice-until-it-sticks is measuring the wrong thing — the payoff of varied, discriminative practice is separation between confusable cases, which no current assessment instrument detects.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02429-3",
+   "source_date": "2026-09-10",
+   "source_type": "journal",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "sordino-silent-fmri-awake-behaving",
+   "title": "Silent fMRI removes scanner noise from brain imaging",
+   "type": "signal",
+   "summary": "Yen-Yu Ian Shih's team at UNC Chapel Hill published SORDINO in Nature Neuroscience on 9 September 2026 — a zero-echo-time fMRI method sampling during gradient ramping at a mean slew rate of 0.21 T m-1 s-1, four orders of magnitude below conventional GRE-EPI's 1,263.62 and about 75-fold below ZTE. Sound pressure during scanning matched the scanner's idle state; mice imaged with SORDINO showed cortisol elevated on day 1 but normalised by day 5, whereas GRE-EPI cohorts stayed elevated throughout habituation. The method delivered up to an eightfold temporal signal-to-noise increase, markedly reduced motion-correlated artefact, and produced the first whole-brain map of dexterous reaching in awake behaving rodents. Its contrast derives from cerebral blood volume, tissue oxygen and blood flow rather than haemoglobin-based BOLD.",
+   "so_what": "Nearly every neuroimaging finding schools cite about attention, reading and language was collected inside roughly 110 dB of scanner clatter with a stressed subject — so the developmental imaging base underwriting ed-neuro programmes is due for revision rather than extension, and the instrument was distorting the thing it measured.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02424-8",
+   "source_date": "2026-09-09",
+   "source_type": "journal",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "ml-targeted-screening-beats-universal",
+   "title": "Model-targeted screening outperforms universal substance screening",
+   "type": "signal",
+   "summary": "John L. Havlik, Michael J. Murphy, Taeho Greg Rhee, Keith Humphreys and Robert A. Rosenheck (Stanford, Yale, VA Connecticut, University of Connecticut) published in Nature Mental Health on 3 September 2026 a supervised machine-learning approach that identifies people with untreated substance use disorders from electronic-health-record-like variables. Trained on NESARC-III, the models cut the number of people who must be screened to surface one untreated alcohol use disorder case by more than an order of magnitude versus universal screening; exploratory opioid and cocaine models were promising but sample-size limited. The work is adult-only and retrospective, with no prospective validation and no deployed product. It reframes screening as a targeting problem rather than a coverage problem.",
+   "so_what": "The efficiency case for replacing blanket wellness screening with model-flagged targeting will reach school counselling and SEL vendors before it reaches clinics — and a school that lets an algorithm decide which students get asked has quietly created a risk register it must defend to families and to counsel.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Mental Health",
+   "source_url": "https://www.nature.com/articles/s44220-026-00717-2",
+   "source_date": "2026-09-03",
+   "source_type": "journal",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "polyarc-moss-studio-closure",
+   "title": "Moss developer Polyarc closes after project cancellation",
+   "type": "signal",
+   "summary": "Polyarc, the Seattle studio behind Moss (2018), Moss: Book II (2022) and Glassbreakers: Champions of Moss (2025), announced its closure on 14 September 2026 after roughly 12 years and with about 29 remaining staff. The studio says an April 2026 cancellation of a major project forced a two-thirds staff reduction it never recovered from, widely read as fallout from Meta's early-2026 Reality Labs restructuring and funding cuts. Polyarc had already pivoted to flatscreen ports in July 2026. It joins Sanzaru Games, Armature Studio, Twisted Pixel, Vertigo Games' Amsterdam studio and two shuttered nDreams internal studios.",
+   "so_what": "The flagship-quality VR content a school library or makerspace would license is produced by studios now closing faster than they are founded, so any VR curriculum built on a single vendor's catalogue should assume title abandonment and platform migration within a single student cohort.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/moss-polyarc-closure-project-cancellation/",
+   "source_date": "2026-09-14",
+   "source_type": "news",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "wsu-ai-optimized-grcop42-printing",
+   "title": "AI cuts metal-printing trials for NASA copper alloy",
+   "type": "signal",
+   "summary": "Washington State University researchers used AI-guided parameter optimisation to laser-powder-bed print GRCop-42, a NASA copper-chromium-niobium alloy long considered difficult because copper reflects laser energy, at 500 watts. The team reached six viable process configurations out of more than 40 physical experiments in three months, compressing a search that conventionally consumes far longer and far more powder. The work was published in the Proceedings of the AAAI Conference on Artificial Intelligence, took an Innovative Deployed Application Award, and was reported by 3DPrint.com on 10 September 2026.",
+   "so_what": "Process-parameter discovery, not hardware, has been the bottleneck keeping exotic metals out of small fabrication shops — automating it points toward school-scale metal fabrication becoming a materials-sourcing and waste-handling problem rather than an engineering one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "I-Environmental",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Robotics & Fabrication",
+   "source_name": "3DPrint.com",
+   "source_url": "https://3dprint.com/332214/3d-printing-news-briefs-9-10-2026/",
+   "source_date": "2026-09-10",
+   "source_type": "news",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "fda-clears-muscle-targeted-sma-therapy",
+   "title": "FDA clears first muscle-targeted SMA therapy",
+   "type": "signal",
+   "summary": "On 11 September 2026 the FDA approved Isembyld (apitegromab-mstn), Scholar Rock's anti-pro-myostatin antibody, for spinal muscular atrophy patients aged 2 and older already receiving SMN2-targeted therapy such as nusinersen or risdiplam. Approval rested on a 52-week randomised, double-blind, placebo-controlled trial of 188 participants aged 2-21, with the primary analysis in 156 patients aged 2-12. At 10 mg/kg, 34.2% of treated patients achieved a clinically meaningful gain on the Hammersmith Functional Motor Scale Expanded versus 13.5% on placebo — more than double the rate. Labelling flags an increased fracture risk in treated patients.",
+   "so_what": "SMA is no longer a single-drug diagnosis: pupils in the 2-12 band are now on additive regimens whose motor function can improve year over year, so fixed IEP and 504 mobility accommodations written at enrolment will be wrong by the time they are reviewed.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/drugs/news-events-human-drugs/fda-approves-first-therapy-target-muscle-loss-spinal-muscular-atrophy",
+   "source_date": "2026-09-11",
+   "source_type": "news",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "pig-kidney-bridge-to-human-transplant",
+   "title": "Pig kidneys used as bridge to human transplant",
+   "type": "signal",
+   "summary": "STAT reported on 3 September 2026 that two recipients of eGenesis gene-edited pig kidneys, who each kept the xenograft for close to a year before it was removed, have now received human donor kidneys after several intervening months back on dialysis. The transition was not seamless, but it is the first demonstration of xenotransplantation functioning as a bridge rather than a destination therapy. Roughly a year off dialysis was the milestone clinicians pointed to, not indefinite graft survival.",
+   "so_what": "Xenotransplantation has quietly moved from thought experiment to lived family history, so biology and ethics units that still teach animal-to-human organs as hypothetical are already behind the students whose relatives have had one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Biotechnology",
+   "source_name": "STAT",
+   "source_url": "https://www.statnews.com/2026/09/03/recipients-of-gene-edited-pig-kidneys-receive-human-organs/",
+   "source_date": "2026-09-03",
+   "source_type": "news",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "china-order-818-investigator-trials",
+   "title": "China tightens investigator-led cell and gene trials",
+   "type": "driver",
+   "summary": "Nature reported on 8 September 2026 that investigator-initiated trials of cell and gene therapies in China grew 11-fold to 207 between 2015 and 2023, largely outside National Medical Products Administration supervision because the rules were not strictly enforced. Order 818, effective 1 May 2026, restricts such trials in cell therapy, gene editing and brain implants to top-tier sanjia hospitals, empowers the National Health Commission to re-assess, suspend, alter or cancel registered trials, and adds multimillion-yuan fines, three-year bans on running trials, and physician licence revocation. The clampdown follows the deaths of two children in separate gene-editing trials.",
+   "so_what": "The fastest lab-to-child pipeline in the world is being re-regulated in public, so families pursuing overseas experimental treatment for a chronically ill pupil now face trials that can be halted mid-course — medical leave requests of open-ended and unpredictable length.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "ME-Moral/Ethical",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Nature",
+   "source_url": "https://www.nature.com/articles/d41586-026-02407-6",
+   "source_date": "2026-09-08",
+   "source_type": "news",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "classroom-attention-scoring-face-plus-wearable",
+   "title": "Real-time student attention scored from face and wearables",
+   "type": "signal",
+   "summary": "On 2 September 2026 Christoforos Fragkiadakis, Seyed Sahand Mohammadi Ziabari and Ali Mohammed Mansoor Alsahag posted arXiv:2609.02232, 'Fairness-Aware Multimodal Transformer Modeling for Real-Time Student Attention Estimation' — a model estimating student attention continuously from facial images plus wearable-sensor physiology, trained on DIPSER, a naturalistic classroom dataset that combines faces, wearable measurements, attention annotations and demographic metadata. It reports MAE 0.283 and RMSE 0.363 with end-to-end latency of 50.65 ms per prediction window and 1.02 ms model inference — fast enough to run live during a lesson. The central negative finding is that gender- and age-targeted fairness regularisation reduced disparities on validation data but those gains did not consistently transfer to held-out subjects or repeated subject-level splits.",
+   "so_what": "The engineering barrier to live engagement analytics in a classroom is now latency-solved, so the only remaining brake is procurement policy — and the paper's own result says a vendor's fairness numbers will not hold on a cohort it has not seen, which makes any 'audited for bias' claim in a sales deck unfalsifiable at your school.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Education",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.02232",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "rogue-ai-progression-indicator-framework",
+   "title": "Bengio-backed threat taxonomy for rogue AI progression",
+   "type": "driver",
+   "summary": "arXiv:2609.03189, 'Reducing Catastrophic Risk from AI with Systematic Monitoring and Evaluation of Rogue AI Progression', was posted 2 September 2026 by eighteen authors including Yoshua Bengio, spanning US national laboratories and defence-adjacent research organisations. It proposes a structured framework of behavioural indicators that may signal an AI system's progression toward potentially catastrophic autonomous operation, with metrics and thresholds enabling evidence-based monitoring protocols for researchers and policymakers. The methodology is borrowed explicitly from cybersecurity and national-security threat-indicator practice rather than from ML benchmarking. It is a preprint with no adopting body — an attempt to create a surveillance vocabulary for a capability that does not yet demonstrably exist.",
+   "so_what": "If this indicator taxonomy becomes the template a regulator or insurer adopts, the AI tools a school licenses will one day arrive with a threat-progression rating attached — and AI literacy will have to include reading that rating, which is a very different curriculum from teaching prompt craft.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.03189",
+   "source_date": "2026-09-02",
+   "source_type": "study",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "compute-as-licensed-commodity-verification",
+   "title": "Making AI chips a tracked, verifiable export commodity",
+   "type": "trend",
+   "summary": "Bruna Avellar and Erich Grunewald of the Institute for AI Policy and Strategy posted arXiv:2609.07637 on 7 September 2026, cataloguing verification mechanisms for US AI-chip export controls across three categories: end-location verification that controlled chips stay in authorised jurisdictions, end-user verification that the entity buying compute access is who it claims, and end-use verification that the compute is not applied to prohibited purposes. Their stated criterion is deployability within roughly one year under the existing Bureau of Industry and Security framework, favouring mechanisms that lean on private-sector actors and existing technology rather than new government headcount. It is a policy blueprint, not a rule — no docket, no comment period, no adopted standard.",
+   "so_what": "End-use verification would convert compute from a metered utility into a licensed, jurisdictionally tracked commodity, so an independent school building a 2030s curriculum around frontier model access may find that access gated by its country's export standing rather than by its budget.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "T-Technological",
+    "I-Environmental"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "arXiv (Institute for AI Policy and Strategy)",
+   "source_url": "https://arxiv.org/abs/2609.07637",
+   "source_date": "2026-09-07",
+   "source_type": "study",
+   "first_seen": "2026-09-14",
+   "sightings": 1
+  },
+  {
+   "id": "enforceable-social-license-data-reuse",
+   "title": "Social license for data reuse needs enforceable remedies",
+   "type": "driver",
+   "summary": "On 4 September 2026 Stefaan G. Verhulst, Adam Zable, Begona Gonzalez Otero and Jacqueline Lu posted arXiv:2609.05731, arguing that community participation in data governance is decorative unless communities hold leverage — the capacity to attach credible legal, institutional, contractual, economic or reputational costs to being ignored. They specify six leverage sources and a six-dimension evaluative framework covering obligation, enforceability, consequence, monitoring, revocability and institutional durability. Their test is blunt: a social license worth the name must have the properties of a legal license — conditions, a licensor, and enforceable remedies for breach. They add an epistemic condition: communities cannot impose costs on systems whose behaviour they cannot observe or document.",
+   "so_what": "Applied to edtech this reframes parent consultation as worthless without a revocation clause the school can actually pull — making the audit question at every vendor renewal not 'did we inform families' but 'what happens contractually to the vendor if we withdraw'.",
+   "likelihood": "possible",
+   "episteme": [
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.05731",
+   "source_date": "2026-09-04",
+   "source_type": "study",
+   "first_seen": "2026-09-14",
    "sightings": 1
   }
  ],
@@ -5694,11 +5966,13 @@
     "feature-interference-task-uncertainty-cognitive-limits",
     "retrievability-precondition-llm-oversight",
     "350000-ai-coaching-conversations-oversight",
-    "neuroadaptive-overfitting-slow-fast-bci"
+    "neuroadaptive-overfitting-slow-fast-bci",
+    "rogue-ai-progression-indicator-framework",
+    "compute-as-licensed-commodity-verification"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-12",
-   "status_note": "Revised, and it adds a FOURTH mechanism to the open dose-vs-threshold-vs-lag question rather than resolving it: oversight capacity. Two field experiments with 640 employees find that whether people catch LLM errors is governed not by skill, motivation or engagement but by information RETRIEVABILITY — whether the knowledge needed to verify is accessible at the moment of review. Self-generated explanations at onboarding improved detection and, critically, daily retrieval cues stopped detection decaying as use became routine. That makes 'always verify' honour pledges close to inert and points the leverage at cue design instead. Separately, a study of 350,000+ AI coaching conversations argues the default safeguard — human review of every output — collapses at volume and may reduce safety, because sustained vigilance degrades. And a BCI paper names 'neuroadaptive overfitting': a closed-loop system over-optimised to short-term proxies like completion and accuracy while drifting from the user's durable goals, eroding authorship. All three describe the same shape — the human check is the thing that fails, and it fails structurally rather than through laziness.",
+   "last_revised": "2026-09-14",
+   "status_note": "Revised on governance rather than cognition; the four-way dose / threshold / lag / oversight-capacity question is untouched and still open. Eighteen authors including Yoshua Bengio have proposed a structured taxonomy of behavioural indicators for AI systems progressing toward autonomous uncontrolled operation, borrowing its method from cybersecurity threat-indicator practice rather than ML benchmarking — a surveillance vocabulary built for a capability that does not yet demonstrably exist. Separately, a policy blueprint catalogues verification mechanisms that would make AI chips a jurisdictionally tracked commodity through end-location, end-user and end-use checks, deployable inside the existing export-control framework. Together they describe a world in which the AI a school licenses carries a rating and a licence, and where access is gated by a country's export standing rather than by a budget line — which makes 'AI literacy' partly a matter of reading a compliance label.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -5760,11 +6034,15 @@
     "us-pisa-2025-questionnaire-nonresponse-blocks-equity-cuts",
     "dutch-pisa-2025-reading-collapse-math-gender-gap-returns",
     "eeg-decodes-decision-correctness-vr",
-    "retrievability-precondition-llm-oversight"
+    "retrievability-precondition-llm-oversight",
+    "sordino-silent-fmri-awake-behaving",
+    "learning-reshapes-neural-manifold-geometry",
+    "classroom-attention-scoring-face-plus-wearable",
+    "ml-targeted-screening-beats-universal"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-12",
-   "status_note": "The starkest instance yet of an instrument with no interior. In PISA 2025 the United States could not publish ANY breakdown by race or family poverty because more than 40% of participating US students did not complete the background questionnaire, and the OECD separately flagged US results over incomplete school participation, warning bias cannot be ruled out. The headline still shipped and the US rank improved — but only because other systems fell faster, and the subgroup data that would show whether that masks a widening equity gap does not exist. A national instrument now produces a number with nothing inside it. The Netherlands adds the companion failure: a profile that split, world-class in mathematics (only 9 of 91 systems beat it) while 39% of 15-year-olds fall below level 2 in reading, up from 33% — so one domain's result is no evidence about another, and reputation built on the strong half conceals the weak one."
+   "last_revised": "2026-09-14",
+   "status_note": "A strong day, and the sharpest item turns the uncertainty on the research base itself. SORDINO, a silent zero-echo-time fMRI method, runs at a mean slew rate four orders of magnitude below conventional GRE-EPI, at sound pressure matching the scanner's idle state; mice scanned with it normalised cortisol by day 5 while GRE-EPI cohorts stayed stressed throughout, and it delivered up to an eightfold temporal signal-to-noise gain with far less motion artefact. Nearly every neuroimaging claim schools cite about attention, reading and language was collected inside roughly 110 dB of clatter from a stressed subject — the instrument was distorting the thing it measured, so that evidence base is due for revision rather than extension. A second finding aims lower still: odour-discrimination training in zebrafish reshapes representational GEOMETRY — manifold capacity up, radius, dimensionality and alignment all down — meaning expertise is a change in how separable information is, not a store of retrievable facts. No assessment instrument a school owns detects that. And a fairness-audited classroom attention model reports that its own bias corrections did NOT transfer to held-out subjects, which makes any vendor's 'audited for bias' claim unfalsifiable on a cohort it has not seen."
   },
   {
    "id": "cu-credential",
@@ -5802,11 +6080,12 @@
     "germany-pisa-record-socioeconomic-gradient",
     "bls-q2-2026-productivity-output-without-hours",
     "challenger-august-2026-ai-drops-off-cut-reasons",
-    "dutch-pisa-2025-reading-collapse-math-gender-gap-returns"
+    "dutch-pisa-2025-reading-collapse-math-gender-gap-returns",
+    "learning-reshapes-neural-manifold-geometry"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-10",
-   "status_note": "Quiet for a third day; no new direct evidence, and recording that is more useful than manufacturing a revision. The 10 September position stands. One oblique touch: the Dutch split profile — world-class maths alongside a collapsing reading floor — is a reminder that a credential's signal is domain-specific in a way institutions and families routinely treat as general, which is the same error in miniature that the wider certification question turns on."
+   "status_note": "Quiet for a fifth consecutive day. No new direct evidence, and saying so is more useful than manufacturing a revision. The 10 September position stands: if assisted coursework and unassisted capability diverge over roughly two years, the certifying function migrates to whoever tests unassisted. One oblique touch from the neuroscience side — if expertise is representational geometry rather than stored content, then every credential in use certifies a proxy for the thing it claims to measure, which is the same problem one level down."
   },
   {
    "id": "cu-liability",
@@ -5850,11 +6129,14 @@
     "youth-antipsychotic-metabolic-harm-beyond-weight",
     "irs-proposed-rule-race-conscious-aid-tax-exempt-schools",
     "ny-climate-superfund-struck-down-preemption",
-    "gallup-union-influence-record-high-47"
+    "gallup-union-influence-record-high-47",
+    "fda-clears-muscle-targeted-sma-therapy",
+    "china-order-818-investigator-trials",
+    "enforceable-social-license-data-reuse"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-12",
-   "status_note": "The most consequential single item this uncertainty has taken, and it is aimed directly at fee-charging schools. Treasury and the IRS published a proposed rule on 4 September ('Racial Nondiscrimination in Private Schools', REG-119986-25) that would deny 501(c)(3) status to any private school considering race, colour or national origin in admissions, scholarships, loans, athletics or school-supported programmes — 'for any purpose', explicitly including policies adopted to remedy past discrimination. Roughly 18,000 tax-exempt private schools and 750,000 students are in scope. Comments close 3 November 2026; applicability begins with taxable years after 31 May 2027. This is liability-as-governor at the level of institutional existence rather than of premium or verdict: the exemption itself becomes conditional on what the school can document about its own decisions. Two supporting items: a federal judge struck down New York's $75bn Climate Change Superfund Act on Clean Air Act preemption, closing the polluter-pays route to resilience funding; and Gallup finds a record 47% wanting unions to have more influence, the sentiment base from which a faculty organising drive would draw."
+   "last_revised": "2026-09-14",
+   "status_note": "Revised on duty of care to individual students rather than on institutional exposure. The FDA approved Isembyld for spinal muscular atrophy in patients aged 2+ already on SMN2-targeted therapy: 34.2% of treated patients achieved a clinically meaningful motor gain against 13.5% on placebo. Pupils are now on additive regimens whose motor function can IMPROVE year over year, so fixed IEP and 504 accommodations written at enrolment will be wrong by review. Pointing the other way, China's Order 818 — effective 1 May 2026, following two child deaths in gene-editing trials — lets the National Health Commission suspend, alter or cancel registered investigator-led trials, so a family pursuing overseas experimental treatment can have it halted mid-course, producing medical-leave requests of genuinely unpredictable length. Both mean an accommodation is now a moving target rather than a settled document. Separately, a data-governance paper argues a 'social license' is decorative without enforceable remedies — which reframes the edtech renewal question from whether families were informed to what happens contractually to the vendor if the school withdraws. On the IRS proposed rule (REG-119986-25): no movement this cycle; comments still close 3 November 2026."
   },
   {
    "id": "cu-campus",
@@ -5889,11 +6171,12 @@
     "epa-strips-public-notice-minor-air-permits",
     "global-over-65s-outnumber-under-fives",
     "greenpassport-request-carbon",
-    "ny-climate-superfund-struck-down-preemption"
+    "ny-climate-superfund-struck-down-preemption",
+    "wsu-ai-optimized-grcop42-printing"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-12",
-   "status_note": "Revised on who pays to harden the plant. A federal judge voided New York's Climate Change Superfund Act — $3bn a year for 25 years from large emitters into a state resilience fund — on Clean Air Act preemption and foreign-affairs grounds, with parallel suits pending against Vermont, Michigan and Hawaii. The leading state route to publicly funded adaptation is blocked through at least the Second Circuit appeal, which means roof, HVAC and stormwater hardening should be modelled as self-funded capital rather than as something a state adaptation grant will offset. Taken with the 11 September demographic finding, the campus question is now squeezed from three directions at once: fewer children, a household balance sheet carrying two dependent generations, and resilience capex with no external payer."
+   "status_note": "Quiet; no new evidence today. The 12 September position stands — resilience capex is self-funded after the New York climate superfund ruling, and the demand side is squeezed by a global cohort in which over-65s now outnumber under-fives. One faint touch from the fabrication side: AI-guided process-parameter discovery for difficult metals moves school-scale metal fabrication from an engineering problem toward a materials-sourcing and waste-handling one, which is a question about what a building must be equipped to contain."
   }
  ],
  "verification": {
@@ -5903,6 +6186,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-14-asset-light",
+   "date": "2026-09-14",
+   "title": "Asset Light",
+   "year": "2037",
+   "axis": "CU 03 and CU 05 crossed again, but BOTH resolving to the opposite poles from 5 September's 'Full House'. There the credential was repriced downward by the labour market while the campus filled by default from other schools' collapse. Here the credential HOLDS — because the school became the certifying body itself — while the campus becomes the stranded asset, priced out by self-funded resilience capex and a cohort that never arrived",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Holds, and the school issues it. After the proctored-assessment reckoning, Mount Vernon built a certification nobody disputes — and discovered it could sell it to students it never houses."
+    },
+    {
+     "id": "cu-campus",
+     "title": "Does the physical campus become more essential — or a stranded asset?",
+     "pole": "Stranded. Ninety acres of conditioned brick that the institution's most valuable product does not require."
+    }
+   ],
+   "premise": "The Mount Vernon Standard is now taken by 41 schools in nine states. It is a demonstrated-competence certification — unassisted, in-person, externally moderated — and it works because the school spent six years building the moderation infrastructure nobody else wanted to pay for. Licensing revenue passed tuition revenue in 2035. The awkwardness is architectural. The Standard requires a room with a proctor for nine hours a year; it does not require this campus. Meanwhile the physical plant costs what it costs — the utility line tripled after 2031, the climate superfund litigation ended badly for states, and every dollar of resilience capex is the school's own. Enrolment sits at 71% of capacity because the children simply are not there. The board has a paper called 'Estate Options' that nobody will put on an agenda.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Dev, 16",
+     "vignette": "He is enrolled here, which he has learned to describe carefully, because a boy he games with in Charlotte is also 'doing Mount Vernon' and will have the same line on his record. Dev's version costs $61,000 and includes a rowing team, a chapel, and a maths teacher who noticed in October that he had stopped asking questions. The Charlotte boy's version costs $2,400. Dev cannot construct the argument for the difference in a way that survives his own scrutiny, and he suspects the honest answer is something about his parents rather than about him, which he does not like and cannot unthink."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr. Achebe, 22 years in",
+     "vignette": "Half his load is now moderation: reviewing performance evidence from schools he has never visited, holding the line on what a 4 means in Dallas and Tulsa. He is good at it and it matters — the Standard's whole value is that people like him are stubborn about it. What he notices is that the work he is proudest of now has no building in it and no child he knows. He still teaches three sections. He has caught himself thinking of them as the part of the job that does not scale, and then being appalled at the sentence."
+    },
+    {
+     "role": "Parent",
+     "name": "Louisa",
+     "vignette": "She sat on the board committee that approved the licensing expansion in 2033 and she would vote for it again; it saved the school's finances and it put a serious credential in reach of families who could never come here. She also knows exactly what she bought for her own daughter, and it is not the Standard. It is the rowing team and the chapel and Mr. Achebe in October. She has started to suspect that what she is paying for is precisely the part the institution has proven is unnecessary, and that this was true long before anyone wrote it down."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Ellis, Head of School",
+     "vignette": "She built the Standard and it saved the place. She reads 'Estate Options' the way you read a diagnosis: sell the north fields, consolidate into four buildings, take the endowment hit, keep the thing that earns. Every number says yes. What stops her is not sentiment but a question she cannot get a good answer to — whether an institution that certifies competence for 41 schools while quietly ceasing to be a place is still the thing that made the certification trustworthy, or whether it is spending down a reputation it can no longer manufacture. She has asked three people. All of them answered about the money."
+    }
+   ],
+   "tension": "The school solved the hard problem. It built a credential that means something in a decade when almost nothing did, and it did so by being exactly the kind of institution — slow, staffed, physically present, stubborn about standards — that the credential's value depends on. Then it discovered the credential travels and the institution does not. So the most valuable thing it does is the thing least attached to what it is, and the economics now point steadily away from the conditions that produced the value in the first place. Nobody is cynical here. The licensing genuinely widens access, the estate genuinely cannot be afforded, and the number that would tell you when you have hollowed out the source of your own authority does not exist and will not exist until well after you have.",
+   "provocations": [
+    "Name the thing a family pays $61,000 for that a licensing school's family does not get. Now say it in a sentence a sixteen-year-old would find honest rather than flattering.",
+    "If our most valuable output does not require this campus, what is the campus for — and is that answer strong enough to carry nine figures of deferred maintenance?",
+    "What would be the first observable sign that the reputation underwriting our certification had begun to decay? Who is watching for it, and would they be believed?"
+   ]
+  },
   {
    "id": "sc-2026-09-12-proof-of-blindness",
    "date": "2026-09-12",
@@ -6714,10 +7045,13 @@
    "steam-frame-modular-passthrough-upgrade",
    "eeg-decodes-decision-correctness-vr",
    "neuroadaptive-overfitting-slow-fast-bci",
-   "thermosaic-wearable-thermal-illusion"
+   "thermosaic-wearable-thermal-illusion",
+   "classroom-attention-scoring-face-plus-wearable",
+   "sordino-silent-fmri-awake-behaving",
+   "enforceable-social-license-data-reuse"
   ],
   "would_displace": "cu-campus",
-  "why_not_yet": "Day six, and the boundary question keeps getting sharper while its formal trigger stays unfired. Today's demonstration is the most pointed yet: spatial-covariance EEG features carry a PRE-EMPTIVE signal of whether a decision will be correct, available inside the response window rather than after it, outperforming post-hoc confidence ratings precisely because they read a judgement still in progress. Weighting group votes by that signal lifted contested-trial accuracy from 57% to 88% — under high cognitive workload only. If correctness can be read off a headset before a student answers, the line between assessing work and surveilling thought has nowhere left to sit. Alongside it, 'neuroadaptive overfitting' names how a closed-loop system drifts from a user's durable goals toward short-term proxies, eroding authorship — the boundary question asked from inside the device. On the vendor-contract trigger: a FOURTH consecutive confirmed null, with one caveat worth recording — the hunter's patent-database reach was poor, so the null is solid for contracts and deployments and weak for patent-stage intent. The architecture is nonetheless visible: an IETF draft (draft-vandemeent-rvp-continuous-verification-02, out of window) specifies continuous identity verification via a five-layer cascade — keystroke dynamics, face, fingerprint, iris, device context, vocal acoustics and behavioural intent — re-verifying at EVERY interaction rather than once per session. That is how continuous biometric verification would arrive in a school as a product. On the accommodation trigger: the Masinter article in Disability Compliance for Higher Education is confirmed to exist but remains unread — Wiley returned 403 and Crossref, OpenAlex and Semantic Scholar were all unreachable from this environment, so its date and whether it describes an actual case are still unknown. It needs a library route, not another agent pass. RETIREMENT CONDITION stands at 21 September, but on six days of evidence this question is strengthening.",
+  "why_not_yet": "Day eight, a FIFTH consecutive confirmed null on the vendor-contract trigger — and today the supply side closed almost all the way. A fairness-audited multimodal Transformer now estimates student attention continuously from facial images plus wearable physiology, trained on a naturalistic classroom dataset that already bundles faces, wearable measurements, attention annotations and demographic metadata, at 50.65 ms end-to-end latency — fast enough to run live during a lesson. The engineering barrier is gone; only procurement policy remains. That is the clearest statement yet of what the five nulls actually mean: the capability is being built and validated in the open literature while the transaction stays invisible, so the signal to watch is the supply side closing rather than a leak from the demand side. The paper also hands schools the sharpest question to put to any such vendor — its own fairness corrections did NOT transfer to held-out subjects, which makes an 'audited for bias' claim unfalsifiable on a cohort the vendor has not seen. A second paper supplies the lever: a social license for data reuse is decorative unless it carries conditions, a licensor and enforceable remedies, and communities cannot impose costs on systems whose behaviour they cannot observe. On the accommodation trigger, no movement, and the Masinter article stays unreadable from here — a library route would settle it. RETIREMENT CONDITION is 21 September, but this question has strengthened every single day it has been in challenge.",
   "first_noted": "2026-09-07"
  }
 }
