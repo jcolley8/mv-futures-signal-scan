@@ -28,7 +28,7 @@ signals.sort(key=lambda s: (s.get("first_seen", ""), s.get("source_date", "")), 
 EPI = {
     "E-Educational":   ("E",  "Educational"),
     "P-Political":     ("P",  "Political"),
-    "I-Environmental": ("I",  "Interaction w/ Environment"),
+    "I-Environmental": ("I",  "Environment, Ecology & Climate"),
     "S-Social":        ("S",  "Social"),
     "T-Technological": ("T",  "Technological"),
     "EC-Economic":     ("Ec", "Economic"),
@@ -293,8 +293,13 @@ table.mx td.rowhead{background:transparent;border:none;font-weight:700;color:var
   white-space:nowrap;padding:10px 12px 10px 0;width:1%;cursor:default}
 table.mx td.rowhead small{display:block;font-weight:400;color:var(--muted);font-size:11.5px}
 .cellcount{font-size:21px;font-weight:680;font-variant-numeric:tabular-nums;line-height:1.1;color:var(--navy)}
+.cellnew{display:inline-block;margin-left:6px;padding:1px 6px;border-radius:999px;background:var(--navy);
+  color:#fff;font-size:10.5px;font-weight:700;vertical-align:middle;letter-spacing:.02em}
 .cellitems{margin:6px 0 0;padding:0;list-style:none;font-size:12px;color:var(--ink-2)}
 .cellitems li{margin:3px 0;line-height:1.35}
+.cellitems li.isnew::after{content:"new";margin-left:5px;padding:0 4px;border-radius:3px;
+  background:var(--navy);color:#fff;font-size:9px;font-weight:700;text-transform:uppercase;
+  letter-spacing:.04em;vertical-align:1px}
 .cellitems a{text-decoration:none;border-bottom:1px solid var(--rule)}
 .cellitems a:hover{border-bottom-color:currentColor}
 .mx-legend{font-size:12px;color:var(--muted);margin-top:10px}
@@ -398,7 +403,9 @@ footer b{color:var(--ink-2)}
 <p class="h2sub">Rows are Three Horizons; columns are years until material impact on schools. Click a cell to filter the entries below it.</p>
 <div class="panel">
   <table class="mx" id="matrix"></table>
-  <p class="mx-legend">Cell shading scales with density. Titles link to the original source.</p>
+  <p class="mx-legend">Cell shading scales with density; the badge on each count is what today's scan added.
+  Titles link to the original source. The map's <em>shape</em> is itself a finding — a scan that clusters in
+  one cell is telling you about its own bias as much as about the world.</p>
 </div>
 
 <h2>Distributions</h2>
@@ -565,11 +572,12 @@ document.querySelectorAll('.culinks button').forEach(b=>b.addEventListener('clic
     html += `<tr><td class="rowhead">${HZL[h].split(' · ')[0]}<small>${HZL[h].split(' · ')[1]}</small></td>`;
     TLS.forEach(t=>{
       const list = cells[h+'|'+t], n = list.length;
+      const fresh = list.filter(s=>s.first_seen === META.last_updated).length;
       html += `<td class="${n?'':'empty'}" data-h="${h}" data-t="${t}" style="background:${shade(n)}">` +
-        `<div class="cellcount">${n}</div>` +
+        `<div class="cellcount">${n}${fresh?`<span class="cellnew">+${fresh}</span>`:''}</div>` +
         (n ? '<ul class="cellitems">' + list.slice(0,CAP).map(s=>
-          `<li><a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('') +
-          (n>CAP ? `<li style="color:var(--muted)">+ ${n-CAP} more — click cell to filter</li>` : '') + '</ul>' : '') +
+          `<li${s.first_seen===META.last_updated?' class="isnew"':''}><a href="${esc(s.source_url)}" target="_blank" rel="noopener">${esc(s.title)}</a></li>`).join('') +
+          (n>CAP ? `<li style="color:var(--muted)">+ ${n-CAP} older — click cell to filter</li>` : '') + '</ul>' : '') +
         '</td>';
     });
     html += '</tr>';

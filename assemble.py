@@ -55,7 +55,7 @@ for date, path in deltas:
         print(f"  !! {os.path.basename(path)} unreadable ({e}) — SKIPPED")
         continue
 
-    added = skipped = bumped = 0
+    added = skipped = bumped = revised = 0
     for s in d.get("new_signals", []):
         sid = s.get("id")
         if not sid or sid in by_id:
@@ -74,6 +74,24 @@ for date, path in deltas:
                 bumped += 1
             except (TypeError, ValueError):
                 pass
+
+    # Corrections to entries already in the corpus: reclassification, retagging,
+    # fixing a bad field. Only whitelisted fields may be revised, and only on a
+    # signal that already exists — a revision can never create an entry.
+    REVISABLE = {"title", "type", "summary", "so_what", "likelihood", "episteme",
+                 "horizon", "timeline", "sector", "source_name", "source_url",
+                 "source_date", "source_type"}
+    for sid, patch in (d.get("revisions") or {}).items():
+        tgt = by_id.get(sid)
+        if not tgt or not isinstance(patch, dict):
+            continue
+        patched = {k: v for k, v in patch.items() if k in REVISABLE}
+        if patched:
+            tgt.update(patched)
+            tgt.setdefault("revised_on", [])
+            if date not in tgt["revised_on"]:
+                tgt["revised_on"].append(date)
+            revised += 1
 
     for sid in d.get("archived", []):
         if sid in by_id:
@@ -101,6 +119,7 @@ for date, path in deltas:
     corpus["scan_count"] = int(corpus.get("scan_count", 0)) + 1
     applied += 1
     print(f"  + {date}: {added} new, {skipped} dup, {bumped} sightings bumped, "
+          f"{revised} revised, "
           f"CUs {'replaced' if d.get('critical_uncertainties') else 'unchanged'}, "
           f"scenario {'yes' if d.get('scenario') else 'no'}")
 
