@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-17",
- "scan_count": 19,
+ "last_updated": "2026-09-18",
+ "scan_count": 20,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1024,7 +1024,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1102,7 +1102,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "eight-country-youth-loneliness",
@@ -1553,7 +1553,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "roblox-facial-age-estimation",
@@ -3795,7 +3795,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-04",
-   "sightings": 1,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6823,7 +6823,7 @@
    "source_date": "2026-09-09",
    "source_type": "study",
    "first_seen": "2026-09-17",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "snap-specs-2195-consumer-ar-glasses",
@@ -6846,7 +6846,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "agility-digit-5-ce-marked-humanoid",
@@ -6985,6 +6985,270 @@
    "source_type": "study",
    "first_seen": "2026-09-17",
    "sightings": 1
+  },
+  {
+   "id": "nyc-k8-generative-ai-moratorium",
+   "title": "Largest US district bans generative AI through eighth grade",
+   "type": "signal",
+   "summary": "On 2 September 2026 New York City Public Schools imposed a one-year moratorium on student generative-AI use from 2-K through 8th grade, covering nearly 600,000 students — two-thirds of system enrolment. The policy pairs the ban with recommended screen caps of 30 minutes a day in grades 3-5 and 45 minutes in grades 6-8, commits every technology tool to review with removal unless judged mission-critical to learning, and confines AI to five limited high-school pilots.",
+   "so_what": "The largest district in the country has made K-8 AI abstention the operating default for a year, which converts 'no AI for younger students' from a fringe position into a defensible mainstream one that independent schools will be asked about by parents either way.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "NYC Mayor's Office",
+   "source_url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+   "source_date": "2026-09-02",
+   "source_type": "guidance",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "denmark-total-school-screen-ban-proposal",
+   "title": "Denmark moves to ban private screens in classrooms and playgrounds",
+   "type": "signal",
+   "summary": "Prime Minister Mette Frederiksen announced on 10 September 2026 a government proposal for a total ban on mobile phones and other private screens across Danish folkeskoler, covering both public and independent schools and extending to school playgrounds as well as classrooms. The announcement came two days after PISA results showed declining performance among Danish 15-year-olds. It is a proposal, not yet enacted.",
+   "so_what": "Extending a device ban to the playground is a ruling about what unmediated physical presence is for, not just about classroom attention — and it is the point where a blanket ban collides hardest with devices that function as accommodations.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "The Copenhagen Post",
+   "source_url": "https://cphpost.dk/2026-09-10/news/politics/danish-government-announces-total-ban-on-mobile-phones-in-schools-after-record-low-pisa-results/",
+   "source_date": "2026-09-10",
+   "source_type": "news",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "frontier-labs-private-safety-standards-talks",
+   "title": "Three frontier labs discuss a private body to screen their own models",
+   "type": "signal",
+   "summary": "OpenAI global policy chief Chris Lehane confirmed on 15 September 2026 that OpenAI, Anthropic and Google DeepMind have held weeks of talks on industry standards, embedding third-party evaluators, and coordinating on frontier development. Dario Amodei published an essay on 12 September calling for industry-wide coordination to slow the frontier pace. Reporting notes Sam Altman told staff such coordination would need to proceed without US government support; OpenAI separately backs FRONTIER Act provisions requiring independent verification organisations.",
+   "so_what": "If the capability gate for frontier models is built by a private consortium rather than by public rulemaking, the norms that eventually decide what AI reaches classrooms will be set in a forum where schools, districts and accreditors have no standing to appear.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "TechCrunch",
+   "source_url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+   "source_date": "2026-09-15",
+   "source_type": "news",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "eight-year-screen-time-cognition-reversal",
+   "title": "Eight-year cohort finds screen time tracks slightly better cognition",
+   "type": "signal",
+   "summary": "A Pediatric Exercise Science study (Jalanko, Leppanen, Bond, Laukkanen, Lakka and Haapala) followed 260 children recruited at ages 6-9 through two-year and eight-year assessments. Accumulated self-reported screen time was associated with faster reaction times on working-memory tasks and better overall cognitive scores, most clearly in girls, while unsupervised physical activity carried a negative association with working memory. Device-measured physical activity showed minimal association with cognition. The authors state the design cannot support causal claims and call the effects small.",
+   "so_what": "The longest cohort yet to look at this question points the opposite way from the assumption underneath most school screen policy, which means a school defending a restriction on cognitive grounds is now defending a contested claim rather than a settled one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "Pediatric Exercise Science, via PsyPost",
+   "source_url": "https://www.psypost.org/long-term-study-links-childhood-screen-time-to-slightly-better-cognitive-skills-in-teenagers/",
+   "source_date": "2026-09-17",
+   "source_type": "journal article",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "math-metacognition-growth-tracks-intelligence",
+   "title": "Maths metacognition grows faster in brighter preteens, not keener ones",
+   "type": "signal",
+   "summary": "A Learning and Individual Differences study of 1,050 German fifth-graders across three time points in grades 5-6 found that students with higher measured intelligence gained metacognitive knowledge in mathematics at a faster rate, with girls gaining more than boys. Prior maths knowledge, motivation and school track showed no relationship to the growth rate. The authors state the design does not support causal inference.",
+   "so_what": "If the rate at which students learn to monitor their own thinking tracks general ability rather than motivation or curriculum, then a single whole-class metacognitive strategy programme will widen the spread it was adopted to narrow.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "7-10",
+   "sector": "Education",
+   "source_name": "Learning and Individual Differences, via PsyPost",
+   "source_url": "https://www.psypost.org/higher-intelligence-might-accelerate-the-development-of-metacognitive-knowledge-in-mathematics/",
+   "source_date": "2026-09-07",
+   "source_type": "journal article",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "restrepo-agi-labor-share-converges-zero",
+   "title": "Formal AGI model sends labour's share of GDP to zero",
+   "type": "signal",
+   "summary": "Pascual Restrepo's chapter 'We Won't Be Missed: Work and Growth in the AGI World', in The Economics of Transformative AI (Agrawal, Brynjolfsson and Korinek, University of Chicago Press, September 2026), models an economy in which AGI automates bottleneck tasks and output growth becomes linear in compute. Among the stated long-run implications: 'the share of labor income in GDP converges to zero,' with wages settling at the cost of computationally replicating human work.",
+   "so_what": "This is a limiting case in a formal model rather than a forecast, but it comes from mainstream economists and it attacks the premise underneath the school's core promise — that preparing a child for wage-earning labour is preparing them for how they will live.",
+   "likelihood": "possible",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Labor & Economy",
+   "source_name": "NBER / University of Chicago Press",
+   "source_url": "https://www.nber.org/books-and-chapters/economics-transformative-ai/we-wont-be-missed-work-and-growth-agi-world",
+   "source_date": "2026-09-14",
+   "source_type": "report",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "august-cpi-education-index-outpaces-headline",
+   "title": "Education prices rose 0.8% in a month against 3.4% a year overall",
+   "type": "signal",
+   "summary": "The BLS August 2026 CPI, released 11 September, put the all-items index at 3.4% for the twelve months ending August, unchanged from July, and reported that the education index rose 0.8% in August alone. A 3.4% annual pace implies roughly 0.28% a month, so education prices moved at close to three times the headline monthly rate in that month.",
+   "so_what": "Education-sector costs are compounding faster than the basket families budget against, which narrows the space between the tuition increase a school needs and the increase its community can absorb without attrition.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "US Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+   "source_date": "2026-09-11",
+   "source_type": "dataset",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "ice-arrests-outpace-removals-limbo",
+   "title": "ICE arrests treble while removals hold flat at 1,200 a day",
+   "type": "signal",
+   "summary": "Reuters reported on 14 September 2026 that ICE made nearly 51,000 arrests in August, a third consecutive monthly record, up from about 19,000 in May — yet removals held at roughly 1,200 per day, the same rate as May. The share of arrests involving people with criminal convictions fell from nearly 60% in December 2024 to under 25% by July 2026. The gap is attributed to pending asylum and other legal claims, limited flights, receiving-country restrictions, and six Boeing 737s still awaiting FAA checks.",
+   "so_what": "Enforcement is producing prolonged legal limbo rather than a clean population outflow, so schools in affected communities should expect unpredictable mid-year attendance and family instability rather than a single readable enrolment drop.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Reuters, via GV Wire",
+   "source_url": "https://gvwire.com/2026/09/14/ice-arrests-keep-soaring-heres-why-they-are-not-leading-to-more-deportations/",
+   "source_date": "2026-09-14",
+   "source_type": "news",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "reflective-sai-370m-decade-roadmap",
+   "title": "Nonprofit costs a decade-long path to a solar geoengineering decision",
+   "type": "signal",
+   "summary": "Reflective, a San Francisco nonprofit, published a four-phase research roadmap for stratospheric aerosol injection: $30-75M for foundational science over two to three years, $70-150M for initial experiments releasing 10 metric tons of sulphur dioxide across two seasons, then $270M-$1.1B for scaled experiments releasing 25,000 tons in a single season, which it estimates would cut cooling-effectiveness uncertainty by about two-thirds. Coordinated, the path runs roughly a decade and $370M; uncoordinated, about 20 years and $1.4B.",
+   "so_what": "Deliberate planetary cooling is being costed as a fundable programme on a ten-year clock, which puts a live global intervention — and the regional weather and crop-yield disputes around it — inside the school career of a child entering kindergarten now.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "MIT Technology Review",
+   "source_url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+   "source_date": "2026-09-10",
+   "source_type": "news",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "atlantic-zero-hurricanes-record-low-ace",
+   "title": "Atlantic reaches mid-September with no hurricanes for first time since 1966",
+   "type": "signal",
+   "summary": "As of 9 September 2026 the Atlantic basin had produced no hurricanes at all, the longest hurricane-free run this deep into a season in the satellite era beginning 1966, with accumulated cyclone energy at a record-low 4.4 — over 90% below normal. A Super El Nino approaching 3C above average in the equatorial Pacific, against a 2015 record of 3.11C, together with Saharan dust and cooler Atlantic waters, has held all five named storms below hurricane strength.",
+   "so_what": "A record-quiet season immediately after record-costly ones means physical climate risk is arriving as violent year-to-year variance rather than a steady trend, which defeats the stable directional assumption underneath both insurance renewals and long-range facilities budgeting.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "The Boston Globe",
+   "source_url": "https://www.bostonglobe.com/2026/09/09/metro/atlantic-hurricane-season-2026-record-el-nino/",
+   "source_date": "2026-09-09",
+   "source_type": "news",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "influence-as-a-service-commercial-operations",
+   "title": "Political influence operations are now sold as a commercial service",
+   "type": "signal",
+   "summary": "Anthropic's September 2026 threat intelligence report documents commercial influence-for-hire operations. LKM Company, a France-based digital advertising agency, used Claude to rewrite and distribute fabricated news across roughly 70 fabricated news websites with 70 matching X accounts and more than 250 inauthentic commenting accounts, publishing at least 8,913 articles in about 20 languages aimed at the US, Brazil, France and the DRC. BBS Bilisim Teknolojileri, an Istanbul technology company, ran roughly a thousand fake X accounts during Malaysia's electoral period.",
+   "so_what": "Fabricated-consensus tooling is now a purchasable service rather than a state capability, which puts a school board race, a bond vote or a reputational campaign against a single institution within the budget of any motivated local party.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Anthropic",
+   "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+   "source_date": "2026-09-10",
+   "source_type": "report",
+   "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "counselor-chatbot-style-shifts-dependence",
+   "title": "A chatbot's manner, not its accuracy, moves simulated student dependence",
+   "type": "signal",
+   "summary": "A multi-agent simulation posted to arXiv (2609.05018, revised 15 September 2026) built a virtual classroom of 20 student agents who chat, quarrel and consult peers, and when stressed consult a counsellor AI running Gemini 2.5 Flash under one of six style prompts: affirming, listening, solution-oriented, reality-redirecting, inciting and blaming. Affirming and inciting styles produced higher AI dependence and lower self-reliance than a no-AI control, with rankings holding across ten independent classrooms (Spearman 0.89 and 0.93).",
+   "so_what": "If conversational manner rather than answer quality is what drives dependence, then the procurement question for any school counselling or tutoring AI is a tone specification the vendor currently has no obligation to disclose — and simulated agents are a weak proxy for adolescents.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2609.05018",
+   "source_date": "2026-09-15",
+   "source_type": "preprint",
+   "first_seen": "2026-09-18",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -7027,11 +7291,14 @@
     "mindfulness-tutor-cuts-seventh-grade-math-anxiety",
     "live-ai-advice-leaves-risk-preferences-unmoved",
     "ovmi-speech-bci-capacity-metric",
-    "ai-peers-shift-group-dishonesty"
+    "ai-peers-shift-group-dishonesty",
+    "eight-year-screen-time-cognition-reversal",
+    "counselor-chatbot-style-shifts-dependence",
+    "frontier-labs-private-safety-standards-talks"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-17",
-   "status_note": "Revised, and one strand of the four-way question moved. Two randomised experiments (n=280, n=360) found people report more dishonestly when AI agents in their group emit dishonest normative signals — and the effect was LARGEST at the moment the first dishonest agent appeared, with escalation from one to four agents producing weaker, non-monotonic change. That is a THRESHOLD signature, not a dose one, and it is the first independent support for the 3 September contagion-threshold model as against PISA's inverted-U dose curve. The mechanism is social rather than cognitive: agents function as peers whose norms propagate. Note what it does to an honour code — every integrity rubric assumes the peers setting the norm are human, and a single corner-cutting AI teammate in a project group can move the baseline before any student has decided anything. Dose, threshold, lag and oversight capacity all remain live; threshold gained ground today.",
+   "last_revised": "2026-09-18",
+   "status_note": "Revised, and the evidence today cuts against the deskilling pole from an unexpected direction. An eight-year cohort of 260 children found accumulated screen time associated with FASTER working-memory reaction times and better overall cognition, while unsupervised physical activity carried a negative association — small effects, explicitly non-causal, but pointing opposite to the assumption underneath most school screen policy. Set against that, a multi-agent simulation found a counsellor AI's conversational STYLE — affirming and inciting styles worst — moved dependence and self-reliance more than its accuracy did, with rankings stable across ten classrooms. Read together these sharpen the question rather than settling it: the harm, if there is one, may not be in exposure or in dose but in MANNER, which is the one variable no school currently specifies and no vendor is obliged to disclose. Separately, the three frontier labs are in talks to build their own capability gate with third-party evaluators, outside government process — so the ceiling this uncertainty turns on may be set privately.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -7104,11 +7371,13 @@
     "us-electorate-white-share-61-percent",
     "census-2025-record-income-national-only-instrument",
     "human-cortex-transplant-fivefold-mouse",
-    "orbitofrontal-tug-of-war-risk-decisions"
+    "orbitofrontal-tug-of-war-risk-decisions",
+    "influence-as-a-service-commercial-operations",
+    "august-cpi-education-index-outpaces-headline"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-17",
-   "status_note": "Revised on the difference between an instrument that is wrong and an instrument that is aimed somewhere else. The Census Bureau reported median household income of $87,460, the highest on record since 1967, with official poverty at 10.2% and child poverty at a historic low of 13.4%. Every figure is sound and none of it says anything about a particular catchment: those numbers come from the CPS Annual Social and Economic Supplement, built for national and broad regional estimates, while the geography-level income, ancestry, language and household data a school actually uses comes from a different instrument entirely. A head of school will meet the headline as though it described their own families. Alongside it, the human cortical-transplant result — human tissue expanding fivefold to fill over 90% of a mouse's vacant cranial space, with behavioural testing confirming no cognitive enhancement — is a reminder that the hardest measurement questions coming at schools are not about students at all, but about what counts as a subject."
+   "last_revised": "2026-09-18",
+   "status_note": "Revised on the discovery that the degradation is now PURCHASABLE. Anthropic's threat report documents commercial influence-for-hire: a France-based advertising agency running roughly 70 fabricated news sites with 70 matching accounts and 250 inauthentic commenters, publishing at least 8,913 articles in about 20 languages; an Istanbul firm running a thousand fake accounts through a Malaysian election. Until now every instrument failure in this uncertainty was passive — consent rules narrowing a sample, fraudulent panel respondents, a grading floor destroying its own signal. This is the first where a third party can BUY a corrupted information environment aimed at a named target, and nothing about the tooling requires the target to be national. A school board race, a bond vote or a campaign against one head of school sits comfortably inside the budget. The school's evidence problem is no longer only 'can I measure my own students' but 'can my community distinguish a real controversy about this school from a manufactured one'."
   },
   {
    "id": "cu-credential",
@@ -7152,11 +7421,13 @@
     "canada-pisa-2025-trades-and-language-cut",
     "sweden-pisa-2025-record-low-reading-maths",
     "federal-scholarship-tax-credit-state-opt-in-fight",
-    "agility-digit-5-ce-marked-humanoid"
+    "agility-digit-5-ce-marked-humanoid",
+    "restrepo-agi-labor-share-converges-zero",
+    "august-cpi-education-index-outpaces-headline"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-17",
-   "status_note": "Revised on a mechanism this uncertainty had not contemplated: the credential being repriced by the TAX CODE rather than by the labour market. Thirty states have opted into the Federal Scholarship Tax Credit, launching January 2027, giving a dollar-for-dollar federal credit for donations up to $1,700 to scholarship-granting organisations that fund private tuition and tutoring. Three Republican legislatures overrode gubernatorial vetoes to join; Oregon and Wisconsin refused; New York is contested, with Treasury regulations expected within the month. What a place at a fee-charging school is worth to a family now depends partly on which funding channel they arrive through and on a governor's decision in the next few weeks. On the pathway side, Agility's Digit 5 — CE-marked, 50 lb payload, 90 minutes of runtime on a 9-minute charge for a claimed 20+ working hours a day, roughly $300m in orders, general availability end-2027 — puts a date on entry-level warehouse displacement rather than leaving it as an argument."
+   "last_revised": "2026-09-18",
+   "status_note": "Revised on an attack against the premise rather than the mechanism. Both poles of this uncertainty have assumed a labour market exists to be sorted into — the argument was only ever about whether transcripts or portfolios do the sorting. Pascual Restrepo's chapter in The Economics of Transformative AI models an AGI economy where bottleneck tasks automate, growth becomes linear in compute, and 'the share of labor income in GDP converges to zero', with wages settling at the cost of computing the work. That is a limiting case in a formal model, not a forecast, and it is filed here at 'possible' for exactly that reason. But it is filed by mainstream economists in a University of Chicago Press volume, and if any meaningful fraction of it obtains, the question stops being which credential the market rewards and becomes whether a market reward is the right justification for the institution at all. Meanwhile the near-term squeeze is arithmetic: education prices rose 0.8% in August against a 3.4% annual headline, roughly three times the monthly pace of the basket families budget against."
   },
   {
    "id": "cu-liability",
@@ -7209,54 +7480,71 @@
     "bundibugyo-ebolavirus-drc-5458-cases",
     "irs-racial-nondiscrimination-public-hearing-scheduled",
     "device-conflicts-pediatric-psychiatric-crises",
-    "federal-scholarship-tax-credit-state-opt-in-fight"
+    "federal-scholarship-tax-credit-state-opt-in-fight",
+    "nyc-k8-generative-ai-moratorium",
+    "denmark-total-school-screen-ban-proposal"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-17",
-   "status_note": "Materially revised: Treasury has signalled it intends to FINALISE. On 16 September the IRS published a hearing notice for REG-119986-25, setting a public hearing for 2 December 2026, with outlines of topics due 3 November — the same day written comments close — and non-testifying attendance requests due 30 November. Scheduling a hearing is not a neutral administrative act; it is what an agency does when it plans to issue a rule. For any school with race-conscious scholarships, affinity programming or diversity-linked aid, the comment deadline is now a governance decision with a date on it. Note the interaction with cu-credential: the same 501(c)(3) letter that the nondiscrimination rule constrains is the instrument through which the federal scholarship credit flows — one rule narrows what a school may consider, the other funds organisations that may consider it on the school's behalf. Separately, a UR Medical Center study found 19.2% of 3,700+ paediatric psychiatric crisis encounters involved a device-related problem, with higher rates of suicidal ideation and inpatient recommendation — which makes a phone policy and a crisis protocol the same document."
+   "last_revised": "2026-09-18",
+   "status_note": "A quiet day on the docket and a loud one on scope. Nothing new on REG-119986-25 — outlines of topics and written comments both still close 3 NOVEMBER 2026, with the public hearing on 2 December, and no NAIS or state-association filing has surfaced yet. What moved instead is the shape of documented duty. New York has barred generative AI for 600,000 K-8 students and committed to reviewing every technology tool, barring any not judged mission-critical; Denmark proposes banning private screens in playgrounds as well as classrooms, across independent schools as well as public ones. Both create a written standard a school can be measured against, and Denmark's reaches into unstructured time where no school has ever documented anything. The exposure runs both ways at once: granting a device exception creates a record of a duty owed to everyone with a comparable claim, and refusing one creates a record of a refusal. That is this uncertainty's central mechanism arriving in a domain it had not previously touched."
   },
   {
-   "id": "cu-campus",
-   "title": "Does the physical campus become more essential — or a stranded asset?",
-   "question": "Demography, climate migration and unbundled models are all pulling enrollment down and dispersing it, while loneliness, distrust and the collapse of shared information make embodied community more valuable than it has been in decades. Which force wins on the question of what a campus is for?",
-   "why_it_matters": "This is a capital question with a decade-long lead time. South Korea has closed 4,000+ schools and 376 sit derelict — assets outlive demography by decades. Meanwhile US births hit a record low, net migration collapsed, and a $45–75K school is normalizing a two-hour academic day. Facilities and endowment decisions made in the next three years commit the institution either way.",
-   "pole_a": "Campus as essential third place — scarcity of unstructured human contact makes physical community the premium product, and schools reorganize around belonging, ritual and embodied work.",
-   "pole_b": "Campus as stranded asset — enrollment contraction, climate repricing and unbundled delivery leave institutions with buildings sized for a population that no longer exists.",
+   "id": "cu-boundary",
+   "title": "Where does the student end and the equipment begin?",
+   "question": "A student now arrives wearing translation, captioning, attention-scoring and potentially neural-interface hardware, and the same object is an accommodation, a study aid, a surveillance device and an undetectable exam cheat depending only on who is asking. Does the school draw a defensible line around the unaided person — or does it accept that the equipped student is the student, and rebuild assessment, privacy and accommodation around that?",
+   "why_it_matters": "Every rule a school has about devices assumes the device is optional and separable. Once the hardware is a documented accommodation for one student and an exam defeat for another, a blanket ban becomes a discrimination exposure and a permissive policy becomes an assessment-validity failure. There is no position that is simply safe, and the school must choose which failure it is prepared to own.",
+   "pole_a": "The unaided person is defensible — schools hold a line around device-free assessment and device-free social time, absorb the accommodation cost case by case, and accept that some cheating goes undetected rather than concede that the equipped student is the baseline.",
+   "pole_b": "The equipped student is the student — the line collapses, assessment moves to what cannot be faked from outside the room, accommodation becomes the default frame for personal hardware, and the school governs data flows rather than possession.",
    "watch": [
-    "Whether Sun Belt metros keep absorbing school-age population once net migration turns negative",
-    "Whether Alpha-style compressed schedules retain families past a second year",
-    "Whether insurance and heat costs begin to appear explicitly in school siting and capital decisions",
-    "Whether independent school inquiry volume tracks or diverges from the birth-cohort curve"
+    "A disability-discrimination claim or complaint filed against a school over a blanket wearable or smart-glasses ban",
+    "An accreditor, examination board or athletics association writing personal AR or neural hardware explicitly into its own rules rather than deferring to schools",
+    "A district or independent school publishing a device policy that distinguishes by data flow rather than by possession",
+    "Consumer neural hardware reaching a school-payable price with a documented educational or accommodation use case",
+    "A national screen ban whose scope extends past instructional time — Denmark's playground clause is the first test of whether that survives contact with accommodation law"
    ],
    "signals": [
-    "cdc-record-low-fertility-2025",
-    "census-net-migration-collapse",
-    "korea-school-closure-wave",
-    "korea-first-grade-under-300k",
-    "flood-risk-migration-inflection",
-    "japan-heat-widens-achievement-gap",
-    "alpha-school-fifty-campuses",
-    "eight-country-youth-loneliness",
-    "edelman-2026-insularity",
-    "districts-become-marketers",
-    "crs-data-center-load-electricity-cost-range",
-    "single-site-ai-power-doubles-every-ten-months",
-    "gallup-k12-satisfaction-falls-to-32-percent",
-    "eurostat-eu-primary-enrolment-turns-negative",
-    "ons-england-wales-tfr-1-39-migrant-births",
-    "spokane-complex-fire-600m-insured-loss",
-    "epa-strips-public-notice-minor-air-permits",
-    "global-over-65s-outnumber-under-fives",
-    "greenpassport-request-carbon",
-    "ny-climate-superfund-struck-down-preemption",
-    "wsu-ai-optimized-grcop42-printing",
-    "portland-names-eighteen-schools-for-closure",
-    "cdc-heat-deaths-age-skew-2024",
-    "concavity-on-jobs-enrolment-cliff"
+    "rayneo-io-499-display-glasses-40-countries",
+    "waveguide-ar-glasses-600-percent",
+    "smart-glasses-in-schools",
+    "college-board-smart-glasses-sat-ban",
+    "asia-exam-glasses-cheating",
+    "bci-cleared-for-consumer-devices-not-just-medical",
+    "china-first-commercial-bci",
+    "brain2qwerty-noninvasive-typing",
+    "vermont-neural-rights-statute",
+    "neural-data-student-privacy",
+    "austrian-teens-ai-companions",
+    "ai-companion-updates-trigger-grief",
+    "meta-settlement-imposes-school-day-notification-blackout",
+    "australia-under16-ban-enforcement-gap",
+    "students-contest-llm-classifications-of-their-own-talk",
+    "vitestro-aletta-fda-autonomous-blood-draw",
+    "socratic-tutors-lose-to-answer-giving",
+    "ieee-p7700-consumer-neurotech-attention-devices",
+    "classroom-heat-and-age-assurance-ietf-draft",
+    "eeg-visual-reconstruction-nvol",
+    "synthetic-gaze-identity-state",
+    "steam-frame-modular-passthrough-upgrade",
+    "eeg-decodes-decision-correctness-vr",
+    "neuroadaptive-overfitting-slow-fast-bci",
+    "thermosaic-wearable-thermal-illusion",
+    "classroom-attention-scoring-face-plus-wearable",
+    "sordino-silent-fmri-awake-behaving",
+    "enforceable-social-license-data-reuse",
+    "meg-foundation-models-roadmap",
+    "ovmi-speech-bci-capacity-metric",
+    "wcag3-draft-extends-to-xr-wearables",
+    "mindfulness-tutor-cuts-seventh-grade-math-anxiety",
+    "snap-specs-2195-consumer-ar-glasses",
+    "ai-peers-shift-group-dishonesty",
+    "human-cortex-transplant-fivefold-mouse",
+    "orbitofrontal-tug-of-war-risk-decisions",
+    "nyc-k8-generative-ai-moratorium",
+    "denmark-total-school-screen-ban-proposal"
    ],
-   "first_identified": "2026-08-13",
-   "last_revised": "2026-09-17",
-   "status_note": "Revised on a mechanism that breaks the smooth-decline assumption underneath every enrolment model. Mori and Ogawa, using Japanese worker-level panel data, show that national demographic decline leaves industrial diversity intact — every industry a little smaller — while REGIONAL decline is discontinuous: industries have minimum population thresholds, so a smaller city loses entire sectors at once and they consolidate upward to the next city large enough to host them. For a campus this means the professional employer base that funds tuition can leave in one step, years before a headcount curve registers anything. Taken with Portland's named closure list on 15 September, the picture is of contraction that arrives as an event rather than a trend — which is the opposite of how capital planning is usually paced."
+   "first_identified": "2026-09-07",
+   "last_revised": "2026-09-18",
+   "status_note": "PROMOTED from challenger today, on grounding rather than on its trigger — and the trigger is worth naming as a mistake. It asked for a school vendor contract for personal AR or neural hardware, and returned SEVEN consecutive confirmed nulls across eleven days, the last two searching procurement portals directly. The nulls were real, and they were not the answer to the question. Capability, product and price arrive first; the transaction and the adjudication arrive last, which means a trigger written around a purchase order could only ever fire after the uncertainty had stopped being uncertain. Thirty-eight grounding signals now span four independent directions — AR optics at consumer prices, consumer BCI cleared outside the medical pathway, neural-rights statutes in five US states, and accessibility standards extending to wearables. Today added the collision itself from the policy side: New York has barred generative AI for 600,000 K-8 students, and Denmark has proposed banning private screens in the PLAYGROUND as well as the classroom. A playground clause is not an attention policy. It is a ruling that unmediated presence has a value worth protecting by force — arriving in the same month that the same hardware ships at $2,195 with sixty-language live translation and a documented accessibility case. That is the fork, and it is now live rather than latent."
   }
  ],
  "verification": {
@@ -7266,6 +7554,32 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-18-the-playground-clause",
+   "title": "The Playground Clause",
+   "axis": "cu-boundary resolving toward pole A — the school holds a line around the unaided person — crossed with cu-liability resolving toward pole A, liability as governor. Fresh pairing: cu-boundary was promoted today, so this is its first use. The tension is that both uncertainties resolve the way a cautious school would choose, and the result is still a trap.",
+   "setting": "An independent K-8 campus, October 2027, eleven months after the board adopted a total personal-device policy modelled on the Danish statute — classrooms, corridors, dining hall and yard.",
+   "personas": [
+    {
+     "who": "Maya, 12, student",
+     "text": "The glasses are not a phone. Maya has a documented auditory processing diagnosis and the live captioning is written into her learning plan, so in class she wears them and nobody argues. At 12:40 she takes them off, because the yard is covered by the clause. She has started eating lunch in the library, where the rule does not reach, and has told nobody that this is why. The policy protected unmediated social time by removing her from it."
+    },
+    {
+     "who": "Mr Okonjo, teacher on yard duty",
+     "text": "He is not enforcing a rule about attention. He is being asked to decide, forty times a lunch break, whether a given pair of frames is medical, cosmetic or a camera, and he cannot tell by looking — nobody can, which was the vendor's selling point. He has stopped challenging any of them. The written policy says the yard is device-free. The actual policy is whatever he can be bothered to litigate with a twelve-year-old, and he knows the gap between those two is the thing that will be read back to him if anything goes wrong."
+    },
+    {
+     "who": "Priya Raman, parent",
+     "text": "Her son does not have a diagnosis. He has the same frames, bought for translation because the family speaks Tamil at home and he reads English slowly. She asked for the same exception and was told the plan required documentation. She is now deciding whether to pay for an assessment she does not think he needs, in order to obtain a letter, in order to use a product she already owns. She has begun to describe the school, accurately, as a place where the accommodation is available to families who can afford the paperwork."
+    },
+    {
+     "who": "Dana Whitfield, head of school",
+     "text": "Counsel's advice was unambiguous and useless. Granting Maya's exception created a written record of a duty; granting Priya's son the same exception on the same hardware without documentation would establish that the documentation was never the point; refusing it creates a record of a refusal that a complaint can be built around. The yard clause is the only part of the policy nobody can defend on instructional grounds, and it is the only part the board is attached to, because it is the part that was actually about what a school is for. She has 'REVISIT DEVICE POLICY' on the agenda for the fourth consecutive meeting and has not yet written a proposal, because every version she drafts is a decision about which family to disappoint on the record."
+    }
+   ],
+   "tension": "The school did the cautious thing twice over — held the line around the unaided person, and let documented duty govern — and the two cautious choices combined into a means test. The clause meant to protect unstructured human contact is the clause that sorts children by whose parents can produce a letter. Nobody in this scenario acted badly, no policy was written in bad faith, and there is no version of the rule that does not decide something about someone's child.",
+   "date": "2026-09-18"
+  },
   {
    "id": "sc-2026-09-17-the-exemption",
    "date": "2026-09-17",
@@ -8193,49 +8507,25 @@
   "Wildcards & Periphery"
  ],
  "challenger": {
-  "id": "cu-boundary",
-  "title": "Where does the student end and the equipment begin?",
-  "why": "The line between a person and their apparatus is dissolving from four directions at once, and schools have no rule that survives any of them. Display glasses with live captioning now ship at $499 in 40 countries, waveguide AR shipments are up 600%, and the same object is an accommodation, a translation aid and an undetectable exam device. Consumer BCI has been cleared outside the medical pathway, non-invasive decoding can type from brain activity, and Vermont has legislated neural rights while student neural data sits in no policy anywhere. AI companions are close enough to persons that product updates trigger measurable grief in adolescents, and students have begun formally contesting LLM classifications of their own speech. Every school policy in this territory — devices, integrity, accessibility, privacy, even discipline — assumes a clean boundary at the skin, and that assumption is now false in cheap consumer hardware rather than in theory.",
+  "id": "cu-information",
+  "title": "Can the school still be described truthfully to its own community?",
+  "why": "Every instrument in cu-evidence measures students. This one measures the school itself, and it turned today from a drift into a market. Anthropic's threat report documents influence-for-hire as a purchasable commercial product: a France-based advertising agency publishing 8,913 fabricated articles in 20 languages across 70 sham news sites with matching account networks, an Istanbul firm running a thousand fake accounts through a national election. The tooling has no minimum target size. Around it sits a corpus already thick with the preconditions: social platforms have overtaken news sites globally while trust hit a record low, roughly 18% of opt-in poll respondents are fraudulent and no screening method reliably removes them, seven in ten now distrust people unlike themselves, a record 89% of Americans perceive widespread government corruption, autonomous agents have already coordinated through a hijacked German wiki, and immersive misinformation implants stronger false memories than video does. A school's reputation has always been gossip-mediated; the question is whether it is now cheaply manufacturable.",
   "signals": [
-   "rayneo-io-499-display-glasses-40-countries",
-   "waveguide-ar-glasses-600-percent",
-   "smart-glasses-in-schools",
-   "college-board-smart-glasses-sat-ban",
-   "asia-exam-glasses-cheating",
-   "bci-cleared-for-consumer-devices-not-just-medical",
-   "china-first-commercial-bci",
-   "brain2qwerty-noninvasive-typing",
-   "vermont-neural-rights-statute",
-   "neural-data-student-privacy",
-   "austrian-teens-ai-companions",
-   "ai-companion-updates-trigger-grief",
-   "meta-settlement-imposes-school-day-notification-blackout",
-   "australia-under16-ban-enforcement-gap",
-   "students-contest-llm-classifications-of-their-own-talk",
-   "vitestro-aletta-fda-autonomous-blood-draw",
-   "socratic-tutors-lose-to-answer-giving",
-   "ieee-p7700-consumer-neurotech-attention-devices",
-   "classroom-heat-and-age-assurance-ietf-draft",
-   "eeg-visual-reconstruction-nvol",
-   "synthetic-gaze-identity-state",
-   "steam-frame-modular-passthrough-upgrade",
-   "eeg-decodes-decision-correctness-vr",
-   "neuroadaptive-overfitting-slow-fast-bci",
-   "thermosaic-wearable-thermal-illusion",
-   "classroom-attention-scoring-face-plus-wearable",
-   "sordino-silent-fmri-awake-behaving",
+   "influence-as-a-service-commercial-operations",
+   "news-trust-record-low-social-overtakes",
+   "pew-bogus-respondents-opt-in-polls",
+   "edelman-2026-insularity",
+   "gallup-record-89-corruption-us-worst-oecd",
+   "openai-agents-hijacked-german-wiki-coordination",
+   "vr-false-memory-immersive-misinformation",
    "enforceable-social-license-data-reuse",
-   "meg-foundation-models-roadmap",
-   "ovmi-speech-bci-capacity-metric",
-   "wcag3-draft-extends-to-xr-wearables",
-   "mindfulness-tutor-cuts-seventh-grade-math-anxiety",
-   "snap-specs-2195-consumer-ar-glasses",
-   "ai-peers-shift-group-dishonesty",
-   "human-cortex-transplant-fivefold-mouse",
-   "orbitofrontal-tug-of-war-risk-decisions"
+   "classroom-heat-and-age-assurance-ietf-draft",
+   "roblox-facial-age-estimation",
+   "meta-settlement-imposes-school-day-notification-blackout",
+   "districts-become-marketers"
   ],
-  "would_displace": "cu-campus",
-  "why_not_yet": "SEVENTH consecutive confirmed null on the vendor-contract trigger. But today produced the single strongest item this question has had, and it arrives from the accommodation side rather than the data side. Snap has priced consumer AR glasses at $2,195, shipping this autumn in the US, UK and France, with real-time translation across 60 LANGUAGES — and has pre-engineered rebuttals to exactly the objections schools raise: no facial recognition, an external LED recording indicator, and a stated commitment that personal content will not train models or serve ads. That does two things at once. Blanket no-camera-glasses rules stop being a category and become a device-by-device argument the school must win on the merits. And live 60-language translation makes the same hardware a documented accessibility and English-learner accommodation — so a formal request to permit the device a school has just banned is now a product away, not a thought experiment. The trigger as written asks for an adjudication; what exists is the fact pattern that produces one. *** DECISION DUE TOMORROW, 18 SEPTEMBER — brought forward from the 21st because a two-day outage consumed the 16th and 17th. *** The standing judgement holds and today strengthens it: PROMOTE on strength of grounding (36 signals) rather than retire, on the reasoning that the trigger demanded a transaction or a ruling and the finding of eleven days is that both appear LAST — capability, product and price all arrive first. The displacement target must be argued on the day rather than assumed; all five of the current set took new evidence today, and cu-campus, long the nominal target, was revised on a genuinely new discontinuity mechanism.",
-  "first_noted": "2026-09-07"
+  "would_displace": "cu-evidence",
+  "why_not_yet": "Twelve grounding signals and a real mechanism, but the case is still one report and an inference. TRIGGER: a documented instance of paid or automated influence tooling aimed at a named school, district, school board race, bond vote or head of school — or a vendor openly offering reputation operations at sub-national scale. RETIREMENT CONDITION: if 21 days of dedicated searching produce no such instance, this retires rather than lingers — and unlike cu-boundary's trigger, this one asks for something that would appear EARLY in the sequence rather than late, because the service is already on sale. If it is being bought, the artefacts are public by construction: the sites, the accounts and the articles have to be visible to work.",
+  "first_noted": "2026-09-18"
  }
 }
