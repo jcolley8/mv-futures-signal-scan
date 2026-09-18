@@ -7556,29 +7556,52 @@
  "scenarios": [
   {
    "id": "sc-2026-09-18-the-playground-clause",
+   "date": "2026-09-18",
    "title": "The Playground Clause",
+   "year": "2027",
    "axis": "cu-boundary resolving toward pole A — the school holds a line around the unaided person — crossed with cu-liability resolving toward pole A, liability as governor. Fresh pairing: cu-boundary was promoted today, so this is its first use. The tension is that both uncertainties resolve the way a cautious school would choose, and the result is still a trap.",
-   "setting": "An independent K-8 campus, October 2027, eleven months after the board adopted a total personal-device policy modelled on the Danish statute — classrooms, corridors, dining hall and yard.",
-   "personas": [
+   "based_on": [
     {
-     "who": "Maya, 12, student",
-     "text": "The glasses are not a phone. Maya has a documented auditory processing diagnosis and the live captioning is written into her learning plan, so in class she wears them and nobody argues. At 12:40 she takes them off, because the yard is covered by the clause. She has started eating lunch in the library, where the rule does not reach, and has told nobody that this is why. The policy protected unmediated social time by removing her from it."
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The unaided person is defensible — the school holds a device-free line and extends it past instructional time, into the yard, where the point was never attention."
     },
     {
-     "who": "Mr Okonjo, teacher on yard duty",
-     "text": "He is not enforcing a rule about attention. He is being asked to decide, forty times a lunch break, whether a given pair of frames is medical, cosmetic or a camera, and he cannot tell by looking — nobody can, which was the vendor's selling point. He has stopped challenging any of them. The written policy says the yard is device-free. The actual policy is whatever he can be bothered to litigate with a twelve-year-old, and he knows the gap between those two is the thing that will be read back to him if anything goes wrong."
-    },
-    {
-     "who": "Priya Raman, parent",
-     "text": "Her son does not have a diagnosis. He has the same frames, bought for translation because the family speaks Tamil at home and he reads English slowly. She asked for the same exception and was told the plan required documentation. She is now deciding whether to pay for an assessment she does not think he needs, in order to obtain a letter, in order to use a product she already owns. She has begun to describe the school, accurately, as a place where the accommodation is available to families who can afford the paperwork."
-    },
-    {
-     "who": "Dana Whitfield, head of school",
-     "text": "Counsel's advice was unambiguous and useless. Granting Maya's exception created a written record of a duty; granting Priya's son the same exception on the same hardware without documentation would establish that the documentation was never the point; refusing it creates a record of a refusal that a complaint can be built around. The yard clause is the only part of the policy nobody can defend on instructional grounds, and it is the only part the board is attached to, because it is the part that was actually about what a school is for. She has 'REVISIT DEVICE POLICY' on the agenda for the fourth consecutive meeting and has not yet written a proposal, because every version she drafts is a decision about which family to disappoint on the record."
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — counsel decides which exceptions are grantable, because every grant and every refusal is a written record a complaint can be built around."
     }
    ],
-   "tension": "The school did the cautious thing twice over — held the line around the unaided person, and let documented duty govern — and the two cautious choices combined into a means test. The clause meant to protect unstructured human contact is the clause that sorts children by whose parents can produce a letter. Nobody in this scenario acted badly, no policy was written in bad faith, and there is no version of the rule that does not decide something about someone's child.",
-   "date": "2026-09-18"
+   "premise": "It is October 2027, eleven months after the board adopted a total personal-device policy modelled on the Danish statute — classrooms, corridors, dining hall and yard. The yard clause was the part the board cared about and the part nobody could defend on instructional grounds; it was written because unstructured contact between children had come to seem like the thing a school is actually for. In the same period the hardware arrived properly: frames at consumer prices that caption, translate, and look like glasses. Some of them are written into learning plans. Some of them are not. Nobody on yard duty can tell the difference by looking, and the manufacturers consider that a feature.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Maya, 12",
+     "vignette": "The glasses are not a phone. She has a documented auditory processing diagnosis and the live captioning is written into her learning plan, so in class she wears them and nobody argues. At 12:40 she takes them off, because the yard is covered by the clause. She has started eating lunch in the library, where the rule does not reach, and has told nobody that this is why. The policy protected unmediated social time by removing her from it."
+    },
+    {
+     "role": "Teacher",
+     "name": "Mr Okonjo, yard duty",
+     "vignette": "He is not enforcing a rule about attention. He is being asked to decide, forty times a lunch break, whether a given pair of frames is medical, cosmetic or a camera, and he cannot tell by looking — nobody can, which was the selling point. He has stopped challenging any of them. The written policy says the yard is device-free. The actual policy is whatever he can be bothered to litigate with a twelve-year-old, and he knows the gap between those two is the thing that will be read back to him if anything ever goes wrong."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya Raman",
+     "vignette": "Her son does not have a diagnosis. He has the same frames, bought for translation, because the family speaks Tamil at home and he reads English slowly. She asked for the same exception and was told the plan required documentation. She is now deciding whether to pay for an assessment she does not think he needs, in order to obtain a letter, in order to use a product she already owns. She has begun to describe the school, accurately, as a place where the accommodation is available to families who can afford the paperwork."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dana Whitfield, Head",
+     "vignette": "Counsel's advice was unambiguous and useless. Granting Maya's exception created a written record of a duty. Granting Priya's son the same exception on the same hardware without documentation would establish that the documentation was never the point. Refusing it creates a record of a refusal. The yard clause is the only part of the policy nobody can defend on instructional grounds and the only part the board is attached to, because it is the part that was actually about what a school is for. 'REVISIT DEVICE POLICY' has been on the agenda for four consecutive meetings with no proposal attached, because every version she drafts is a decision about which family to disappoint on the record."
+    }
+   ],
+   "tension": " — the school did the cautious thing twice over, held the line around the unaided person and let documented duty govern, and the two cautious choices combined into a means test. The clause meant to protect unstructured human contact is the clause that sorts children by whose parents can produce a letter. Nobody here acted badly, no policy was written in bad faith, and there is no version of the rule that does not decide something about someone's child.",
+   "provocations": [
+    "Our device policy has an exception process. Who currently qualifies for it, and what does obtaining that qualification cost a family who does not already have it?",
+    "If we cannot tell a medical frame from a recording one by looking, what exactly is the yard rule regulating — the device, or the willingness of a child to be challenged about it?",
+    "Name the part of our device policy that is about attention and the part that is about what we think a childhood should feel like. Are we prepared to defend the second on its own terms, without borrowing evidence from the first?",
+    "If a blanket ban and a permissive policy both create exposure, which failure have we actually chosen to own — and has anyone said so out loud to the board?"
+   ]
   },
   {
    "id": "sc-2026-09-17-the-exemption",
