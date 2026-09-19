@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-18",
- "scan_count": 20,
+ "last_updated": "2026-09-19",
+ "scan_count": 21,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -2997,7 +2997,7 @@
    "source_date": "2026-08-25",
    "source_type": "study",
    "first_seen": "2026-09-01",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6846,7 +6846,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "agility-digit-5-ce-marked-humanoid",
@@ -6869,7 +6869,7 @@
    "source_date": "2026-09-15",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "orbitofrontal-tug-of-war-risk-decisions",
@@ -7006,7 +7006,7 @@
    "source_date": "2026-09-02",
    "source_type": "guidance",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "denmark-total-school-screen-ban-proposal",
@@ -7028,7 +7028,7 @@
    "source_date": "2026-09-10",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "frontier-labs-private-safety-standards-talks",
@@ -7225,7 +7225,7 @@
    "source_date": "2026-09-10",
    "source_type": "report",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "counselor-chatbot-style-shifts-dependence",
@@ -7248,6 +7248,202 @@
    "source_date": "2026-09-15",
    "source_type": "preprint",
    "first_seen": "2026-09-18",
+   "sightings": 1
+  },
+  {
+   "id": "aft-microsoft-school-ai-privacy-standard",
+   "title": "Union and Microsoft sign a school AI standard with teeth",
+   "type": "signal",
+   "summary": "The National Academy for AI Instruction AI Safety & Privacy Standard for Schools, version 1.0 dated September 2026 and signed by Microsoft, is written as a Memorandum of Agreement rather than a policy statement. Principle 1 states a provider 'absolutely may not use any Covered Data ... to train, fine-tune, update, benchmark, or otherwise improve any AI model, at any time, for any purpose', and that prohibition survives termination indefinitely. Principle 4 bars automated grading without human review, automated disciplinary decisions, automated placement including ability grouping and special-education referrals, and emotional or psychological assessment of students or educators. Providers must hold third-party audits including ISO 42001; Microsoft targets certification by 31 December 2027.",
+   "so_what": "A district can now fold these as enforceable contract clauses carrying damages rather than relying on a vendor privacy policy, and the named list of prohibited automated decisions is a ready-made audit checklist against tools a school already runs.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "National Academy for AI Instruction / AFT / Microsoft",
+   "source_url": "https://www.aft.org/sites/default/files/media/documents/2026/NAfAI-School_AI_Privacy_Standards.pdf",
+   "source_date": "2026-09-07",
+   "source_type": "standard",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "teen-nicotine-polyproduct-overlap",
+   "title": "Teen nicotine pouch users have almost all vaped already",
+   "type": "signal",
+   "summary": "A survey of 1,848 Australian high-school students aged 14-18 across 20 schools, published in the Australian and New Zealand Journal of Public Health on 8 September 2026 by the University of Sydney's Matilda Centre, found 12.4% had vaped, 5.8% had smoked cigarettes and 3.5% had used nicotine pouches. Among pouch users, 82% had also vaped and 71% had also smoked.",
+   "so_what": "Nicotine pouches are entering an already poly-product adolescent market rather than replacing anything, so a policy written product by product will keep arriving one product late.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Australian and New Zealand Journal of Public Health",
+   "source_url": "https://www.scimex.org/newsfeed/once-a-teen-picks-up-one-nicotine-product-theyre-more-likely-to-try-the-others",
+   "source_date": "2026-09-08",
+   "source_type": "journal article",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "pineal-size-anxiety-flips-sleep-relationship",
+   "title": "Anxiety reverses how brain structure predicts teen sleep quality",
+   "type": "signal",
+   "summary": "An MRI and overnight sleep-laboratory study of preteens aged 10-13, part of an ongoing 200-child Florida International University cohort and published in Scientific Reports on 8 September 2026, found 50-60% had pineal cysts. A larger pineal gland predicted better sleep in low-anxiety children but shorter and more fragmented REM sleep in high-anxiety children.",
+   "so_what": "If anxiety inverts rather than merely worsens a basic structure-to-sleep relationship, generic paediatric sleep advice may be actively wrong for the anxious students most likely to be given it — though no screening tool exists and none is near.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Scientific Reports, via Florida International University",
+   "source_url": "https://news.fiu.edu/2026/anxiety-could-alter-the-brains-sleep-switch-in-teens",
+   "source_date": "2026-09-08",
+   "source_type": "journal article",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "anthropic-robotic-wet-lab-claude-directed",
+   "title": "An AI company builds a robotic wet lab its own models direct",
+   "type": "signal",
+   "summary": "Reuters reported on 18 September 2026 that Anthropic has built a robotic wet laboratory in the San Francisco Bay Area where physical biology experiments are directed by its Claude models, following a roughly $400 million stock acquisition of Coefficient Bio. Its head of life sciences, Eric Kauderer-Abrams, said 'the final test is still and will be for a while in real lab work' and that some experiments run faster in-house than through outside partners; a spokesperson said the lab is 'not for drug discovery specifically'.",
+   "so_what": "The frontier of AI work is moving from screens into physical laboratories, which means the science pathway a school prepares students for now forks between directing automated experiments and running them by hand.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "Reuters, via Investing.com",
+   "source_url": "https://www.investing.com/news/stock-market-news/exclusiveanthropic-quietly-sets-up-biology-lab-as-it-ramps-ai-drug-program-4906956",
+   "source_date": "2026-09-18",
+   "source_type": "news",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "virtual-biotech-37000-agent-swarm",
+   "title": "A 37,000-agent swarm runs a drug-discovery company end to end",
+   "type": "signal",
+   "summary": "A Stanford team led by James Zou published in Science on 17 September 2026 a 'Virtual Biotech' of up to 37,000 AI agents powered by Claude and organised like a company, with a chief scientific officer agent directing specialised divisions. The system confirmed CD276 as a lung-cancer target from previously collected data and proposed a CD276-recognising antibody tethered to an anticancer drug. Nature's coverage records that other scientists note the system 'has not been vetted in the crucible of real-world drug discovery, and its predictions were not validated through experiments, let alone clinical trials'.",
+   "so_what": "An organisational structure — a company, with divisions and a hierarchy — is being reproduced in software well enough to generate plausible research strategy, which puts the coordinating and managing work schools implicitly prepare students for inside the automated zone rather than safely outside it.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Biotechnology",
+   "source_name": "Nature, on a Science paper",
+   "source_url": "https://www.nature.com/articles/d41586-026-02954-y",
+   "source_date": "2026-09-17",
+   "source_type": "journal article",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "ubtech-10000-unit-humanoid-factory",
+   "title": "Humanoid robot factory opens with a ten-minute production takt",
+   "type": "signal",
+   "summary": "UBTECH Robotics opened a 14,000 square metre plant in Liuzhou, China on 12 September 2026, engineered for a ten-minute production takt and a designed capacity above 10,000 humanoid and wheeled robots a year. The company's first-half 2026 results record sales of 921 full-size humanoid robots against 45 in the same period of 2025.",
+   "so_what": "Humanoid manufacturing has moved from demonstration lines to assembly-line volume, which means the physical-trades pathway many schools have been building as the AI-proof option now has a scaling mechanical substitute rather than a hypothetical one.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "IBTimes UK",
+   "source_url": "https://www.ibtimes.co.uk/chinas-humanoid-robots-scale-commercial-production-1819960",
+   "source_date": "2026-09-16",
+   "source_type": "news",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "visionos27-opens-tracked-accessories",
+   "title": "Apple opens Vision Pro to third-party tracked controllers",
+   "type": "signal",
+   "summary": "visionOS 27 shipped on 14 September 2026, opening Vision Pro tracking to third-party motion controllers and tracked accessories at up to 90Hz, alongside native Gaussian-splat rendering and a beta Siri. It reverses Apple's earlier position that the device did not need hand controllers.",
+   "so_what": "An open accessory ecosystem widens the headset from a productivity device toward interactive and physical-movement use, which changes what an XR purchase is for and puts more independently tracked hardware on a student's body.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/apple-enables-third-party-motion-controllers-tracked-accessories-in-visionos-27/",
+   "source_date": "2026-09-14",
+   "source_type": "product",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "vr-speaking-practice-confidence-without-scores",
+   "title": "VR speaking practice raises confidence and leaves scores unmoved",
+   "type": "signal",
+   "summary": "A Frontiers in Education mixed-methods study of 60 Taiwanese university students, published 16 September 2026, found VR-supported spoken-English instruction produced no statistically significant gain in IELTS-style speaking scores over traditional instruction (t=0.81, p=.42, Cohen's d=0.21), while over 93% of VR participants reported greater confidence and vocabulary gains.",
+   "so_what": "The measured benefit and the claimed benefit are different quantities, so an XR purchase justified on attainment will fail its own business case even where students and teachers both report it working.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Frontiers in Education",
+   "source_url": "https://www.frontiersin.org/journals/education/articles/10.3389/feduc.2026.1876526/full",
+   "source_date": "2026-09-16",
+   "source_type": "journal article",
+   "first_seen": "2026-09-19",
+   "sightings": 1
+  },
+  {
+   "id": "gaming-disorder-long-range-visual-connectivity",
+   "title": "Gaming disorder tracks a specific break in long-range visual wiring",
+   "type": "signal",
+   "summary": "A Frontiers in Psychiatry fMRI study published 11 September 2026 compared 35 people aged 9-33 with internet gaming disorder against 30 controls. Connectivity from primary visual cortex to lateral occipital cortex fell from 0.364 in controls to 0.130 in the disorder group (Cohen's d=1.42), correlating with severity, while adjacent short-range visual links showed no difference.",
+   "so_what": "A large effect confined to one specific long-range pathway is the kind of finding that eventually turns a behavioural label into a measurable condition — but this is a small, wide-aged, correlational sample and is nowhere near a basis for screening students.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Frontiers in Psychiatry",
+   "source_url": "https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2026.1883842/full",
+   "source_date": "2026-09-11",
+   "source_type": "journal article",
+   "first_seen": "2026-09-19",
    "sightings": 1
   }
  ],
@@ -7294,11 +7490,14 @@
     "ai-peers-shift-group-dishonesty",
     "eight-year-screen-time-cognition-reversal",
     "counselor-chatbot-style-shifts-dependence",
-    "frontier-labs-private-safety-standards-talks"
+    "frontier-labs-private-safety-standards-talks",
+    "virtual-biotech-37000-agent-swarm",
+    "anthropic-robotic-wet-lab-claude-directed",
+    "aft-microsoft-school-ai-privacy-standard"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-18",
-   "status_note": "Revised, and the evidence today cuts against the deskilling pole from an unexpected direction. An eight-year cohort of 260 children found accumulated screen time associated with FASTER working-memory reaction times and better overall cognition, while unsupervised physical activity carried a negative association — small effects, explicitly non-causal, but pointing opposite to the assumption underneath most school screen policy. Set against that, a multi-agent simulation found a counsellor AI's conversational STYLE — affirming and inciting styles worst — moved dependence and self-reliance more than its accuracy did, with rankings stable across ten classrooms. Read together these sharpen the question rather than settling it: the harm, if there is one, may not be in exposure or in dose but in MANNER, which is the one variable no school currently specifies and no vendor is obliged to disclose. Separately, the three frontier labs are in talks to build their own capability gate with third-party evaluators, outside government process — so the ceiling this uncertainty turns on may be set privately.",
+   "last_revised": "2026-09-19",
+   "status_note": "Revised on the automation of ORGANISATION rather than of tasks. A Stanford group ran a 'Virtual Biotech' of up to 37,000 agents structured like a company — a chief scientific officer agent directing specialised divisions — and it produced a coherent drug-targeting strategy from existing data. Its predictions were not experimentally validated and other scientists say so plainly, which is why this sits at 'plausible'. But the thing being reproduced is not a skill, it is a management structure, and separately an AI company has now built a physical robotic laboratory its own models direct. Both poles of this uncertainty have quietly assumed that coordinating, delegating and judging were the human residue left after the tasks automated. That assumption is now the thing being tested. Against it, the AFT-Microsoft standard draws the opposite line by contract: no automated grading, discipline, placement or emotional assessment without human review. One side is demonstrating that hierarchy is reproducible; the other is writing into law that certain judgements may not be.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -7373,11 +7572,13 @@
     "human-cortex-transplant-fivefold-mouse",
     "orbitofrontal-tug-of-war-risk-decisions",
     "influence-as-a-service-commercial-operations",
-    "august-cpi-education-index-outpaces-headline"
+    "august-cpi-education-index-outpaces-headline",
+    "vr-speaking-practice-confidence-without-scores",
+    "gaming-disorder-long-range-visual-connectivity"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-18",
-   "status_note": "Revised on the discovery that the degradation is now PURCHASABLE. Anthropic's threat report documents commercial influence-for-hire: a France-based advertising agency running roughly 70 fabricated news sites with 70 matching accounts and 250 inauthentic commenters, publishing at least 8,913 articles in about 20 languages; an Istanbul firm running a thousand fake accounts through a Malaysian election. Until now every instrument failure in this uncertainty was passive — consent rules narrowing a sample, fraudulent panel respondents, a grading floor destroying its own signal. This is the first where a third party can BUY a corrupted information environment aimed at a named target, and nothing about the tooling requires the target to be national. A school board race, a bond vote or a campaign against one head of school sits comfortably inside the budget. The school's evidence problem is no longer only 'can I measure my own students' but 'can my community distinguish a real controversy about this school from a manufactured one'."
+   "last_revised": "2026-09-19",
+   "status_note": "A quieter day, and the useful item is small and exact. A VR spoken-English study found no significant gain in assessed speaking (t=0.81, p=.42, d=0.21) while over 93% of participants reported greater confidence and vocabulary. Neither number is wrong. They are measurements of different quantities, and the purchase case for the technology will be written using whichever one is available. This is the ordinary, unglamorous form of the failure this uncertainty tracks: not a corrupted instrument, but a school reaching for the measure that exists rather than the one that matches the claim. Separately, a gaming-disorder fMRI study reports a very large effect (d=1.42) confined to one long-range visual pathway in 35 people aged 9 to 33 — the kind of result that becomes a screening instrument two or three papers later, and the point at which this uncertainty would want to have asked what it actually measures."
   },
   {
    "id": "cu-credential",
@@ -7423,11 +7624,13 @@
     "federal-scholarship-tax-credit-state-opt-in-fight",
     "agility-digit-5-ce-marked-humanoid",
     "restrepo-agi-labor-share-converges-zero",
-    "august-cpi-education-index-outpaces-headline"
+    "august-cpi-education-index-outpaces-headline",
+    "ubtech-10000-unit-humanoid-factory",
+    "virtual-biotech-37000-agent-swarm"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-18",
-   "status_note": "Revised on an attack against the premise rather than the mechanism. Both poles of this uncertainty have assumed a labour market exists to be sorted into — the argument was only ever about whether transcripts or portfolios do the sorting. Pascual Restrepo's chapter in The Economics of Transformative AI models an AGI economy where bottleneck tasks automate, growth becomes linear in compute, and 'the share of labor income in GDP converges to zero', with wages settling at the cost of computing the work. That is a limiting case in a formal model, not a forecast, and it is filed here at 'possible' for exactly that reason. But it is filed by mainstream economists in a University of Chicago Press volume, and if any meaningful fraction of it obtains, the question stops being which credential the market rewards and becomes whether a market reward is the right justification for the institution at all. Meanwhile the near-term squeeze is arithmetic: education prices rose 0.8% in August against a 3.4% annual headline, roughly three times the monthly pace of the basket families budget against."
+   "last_revised": "2026-09-19",
+   "status_note": "Revised on both ends of the pathway closing at once. UBTECH opened a humanoid plant engineered for a ten-minute takt and designed capacity above 10,000 units a year, having sold 921 full-size humanoids in the first half of 2026 against 45 a year earlier — a twentyfold move off a small base, which is what the start of a volume ramp looks like. The skilled-trades pathway has been the reassuring answer to this uncertainty for a year: physical, local, un-automatable. It now has a manufacturer building to volume against it. At the other end, an agent swarm organised as a company generated research strategy, which reaches the graduate and professional pathway. This does not resolve the question — both are early and neither has displaced a single worker in evidence — but it removes the comfortable middle answer that students should simply be routed toward the physical trades."
   },
   {
    "id": "cu-liability",
@@ -7482,11 +7685,12 @@
     "device-conflicts-pediatric-psychiatric-crises",
     "federal-scholarship-tax-credit-state-opt-in-fight",
     "nyc-k8-generative-ai-moratorium",
-    "denmark-total-school-screen-ban-proposal"
+    "denmark-total-school-screen-ban-proposal",
+    "aft-microsoft-school-ai-privacy-standard"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-18",
-   "status_note": "A quiet day on the docket and a loud one on scope. Nothing new on REG-119986-25 — outlines of topics and written comments both still close 3 NOVEMBER 2026, with the public hearing on 2 December, and no NAIS or state-association filing has surfaced yet. What moved instead is the shape of documented duty. New York has barred generative AI for 600,000 K-8 students and committed to reviewing every technology tool, barring any not judged mission-critical; Denmark proposes banning private screens in playgrounds as well as classrooms, across independent schools as well as public ones. Both create a written standard a school can be measured against, and Denmark's reaches into unstructured time where no school has ever documented anything. The exposure runs both ways at once: granting a device exception creates a record of a duty owed to everyone with a comparable claim, and refusing one creates a record of a refusal. That is this uncertainty's central mechanism arriving in a domain it had not previously touched."
+   "last_revised": "2026-09-19",
+   "status_note": "Materially revised on a new instrument: duty arriving by CONTRACT rather than by statute or by litigation. The National Academy for AI Instruction standard, signed by Microsoft, is a Memorandum of Agreement — districts fold it into their vendor agreements as clauses carrying damages and injunctive relief. It prohibits training on covered student data indefinitely past termination, bars automated grading, discipline, placement and emotional assessment without human review, and requires ISO 42001 audit. Every previous entry in this uncertainty described duty being imposed on schools from outside. This is a school-side body writing duty onto a vendor and making it enforceable. It is the same mechanism running in the other direction, and it suggests the answer to this uncertainty may be less 'does liability govern' than 'who gets to hold the pen'. Nothing new on REG-119986-25: outlines of topics and written comments still close 3 NOVEMBER 2026, hearing 2 December, and still no NAIS or state-association filing."
   },
   {
    "id": "cu-boundary",
@@ -7540,11 +7744,13 @@
     "human-cortex-transplant-fivefold-mouse",
     "orbitofrontal-tug-of-war-risk-decisions",
     "nyc-k8-generative-ai-moratorium",
-    "denmark-total-school-screen-ban-proposal"
+    "denmark-total-school-screen-ban-proposal",
+    "visionos27-opens-tracked-accessories",
+    "aft-microsoft-school-ai-privacy-standard"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-18",
-   "status_note": "PROMOTED from challenger today, on grounding rather than on its trigger — and the trigger is worth naming as a mistake. It asked for a school vendor contract for personal AR or neural hardware, and returned SEVEN consecutive confirmed nulls across eleven days, the last two searching procurement portals directly. The nulls were real, and they were not the answer to the question. Capability, product and price arrive first; the transaction and the adjudication arrive last, which means a trigger written around a purchase order could only ever fire after the uncertainty had stopped being uncertain. Thirty-eight grounding signals now span four independent directions — AR optics at consumer prices, consumer BCI cleared outside the medical pathway, neural-rights statutes in five US states, and accessibility standards extending to wearables. Today added the collision itself from the policy side: New York has barred generative AI for 600,000 K-8 students, and Denmark has proposed banning private screens in the PLAYGROUND as well as the classroom. A playground clause is not an attention policy. It is a ruling that unmediated presence has a value worth protecting by force — arriving in the same month that the same hardware ships at $2,195 with sixty-language live translation and a documented accessibility case. That is the fork, and it is now live rather than latent."
+   "last_revised": "2026-09-19",
+   "status_note": "A modest first full day as a live uncertainty, and the movement is on the hardware side. visionOS 27 opened Vision Pro to third-party tracked accessories at up to 90Hz, reversing Apple's position that the device needed no controllers. That widens the class of independently tracked objects a student can be wearing or holding, and it arrives through an accessory ecosystem rather than a single vendor's product decision, which is harder for any school rule to enumerate. Obliquely relevant: the AFT-Microsoft standard bars emotional and psychological assessment of students by AI, which is the first contractual language touching what wearables may infer rather than what they record. None of the four watch items fired. No discrimination claim over a wearable ban, no accreditor or examination board writing personal AR into its own rules, no device policy distinguishing by data flow, and nothing on whether Denmark's playground clause survives contact with accommodation law."
   }
  ],
  "verification": {
@@ -7554,6 +7760,55 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-19-bare-hands",
+   "date": "2026-09-19",
+   "title": "Bare Hands",
+   "year": "2029",
+   "axis": "cu-boundary resolving toward pole A — the school defends the unaided person — crossed with cu-credential resolving toward pole B, the market reprices the credential around demonstrated capability. Fresh pairing: cu-boundary's first use against cu-credential. The collision is that the capability the market now pays for is a capability performed with equipment the assessment forbids.",
+   "based_on": [
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The unaided person is defensible — assessment is held device-free so that a result means something about the person, and the school accepts the cost of that line."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — demonstrated, situated capability displaces the transcript, and the situation the capability is demonstrated in is an equipped one."
+    }
+   ],
+   "premise": "By 2029 the school's building-trades certificate is the most oversubscribed thing it offers, because four years ago it looked like the pathway nothing could automate. The certificate is accredited, and accreditation requires the practical examination to be unaided — no overlays, no guidance, no capture — because that is how a practical examination has always established that the person can do the thing. On site, nobody does the thing unaided. The work is performed with AR guidance as a matter of routine and increasingly as a matter of insurance: the overlay logs the sequence, and the log is what the liability carrier prices. A journeyman who works without it is not more skilled, they are uninsured. Meanwhile the volume of the work is falling, because the machines that arrived in 2027 do the repeatable eighty per cent, and what is left is the awkward twenty that still needs a person — performed, of course, with the overlay on.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Danny, 17",
+     "vignette": "He passed the unaided practical in March and he is proud of it, and he has never once done the job that way since. His apprenticeship supervisor put the glasses on him in the first week and told him the log was not optional. What he cannot work out is whether the March exam proved something real about him or was a ceremony — and he notices that he cannot ask the question out loud at school without it sounding like he is ungrateful for the certificate."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ms Haddad, trades instructor",
+     "vignette": "She teaches to the exam because the exam is what the accreditor audits, which means she spends the spring teaching a method her graduates abandon in week one. She has started running an unofficial second track after hours — the same tasks with the overlay, working on reading the guidance critically, catching it when it is wrong, knowing what to do when it drops out. That is the part employers ring her about. It is also the part she cannot put on a transcript, assess, or defend to anyone who asks what it is."
+    },
+    {
+     "role": "Parent",
+     "name": "Ron Baptiste",
+     "vignette": "He chose this school for this programme, on the argument that the trades were the safe harbour. The certificate his son holds is real and the employers are real, but the number of openings has been falling for two years and the postings now read 'AR-guided workflow experience required', which is a thing the certificate does not mention. He is not sure whether he was sold something that stopped being true, or something that was never quite the argument he heard."
+    },
+    {
+     "role": "Administrator",
+     "name": "Yusuf Demir, Head",
+     "vignette": "The accreditor will not move on unaided examination; he has asked twice and been told the integrity of the credential depends on it, which is a coherent position. He can keep the accreditation and award a certificate that certifies a practice nobody practises, or he can build the equipped assessment the employers actually want and award something unaccredited that families will not initially value. He has run the numbers on both and they are close enough that the decision is not financial. What he keeps returning to is that the accreditor's position and his own device policy rest on exactly the same claim — that there is a person underneath the equipment whose unaided capability is the real thing — and he is no longer certain he believes it, which is a difficult thing to discover about a policy he wrote."
+    }
+   ],
+   "tension": " — the school held the line on the unaided person, which is the defensible position, and the market repriced around the equipped one, which is also happening. Both are reasonable. Together they produce a certificate that is honest about a fiction. And the head cannot resolve the trades question without reopening the device policy, because they are the same question wearing different clothes: whether the person or the person-plus-apparatus is the unit the institution is in the business of forming.",
+   "provocations": [
+    "Name one thing we assess unaided that nobody performs unaided. What is that assessment establishing, and for whom?",
+    "Our graduates' employers value a skill we teach after hours and cannot put on a transcript. What would it take to make that the assessed thing, and who would have to agree?",
+    "We told families the trades were the automation-proof pathway. If we no longer believe that, at what point do we owe them that revision — and what do we say instead?",
+    "Does our device policy and our assessment policy rest on the same claim about what a person is? If one of them changed, would the other have to?"
+   ]
+  },
   {
    "id": "sc-2026-09-18-the-playground-clause",
    "date": "2026-09-18",
@@ -8548,7 +8803,7 @@
    "districts-become-marketers"
   ],
   "would_displace": "cu-evidence",
-  "why_not_yet": "Twelve grounding signals and a real mechanism, but the case is still one report and an inference. TRIGGER: a documented instance of paid or automated influence tooling aimed at a named school, district, school board race, bond vote or head of school — or a vendor openly offering reputation operations at sub-national scale. RETIREMENT CONDITION: if 21 days of dedicated searching produce no such instance, this retires rather than lingers — and unlike cu-boundary's trigger, this one asks for something that would appear EARLY in the sequence rather than late, because the service is already on sale. If it is being bought, the artefacts are public by construction: the sites, the accounts and the articles have to be visible to work.",
+  "why_not_yet": "DAY 1 OF 21: CONFIRMED NULL. A dedicated search for paid or automated influence tooling aimed at a named school, district, board race, bond vote or head of school returned one apparently on-target result — an AI-generated campaign advertisement in a South Western City Schools board race — which on checking dates to 29 October 2025 and is a different phenomenon: one campaign's own synthetic video, disclosed and argued about locally, not purchased manufactured consensus. No vendor was found offering reputation operations at sub-national scale. The distinction matters and is worth holding onto: synthetic CONTENT in a school election is already ordinary, and this uncertainty is not about that. It is about fabricated CONSENSUS — networks of accounts and sites producing the appearance of a public. Twenty days remain.",
   "first_noted": "2026-09-18"
  }
 }
