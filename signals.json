@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-19",
- "scan_count": 21,
+ "last_updated": "2026-09-20",
+ "scan_count": 22,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -462,7 +462,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1975,7 +1975,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 1,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -7006,7 +7006,7 @@
    "source_date": "2026-09-02",
    "source_type": "guidance",
    "first_seen": "2026-09-18",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "denmark-total-school-screen-ban-proposal",
@@ -7028,7 +7028,7 @@
    "source_date": "2026-09-10",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "frontier-labs-private-safety-standards-talks",
@@ -7158,7 +7158,7 @@
    "source_date": "2026-09-14",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "reflective-sai-370m-decade-roadmap",
@@ -7271,7 +7271,7 @@
    "source_date": "2026-09-07",
    "source_type": "standard",
    "first_seen": "2026-09-19",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "teen-nicotine-polyproduct-overlap",
@@ -7445,6 +7445,229 @@
    "source_type": "journal article",
    "first_seen": "2026-09-19",
    "sightings": 1
+  },
+  {
+   "id": "florida-writes-ai-rules-across-prek-to-university",
+   "title": "Florida moves to write AI rules across pre-K to university",
+   "type": "signal",
+   "summary": "Florida's university system Board of Governors issued notice on 16 September 2026 that it will require every public university's trustees to adopt policies on faculty AI-use disclosure, student AI-use disclosure and permitted AI use in coursework, with the state Department of Education set to consider a parallel K-12 rule the same week. At the time of the notice only 2 of Florida's 12 public universities had adopted a formal AI policy, though 8 had issued some guidance.",
+   "so_what": "A state is moving from guidance to enforceable rule at syllabus level, and the distinction it draws between permitted instructional tools and prohibited companionship features is the template other boards will copy — which means an independent school will eventually be asked which side of that line each of its tools sits on.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "WLRN",
+   "source_url": "https://www.wlrn.org/science-technology/2026-09-16/state-education-officials-looking-to-set-ground-rules-for-ai-in-higher-education-raise-questions-about-the-future",
+   "source_date": "2026-09-16",
+   "source_type": "news",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "california-requires-csu-instructors-be-human",
+   "title": "California law requires that a CSU instructor be a human being",
+   "type": "signal",
+   "summary": "Senator Sabrina Cervantes announced that her bill preventing California State University faculty from being replaced by AI was signed by the governor. SB 928 amends the Education Code so that instructors of record at CSU campuses must be human beings rather than AI systems; it passed the Senate floor unanimously earlier in the session.",
+   "so_what": "This is the first US statute to define the instructor of record as necessarily human, which converts a pedagogical assumption into a legal one — and the argument it rests on will be available to faculty, unions and accreditors at every other level of education.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "California State Senate, Office of Senator Cervantes",
+   "source_url": "https://sd31.senate.ca.gov/news/cervantes-bill-prevent-california-state-university-faculty-being-replaced-ai-signed-governor",
+   "source_date": "2026-09-11",
+   "source_type": "docket",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "young-children-lose-creative-output-after-chatbot-use",
+   "title": "Creative six-year-olds produce less after talking to a chatbot",
+   "type": "signal",
+   "summary": "Researchers scanned 6- and 7-year-olds and 16 adults with fMRI while they held a five-minute conversation with ChatGPT, reported by EdSource on 16 September 2026. Children scoring high on creativity produced fewer imaginary stories after using the chatbot, while adults' creative output was unchanged. Children also showed less synchronised blood flow than adults in attention and information-processing regions — a comparison between age groups, not a measured effect of the chatbot. Co-author Tzipi Horowitz-Kraus said six is 'probably too early' for generative AI tools.",
+   "so_what": "The defensible finding is the divergence, not the brain imaging: the same five minutes of chatbot conversation left adults' creative output intact and reduced it in the children who had most to lose, which would make age of first exposure a design variable rather than a matter of taste — on a very small unreviewed sample.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "EdSource, on a bioRxiv preprint",
+   "source_url": "https://edsource.org/updates/ai-chatbot-use-by-children-shows-signs-of-cognitive-stunting-researchers-say",
+   "source_date": "2026-09-16",
+   "source_type": "preprint",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "epa-repeals-and-proposes-rescinding-power-plant-ghg",
+   "title": "EPA repeals coal carbon standards and proposes scrapping the rest",
+   "type": "signal",
+   "summary": "Two EPA actions published 17 September 2026 work together. A FINAL rule effective 14 September repeals emission guidelines for existing coal steam units and the carbon-capture-based standards for modified coal units and new gas turbines, on the ground that 90% CO2 capture 'has not been adequately demonstrated' at reasonable cost before the 1 January 2032 compliance date. A SUPPLEMENTAL PROPOSAL (91 FR 59002) would repeal all remaining greenhouse-gas standards for power plants and rescind the underlying finding that power-plant emissions significantly contribute to endangerment, arguing eliminating all US power-sector emissions would have minimal effect on climate indicators. Comments close 2 November 2026.",
+   "so_what": "The federal lever on power-sector carbon is being removed just as AI electricity demand climbs, which points toward more fossil generation and more volatile power prices in the operating budget — and the rescission is a proposal with an open docket, so the outcome is not yet settled.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "National Law Review, on EPA Federal Register actions",
+   "source_url": "https://natlawreview.com/article/epa-repeals-power-plant-carbon-pollution-standards-and-proposes-repeal-all-power",
+   "source_date": "2026-09-17",
+   "source_type": "docket",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "data-centre-power-draws-water-from-stressed-basins",
+   "title": "Powering data centres withdrew 3.4 trillion gallons of water",
+   "type": "signal",
+   "summary": "An NC State College of Natural Resources analysis published 3 September 2026 estimates that generating electricity for data centres across seven states — Virginia, Texas, California, Illinois, Georgia, Ohio and Arizona — required about 3.4 trillion gallons of water withdrawals in 2024. Seventy-eight per cent of that power came from water-dependent plants and 66% was generated in areas of medium-high to extremely high water stress. Direct on-site cooling for all US data centres used roughly 17 billion gallons in 2023.",
+   "so_what": "The water cost of compute is two orders of magnitude larger upstream at the power plant than at the data centre itself, which means a school in one of these basins will meet this as a utility bill and a local political argument long before it meets it as a sustainability report line.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "NC State University College of Natural Resources",
+   "source_url": "https://cnr.ncsu.edu/news/2026/09/data-center-boom-water-resources/",
+   "source_date": "2026-09-03",
+   "source_type": "report",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "svalbard-glaciers-vent-ancient-thermogenic-methane",
+   "title": "Melting glaciers vent ancient methane nobody was counting",
+   "type": "signal",
+   "summary": "A Nature Communications study published 8 September 2026 sampled 148 river-water samples from 19 Svalbard glaciers and found meltwater supersaturated with methane at up to 425 times atmospheric equilibrium. The methane is thermogenic, sourced from ancient shale beneath the ice rather than microbial activity. Land-terminating Svalbard glaciers alone are estimated to export 182-368 tonnes of methane a year, with the flux governed by how much of the glacier bed has thawed to a wet state.",
+   "so_what": "A previously unquantified emissions pathway that scales with thaw is the kind of term that, if it generalises to other glaciated organic-rich terrain, makes the warming projections underneath every long-range facilities and insurance assumption too slow rather than too fast.",
+   "likelihood": "possible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Nature Communications",
+   "source_url": "https://www.nature.com/articles/s41467-026-77190-z",
+   "source_date": "2026-09-08",
+   "source_type": "journal article",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "dhs-proposes-ending-visa-grace-period",
+   "title": "DHS proposes deleting the 60-day cushion after a visa job ends",
+   "type": "signal",
+   "summary": "DHS published a proposed rule on 11 September 2026 eliminating the discretionary 60-day grace period following the end of employment for eight nonimmigrant work categories — E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 and TN — and their dependents. Comments close 10 November 2026; over 21,000 had already been filed at publication.",
+   "so_what": "Removing the cushion converts a job loss into an immediate departure clock for the whole family, so a school with visa-holding staff or families should expect mid-year departures with days of notice rather than weeks — and the comment volume suggests the rule will be litigated.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Federal Register, Department of Homeland Security",
+   "source_url": "https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period",
+   "source_date": "2026-09-11",
+   "source_type": "docket",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "h1b-fee-extension-collapses-outsourcing-filings",
+   "title": "H-1B fee extended and outsourcing registrations fall 92%",
+   "type": "signal",
+   "summary": "The $100,000 H-1B employer fee was extended through September 2027 while a Massachusetts federal court ruling against it remains on appeal. White House data reported 19 September 2026 show the largest IT staffing and outsourcing firms' combined H-1B registrations fell from 24,946 to 2,055, a 92% drop; consular H-1B processing fell nearly 97% year on year; and the share of registrants holding US master's degrees rose from 45.1% to 66.1%.",
+   "so_what": "The visa system is now filtering hard toward higher-wage, US-credentialed applicants, which is the rare recent datapoint pointing the other way on credential value — a US graduate degree just became materially more valuable as an immigration instrument, whatever it is doing in the labour market.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "WBAP News, citing White House data",
+   "source_url": "https://www.wbap.com/2026/09/19/h-1b-outsourcing-registrations-take-a-92-hit-as-100k-visa-rule-stays-put/",
+   "source_date": "2026-09-19",
+   "source_type": "news",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "ntia-consults-on-whether-erate-funds-too-many-screens",
+   "title": "Federal consultation asks whether E-Rate funds too many screens",
+   "type": "signal",
+   "summary": "NTIA published notice on 27 August 2026 of a virtual listening session, held 15 September, gathering input for an FCC notice of proposed rulemaking asking whether the E-Rate programme 'is serving the long-term interests of children — or instead encouraging excessive screen-based instruction'. Topics included one-to-one device policies, mechanisms for parents to opt children out of classroom technology, filtering effectiveness, and vendor influence over district adoption decisions.",
+   "so_what": "The federal subsidy that built one-to-one device programmes is being asked to justify them, and a parental opt-out mechanism written into E-Rate conditions would reach independent schools through the same vendors and the same parental expectations even where the subsidy does not.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "NTIA, via the Federal Register",
+   "source_url": "https://www.federalregister.gov/documents/2026/08/27/2026-17435/ntia-listening-session-on-screen-based-instruction-in-k-12-schools",
+   "source_date": "2026-09-15",
+   "source_type": "docket",
+   "first_seen": "2026-09-20",
+   "sightings": 1
+  },
+  {
+   "id": "california-adams-law-mandates-chatbot-crisis-protocols",
+   "title": "California mandates crisis protocols inside companion chatbots",
+   "type": "signal",
+   "summary": "Governor Newsom signed SB 1119, 'Adam's Law', on 10 September 2026, requiring companion-chatbot operators to build in crisis protocols for suicidal ideation, parental controls and notifications, independent child-safety audits and annual risk assessments. It was signed in a package of eight child-safety bills including SB 1128, barring a requirement that kindergartners take school-issued devices home, and AB 1159, extending student-privacy protections to ed-tech vendors.",
+   "so_what": "A state has now specified what a chatbot must do when a child discloses suicidal ideation, which gives a school a written external benchmark for any conversational tool it deploys — and gives a family, an insurer or a plaintiff one too.",
+   "likelihood": "probable",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "S-Social",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Office of Governor Gavin Newsom",
+   "source_url": "https://www.gov.ca.gov/2026/09/10/governor-newsom-signs-the-strongest-child-safety-chatbot-and-social-media-laws-in-the-nation/",
+   "source_date": "2026-09-10",
+   "source_type": "guidance",
+   "first_seen": "2026-09-20",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -7493,11 +7716,13 @@
     "frontier-labs-private-safety-standards-talks",
     "virtual-biotech-37000-agent-swarm",
     "anthropic-robotic-wet-lab-claude-directed",
-    "aft-microsoft-school-ai-privacy-standard"
+    "aft-microsoft-school-ai-privacy-standard",
+    "young-children-lose-creative-output-after-chatbot-use",
+    "california-requires-csu-instructors-be-human"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-19",
-   "status_note": "Revised on the automation of ORGANISATION rather than of tasks. A Stanford group ran a 'Virtual Biotech' of up to 37,000 agents structured like a company — a chief scientific officer agent directing specialised divisions — and it produced a coherent drug-targeting strategy from existing data. Its predictions were not experimentally validated and other scientists say so plainly, which is why this sits at 'plausible'. But the thing being reproduced is not a skill, it is a management structure, and separately an AI company has now built a physical robotic laboratory its own models direct. Both poles of this uncertainty have quietly assumed that coordinating, delegating and judging were the human residue left after the tasks automated. That assumption is now the thing being tested. Against it, the AFT-Microsoft standard draws the opposite line by contract: no automated grading, discipline, placement or emotional assessment without human review. One side is demonstrating that hierarchy is reproducible; the other is writing into law that certain judgements may not be.",
+   "last_revised": "2026-09-20",
+   "status_note": "Revised on the first evidence that AGE may be the variable, not dose or manner. Researchers scanned 6- and 7-year-olds and 16 adults during a five-minute ChatGPT conversation: adults' creative output was unchanged afterwards, while the children who scored HIGHEST on creativity produced fewer imaginary stories. Note carefully what this is and is not. The brain-imaging half compares children to adults, which finds a developmental difference rather than a chatbot effect, and the sample is tiny and unreviewed. The creativity half is a within-person before-and-after with an adult control group that did not move — and that is the part worth watching, because it points at the same asymmetry from a new direction: the capability most at risk may belong to those who had most of it. Alongside, California has legislated that a CSU instructor of record must be a human being. Both poles of this uncertainty argue about what AI does to a learner; neither had contemplated the law simply defining where a person is required.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -7574,11 +7799,13 @@
     "influence-as-a-service-commercial-operations",
     "august-cpi-education-index-outpaces-headline",
     "vr-speaking-practice-confidence-without-scores",
-    "gaming-disorder-long-range-visual-connectivity"
+    "gaming-disorder-long-range-visual-connectivity",
+    "ntia-consults-on-whether-erate-funds-too-many-screens",
+    "young-children-lose-creative-output-after-chatbot-use"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-19",
-   "status_note": "A quieter day, and the useful item is small and exact. A VR spoken-English study found no significant gain in assessed speaking (t=0.81, p=.42, d=0.21) while over 93% of participants reported greater confidence and vocabulary. Neither number is wrong. They are measurements of different quantities, and the purchase case for the technology will be written using whichever one is available. This is the ordinary, unglamorous form of the failure this uncertainty tracks: not a corrupted instrument, but a school reaching for the measure that exists rather than the one that matches the claim. Separately, a gaming-disorder fMRI study reports a very large effect (d=1.42) confined to one long-range visual pathway in 35 people aged 9 to 33 — the kind of result that becomes a screening instrument two or three papers later, and the point at which this uncertainty would want to have asked what it actually measures."
+   "last_revised": "2026-09-20",
+   "status_note": "Revised on a regulator asking the question this uncertainty exists to ask. NTIA's listening session, feeding an FCC rulemaking, puts it plainly: is E-Rate 'serving the long-term interests of children — or instead encouraging excessive screen-based instruction'. That is a demand for evidence about a twenty-year-old programme, and the honest answer is that the evidence to settle it was never collected — the subsidy measured connectivity and devices deployed, not outcomes. A school asked the same question about its own device programme is in the same position. The chatbot-and-creativity study is a small illustration of the cost: the brain-imaging result will travel further than the creativity result because imaging looks more like measurement, even though the creativity comparison is the one with a control group."
   },
   {
    "id": "cu-credential",
@@ -7626,11 +7853,13 @@
     "restrepo-agi-labor-share-converges-zero",
     "august-cpi-education-index-outpaces-headline",
     "ubtech-10000-unit-humanoid-factory",
-    "virtual-biotech-37000-agent-swarm"
+    "virtual-biotech-37000-agent-swarm",
+    "h1b-fee-extension-collapses-outsourcing-filings",
+    "california-requires-csu-instructors-be-human"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-19",
-   "status_note": "Revised on both ends of the pathway closing at once. UBTECH opened a humanoid plant engineered for a ten-minute takt and designed capacity above 10,000 units a year, having sold 921 full-size humanoids in the first half of 2026 against 45 a year earlier — a twentyfold move off a small base, which is what the start of a volume ramp looks like. The skilled-trades pathway has been the reassuring answer to this uncertainty for a year: physical, local, un-automatable. It now has a manufacturer building to volume against it. At the other end, an agent swarm organised as a company generated research strategy, which reaches the graduate and professional pathway. This does not resolve the question — both are early and neither has displaced a single worker in evidence — but it removes the comfortable middle answer that students should simply be routed toward the physical trades."
+   "last_revised": "2026-09-20",
+   "status_note": "Revised on a datapoint running the OTHER way, which is worth marking because this uncertainty has been accumulating evidence in one direction for weeks. With the $100,000 H-1B fee extended to September 2027, the largest outsourcing firms' registrations fell from 24,946 to 2,055 — a 92% collapse — and the share of registrants holding a US master's degree rose from 45.1% to 66.1%. The credential did not become more useful in the labour market; it became more useful as an immigration instrument, because policy selected for it. That is a reminder that 'does the credential hold its value' has an answer that depends on who is doing the valuing, and the state is one of the parties. California legislating that a CSU instructor must be human is the same mechanism in a different place: value protected by statute rather than earned in a market."
   },
   {
    "id": "cu-liability",
@@ -7686,11 +7915,15 @@
     "federal-scholarship-tax-credit-state-opt-in-fight",
     "nyc-k8-generative-ai-moratorium",
     "denmark-total-school-screen-ban-proposal",
-    "aft-microsoft-school-ai-privacy-standard"
+    "aft-microsoft-school-ai-privacy-standard",
+    "california-adams-law-mandates-chatbot-crisis-protocols",
+    "florida-writes-ai-rules-across-prek-to-university",
+    "dhs-proposes-ending-visa-grace-period",
+    "epa-repeals-and-proposes-rescinding-power-plant-ghg"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-19",
-   "status_note": "Materially revised on a new instrument: duty arriving by CONTRACT rather than by statute or by litigation. The National Academy for AI Instruction standard, signed by Microsoft, is a Memorandum of Agreement — districts fold it into their vendor agreements as clauses carrying damages and injunctive relief. It prohibits training on covered student data indefinitely past termination, bars automated grading, discipline, placement and emotional assessment without human review, and requires ISO 42001 audit. Every previous entry in this uncertainty described duty being imposed on schools from outside. This is a school-side body writing duty onto a vendor and making it enforceable. It is the same mechanism running in the other direction, and it suggests the answer to this uncertainty may be less 'does liability govern' than 'who gets to hold the pen'. Nothing new on REG-119986-25: outlines of topics and written comments still close 3 NOVEMBER 2026, hearing 2 December, and still no NAIS or state-association filing."
+   "last_revised": "2026-09-20",
+   "status_note": "The busiest day this uncertainty has had, and the mechanism is now unmistakable: duty is being written in four places at once. California's Adam's Law specifies what a companion chatbot must DO when a child discloses suicidal ideation — crisis protocols, parental notification, independent audits, annual risk assessment. Florida is converting AI guidance into trustee-adopted rule at syllabus level across pre-K to university. NTIA is consulting on whether E-Rate should condition funding on parental opt-out from classroom technology. Each creates a written standard against which a school's conduct can later be measured, and none of them originated in a school. Nothing new on REG-119986-25 — comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December, and still no NAIS or state-association filing, which is now conspicuous with six weeks to run."
   },
   {
    "id": "cu-boundary",
@@ -7746,11 +7979,13 @@
     "nyc-k8-generative-ai-moratorium",
     "denmark-total-school-screen-ban-proposal",
     "visionos27-opens-tracked-accessories",
-    "aft-microsoft-school-ai-privacy-standard"
+    "aft-microsoft-school-ai-privacy-standard",
+    "california-adams-law-mandates-chatbot-crisis-protocols",
+    "ntia-consults-on-whether-erate-funds-too-many-screens"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-19",
-   "status_note": "A modest first full day as a live uncertainty, and the movement is on the hardware side. visionOS 27 opened Vision Pro to third-party tracked accessories at up to 90Hz, reversing Apple's position that the device needed no controllers. That widens the class of independently tracked objects a student can be wearing or holding, and it arrives through an accessory ecosystem rather than a single vendor's product decision, which is harder for any school rule to enumerate. Obliquely relevant: the AFT-Microsoft standard bars emotional and psychological assessment of students by AI, which is the first contractual language touching what wearables may infer rather than what they record. None of the four watch items fired. No discrimination claim over a wearable ban, no accreditor or examination board writing personal AR into its own rules, no device policy distinguishing by data flow, and nothing on whether Denmark's playground clause survives contact with accommodation law."
+   "last_revised": "2026-09-20",
+   "status_note": "Revised on the line being drawn in a new place — not around what a device records, but around what it must DO. Adam's Law requires a companion chatbot to carry crisis protocols, parental notification and audited risk assessment. That is the first statute treating a conversational system as something with duties toward the child using it, which is a long step past treating it as equipment the child possesses. If a device owes the student something, the question of where the student ends is no longer only about assessment integrity and accommodation; it is about which obligations travel with the hardware. Separately NTIA is asking whether federally subsidised one-to-one devices serve children at all, with parental opt-out explicitly on the table. Still none of the four watch items: no discrimination claim over a wearable ban, no accreditor or exam board writing personal AR into its rules, no policy distinguishing by data flow, nothing yet on Denmark's playground clause."
   }
  ],
  "verification": {
@@ -7760,6 +7995,55 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-20-the-attestation",
+   "date": "2026-09-20",
+   "title": "The Attestation",
+   "year": "2028",
+   "axis": "cu-evidence resolving toward pole B — instruments retained at unknown validity and the gap managed with vendors and legal review — crossed with cu-liability resolving toward pole A, liability as governor. Fresh pairing. The collision is that documented duty now requires the school to certify something its instruments cannot see.",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence outsourced — the school keeps its inherited instruments at unknown validity, and manages the gap with vendor assurances, disclaimers and counsel rather than by measuring anything itself."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — an annual written attestation, not a pedagogical judgement, is what now decides which tools the school may run and what teachers are allowed to do with them."
+    }
+   ],
+   "premise": "Since 2027 the school has signed an annual attestation, required by its accreditor and echoed in three vendor contracts, that no AI system it operates makes a grading, placement, disciplinary or emotional-assessment decision about a student without meaningful human review. The language came from the national standard and it is good language. Nobody in the building disputes what it is for. The difficulty is that it asks about influence, and the school has no instrument that detects influence. Teachers draft report comments with an assistant; the assistant suggests phrasing; the phrasing shapes the conversation in the placement meeting; the placement meeting is minuted as a human decision, which it is. Every link in that chain is permitted. The head signs for the chain.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Aisha, 14",
+     "vignette": "She was moved out of the accelerated maths set in January and she has read her file, because she is entitled to. Every document in it was written by a person and signed by a person, and she believes that, and it still does not answer her question, which is why three of her teachers used the same unusual phrase about her in the same fortnight. She has stopped asking, not because she was told to, but because there is nobody the question is addressed to."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dan Petrakis, head of maths",
+     "vignette": "He uses the assistant for comments because forty reports in a fortnight is otherwise a weekend and a half, and he edits every one. He would say, honestly, that the judgement is his. What he cannot say is whether the sentence he kept was the sentence he would have written. He raised it once in a department meeting and the conversation went quiet, not out of embarrassment but because nobody had a way to continue it. There is no protocol for 'I think the tool may be shaping me' and no evidence he could offer if there were."
+    },
+    {
+     "role": "Parent",
+     "name": "Grace Oyelowo",
+     "vignette": "She asked the school directly whether AI was involved in her daughter's placement and received a truthful answer: no automated system made the decision, and here is the attestation. She believes the school is being honest and she also thinks the answer is to a different question than the one she asked. She works in clinical governance and she knows what it means when an assurance is available and a measurement is not. She has not yet decided what to do with that, which is its own kind of answer."
+    },
+    {
+     "role": "Administrator",
+     "name": "Marta Ibáñez, Head",
+     "vignette": "She signs it every October. She has read the definition of meaningful human review four times and it is a good definition; the trouble is that it describes a decision, and what she is being asked to certify is a process. Counsel's advice is that the attestation is defensible as written and that commissioning an audit she is not required to commission would create a record of a problem she is not currently deemed to have. She understands the logic and she notices that following it means the safest course is to know less. That is the sentence she cannot get out of her head, and she has not found anyone to say it to who is not either her lawyer or someone she would be alarming."
+    }
+   ],
+   "tension": " — the duty is well drafted, the school is complying honestly, and the attestation is still doing something other than what it was built to do. It certifies the absence of automated decisions in an institution where the automation has moved upstream of decisions into the language people use to reach them. And the cheapest way to keep signing it truthfully is to never build the instrument that would tell you otherwise — so the governance mechanism and the evidence problem are not two difficulties but one, each making the other easier to live with.",
+   "provocations": [
+    "What would we have to measure to know whether an AI assistant is shaping a teacher's judgement rather than saving their time? Do we want to know?",
+    "Our attestation says no automated system makes these decisions. Name the point in the chain where influence would enter, and say honestly whether we would detect it.",
+    "Counsel's advice is that an audit we are not required to run creates a record of a problem. Is that a reason not to run it, and who at this school is allowed to overrule that reasoning?",
+    "A parent asked whether AI was involved and got a true answer to a narrower question. What is the answer to the question she actually asked, and are we willing to give it?"
+   ]
+  },
   {
    "id": "sc-2026-09-19-bare-hands",
    "date": "2026-09-19",
@@ -8803,7 +9087,7 @@
    "districts-become-marketers"
   ],
   "would_displace": "cu-evidence",
-  "why_not_yet": "DAY 1 OF 21: CONFIRMED NULL. A dedicated search for paid or automated influence tooling aimed at a named school, district, board race, bond vote or head of school returned one apparently on-target result — an AI-generated campaign advertisement in a South Western City Schools board race — which on checking dates to 29 October 2025 and is a different phenomenon: one campaign's own synthetic video, disclosed and argued about locally, not purchased manufactured consensus. No vendor was found offering reputation operations at sub-national scale. The distinction matters and is worth holding onto: synthetic CONTENT in a school election is already ordinary, and this uncertainty is not about that. It is about fabricated CONSENSUS — networks of accounts and sites producing the appearance of a public. Twenty days remain.",
+  "why_not_yet": "DAY 2 OF 21: CONFIRMED NULL. A dedicated search for a vendor selling reputation operations at sub-national scale, or paid or automated influence tooling aimed at a named school, district, board race, bond vote or head of school, returned only generic explainers of astroturfing and commercial reputation-management marketing copy — nothing dated, nothing targeted, nothing school-specific. Two nulls is not evidence of absence and the trigger was deliberately written to fire early, so it stays. Worth recording that the searching is getting harder in an informative way: the term 'reputation management' is saturated with legitimate businesses, which is itself the condition under which a service of this kind would be inconspicuous. Nineteen days remain.",
   "first_noted": "2026-09-18"
  }
 }
