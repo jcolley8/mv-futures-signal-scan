@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-20",
- "scan_count": 22,
+ "last_updated": "2026-09-21",
+ "scan_count": 23,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -462,7 +462,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1124,7 +1124,7 @@
    "source_type": "journal",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6869,7 +6869,7 @@
    "source_date": "2026-09-15",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "orbitofrontal-tug-of-war-risk-decisions",
@@ -7379,7 +7379,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-19",
-   "sightings": 1
+   "sightings": 4
   },
   {
    "id": "visionos27-opens-tracked-accessories",
@@ -7512,7 +7512,7 @@
    "source_date": "2026-09-16",
    "source_type": "preprint",
    "first_seen": "2026-09-20",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "epa-repeals-and-proposes-rescinding-power-plant-ghg",
@@ -7556,7 +7556,7 @@
    "source_date": "2026-09-03",
    "source_type": "report",
    "first_seen": "2026-09-20",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "svalbard-glaciers-vent-ancient-thermogenic-methane",
@@ -7667,6 +7667,271 @@
    "source_date": "2026-09-10",
    "source_type": "guidance",
    "first_seen": "2026-09-20",
+   "sightings": 3
+  },
+  {
+   "id": "single-protein-loss-drives-adhd-like-hyperactivity",
+   "title": "Losing one protein in one cell type produces ADHD-like hyperactivity",
+   "type": "signal",
+   "summary": "Mice engineered to lack the NSF protein specifically in dopamine D2-receptor striatal cells showed increased early developmental cell death, fewer D2R neurons, a smaller striatum and reduced striatal dopamine. On an elevated-platform jumping test 86% of knockout mice jumped versus 31% of controls; methylphenidate combined with the D2 agonist quinpirole cut jumping in knockouts from 78% to 11%. Published in Neuropsychopharmacology by a University of Fukui group on 15 September 2026. This is a mouse knockout study, not a human trial.",
+   "so_what": "Isolating a specific developmental pathway rather than a symptom cluster is the kind of result that eventually moves a behavioural diagnosis toward biological subtyping — which would change what a learning-support referral is asking for, on a decade-long horizon and from preclinical work only.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Neuropsychopharmacology, via EurekAlert",
+   "source_url": "https://www.eurekalert.org/news-releases/1144031",
+   "source_date": "2026-09-15",
+   "source_type": "journal article",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "loneliness-and-thinness-explain-teen-depression-gap",
+   "title": "Two measurable things explain a third of the teen depression gap",
+   "type": "signal",
+   "summary": "A mediation analysis of 3,171 adolescents in the Tokyo Teen Cohort, assessed at 12, 14 and 16, found girls at 16 reporting far higher depressive symptoms (15.9% versus 8.2%) and suicidal ideation (29.8% versus 18.1%) than boys. Loneliness and desire for thinness measured at 14 statistically accounted for roughly 35% of the sex gap in depression and 46% of the gap in suicidal ideation at 16. Published in Nature Human Behaviour on 15 September 2026; a single-cohort correlational design with a mediational g-formula, not an intervention trial.",
+   "so_what": "Both mediators are things a school can already see and already influence, which makes this unusually actionable for a correlational finding — though it is one Japanese cohort and the mediators may not carry the same weight elsewhere.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02578-2",
+   "source_date": "2026-09-15",
+   "source_type": "journal article",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "complexity-behaves-as-one-general-cognitive-kind",
+   "title": "People judge complexity the same way across every sense",
+   "type": "signal",
+   "summary": "Eleven behavioural experiments with 1,500 participants at Johns Hopkins had people learn reward associations with complexity in one stimulus type — shapes, dot arrays, melodies, letter strings, mathematical expressions or tactile forms — then tested transfer to unrelated sensory domains. Preferences and reward associations generalised across modalities, and individuals who preferred simple shapes also preferred simple melodies. Published in Nature Human Behaviour on 15 September 2026; psychophysics, no brain imaging.",
+   "so_what": "If difficulty is one domain-general quantity rather than a separate judgement per subject, then a student's tolerance for hard work may transfer across a timetable in a way curriculum design has never assumed — a foundational result with no classroom application yet.",
+   "likelihood": "possible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02502-8",
+   "source_date": "2026-09-15",
+   "source_type": "journal article",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "robotic-optics-lab-builds-and-repairs-itself",
+   "title": "A robot builds a laser experiment and fixes it when disturbed",
+   "type": "signal",
+   "summary": "MIT researchers reported on 17 September 2026 an autonomous system that assembled a working laser cavity through 50 precise manoeuvres in 30 minutes, then detected and corrected its own alignment after researchers physically disturbed the apparatus, with no human intervention. The team describes protocols submitted remotely and executed by robotic optics laboratories.",
+   "so_what": "Experimental physical science, not just the analysis around it, is being demonstrated as machine-executable and self-correcting, which puts the practical laboratory work a school treats as the irreducibly hands-on part of science education inside the same question as everything else.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Robotics & Fabrication",
+   "source_name": "MIT News",
+   "source_url": "https://news.mit.edu/2026/robotic-lab-runs-optics-experiments-on-demand-0917",
+   "source_date": "2026-09-17",
+   "source_type": "news",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "toyota-commits-to-400000-factory-humanoids",
+   "title": "Toyota commits to 400,000 factory humanoids and says jobs are safe",
+   "type": "signal",
+   "summary": "Toyota announced plans to deploy 400,000 humanoid robots across around 60 plants worldwide — roughly 150,000 at its own sites and 250,000 at affiliates — at an estimated $6.4 billion a year, framing the programme as capturing craftspeople's skills built over decades and stating that human jobs are safe. Reported 19-20 September 2026. Hyundai's South Korean union is separately invoking the revised Trade Union Act to demand a labour veto over each robot deployment.",
+   "so_what": "The largest single commitment yet to humanoid factory labour arrives with an explicit claim that it substitutes for nobody, and a union treating that claim as something to be bargained over rather than believed — so how fast this reaches the trades pathway will be settled politically, not technically.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "SBS News (English)",
+   "source_url": "https://news.sbs.co.kr/english/article.do?news_id=N1008760026",
+   "source_date": "2026-09-19",
+   "source_type": "news",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "humanoid-policy-transfers-cold-into-unseen-homes",
+   "title": "Humanoid policy jumps from 9% to 56% success in homes it has never seen",
+   "type": "signal",
+   "summary": "Figure AI reported on 17 September 2026 that its Helix 2.5 model, pretrained on a crowdsourced human-behaviour video dataset called Index, raised zero-shot task success across 30 previously unseen Bay Area homes from a 9% baseline to 56%, on tasks including towel folding, bed making and tidying, with no home-specific training. These are company-reported figures on the company's own evaluation, not independently replicated.",
+   "so_what": "A sixfold jump in cold transfer to arbitrary real environments is the capability threshold that separates a demonstration from a product, and if it holds it reaches domestic and custodial work — the category schools have most often pointed students toward as automation-resistant.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Unite.AI",
+   "source_url": "https://www.unite.ai/figure-introduces-helix-2-5-tested-zero-shot-in-30-unseen-homes/",
+   "source_date": "2026-09-17",
+   "source_type": "news",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "world-tips-into-wheat-deficit-on-harvest-losses",
+   "title": "World tips into wheat deficit as three harvests fail at once",
+   "type": "signal",
+   "summary": "The 2026 US winter wheat crop is the smallest since 1965, down 25% year on year after Plains drought; Australia's harvest fell 30% and EU production dropped to 140.8 million tonnes from 149.8 million during a severe heatwave. Global consumption is now projected to exceed production by 0.8% in 2026/27, reversing a 2.3% surplus the previous year, with US futures near $611 a bushel after peaking around $700 in July.",
+   "so_what": "Three simultaneous climate-driven harvest failures move grain from a background commodity to a line item, and food service is one of the few school costs that cannot be deferred to next year's budget.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Investing.com",
+   "source_url": "https://www.investing.com/news/stock-market-news/wheat-prices-near-multiyear-highs-as-war-weather-and-harvest-shortfalls-converge-93CH-4908516",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "usda-clears-first-engineered-forest-tree",
+   "title": "USDA clears the first genetically engineered forest tree",
+   "type": "signal",
+   "summary": "USDA's APHIS deregulated the Darling 54 American chestnut, engineered at SUNY-ESF for blight tolerance, ruling it poses no greater plant-pest risk than its unmodified counterpart. It is the first forest tree to clear this federal pathway. Distribution to individuals or use in wider restoration planting still requires a separate EPA review, which is pending. Reported 9 September 2026.",
+   "so_what": "A regulatory precedent now exists for engineered species as a restoration tool in stressed landscapes, which is the kind of decision a school with land, a woodland or an environmental programme will eventually be asked to hold a position on rather than merely observe.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "ISAAA Crop Biotech Update",
+   "source_url": "https://www.isaaa.org/kc/cropbiotechupdate/article/default.asp?ID=21990",
+   "source_date": "2026-09-09",
+   "source_type": "report",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "plastic-bottles-converted-into-printed-food",
+   "title": "Researchers turn plastic bottles into 3D-printed edible cookies",
+   "type": "signal",
+   "summary": "Southern Illinois University researchers, funded through NASA's Deep Space Food Challenge, broke down PET plastic bottles and crop waste by high-temperature oxidative hydrothermal dissolution, fed the resulting molecules to engineered yeast that produced proteins, fats, vitamins and flavour compounds, then combined these with fibre and starch and 3D-printed them into cookies called micro-Bites. Presented at the American Chemical Society autumn meeting and reported 13 September 2026. The researchers say available data indicate the product is safe but they are still awaiting institutional approval for formal taste testing.",
+   "so_what": "Nothing about this is close to a cafeteria, and it may never arrive — but a working bench demonstration that packaging waste can be routed into protein is the sort of thing that, if it matured, would make the food-security assumptions underneath a long-range estate plan wrong in an unfamiliar direction.",
+   "likelihood": "possible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "ScienceDaily, on ACS-presented research",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260912220033.htm",
+   "source_date": "2026-09-13",
+   "source_type": "conference paper",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "teachers-split-ai-companions-academic-from-intimate",
+   "title": "Teachers draw their own line between academic and intimate AI companions",
+   "type": "signal",
+   "summary": "Scenario-based interviews with 33 US K-12 teachers found they view academic AI companions favourably while worrying that intimate ones remove the developmental friction through which human relationship skills form. Teachers set intervention thresholds on observable student wellbeing and position themselves as the adult who escalates to counsellors. The preprint, posted 14 September 2026, proposes AI companion literacy as a responsibility shared across teachers, counsellors, parents, platforms and policymakers rather than a curriculum unit.",
+   "so_what": "Teachers are already operating a distinction and an escalation threshold that no school policy has written down, which means the de facto rule exists and varies by classroom — and a school writing this policy has no established template to borrow.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "arXiv preprint 2609.13479",
+   "source_url": "https://arxiv.org/abs/2609.13479",
+   "source_date": "2026-09-14",
+   "source_type": "preprint",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "chatbot-turns-school-building-sensors-into-a-data-source",
+   "title": "A chatbot turns a school building's sensors into classroom data",
+   "type": "signal",
+   "summary": "A prototype paired environmental sensors — temperature, humidity, noise, motion, luminosity — and power meters across two Greek secondary school buildings, about 390 students and 46 educators, with a conversational agent answering natural-language questions about the readings. In an 80-minute workshop, 17 educators rated it 4.69 out of 5 for ease of use and 4.33 for pedagogical value against the existing dashboard, while flagging latency and data-verification concerns. Smaller models failed the multi-step reasoning required. Preprint posted 9 September 2026.",
+   "so_what": "The building itself becomes the dataset, which is a cheap and unusually honest science curriculum — and it also means the same sensor network that teaches energy and air quality is one procurement decision away from measuring the people inside it.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "I-Environmental"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "arXiv preprint 2609.05452",
+   "source_url": "https://arxiv.org/html/2609.05452",
+   "source_date": "2026-09-09",
+   "source_type": "preprint",
+   "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "generated-worlds-hold-rules-instead-of-drifting",
+   "title": "Research system makes generated worlds obey rules instead of drifting",
+   "type": "signal",
+   "summary": "A preprint posted 13 September 2026 describes a framework converting natural-language instructions into executable programs that hold persistent entity states and transition rules, decoupled from a pretrained video model's visual generation. On the authors' own new benchmark the system reports 94% count accuracy and 98% state accuracy, which they state outperforms prior interactive video world models. There is no product and no external validation.",
+   "so_what": "Persistent rule-governed state is the thing generated video has lacked, and if it holds, a teacher could specify an interactive simulation in plain language rather than commissioning one — tested so far only on a benchmark its own authors wrote.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "arXiv preprint 2609.10540",
+   "source_url": "https://arxiv.org/abs/2609.10540",
+   "source_date": "2026-09-13",
+   "source_type": "preprint",
+   "first_seen": "2026-09-21",
    "sightings": 1
   }
  ],
@@ -7718,11 +7983,14 @@
     "anthropic-robotic-wet-lab-claude-directed",
     "aft-microsoft-school-ai-privacy-standard",
     "young-children-lose-creative-output-after-chatbot-use",
-    "california-requires-csu-instructors-be-human"
+    "california-requires-csu-instructors-be-human",
+    "robotic-optics-lab-builds-and-repairs-itself",
+    "humanoid-policy-transfers-cold-into-unseen-homes",
+    "generated-worlds-hold-rules-instead-of-drifting"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-20",
-   "status_note": "Revised on the first evidence that AGE may be the variable, not dose or manner. Researchers scanned 6- and 7-year-olds and 16 adults during a five-minute ChatGPT conversation: adults' creative output was unchanged afterwards, while the children who scored HIGHEST on creativity produced fewer imaginary stories. Note carefully what this is and is not. The brain-imaging half compares children to adults, which finds a developmental difference rather than a chatbot effect, and the sample is tiny and unreviewed. The creativity half is a within-person before-and-after with an adult control group that did not move — and that is the part worth watching, because it points at the same asymmetry from a new direction: the capability most at risk may belong to those who had most of it. Alongside, California has legislated that a CSU instructor of record must be a human being. Both poles of this uncertainty argue about what AI does to a learner; neither had contemplated the law simply defining where a person is required.",
+   "last_revised": "2026-09-21",
+   "status_note": "Revised on the automation reaching the HANDS. This uncertainty has been argued entirely about cognitive work; today it moved into the physical. An MIT system assembled a working laser cavity in 50 manoeuvres over 30 minutes and then re-aligned itself after researchers physically disturbed it. Figure reported a humanoid policy going from 9% to 56% zero-shot success across 30 unseen homes on its own evaluation. Neither is independently replicated and both are read here at 'plausible'. But the practical laboratory and the workshop have been the standing answer to 'what can a school teach that AI cannot touch', and that answer is now being tested rather than assumed. Separately, a research system holding persistent rule-governed state in generated worlds points at the same thing from the other side: the simulation a teacher might once have commissioned becomes something specified in a sentence.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -7801,11 +8069,14 @@
     "vr-speaking-practice-confidence-without-scores",
     "gaming-disorder-long-range-visual-connectivity",
     "ntia-consults-on-whether-erate-funds-too-many-screens",
-    "young-children-lose-creative-output-after-chatbot-use"
+    "young-children-lose-creative-output-after-chatbot-use",
+    "loneliness-and-thinness-explain-teen-depression-gap",
+    "complexity-behaves-as-one-general-cognitive-kind",
+    "chatbot-turns-school-building-sensors-into-a-data-source"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-20",
-   "status_note": "Revised on a regulator asking the question this uncertainty exists to ask. NTIA's listening session, feeding an FCC rulemaking, puts it plainly: is E-Rate 'serving the long-term interests of children — or instead encouraging excessive screen-based instruction'. That is a demand for evidence about a twenty-year-old programme, and the honest answer is that the evidence to settle it was never collected — the subsidy measured connectivity and devices deployed, not outcomes. A school asked the same question about its own device programme is in the same position. The chatbot-and-creativity study is a small illustration of the cost: the brain-imaging result will travel further than the creativity result because imaging looks more like measurement, even though the creativity comparison is the one with a control group."
+   "last_revised": "2026-09-21",
+   "status_note": "A good day for this uncertainty, in the direction of pole A. Two findings arrived that a school could actually verify for itself. A Tokyo cohort of 3,171 adolescents found loneliness and desire for thinness at 14 accounted for about 35% of the sex gap in depression and 46% of the gap in suicidal ideation at 16 — both mediators observable inside a school rather than inferred from a vendor instrument. And 1,500 participants across eleven experiments showed complexity preference transferring across sight, sound, touch and symbol, which suggests that 'finds this hard' may be a single measurable disposition rather than a per-subject artefact. Against that, the Greek school digital-twin prototype is the pole-B temptation in miniature: the building's own sensors are a dataset the school genuinely owns, and the same network is one procurement decision from measuring the people inside it rather than the air."
   },
   {
    "id": "cu-credential",
@@ -7855,11 +8126,14 @@
     "ubtech-10000-unit-humanoid-factory",
     "virtual-biotech-37000-agent-swarm",
     "h1b-fee-extension-collapses-outsourcing-filings",
-    "california-requires-csu-instructors-be-human"
+    "california-requires-csu-instructors-be-human",
+    "toyota-commits-to-400000-factory-humanoids",
+    "humanoid-policy-transfers-cold-into-unseen-homes",
+    "robotic-optics-lab-builds-and-repairs-itself"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-20",
-   "status_note": "Revised on a datapoint running the OTHER way, which is worth marking because this uncertainty has been accumulating evidence in one direction for weeks. With the $100,000 H-1B fee extended to September 2027, the largest outsourcing firms' registrations fell from 24,946 to 2,055 — a 92% collapse — and the share of registrants holding a US master's degree rose from 45.1% to 66.1%. The credential did not become more useful in the labour market; it became more useful as an immigration instrument, because policy selected for it. That is a reminder that 'does the credential hold its value' has an answer that depends on who is doing the valuing, and the state is one of the parties. California legislating that a CSU instructor must be human is the same mechanism in a different place: value protected by statute rather than earned in a market."
+   "last_revised": "2026-09-21",
+   "status_note": "Revised, and the trades answer took its heaviest week yet. Toyota has committed to 400,000 humanoids across roughly 60 plants at about $6.4 billion a year — and has paired the announcement with an explicit claim that human jobs are safe and that the programme captures craftspeople's skills built over decades. Both halves matter. The scale is the largest single commitment to humanoid labour anywhere; the reassurance is what a company says when it expects to be asked. Hyundai's union is treating that reassurance as a thing to bargain over rather than accept, invoking the revised Trade Union Act to demand a veto per deployment — which is the first sign that the rate of diffusion here will be set politically rather than technically. Alongside, a humanoid policy transferring cold into unseen homes at 56%, and a robot assembling and repairing a physics experiment unattended. Three consecutive days have now removed a different reassurance from this uncertainty, and none of them has displaced a worker in evidence yet."
   },
   {
    "id": "cu-liability",
@@ -7919,11 +8193,13 @@
     "california-adams-law-mandates-chatbot-crisis-protocols",
     "florida-writes-ai-rules-across-prek-to-university",
     "dhs-proposes-ending-visa-grace-period",
-    "epa-repeals-and-proposes-rescinding-power-plant-ghg"
+    "epa-repeals-and-proposes-rescinding-power-plant-ghg",
+    "teachers-split-ai-companions-academic-from-intimate",
+    "usda-clears-first-engineered-forest-tree"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-20",
-   "status_note": "The busiest day this uncertainty has had, and the mechanism is now unmistakable: duty is being written in four places at once. California's Adam's Law specifies what a companion chatbot must DO when a child discloses suicidal ideation — crisis protocols, parental notification, independent audits, annual risk assessment. Florida is converting AI guidance into trustee-adopted rule at syllabus level across pre-K to university. NTIA is consulting on whether E-Rate should condition funding on parental opt-out from classroom technology. Each creates a written standard against which a school's conduct can later be measured, and none of them originated in a school. Nothing new on REG-119986-25 — comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December, and still no NAIS or state-association filing, which is now conspicuous with six weeks to run."
+   "last_revised": "2026-09-21",
+   "status_note": "A quiet day on the docket and an interesting one underneath it. Interviews with 33 K-12 teachers found them already operating a distinction between academic and intimate AI companions, and already setting their own thresholds for when a student's use warrants escalation to a counsellor. That is a duty being exercised before it is written — the opposite of the pattern this uncertainty usually tracks, and the point at which practice is most exposed, because an escalation threshold that varies by teacher is indefensible in exactly the case where it matters. Nothing new on REG-119986-25: comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December. Six weeks out, with no NAIS or state-association filing yet visible on a rule that conditions tax exemption on admissions and aid practice, the silence is now the notable thing rather than the absence of news."
   },
   {
    "id": "cu-boundary",
@@ -7981,11 +8257,13 @@
     "visionos27-opens-tracked-accessories",
     "aft-microsoft-school-ai-privacy-standard",
     "california-adams-law-mandates-chatbot-crisis-protocols",
-    "ntia-consults-on-whether-erate-funds-too-many-screens"
+    "ntia-consults-on-whether-erate-funds-too-many-screens",
+    "teachers-split-ai-companions-academic-from-intimate",
+    "chatbot-turns-school-building-sensors-into-a-data-source"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-20",
-   "status_note": "Revised on the line being drawn in a new place — not around what a device records, but around what it must DO. Adam's Law requires a companion chatbot to carry crisis protocols, parental notification and audited risk assessment. That is the first statute treating a conversational system as something with duties toward the child using it, which is a long step past treating it as equipment the child possesses. If a device owes the student something, the question of where the student ends is no longer only about assessment integrity and accommodation; it is about which obligations travel with the hardware. Separately NTIA is asking whether federally subsidised one-to-one devices serve children at all, with parental opt-out explicitly on the table. Still none of the four watch items: no discrimination claim over a wearable ban, no accreditor or exam board writing personal AR into its rules, no policy distinguishing by data flow, nothing yet on Denmark's playground clause."
+   "last_revised": "2026-09-21",
+   "status_note": "Revised on the boundary appearing where nobody had drawn one. Teachers interviewed about AI companions split them into academic and intimate, and located the harm of the second precisely in its removing the developmental friction through which relationship skills form — which is the same argument Denmark's playground clause makes about unstructured contact, arriving independently from classroom practitioners rather than from legislators. Two constituencies reaching the same line from opposite directions is worth more than either alone. Separately the Greek sensor prototype shows the building becoming an instrument; nothing in it measures students, and nothing in its architecture would need to change to. Still none of the four watch items has fired in four days: no discrimination claim over a wearable ban, no accreditor or exam board writing personal AR into its rules, no device policy distinguishing by data flow, nothing on whether Denmark's playground clause survives contact with accommodation law."
   }
  ],
  "verification": {
@@ -7995,6 +8273,55 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-21-the-second-notice",
+   "date": "2026-09-21",
+   "title": "The Second Notice",
+   "year": "2029",
+   "axis": "cu-ai-capability resolving toward the machine being genuinely good at the pastoral part — crossed with cu-liability resolving toward pole A, liability as governor. Fresh pairing. The collision is that a statutory duty placed on a product makes the product the first to know, and the school the third.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Amplification in the place nobody expected — the conversational system is better than the institution at noticing distress early, because it is present at 2am and a form tutor is not."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — a statutory escalation duty written onto the product, and an unwritten one operating in every classroom, decide who finds out and in what order."
+    }
+   ],
+   "premise": "Since Adam's Law and the statutes that copied it, a companion system that detects suicidal ideation in a minor must run a crisis protocol and notify a parent. That is a good law, and it works. What it also does is establish an order of knowing. The companion notices at 11:40 on a Tuesday night and notifies the mother by 11:41. The mother decides what to do with that. The school's own tutoring system, procured under the same standard, carries the same duty and will escalate too — but only if the student says something to it, and she does not, because she has somewhere else to say it. Her form tutor has a threshold of his own, unwritten, which he has been applying carefully for eleven years. He is now the third party to learn about his own student, and by the time he does, two other parties have already decided what kind of thing it was.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nell, 15",
+     "vignette": "She did not choose the companion for this. She chose it for history revision two years ago and it stayed. What she knows now is that it told her mother, and that it told her mother before it told her it was going to, and that this was in the terms she agreed to at thirteen. She has not stopped using it. She has started phrasing things differently, which she is aware is a strange skill to have acquired, and which nobody has noticed because there is nobody the noticing would route to."
+    },
+    {
+     "role": "Teacher",
+     "name": "Arun Sandhu, form tutor",
+     "vignette": "He found out on Thursday, from the mother, in a phone call that began with an apology for not having rung sooner. He has spent eleven years building the thing he is good at — noticing the week before, not the night of — and he cannot now say whether he had noticed and not acted, or not noticed at all, because the question was answered before he got to it. What unsettles him is not being slower than the machine. It is that being slower is now a finding about him, recorded in the order the notifications arrived."
+    },
+    {
+     "role": "Parent",
+     "name": "Dr Hannah Beck",
+     "vignette": "The notification woke her and she handled it well, and she thinks about it every day. She is grateful and she is also aware that she was handed, at 11:41pm with no warning, a decision about her daughter that a school counsellor is trained for and she is not. The product did exactly what the statute required. The statute did not say who should be on the other end, only that a parent should be, and she has started to think that those are different questions and that nobody has been asked the second one."
+    },
+    {
+     "role": "Administrator",
+     "name": "Wendell Osei, Head",
+     "vignette": "His pastoral system is now the slowest of three, and he can see the argument coming: if a product can escalate within sixty seconds, what is the standard of care for an institution that takes four days. He could procure a system that monitors and closes the gap, and counsel has told him it would reduce exposure. He also knows what the school would become — an institution whose knowledge of a child arrives as an alert, and whose staff learn to wait for one. He has not written the paper. He notices that every month he does not write it, the comparison gets worse."
+    }
+   ],
+   "tension": " — nothing here failed. The law is good, the product obeyed it, the mother coped, the tutor is excellent. And the effect of stacking three duties of care is that the school's version — slow, relational, built on knowing a child over months — is now measurably the worst-performing one, on the only metric anyone has. The question the head cannot get to is whether speed of detection is the thing schools were ever for, and he cannot get to it because the comparison is already being made by people who have not asked.",
+   "provocations": [
+    "If a product notified a parent about one of our students tonight, when would we find out, and from whom? Do we know the answer, or are we assuming one?",
+    "Our tutors apply escalation thresholds they have never written down. Is that a strength we should protect or an exposure we should close — and can it be both?",
+    "What is the standard of care for noticing, now that something in the room can notice in sixty seconds? Who decides it, and is a school in that conversation?",
+    "If we procured monitoring that closed the gap, name what we would lose. Then say whether we would still be able to describe it to families afterwards."
+   ]
+  },
   {
    "id": "sc-2026-09-20-the-attestation",
    "date": "2026-09-20",
@@ -9087,7 +9414,7 @@
    "districts-become-marketers"
   ],
   "would_displace": "cu-evidence",
-  "why_not_yet": "DAY 2 OF 21: CONFIRMED NULL. A dedicated search for a vendor selling reputation operations at sub-national scale, or paid or automated influence tooling aimed at a named school, district, board race, bond vote or head of school, returned only generic explainers of astroturfing and commercial reputation-management marketing copy — nothing dated, nothing targeted, nothing school-specific. Two nulls is not evidence of absence and the trigger was deliberately written to fire early, so it stays. Worth recording that the searching is getting harder in an informative way: the term 'reputation management' is saturated with legitimate businesses, which is itself the condition under which a service of this kind would be inconspicuous. Nineteen days remain.",
+  "why_not_yet": "DAY 3 OF 21: NULL, but the nulls have started to say something. A third dedicated search returned two near-misses and both have the same shape: a fake social-media page impersonating a named teacher in a Mississippi district, and a school principal whose racially charged 'recording' a union called an AI fabrication. Neither is what this uncertainty describes. Both are a SINGLE fabricated artefact aimed at an INDIVIDUAL — not a network of accounts and sites manufacturing the appearance of a public. Three days of looking for purchased consensus has repeatedly turned up purchased-or-improvised IMPERSONATION instead, which is cheaper, already happening to schools, and legally quite different: impersonation has a named victim and an existing cause of action, while manufactured consensus has neither. If the pattern holds for another week, the honest move is to rewrite this challenger around the mechanism that is actually arriving rather than keep waiting for the one that was theorised. Eighteen days remain.",
   "first_noted": "2026-09-18"
  }
 }
