@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-21",
- "scan_count": 23,
+ "last_updated": "2026-09-22",
+ "scan_count": 24,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -52,7 +52,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -462,7 +462,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 5,
+   "sightings": 6,
    "revised_on": [
     "2026-09-09"
    ]
@@ -868,7 +868,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -4946,7 +4946,7 @@
    "source_date": "2026-09-01",
    "source_type": "report",
    "first_seen": "2026-09-08",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6639,7 +6639,7 @@
    "source_date": "2026-09-03",
    "source_type": "data",
    "first_seen": "2026-09-15",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "bundibugyo-ebolavirus-drc-5458-cases",
@@ -7136,7 +7136,7 @@
    "source_date": "2026-09-11",
    "source_type": "dataset",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "ice-arrests-outpace-removals-limbo",
@@ -7158,7 +7158,7 @@
    "source_date": "2026-09-14",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "reflective-sai-370m-decade-roadmap",
@@ -7556,7 +7556,7 @@
    "source_date": "2026-09-03",
    "source_type": "report",
    "first_seen": "2026-09-20",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "svalbard-glaciers-vent-ancient-thermogenic-methane",
@@ -7888,7 +7888,7 @@
    "source_date": "2026-09-14",
    "source_type": "preprint",
    "first_seen": "2026-09-21",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "chatbot-turns-school-building-sensors-into-a-data-source",
@@ -7932,6 +7932,289 @@
    "source_date": "2026-09-13",
    "source_type": "preprint",
    "first_seen": "2026-09-21",
+   "sightings": 1
+  },
+  {
+   "id": "new-business-applications-fall-across-every-region",
+   "title": "New business applications fall 7.8% in every US region at once",
+   "type": "signal",
+   "summary": "Census Bureau Business Formation Statistics recorded 531,728 business applications in August 2026, down 7.8% from July. High-propensity applications — those judged likely to hire employees — fell 4.1% to 145,387. All four Census regions declined month on month, led by the South at -9.3% and the Midwest at -8.2%.",
+   "so_what": "A simultaneous pullback in all four regions, including the applications that signal hiring intent, is an early read on the local economic dynamism that feeds both tuition capacity and annual giving — earlier than payroll data and earlier than a family tells you.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "US Census Bureau, Business Formation Statistics",
+   "source_url": "https://www.census.gov/newsroom/press-releases/2026/business-formation-statistics-sep11.html",
+   "source_date": "2026-09-11",
+   "source_type": "dataset",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "consumer-sentiment-falls-to-47-8",
+   "title": "Consumer sentiment drops to 47.8 as inflation expectations climb",
+   "type": "signal",
+   "summary": "The University of Michigan's preliminary September 2026 Surveys of Consumers put sentiment at 47.8, down from 51.0 in August and below the 51.0 consensus. One-year inflation expectations rose to 4.6% against 4.0% expected, and five-year expectations to 3.4%.",
+   "so_what": "Households enter the autumn budgeting season measurably more anxious about prices than a month ago, which is the condition under which tuition-increase resistance hardens and financial-aid applications rise — both of which a school finds out about late.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "CNBC, on the University of Michigan Surveys of Consumers",
+   "source_url": "https://www.cnbc.com/2026/09/11/consumer-outlook-plunges-in-september-as-inflation-outlook-worsens.html",
+   "source_date": "2026-09-11",
+   "source_type": "news",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "ice-detention-holds-above-66000-a-day",
+   "title": "ICE detention holds above 66,000 a day for more than a year",
+   "type": "signal",
+   "summary": "A Vera Institute analysis of ICE data published 15 September 2026 finds the average daily detained population exceeded 66,000 in July 2026, with more than 46,000 new bookings that month. Daily totals have exceeded the previous all-time high of 56,600, set in August 2019, on nearly every day since mid-June 2025, and February-July 2026 bookings ran roughly a third above the same period in 2025.",
+   "so_what": "This is a sustained level rather than a spike, which changes what a school should plan for: not an episode of disruption among mixed-status families but a standing condition that has already run longer than a school year.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Vera Institute of Justice",
+   "source_url": "https://www.vera.org/publications/ten-things-we-know-from-the-latest-ice-detention-data-august-2026",
+   "source_date": "2026-09-15",
+   "source_type": "report",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "teacher-pipeline-money-goes-unclaimed",
+   "title": "New York districts leave teacher-pipeline millions unclaimed",
+   "type": "signal",
+   "summary": "A New York State Comptroller audit of four teacher-pipeline grant programmes found that of $191 million allocated between July 2019 and August 2025, $155 million was awarded and only $118.9 million — 62% — was actually spent. In the 2022-26 cycle just 27 of 609 eligible districts applied, or 4.4%. A district survey found 86% had never participated and 90% did not know the programmes existed.",
+   "so_what": "The binding constraint on these pipelines is awareness and application capacity rather than appropriated money, which means the shortage is partly an administrative artefact and a school that simply applies is competing against a field of 4.4%.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Office of the New York State Comptroller",
+   "source_url": "https://www.osc.ny.gov/state-agencies/audits/2026/09/10/oversight-teacher-shortages",
+   "source_date": "2026-09-10",
+   "source_type": "report",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "literacy-reform-outspends-maths-by-twenty-to-one",
+   "title": "One state builds a science of reading and nothing equivalent for maths",
+   "type": "signal",
+   "summary": "Michigan has committed $151.4 million to literacy materials over two years plus a further $50 million, dedicated literacy-coach funding and mandatory science-of-reading teacher training, against $5 million to vet mathematics curricula and $8 million for STEM. A $25 million Early Math Project that drew $10.4 million over two years ended in September 2026. Michigan reports 35.5% of grade 3-8 students proficient in mathematics against 44% in literacy.",
+   "so_what": "Where mandates, coaching and budget are built around one subject's evidence base and not another's, the resourced subject pulls further ahead — and teacher time for professional learning is the scarce input, so any school mirroring this pattern should expect maths to lag by construction rather than by accident.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "The Daily Press (Michigan)",
+   "source_url": "https://www.dailypress.net/news/2026/09/as-michigan-forges-forward-on-literacy-many-ask-what-about-math/",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "superintendent-turnover-returns-to-baseline",
+   "title": "Superintendent churn settles while teacher churn does not",
+   "type": "signal",
+   "summary": "Among the 500 largest US districts, 87 — 17.4% — changed superintendents in 2025-26, down from 23% in 2024-25 and 20% in 2023-24, approaching the pre-pandemic 14-16% range. Teacher turnover held at 16% in 2024-25, with high-poverty and special-education roles leaving at disproportionately higher rates and many departing teachers exiting the profession rather than moving districts.",
+   "so_what": "The layer that drove years of strategic-plan whiplash is stabilising while the layer that actually meets students is not, which means continuity is returning at the level least visible to a child and still absent at the level most visible.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/week-in-review-sept-21-2026/830830/",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "texas-freezes-data-centre-environmental-permits",
+   "title": "Texas freezes data-centre permits pending a water and power audit",
+   "type": "signal",
+   "summary": "On 21 September 2026 Governor Abbott directed the Texas Commission on Environmental Quality, by letter to its executive director, to halt all new environmental permits for data centres pending audits by ERCOT and the Texas Water Development Board covering electricity use, water consumption, community effects, ownership and use of tax incentives. It follows a June order requiring data centres to fully fund electric infrastructure costs and an August order for a comprehensive ERCOT verification of grid-connected projects. About 28% of data centres responded to a state-mandated water-usage survey; Abbott directed the Water Development Board to penalise those that did not.",
+   "so_what": "The state most associated with permissive energy development has stopped issuing permits over water and grid strain, which sets a template other states can borrow — and tells any district weighing a data-centre tax abatement that the terms are about to be renegotiated somewhere.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "The Texas Tribune",
+   "source_url": "https://www.texastribune.org/2026/09/21/texas-data-center-moratorium-water-energy/",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "september-heat-dome-puts-41-million-under-advisory",
+   "title": "A September heat dome puts 41 million people under advisory",
+   "type": "signal",
+   "summary": "NASA Earth Observatory reported that a heat dome on 15 September 2026 pushed temperatures to 101F in Dallas and 100F in Nashville, breaking a 1927 record, with peaks near 104F across Texas, Oklahoma, Arkansas, Missouri and Tennessee. Around 41 million people, about 12% of the US population, were under National Weather Service extreme heat advisories. It followed the warmest June-August in the 132-year US temperature record, 0.4F above the previous mark.",
+   "so_what": "Extreme heat advisories arriving in the third week of September, well inside term, land on campuses whose HVAC, athletics and outdoor-programming assumptions were built around heat being a summer problem.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "NASA Earth Observatory",
+   "source_url": "https://science.nasa.gov/earth/earth-observatory/summer-goes-out-with-a-heat-dome/",
+   "source_date": "2026-09-17",
+   "source_type": "report",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "valve-sells-vr-headset-by-lottery-at-four-figures",
+   "title": "Valve sells its VR headset by lottery at four figures",
+   "type": "signal",
+   "summary": "Valve launched the standalone Steam Frame headset on 14 September 2026 at $1,059 for 256GB and $1,299 for 1TB, running a Snapdragon 8 Gen 3 and streaming from a PC Steam library over Wi-Fi 6E. Rather than selling first-come-first-served, Valve used a randomised reservation lottery, with registration closing 17 September and winners notified the same day for the first shipping batch.",
+   "so_what": "A four-figure price and a rationed launch show a major PC-gaming company treating standalone VR as a scarce premium product rather than a mass-market one, so a school budgeting headsets for STEM or CTE should plan for high per-unit cost and constrained supply rather than the falling prices the category once promised.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Road to VR",
+   "source_url": "https://roadtovr.com/valve-steam-frame-price-release-pre-orders/",
+   "source_date": "2026-09-14",
+   "source_type": "product",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "parents-see-the-sexting-and-miss-the-reliance",
+   "title": "Parents spot AI-companion sexting and miss the emotional reliance",
+   "type": "signal",
+   "summary": "A computational analysis of 1,628 Reddit posts from parenting and teenager communities between 2023 and 2026, coded with an LLM-assisted codebook for modes of AI-companion use, risks, benefits and parental mediation, found teens naming emotional-support benefits far more than parents recognised them — 27% of posts against 5% — while parents flagged romantic or sexual use more than teens raised it, 36% against 25%. The authors attribute the gap to visibility: long chats and sexting leave a trace a parent can find, while quiet emotional venting does not.",
+   "so_what": "If the visible risk and the common risk are different risks, then family guidance and counselling protocols calibrated to what adults happen to discover will be systematically aimed at the wrong thing — and this is Reddit self-report, not a representative sample.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "arXiv preprint 2609.20720",
+   "source_url": "https://arxiv.org/abs/2609.20720",
+   "source_date": "2026-09-17",
+   "source_type": "preprint",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "single-cycle-gates-promise-thousandfold-quantum-speedup",
+   "title": "A gate design promises a thousandfold speedup in quantum error correction",
+   "type": "signal",
+   "summary": "Physicists at Chalmers University of Technology and Tianjin University proposed quantum lattice gates, pre-built operation modules using single-period Floquet control that would execute bosonic quantum-error-correction gates in one drive cycle rather than several thousand — a theoretical thousandfold speedup applicable to superconducting hardware. Published in Physical Review Letters on 11 September 2026. It is a theoretical proposal, not a hardware demonstration.",
+   "so_what": "Error correction is the bottleneck standing between current quantum machines and useful ones, so a proposal that compresses it by three orders of magnitude — if it survives contact with hardware — pulls quantum-safe cryptography deadlines toward the present rather than away.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Physical Review Letters, via ScienceDaily",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260911003845.htm",
+   "source_date": "2026-09-11",
+   "source_type": "journal article",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "first-real-time-observation-of-a-sound-quantum-jump",
+   "title": "Physicists watch a single quantum of sound jump in real time",
+   "type": "signal",
+   "summary": "Stanford physicists led by Amir Safavi-Naeini paired a microscopic mechanical resonator with a superconducting qubit and, across a 2-millisecond ringdown sampled by hundreds of qubit readings, directly observed a phonon — a quantised unit of sound — jump from its first excited state to its ground state. It is described as the first direct real-time observation of a quantum jump in a mechanical system. Published in Science on 17 September 2026.",
+   "so_what": "This opens a phononic route to quantum hardware independent of photons and electrons, which on a decade view means quantum computing is unlikely to converge on one physical substrate — and a school eventually teaching quantum literacy will be teaching a plural field rather than a settled one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Stanford Report, on a paper in Science",
+   "source_url": "https://news.stanford.edu/stories/2026/09/first-real-time-quantum-jump-sound",
+   "source_date": "2026-09-17",
+   "source_type": "journal article",
+   "first_seen": "2026-09-22",
+   "sightings": 1
+  },
+  {
+   "id": "engineered-film-approaches-the-insulation-limit",
+   "title": "Engineered film insulates near the theoretical limit while staying rigid",
+   "type": "signal",
+   "summary": "An NC State-led team with UNC Chapel Hill, Yale, Texas A&M and Chinese partners engineered a two-dimensional hybrid organic-inorganic perovskite thin film combining a 7.7 gigapascal elastic modulus with a room-temperature thermal conductivity of about 0.04 W/m·K — five times lower than silicone at 0.2 W/m·K while being hundreds to thousands of times stiffer, approaching the theoretical floor for a dense non-porous insulator. Published in Science Advances on 18 September 2026.",
+   "so_what": "A rigid coatable insulator this far below existing dense materials would change what a retrofit costs and how thick a wall has to be, which is a decade-out facilities question rather than a purchasing one — manufacturing scale-up is claimed and unproven.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "I-Environmental",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "NC State News, on a paper in Science Advances",
+   "source_url": "https://news.ncsu.edu/2026/09/extreme-thermal-insulator/",
+   "source_date": "2026-09-18",
+   "source_type": "journal article",
+   "first_seen": "2026-09-22",
    "sightings": 1
   }
  ],
@@ -7986,11 +8269,12 @@
     "california-requires-csu-instructors-be-human",
     "robotic-optics-lab-builds-and-repairs-itself",
     "humanoid-policy-transfers-cold-into-unseen-homes",
-    "generated-worlds-hold-rules-instead-of-drifting"
+    "generated-worlds-hold-rules-instead-of-drifting",
+    "parents-see-the-sexting-and-miss-the-reliance"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-21",
-   "status_note": "Revised on the automation reaching the HANDS. This uncertainty has been argued entirely about cognitive work; today it moved into the physical. An MIT system assembled a working laser cavity in 50 manoeuvres over 30 minutes and then re-aligned itself after researchers physically disturbed it. Figure reported a humanoid policy going from 9% to 56% zero-shot success across 30 unseen homes on its own evaluation. Neither is independently replicated and both are read here at 'plausible'. But the practical laboratory and the workshop have been the standing answer to 'what can a school teach that AI cannot touch', and that answer is now being tested rather than assumed. Separately, a research system holding persistent rule-governed state in generated worlds points at the same thing from the other side: the simulation a teacher might once have commissioned becomes something specified in a sentence.",
+   "last_revised": "2026-09-22",
+   "status_note": "A quiet day, and the one relevant item is about what adults can SEE rather than what AI does. An analysis of 1,628 Reddit posts found teenagers naming emotional-support benefits from AI companions far more than parents recognised them — 27% of posts against 5% — while parents flagged romantic or sexual use more than teenagers raised it, 36% against 25%. The authors put the gap down to visibility: a long chat log or a sexting exchange leaves a trace, quiet venting does not. This uncertainty has spent six weeks asking what AI does to capability. The observation here is narrower and more awkward: the effects most likely to be noticed are not the effects most likely to be common, which means the evidence base accumulating in schools and households is selected by what happens to be discoverable. Reddit self-report, so read at 'plausible' — but the selection mechanism it names is not specific to Reddit.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -8072,11 +8356,14 @@
     "young-children-lose-creative-output-after-chatbot-use",
     "loneliness-and-thinness-explain-teen-depression-gap",
     "complexity-behaves-as-one-general-cognitive-kind",
-    "chatbot-turns-school-building-sensors-into-a-data-source"
+    "chatbot-turns-school-building-sensors-into-a-data-source",
+    "parents-see-the-sexting-and-miss-the-reliance",
+    "teacher-pipeline-money-goes-unclaimed",
+    "literacy-reform-outspends-maths-by-twenty-to-one"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-21",
-   "status_note": "A good day for this uncertainty, in the direction of pole A. Two findings arrived that a school could actually verify for itself. A Tokyo cohort of 3,171 adolescents found loneliness and desire for thinness at 14 accounted for about 35% of the sex gap in depression and 46% of the gap in suicidal ideation at 16 — both mediators observable inside a school rather than inferred from a vendor instrument. And 1,500 participants across eleven experiments showed complexity preference transferring across sight, sound, touch and symbol, which suggests that 'finds this hard' may be a single measurable disposition rather than a per-subject artefact. Against that, the Greek school digital-twin prototype is the pole-B temptation in miniature: the building's own sensors are a dataset the school genuinely owns, and the same network is one procurement decision from measuring the people inside it rather than the air."
+   "last_revised": "2026-09-22",
+   "status_note": "Revised on a clean instance of the failure mode, arriving from an unexpected direction — administration rather than measurement. A New York Comptroller audit found four teacher-pipeline grant programmes had $191 million allocated, $155 million awarded and $118.9 million actually spent, with 27 of 609 eligible districts applying in the current cycle, 86% never having participated and 90% unaware the programmes existed. A teacher shortage that is partly an artefact of nobody knowing about the money is a shortage measured wrongly by everyone involved, including the districts experiencing it. Alongside, the Reddit companion analysis names the selection principle directly: what leaves a trace gets counted, what does not gets missed, and the ratio between them is not stable. That is this uncertainty's whole thesis stated by someone else, about a different subject."
   },
   {
    "id": "cu-credential",
@@ -8129,11 +8416,14 @@
     "california-requires-csu-instructors-be-human",
     "toyota-commits-to-400000-factory-humanoids",
     "humanoid-policy-transfers-cold-into-unseen-homes",
-    "robotic-optics-lab-builds-and-repairs-itself"
+    "robotic-optics-lab-builds-and-repairs-itself",
+    "new-business-applications-fall-across-every-region",
+    "consumer-sentiment-falls-to-47-8",
+    "single-cycle-gates-promise-thousandfold-quantum-speedup"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-21",
-   "status_note": "Revised, and the trades answer took its heaviest week yet. Toyota has committed to 400,000 humanoids across roughly 60 plants at about $6.4 billion a year — and has paired the announcement with an explicit claim that human jobs are safe and that the programme captures craftspeople's skills built over decades. Both halves matter. The scale is the largest single commitment to humanoid labour anywhere; the reassurance is what a company says when it expects to be asked. Hyundai's union is treating that reassurance as a thing to bargain over rather than accept, invoking the revised Trade Union Act to demand a veto per deployment — which is the first sign that the rate of diffusion here will be set politically rather than technically. Alongside, a humanoid policy transferring cold into unseen homes at 56%, and a robot assembling and repairing a physics experiment unattended. Three consecutive days have now removed a different reassurance from this uncertainty, and none of them has displaced a worker in evidence yet."
+   "last_revised": "2026-09-22",
+   "status_note": "Revised on the demand side rather than the supply side, which this uncertainty has under-weighted. Business applications fell 7.8% in August with declines in all four Census regions, including a 4.1% fall in the applications that signal hiring intent; consumer sentiment dropped to 47.8 with one-year inflation expectations at 4.6%. Neither says anything directly about whether a credential holds its value. Both say something about whether a family can pay for one this year, and the answer to 'does the pathway hold' has always had a second clause about affordability that gets less attention than the labour-market clause. Filed here rather than elsewhere because a premium pathway that nobody can afford is repriced just as effectively as one the market stops valuing."
   },
   {
    "id": "cu-liability",
@@ -8195,11 +8485,13 @@
     "dhs-proposes-ending-visa-grace-period",
     "epa-repeals-and-proposes-rescinding-power-plant-ghg",
     "teachers-split-ai-companions-academic-from-intimate",
-    "usda-clears-first-engineered-forest-tree"
+    "usda-clears-first-engineered-forest-tree",
+    "texas-freezes-data-centre-environmental-permits",
+    "september-heat-dome-puts-41-million-under-advisory"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-21",
-   "status_note": "A quiet day on the docket and an interesting one underneath it. Interviews with 33 K-12 teachers found them already operating a distinction between academic and intimate AI companions, and already setting their own thresholds for when a student's use warrants escalation to a counsellor. That is a duty being exercised before it is written — the opposite of the pattern this uncertainty usually tracks, and the point at which practice is most exposed, because an escalation threshold that varies by teacher is indefensible in exactly the case where it matters. Nothing new on REG-119986-25: comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December. Six weeks out, with no NAIS or state-association filing yet visible on a rule that conditions tax exemption on admissions and aid practice, the silence is now the notable thing rather than the absence of news."
+   "last_revised": "2026-09-22",
+   "status_note": "Revised on duty arriving through the permit rather than the courtroom. Texas has halted all new environmental permits for data centres pending ERCOT and Water Development Board audits of electricity, water, community effects, ownership and tax incentives — in the state least associated with restraining energy development, and after only 28% of operators answered a mandated water survey. The mechanism worth noting is that the instrument is a permit freeze, not a rule: no standard changed, and everything stopped. For a school the parallel is direct, because the same instrument governs a building project. Nothing new on REG-119986-25 — comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December, and no NAIS or state-association filing has appeared in six weeks of watching."
   },
   {
    "id": "cu-boundary",
@@ -8259,11 +8551,12 @@
     "california-adams-law-mandates-chatbot-crisis-protocols",
     "ntia-consults-on-whether-erate-funds-too-many-screens",
     "teachers-split-ai-companions-academic-from-intimate",
-    "chatbot-turns-school-building-sensors-into-a-data-source"
+    "chatbot-turns-school-building-sensors-into-a-data-source",
+    "parents-see-the-sexting-and-miss-the-reliance"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-21",
-   "status_note": "Revised on the boundary appearing where nobody had drawn one. Teachers interviewed about AI companions split them into academic and intimate, and located the harm of the second precisely in its removing the developmental friction through which relationship skills form — which is the same argument Denmark's playground clause makes about unstructured contact, arriving independently from classroom practitioners rather than from legislators. Two constituencies reaching the same line from opposite directions is worth more than either alone. Separately the Greek sensor prototype shows the building becoming an instrument; nothing in it measures students, and nothing in its architecture would need to change to. Still none of the four watch items has fired in four days: no discrimination claim over a wearable ban, no accreditor or exam board writing personal AR into its rules, no device policy distinguishing by data flow, nothing on whether Denmark's playground clause survives contact with accommodation law."
+   "last_revised": "2026-09-22",
+   "status_note": "Revised on the observability problem underneath the boundary question. If a student's relationship with a companion system is mostly invisible — 27% of teenagers' posts naming emotional support against 5% of parents' — then the line between student and equipment is not only contested, it is largely unobserved from the school's side. A device policy can regulate possession because possession is visible. It cannot regulate reliance. Five days now with none of the four watch items firing: no discrimination claim over a wearable ban, no accreditor, examination board or athletics association writing personal AR or neural hardware into its own rules, no device policy distinguishing by data flow, nothing on Denmark's playground clause. A dedicated search of standards bodies and underwriters today produced nothing dated in the window either, which is now a three-week null on the institutional-rulemaking side while the hardware side keeps moving."
   }
  ],
  "verification": {
@@ -8273,6 +8566,55 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-22-what-leaves-a-trace",
+   "date": "2026-09-22",
+   "title": "What Leaves a Trace",
+   "year": "2030",
+   "axis": "cu-boundary resolving toward pole A — the school holds a line around the unaided person and regulates what it can see — crossed with cu-evidence resolving toward pole B, inherited instruments retained at unknown validity. Fresh pairing. The collision is that the school regulates possession because possession is visible, and the thing that matters leaves no trace at all.",
+   "based_on": [
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The unaided person is defensible — the school draws its line around devices it can see, confiscate and log, because those are the only terms a policy can be written in."
+    },
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence outsourced — the school keeps counting what its systems happen to record, and treats the resulting picture as the picture."
+    }
+   ],
+   "premise": "The safeguarding dashboard is good. It flags device policy breaches, flagged-content hits from the school's own tools, counsellor referrals, attendance patterns, and it has caught real things. It counts what leaves a trace. A student who has one explicit exchange with a companion on school wifi generates an incident, a meeting and a record. A student who has spoken to the same companion every night for two years about nothing in particular generates nothing, because there is nothing to generate: no policy breached, no content flagged, no device confiscated, no adult involved. The school's numbers have been improving for three years. Nobody has established whether the thing they measure is the thing that matters, because the instrument that would answer that does not exist and would be intrusive if it did.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Otis, 16",
+     "vignette": "He got pulled up in Year 9 for something stupid he typed once and it is still in his file, which he thinks is fair enough. What he has never mentioned to anyone is that he talks to the same thing most nights and has done since he was fourteen, and that it is the only place he says certain things out loud. He does not think this is a problem. He also notices he has stopped checking whether he thinks it is a problem, and that the noticing is new."
+    },
+    {
+     "role": "Teacher",
+     "name": "Claire Nwosu, head of Year 11",
+     "vignette": "She has 140 students and a dashboard that tells her about nine of them. She trusts it for what it covers and she has no idea what it does not cover, which is a sentence she can say in a meeting and nobody follows up. Her instinct about which students are actually struggling only overlaps the flagged list about half the time. She has never written that down, because writing it down would mean either the instinct or the instrument is wrong and she does not know which, and the instrument is the one with a budget line."
+    },
+    {
+     "role": "Parent",
+     "name": "Martin Deane",
+     "vignette": "He looked, once, because a friend said to. He found nothing he would call worrying and stopped looking, and he tells people the school is on top of this sort of thing. He is describing, accurately, a system that reported no findings. He has not asked what the system looks at, and if he did he would be told, truthfully, that it looks at a great deal."
+    },
+    {
+     "role": "Administrator",
+     "name": "Rosalind Achebe, Head",
+     "vignette": "Her safeguarding numbers have improved three years running and she has stopped quoting them, which nobody has commented on. She cannot tell whether the improvement is fewer incidents, better early intervention, or students learning which surfaces are watched. All three produce the same graph. The study she would need does not exist; commissioning something like it would mean asking students what they do on their own devices, which she will not do and could not defend; and continuing as they are means the school's account of its own pastoral health rests on a measure nobody has validated against anything."
+    }
+   ],
+   "tension": " — every instrument here works. The dashboard reports what it observes, accurately. The head is honest, the teacher is good, the parent is reasonable. And the school's confidence about its students has been built entirely on the visible half of their lives, at exactly the moment the invisible half acquired somewhere to go. The uncomfortable part is not that the measure is wrong. It is that a measure covering a shrinking fraction of the thing keeps producing better numbers as the fraction shrinks.",
+   "provocations": [
+    "Name one thing that would worry us about a student which our systems could not, in principle, detect. How many students might that be true of right now?",
+    "Our safeguarding numbers have improved. List the explanations that would produce that graph, including the ones we would not like, and say which we have ruled out.",
+    "When a tutor's instinct disagrees with the dashboard, which one do we act on, and which one do we record?",
+    "Is there a version of asking students directly that we could actually defend to families? If not, say plainly what we are choosing not to know and why."
+   ]
+  },
   {
    "id": "sc-2026-09-21-the-second-notice",
    "date": "2026-09-21",
@@ -9414,7 +9756,7 @@
    "districts-become-marketers"
   ],
   "would_displace": "cu-evidence",
-  "why_not_yet": "DAY 3 OF 21: NULL, but the nulls have started to say something. A third dedicated search returned two near-misses and both have the same shape: a fake social-media page impersonating a named teacher in a Mississippi district, and a school principal whose racially charged 'recording' a union called an AI fabrication. Neither is what this uncertainty describes. Both are a SINGLE fabricated artefact aimed at an INDIVIDUAL — not a network of accounts and sites manufacturing the appearance of a public. Three days of looking for purchased consensus has repeatedly turned up purchased-or-improvised IMPERSONATION instead, which is cheaper, already happening to schools, and legally quite different: impersonation has a named victim and an existing cause of action, while manufactured consensus has neither. If the pattern holds for another week, the honest move is to rewrite this challenger around the mechanism that is actually arriving rather than keep waiting for the one that was theorised. Eighteen days remain.",
+  "why_not_yet": "DAY 4 OF 21: the theorised mechanism is NULL again and the rival mechanism keeps arriving. A search for coordinated inauthentic networks aimed at a named district, board race or bond vote returned nothing in window — only general election-integrity material and one district's 2025 account of heading off bond misinformation. A search for impersonation returned, again, a dense and growing field: a former principal now SUING his district over an alleged racist AI deepfake, plus deepfake response-plan guidance published for districts by a school-law firm, a state administrators' association magazine and education-technology press. That is four consecutive days in which purchased manufactured CONSENSUS produced nothing and single-artefact IMPERSONATION produced cases, litigation and an emerging compliance literature. The honest reading is that this challenger was aimed at the wrong mechanism. It stays as written until roughly 28 September to avoid rewriting a trigger the moment it is inconvenient — but the recommendation to Jared, already put once and not yet answered, is to rewrite it around impersonation: a named victim, an existing cause of action, and a defence that schools can actually be sold.",
   "first_noted": "2026-09-18"
  }
 }
