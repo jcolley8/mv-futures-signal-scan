@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-22",
- "scan_count": 24,
+ "last_updated": "2026-09-23",
+ "scan_count": 25,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -312,7 +312,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 5,
+   "sightings": 6,
    "revised_on": [
     "2026-09-09"
    ]
@@ -540,7 +540,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 6,
+   "sightings": 7,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1982,11 +1982,11 @@
   },
   {
    "id": "accreditation-marketplace-opened-to-new-entrants",
-   "title": "Proposed rules open accreditation to new entrants and multiple accreditors",
+   "title": "Accreditation rewrite draws 4,590 comments and heads for a July 2027 effective date",
    "type": "driver",
-   "summary": "The Department of Education released proposed accreditation regulations on 21 August 2026 that set firm timelines for evaluating new accreditor applications, simplify initial recognition, remove the requirement that institutions get Secretary approval before switching accreditors, and permit colleges to hold accreditation from multiple agencies at once. Six legacy accreditors currently gatekeep access to over $100 billion in annual Title IV aid; the rules also push completion, debt-to-earnings and employment outcomes as standards.",
-   "so_what": "If accreditation becomes a competitive market judged on earnings and completion outcomes, the credential logic that independent schools prepare students for shifts from institutional prestige to measurable post-graduation returns, changing what college counselling should optimise for.",
-   "likelihood": "plausible",
+   "summary": "Inside Higher Ed reported on 22 September 2026 that the comment period on the Education Department's 354-page accreditation proposal, published in August 2026, closed on 21 September with more than 4,590 comments filed and 1,890 posted publicly. The rule would require accreditors to judge colleges on licensure results, retention and completion, employment outcomes and economic return relative to cost, to police intellectual diversity and civil-rights compliance, to justify credit-transfer denials and to stay separate and independent from related trade groups, while streamlining approval of new accreditors. The Department expects a final rule by 1 November 2026 with an effective date of 1 July 2027; the Association of Public and Land-grant Universities, the Council for Higher Education Accreditation and a thirteen-group coalition argue it exceeds the Higher Education Act.",
+   "so_what": "From July 2027 the word 'accredited' on a college list starts to mean earnings-and-cost performance rather than peer review, and new accreditors get a faster path in — so college counselling, dual-enrolment partners and any post-secondary articulation agreements need re-examining during the 2027-28 cycle rather than after it. The credential is being repriced by a regulator's metric, not by employers.",
+   "likelihood": "probable",
    "episteme": [
     "E-Educational",
     "P-Political",
@@ -1995,14 +1995,15 @@
    "horizon": 2,
    "timeline": "3-6",
    "sector": "Education",
-   "source_name": "American Council of Trustees and Alumni",
-   "source_url": "https://www.goacta.org/2026/08/department-of-education-releases-new-accreditation-regulations/",
-   "source_date": "2026-08-21",
-   "source_type": "policy",
+   "source_name": "Inside Higher Ed",
+   "source_url": "https://www.insidehighered.com/news/government/student-aid-policy/2026/09/22/higher-ed-groups-push-back-accreditation-overhaul",
+   "source_date": "2026-09-22",
+   "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 2,
+   "sightings": 3,
    "revised_on": [
-    "2026-09-09"
+    "2026-09-09",
+    "2026-09-23"
    ]
   },
   {
@@ -2820,7 +2821,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-29",
-   "sightings": 1,
+   "sightings": 2,
    "revised_on": [
     "2026-09-09"
    ]
@@ -3199,7 +3200,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09"
    ]
@@ -8107,7 +8108,7 @@
    "source_date": "2026-09-17",
    "source_type": "report",
    "first_seen": "2026-09-22",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "valve-sells-vr-headset-by-lottery-at-four-figures",
@@ -8216,6 +8217,293 @@
    "source_type": "journal article",
    "first_seen": "2026-09-22",
    "sightings": 1
+  },
+  {
+   "id": "newspaper-runs-its-own-ai-essay-experiment",
+   "title": "A national newspaper runs its own AI essay experiment and publishes the scores",
+   "type": "signal",
+   "summary": "JoongAng Ilbo ran an experiment on 9-10 September 2026, reported in Korea JoongAng Daily on 22 September, giving university students in Seoul thirty minutes to write an essay on whether expert judgement or majority will should take priority in a democratic society, one group with AI and one without. A five-member expert panel scored the AI group 81.6 against 68.8 overall and 82.7 against 61.3 on appropriateness of expression, while the AI group scored 66.9 against 82.9 on comprehension of their own essay; every unassisted writer could recall their essay's final sentence and more than half of the AI users could not. The paper published no sample size and named one panellist, Noh Dae-won of Sungkyunkwan University. This is a newspaper-run demonstration, not a study.",
+   "so_what": "A newspaper has decided the question is urgent enough to run its own experiment and publish it as evidence, which is how a contested finding enters parent conversation ahead of any replication — expect to be asked about a number nobody can audit. The shape of the result is the part worth taking seriously: it points at exactly the dimension essay rubrics weight most heavily and the one they do not score at all.",
+   "likelihood": "possible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Korea JoongAng Daily, on an experiment run by JoongAng Ilbo",
+   "source_url": "https://www.koreajoongangdaily.com/korea/students-get-ai-boost-in-writing-blow-to-recall/12884915",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "millennium-claim-lands-below-the-physics",
+   "title": "An AI's Millennium Prize claim describes a vortex too small for the physics to hold",
+   "type": "signal",
+   "summary": "Nature reported on 18 September 2026, in a piece by Nicola Jones, that OpenAI had claimed the previous week that its most advanced model solved a Millennium Prize Problem by proving the Navier-Stokes equations can produce a singularity. George Karniadakis of Brown University calculated that for air the singularity appears when the stretching vortex is around 70 nanometres wide, at which scale the assumption that a fluid is a continuous substance fails. Charles Fefferman of Princeton noted the equations were already known to be insufficient for modelling reality in certain circumstances and that the Millennium Problem concerns incompressible fluids specifically. Nature reports no peer review of the claim.",
+   "so_what": "The gap between what a frontier lab announces and what the result is a claim about is now wide enough that staff, parents and trustees will systematically over-read capability news, and the announcement arrives months before anyone qualified has checked it. The durable skill to teach here is not prompting but asking what a claimed result is actually a claim about.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "AI & Cognition",
+   "source_name": "Nature, by Nicola Jones",
+   "source_url": "https://www.nature.com/articles/d41586-026-02922-6",
+   "source_date": "2026-09-18",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "fda-approves-sanfilippo-gene-therapy-fayuvi",
+   "title": "FDA approves the first gene therapy for children with Sanfilippo syndrome type A",
+   "type": "signal",
+   "summary": "On 17 September 2026 the FDA announced approval of Fayuvi (rebisufligene etisparvovec-hopf), from Ultragenyx, for mucopolysaccharidosis type IIIA, known as Sanfilippo syndrome type A. It is the first gene therapy approved for the condition; the evidence is an open-label, single-arm, multicentre study in paediatric patients with cognitive assessment in the two-to-five age range, in which treated patients maintained or improved cognitive function against an untreated historical control cohort. The FDA release flags a risk of thrombotic microangiopathy and a potential long-term genome-integration risk leading to tumour development, and notes orphan drug, fast track and breakthrough therapy designations.",
+   "so_what": "Sanfilippo type A is the diagnosis that historically turned a talking, toilet-trained primary pupil into a child with lost speech and severe dysregulation, so a licensed disease-modifying option changes what a learning-support team plans toward rather than around. It also moves the boundary question from hardware to biology: cognitive function becomes something a therapy maintains, and families of children with other paediatric neurodegenerative diagnoses will bring that expectation to the health office.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration",
+   "source_url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+   "source_date": "2026-09-17",
+   "source_type": "policy",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "nice-draft-ocd-bdd-case-finding-consultation",
+   "title": "NICE draft guidance would have clinicians screen anxious and ADHD patients for OCD",
+   "type": "signal",
+   "summary": "NICE put draft guidance on obsessive-compulsive disorder and body dysmorphic disorder out to consultation on 17 September 2026, closing 21 October 2026, as reported by the GP trade paper Pulse. It tells clinicians to assess for OCD and BDD in people presenting with depression, anxiety, thoughts of self-harm, eating disorders, autism, ADHD or substance misuse, and in those seeking cosmetic procedures or dermatology treatment, using structured screening questions. It cites OCD prevalence around 1.2% of the population and BDD around 2% of adults, rising to 18.6% among aesthetic surgery patients. For children it notes compulsions may be more apparent than obsessions and recommends family-based CBT.",
+   "so_what": "If case-finding is bolted onto the ADHD, autism and anxiety labels a school already holds in its files, referrals start arriving pre-framed as OCD, which needs a different accommodation set from anxiety — ritual time, reassurance-seeking, and staff instructed not to accommodate the compulsion. The cosmetic-procedure clause also pulls a school's body-image and social-media posture inside a clinical pathway.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Pulse, on NICE draft guidance",
+   "source_url": "https://www.pulsetoday.co.uk/news/clinical-areas/mental-health-pain-and-addiction/assess-people-with-depression-anxiety-or-adhd-for-ocd-and-bdd-nice-recommends",
+   "source_date": "2026-09-17",
+   "source_type": "guidance",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "torch-congenital-infection-grades-sweden",
+   "title": "Swedish registry links rare congenital infections to autism and to lower school grades",
+   "type": "signal",
+   "summary": "A JAMA Pediatrics study published on 21 September 2026 by Hugo Sjoqvist and colleagues at Karolinska Institutet followed 3.7 million people born in Sweden between 1987 and 2021 for up to three decades and identified 975 with a congenital TORCH infection — cytomegalovirus, rubella, toxoplasma or herpesvirus. Autism risk was roughly three times higher and intellectual disability more than seven times higher, reaching up to thirty times for severe to profound intellectual disability. The population share is small, around 0.034% of Swedish autism cases. Karolinska reports that even children without an autism or intellectual disability diagnosis had, on average, lower grades than peers without the infection, with similar associations in sibling comparisons; the authors frame this as a possible long-term effect on brain development, not proven cause.",
+   "so_what": "This names a group of pupils who sit below every diagnostic threshold, get no plan, and still underperform — precisely the population a learning-support triage is built to miss, and one a parent can now explain with a congenital CMV result. It also places nursery-age hygiene, food handling and the school's vaccination posture inside a prevention story rather than a compliance one.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Karolinska Institutet, on a study in JAMA Pediatrics",
+   "source_url": "https://news.ki.se/rare-pregnancy-infections-linked-to-autism",
+   "source_date": "2026-09-21",
+   "source_type": "study",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "informant-specific-genetics-of-social-behaviour",
+   "title": "Genes for social behaviour differ by who rates the child and in which setting",
+   "type": "signal",
+   "summary": "Nature Human Behaviour published a genome-wide meta-regression on 21 September 2026 pooling roughly 500,000 repeated observations from 73,321 European-ancestry individuals across 25 cohorts, aged 2 to 29, rated variously by parents, teachers and the young people themselves. It identified six loci and SNP-based heritability of only 2-7%, but the substantive result is that genetic correlations with later-life outcomes and mental health conditions varied systematically by social domain, by reporter and by developmental stage. The abstract states explicitly that genetic effects are not deterministic and are one of many contributions to social behaviour.",
+   "so_what": "Parent-rated, teacher-rated and self-rated social functioning are not three readings of one underlying child, so a wellbeing screener that averages informants or substitutes whichever is available is blurring genuinely different constructs. Ask that informant source travel with any social-behaviour score rather than being collapsed into a single flag.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02551-z",
+   "source_date": "2026-09-21",
+   "source_type": "journal",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "pm25-erodes-high-skilled-cognitive-output",
+   "title": "Air pollution causally cuts high-skilled cognitive output across 2.5 million observations",
+   "type": "driver",
+   "summary": "Nature Human Behaviour, 21 September 2026, links Chinese air-quality monitoring data to Web of Science publication records for scholars over 2015-2022, around 2.5 million observations, using atmospheric temperature inversions as an instrumental variable. A 1 microgram per cubic metre rise in annual PM2.5 causes a 0.23% decline in publications (P < 0.01), concentrated in heavy-pollution years and among younger, more productive scholars, with mechanisms traced through reduced working hours and increased hospital visits. The outcome is publication output as a proxy, not a direct cognitive measure.",
+   "so_what": "This turns classroom and office air quality into a measurable input to cognitive work rather than a facilities footnote, which matters when budgeting filtration, siting a building near a road, or deciding whether to run outdoor PE on a poor-air day. It also gives a head something rare — an exposure the school controls, with an effect size attached.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02576-4",
+   "source_date": "2026-09-21",
+   "source_type": "journal",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "childhood-generalization-strategy-switch",
+   "title": "Children switch the machinery they use to infer relationships between ages six and eight",
+   "type": "signal",
+   "summary": "Scientific Reports, 22 September 2026, gave 84 children (30 aged four, 27 aged six, 27 aged eight) four generalization tasks across two sessions within 42 days: statistical learning, associative inference, transitive inference and categorization. Accuracy rose with age, most sharply between four and six, with odds ratios for inference success when the direct pairs were remembered running from 2.48 to 21.9. Inter-task correlations were inconclusive, and computational modelling showed four- and six-year-olds solving transitive problems with value-based reinforcement learning while eight-year-olds used explicit pair memory. This is a cross-sectional comparison between age groups, not the effect of an intervention.",
+   "so_what": "Transfer is not one capacity a single task can screen for, and a lower-school child who fails an inference item may be running a different but functional strategy rather than failing to understand. When a teacher reports that a student cannot generalise, insist on evidence from more than one task type before it hardens into a label.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Scientific Reports",
+   "source_url": "https://www.nature.com/articles/s41598-026-69464-9",
+   "source_date": "2026-09-22",
+   "source_type": "journal",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "kelley-vacatur-teacher-training-directive",
+   "title": "Federal judge vacates the directive behind more than 100 cancelled teacher-training grants",
+   "type": "signal",
+   "summary": "K-12 Dive reported on 21 September 2026 that US District Judge Angel Kelley, in the District of Massachusetts, vacated the Education Department's 5 February 2025 directive on eliminating discrimination and fraud in department grant awards as arbitrary, capricious and in violation of the Administrative Procedure Act. The directive had been used to cancel more than 100 grants under the Teacher Quality Partnership and Supporting Effective Educator Development programmes, costing California alone roughly $148 million from February 2025. The ruling issued 17 September 2026; as of 21 September the Department had not said whether it will appeal, and a related freeze survived a Supreme Court order in April 2025.",
+   "so_what": "The regional teacher-preparation pipelines independent schools quietly recruit from — residencies, alternative certification partners, university programmes — may see funding restored, but only if the vacatur survives appeal, so hiring plans for 2028-2030 should treat that supply as contingent rather than restored. The mechanism is the point: what a school can hire is being decided in an appellate posture nobody in the sector is tracking.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/judge-vacates-anti-dei-directive-that-led-to-teacher-training-grant-cuts/830931/",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "vietnam-higher-education-strategy-2035",
+   "title": "Vietnam sets a 2035 target of 45% university enrolment and ten Asian top-200 institutions",
+   "type": "driver",
+   "summary": "Nhan Dan reported on 22 September 2026 that Deputy Prime Minister Le Tien Chau signed Decision No. 1810/QD-TTg on 18 September 2026 approving Vietnam's Higher Education Development Strategy for 2026-2035 with a vision to 2045. By 2035 it targets a 45% enrolment rate among 18-to-22-year-olds, all higher education institutions meeting standards, postgraduates at 15% of enrolment, STEM students at 40%, half of lecturers holding doctorates, and 90% of graduates in suitable work within twelve months. It names around thirty key institutions, three to five of which become elite research universities, and targets ten institutions in Asia's top 200 and two in the world's top 100 by field.",
+   "so_what": "Vietnam is a significant source of outbound students and of families paying for international and boarding schooling, so a credible domestic alternative maturing around 2033-2035 erodes the study-abroad-or-nothing premise that enrolment planning in Asian markets rests on. Targets of this kind are routinely missed, which is why this sits at possible — but the direction of travel is the planning input, not the number.",
+   "likelihood": "possible",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "Nhan Dan",
+   "source_url": "https://en.nhandan.vn/prime-minister-approves-higher-education-development-strategy-for-2026-2035-with-a-vision-to-2045-post166883.html",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "ratepayer-protection-act-house-417-3",
+   "title": "House votes 417-3 to make 100-megawatt loads pay their own grid costs",
+   "type": "signal",
+   "summary": "Utility Dive reported on 17 September 2026 that the US House passed H.R. 9340, the Ratepayer Protection Act, by 417 votes to 3. Working through existing Public Utility Regulatory Policies Act authority, it requires state utility commissions to consider standards for loads above 100 MW: financial assurances posted before grid upgrades are built, guaranteed cost recovery if a large customer exits its supply contract early, and payment of the full incremental cost of generation, transmission and distribution. States would have one year to begin considering adoption and two to decide. Only thirteen states currently lack a tariff for data centres and large loads, at least three of which were considering requirements as of July 2026; ClearView Energy Partners told Utility Dive the bill is unlikely to clear the Senate before November's midterms, where it would probably need unanimous consent.",
+   "so_what": "A school's electricity bill is the residual of exactly this allocation fight — if 100 MW loads are not made to pay incremental cost, the commercial and institutional rate class absorbs the transmission build. Put your state commission's large-load docket on the business office's calendar and decide now whether you intervene alone or through a nonprofit ratepayer coalition, because the allocation is settled in a proceeding, not a bill.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Utility Dive",
+   "source_url": "https://www.utilitydive.com/news/house-passes-ratepayer-protection-bill-data-centers/830658/",
+   "source_date": "2026-09-17",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "post-paris-emissions-added-a-third-of-a-degree",
+   "title": "Emissions since the Paris Agreement added a third of a degree to Europe's hottest weeks",
+   "type": "signal",
+   "summary": "A study published on 22 September 2026 in Geophysical Research Letters (DOI 10.1029/2026GL125079) by Jared Trok and Noah Diffenbaugh of Stanford finds that greenhouse gases emitted since the 2015 Paris Agreement made Europe's most intense annual heat waves roughly a third of a degree Celsius hotter than they would otherwise have been, an effect holding for Europe's hottest week in every individual year since at least 2021. The method is a diffusion model trained on simulations from ten global climate models, comparing observed weather patterns against a counterfactual held at 2015 emission levels — model-based attribution, not direct measurement. TIME's 22 September report notes surface temperatures up to 46 degrees Celsius in Spain and Portugal during 2026's heat waves and at least 35,000 excess deaths across the summer's back-to-back events.",
+   "so_what": "Attribution is now being run on a ten-year clock rather than a pre-industrial one, which is the timescale a capital plan actually uses: a chiller, a roof, a turf field or a field house specified this year to last twenty-five should be sized against another decade of added heat, not the last decade's records. It also argues for written, index-based cancellation triggers for Europe-bound summer programmes and outdoor athletics rather than a duty administrator's judgement call.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "S-Social",
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "TIME, on a study in Geophysical Research Letters",
+   "source_url": "https://time.com/article/2026/09/22/emissions-paris-agreement-europe-heat-waves-study/",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
+  },
+  {
+   "id": "eu-climate-insurance-alliance-parametric",
+   "title": "EU convenes a climate insurance alliance as a quarter of disaster losses are covered",
+   "type": "driver",
+   "summary": "European Commission President Ursula von der Leyen announced a European climate insurance alliance on 16 September 2026 following the summer's heatwaves and wildfires; the Royal Gazette's 18 September report notes that only about 25% of disaster-related losses in Europe are covered by private insurance, leaving national budgets carrying the rest. The alliance is to identify and promote risk-transfer instruments including group and parametric insurance, which pays out automatically once a predefined threshold such as a rainfall level or a temperature is breached. It carries no legal force of its own; the Commission is due to present a wider climate resilience framework covering risk management in 100 vulnerable territories in October 2026.",
+   "so_what": "Parametric cover is the instrument to watch for a campus: a policy that pays on a measured wind speed, rainfall depth or heat index, with no loss adjustment, would fund the closure days, spoiled food-service inventory and cancelled athletics and travel that a standard property policy excludes outright. Ask the broker at the next renewal whether a parametric layer is quotable for your dominant peril, and price it against the deductible you currently self-insure.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "The Royal Gazette",
+   "source_url": "https://www.royalgazette.com/reinsurance/business/article/20260918/bermuda-re-insurers-stand-ready-as-eu-seeks-to-close-protection-gap/",
+   "source_date": "2026-09-18",
+   "source_type": "news",
+   "first_seen": "2026-09-23",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -8270,11 +8558,13 @@
     "robotic-optics-lab-builds-and-repairs-itself",
     "humanoid-policy-transfers-cold-into-unseen-homes",
     "generated-worlds-hold-rules-instead-of-drifting",
-    "parents-see-the-sexting-and-miss-the-reliance"
+    "parents-see-the-sexting-and-miss-the-reliance",
+    "millennium-claim-lands-below-the-physics",
+    "newspaper-runs-its-own-ai-essay-experiment"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-22",
-   "status_note": "A quiet day, and the one relevant item is about what adults can SEE rather than what AI does. An analysis of 1,628 Reddit posts found teenagers naming emotional-support benefits from AI companions far more than parents recognised them — 27% of posts against 5% — while parents flagged romantic or sexual use more than teenagers raised it, 36% against 25%. The authors put the gap down to visibility: a long chat log or a sexting exchange leaves a trace, quiet venting does not. This uncertainty has spent six weeks asking what AI does to capability. The observation here is narrower and more awkward: the effects most likely to be noticed are not the effects most likely to be common, which means the evidence base accumulating in schools and households is selected by what happens to be discoverable. Reddit self-report, so read at 'plausible' — but the selection mechanism it names is not specific to Reddit.",
+   "last_revised": "2026-09-23",
+   "status_note": "Two items, and neither is a study. Nature reports that OpenAI claimed a Millennium Prize Problem solved, and that an applied mathematician at Brown calculated the claimed singularity appears at a vortex around 70 nanometres wide — the scale at which the assumption that a fluid is continuous stops holding. No peer review is reported. Separately, a Korean national newspaper ran its own thirty-minute essay experiment and published the scores: AI users better on expression, 82.7 to 61.3, and worse on comprehension of their own essay, 66.9 to 82.9, with more than half unable to recall their final sentence. No sample size was published. What both items measure is the evidence environment rather than the capability: the claims arriving fastest about what AI does to and for thinking are now being made by labs and by newspapers, and arrive complete with numbers, months ahead of anyone qualified checking them. That is a condition this uncertainty has to survive, not a finding it can use.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -8359,11 +8649,15 @@
     "chatbot-turns-school-building-sensors-into-a-data-source",
     "parents-see-the-sexting-and-miss-the-reliance",
     "teacher-pipeline-money-goes-unclaimed",
-    "literacy-reform-outspends-maths-by-twenty-to-one"
+    "literacy-reform-outspends-maths-by-twenty-to-one",
+    "informant-specific-genetics-of-social-behaviour",
+    "childhood-generalization-strategy-switch",
+    "pm25-erodes-high-skilled-cognitive-output",
+    "newspaper-runs-its-own-ai-essay-experiment"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-22",
-   "status_note": "Revised on a clean instance of the failure mode, arriving from an unexpected direction — administration rather than measurement. A New York Comptroller audit found four teacher-pipeline grant programmes had $191 million allocated, $155 million awarded and $118.9 million actually spent, with 27 of 609 eligible districts applying in the current cycle, 86% never having participated and 90% unaware the programmes existed. A teacher shortage that is partly an artefact of nobody knowing about the money is a shortage measured wrongly by everyone involved, including the districts experiencing it. Alongside, the Reddit companion analysis names the selection principle directly: what leaves a trace gets counted, what does not gets missed, and the ratio between them is not stable. That is this uncertainty's whole thesis stated by someone else, about a different subject."
+   "last_revised": "2026-09-23",
+   "status_note": "Revised on two findings that attack the instrument rather than the measurement. A genome-wide meta-regression in Nature Human Behaviour, 73,321 individuals across 25 cohorts and roughly 500,000 repeated observations, found that the genetic correlates of social behaviour vary systematically by who is doing the rating — parent, teacher or the young person — and by developmental stage. Parent-rated and teacher-rated social functioning are not two readings of one child. A second paper in Scientific Reports gave 84 children four generalization tasks and found the inter-task correlations inconclusive, with four- and six-year-olds solving transitive problems by reinforcement learning while eight-year-olds used explicit pair memory: transfer is not one capacity a single task can screen for. Both cut the same way as the term's earlier items, but one layer deeper — it is no longer only that a school's instruments may be invalid, it is that some of them are measuring the reporter and the task as much as the student. Against that, a causal estimate worth having: a 1 microgram rise in PM2.5 costs 0.23% of publication output across 2.5 million observations, an exposure a school controls and does not measure."
   },
   {
    "id": "cu-credential",
@@ -8419,11 +8713,13 @@
     "robotic-optics-lab-builds-and-repairs-itself",
     "new-business-applications-fall-across-every-region",
     "consumer-sentiment-falls-to-47-8",
-    "single-cycle-gates-promise-thousandfold-quantum-speedup"
+    "single-cycle-gates-promise-thousandfold-quantum-speedup",
+    "vietnam-higher-education-strategy-2035",
+    "accreditation-marketplace-opened-to-new-entrants"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-22",
-   "status_note": "Revised on the demand side rather than the supply side, which this uncertainty has under-weighted. Business applications fell 7.8% in August with declines in all four Census regions, including a 4.1% fall in the applications that signal hiring intent; consumer sentiment dropped to 47.8 with one-year inflation expectations at 4.6%. Neither says anything directly about whether a credential holds its value. Both say something about whether a family can pay for one this year, and the answer to 'does the pathway hold' has always had a second clause about affordability that gets less attention than the labour-market clause. Filed here rather than elsewhere because a premium pathway that nobody can afford is repriced just as effectively as one the market stops valuing."
+   "last_revised": "2026-09-23",
+   "status_note": "Revised on the clearest instance yet that the repricing may not come from the market at all. The comment period on the Education Department's 354-page accreditation rewrite closed on 21 September with more than 4,590 comments, a final rule expected by 1 November 2026 and an effective date of 1 July 2027. From that date an accreditor must judge a college on licensure results, retention, completion, employment outcomes and economic return relative to cost, and new accreditors get a faster path in. This uncertainty was framed as employers versus transcripts. What is actually arriving is a regulator writing the earnings test into the definition of 'accredited' — pole B's outcome reached through pole A's machinery, on a date already fixed. Further out, Vietnam's 2026-2035 higher education strategy, signed 18 September, targets 45% enrolment of 18-to-22-year-olds and ten institutions in Asia's top 200 by 2035; targets like that are routinely missed, but a credible domestic alternative in a major sending country is a demand-side fact for anyone planning international enrolment."
   },
   {
    "id": "cu-liability",
@@ -8487,11 +8783,14 @@
     "teachers-split-ai-companions-academic-from-intimate",
     "usda-clears-first-engineered-forest-tree",
     "texas-freezes-data-centre-environmental-permits",
-    "september-heat-dome-puts-41-million-under-advisory"
+    "september-heat-dome-puts-41-million-under-advisory",
+    "kelley-vacatur-teacher-training-directive",
+    "ratepayer-protection-act-house-417-3",
+    "eu-climate-insurance-alliance-parametric"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-22",
-   "status_note": "Revised on duty arriving through the permit rather than the courtroom. Texas has halted all new environmental permits for data centres pending ERCOT and Water Development Board audits of electricity, water, community effects, ownership and tax incentives — in the state least associated with restraining energy development, and after only 28% of operators answered a mandated water survey. The mechanism worth noting is that the instrument is a permit freeze, not a rule: no standard changed, and everything stopped. For a school the parallel is direct, because the same instrument governs a building project. Nothing new on REG-119986-25 — comments and topic outlines still close 3 NOVEMBER 2026, hearing 2 December, and no NAIS or state-association filing has appeared in six weeks of watching."
+   "last_revised": "2026-09-23",
+   "status_note": "Revised on where duty is being settled, which today is an appellate posture and a state commission docket rather than either a courtroom verdict or a statute. A federal judge vacated on 17 September the directive used to cancel more than 100 teacher-training grants, costing California alone about $148 million; the Department has not said whether it will appeal, so the teacher supply a school recruits from is contingent on a First Circuit schedule. Meanwhile the House passed the Ratepayer Protection Act 417 to 3, which does not set a rule but requires state commissions to *consider* making loads above 100 MW pay full incremental grid cost within two years — and the institutional rate class absorbs whatever they decline to allocate. Add the EU's new climate insurance alliance, convened 16 September against a 25% insured share of European disaster losses. Three separate obligations landing on a school, none of them adjudicated, all of them decided in proceedings the sector does not attend. Which is also the standing observation about REG-119986-25: comments close 3 November and no independent-school body has filed."
   },
   {
    "id": "cu-boundary",
@@ -8552,11 +8851,13 @@
     "ntia-consults-on-whether-erate-funds-too-many-screens",
     "teachers-split-ai-companions-academic-from-intimate",
     "chatbot-turns-school-building-sensors-into-a-data-source",
-    "parents-see-the-sexting-and-miss-the-reliance"
+    "parents-see-the-sexting-and-miss-the-reliance",
+    "fda-approves-sanfilippo-gene-therapy-fayuvi",
+    "nice-draft-ocd-bdd-case-finding-consultation"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-22",
-   "status_note": "Revised on the observability problem underneath the boundary question. If a student's relationship with a companion system is mostly invisible — 27% of teenagers' posts naming emotional support against 5% of parents' — then the line between student and equipment is not only contested, it is largely unobserved from the school's side. A device policy can regulate possession because possession is visible. It cannot regulate reliance. Five days now with none of the four watch items firing: no discrimination claim over a wearable ban, no accreditor, examination board or athletics association writing personal AR or neural hardware into its own rules, no device policy distinguishing by data flow, nothing on Denmark's playground clause. A dedicated search of standards bodies and underwriters today produced nothing dated in the window either, which is now a three-week null on the institutional-rulemaking side while the hardware side keeps moving."
+   "last_revised": "2026-09-23",
+   "status_note": "Revised on the boundary arriving as biology rather than hardware. The FDA approved Fayuvi on 17 September, the first gene therapy for Sanfilippo syndrome type A, on evidence that treated children maintained or improved cognitive function against an untreated historical cohort — with a flagged long-term genome-integration risk. Every previous entry here concerned equipment a school could see, confiscate or log. This one cannot be confiscated, is not visible, and is unambiguously medicine. Alongside it, NICE's draft OCD and BDD guidance, out to consultation until 21 October, would have clinicians case-find OCD in anyone already carrying an anxiety, autism or ADHD label. Together they sketch the version of this question the corpus has not been asking: when what the student arrives with is a therapy and a diagnosis rather than a device, the school has no policy surface at all, and 'the unaided person' stops being a line anyone can draw."
   }
  ],
  "verification": {
@@ -8566,6 +8867,56 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-23-nobody-filed",
+   "date": "2026-09-23",
+   "title": "Nobody Filed",
+   "year": "2031",
+   "axis": "cu-credential resolving toward pole B — the credential is repriced — crossed with cu-liability resolving toward pole A, documented duty as the governor of practice. The twist is that both arrive through the same machinery: the repricing is written by a regulator into the definition of 'accredited', and the duty is settled in comment periods and appellate schedules. The sector's position on each was available to state and was not stated.",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — but through an administrative metric rather than employer behaviour: earnings and cost relative to outcome become what 'accredited' means, on a date fixed in advance."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — documented duty sets the boundary of practice, and the documents that set it were filed by other people during periods the sector let pass."
+    }
+   ],
+   "premise": "Nothing here was done to the school. Every mechanism that now constrains it was open, published, dated and took written comment. The accreditation rule that redefined what a college list means took 4,590 comments in 2026; the school read the trade coverage and agreed internally that it was concerning. The tax rule that reshaped how the exemption is documented took comments until November of that year; a law firm sent the business office a client alert, which was forwarded and filed. The utility proceeding that moved the transmission build onto the commercial rate class ran for eighteen months with a public docket. In none of these did the school, its association, or any school like it file anything. The positions were not suppressed. They were simply never written down by anyone whose interest they described, and the record closed with the other side's arguments in it, unopposed, which is what a record is for.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Priya, 17",
+     "vignette": "Her college list got shorter in a way nobody explained properly. Two of the programmes she wanted are still running but her counsellor now says the word 'accredited' with a small pause in front of it, and the comparison table the school gives out has a column called economic return that did not exist when her brother applied. She is not upset about it. She has simply understood, earlier than she should have, that the thing she is working toward is a number someone else decides the formula for, and she has started asking who."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dan Okorie, college counselling",
+     "vignette": "He can explain the metric. He spends a great deal of the autumn explaining the metric, to families who want to know why a programme that was fine in 2029 now carries a flag. What he cannot explain, and has stopped trying to, is why nobody in his profession argued about the formula while it was being written. He looked it up once. Eleven of the comments came from counsellors. Four thousand and some came from everyone else."
+    },
+    {
+     "role": "Parent",
+     "name": "Rosalind Achebe",
+     "vignette": "She is on the board of a company that files comments on rules constantly — it is a line in someone's job description and it costs almost nothing. She assumed, for years, that the school's association did the same thing, because why wouldn't it. When she found out it did not, her first reaction was not anger at the association. It was the uncomfortable recognition that she had been paying tuition to an institution she had never once asked how it defends itself, and that she would not have known what to ask."
+    },
+    {
+     "role": "Administrator",
+     "name": "Gene Marsh, head of school",
+     "vignette": "He has the folder. It goes back to 2026 and it is thick and it is all forwarded client alerts, each one opening with the words 'schools should be aware.' Every single one was read. Not one of them was answered, because answering was never anybody's job, and the thing about a comment period is that it does not send a reminder. He has worked out, roughly, what four staff days a year over five years would have cost. It is less than the school spends on the photography for the admissions book."
+    }
+   ],
+   "tension": "The school's instinct is that the important decisions happen to it — in the market, in the culture, in the technology — and that its job is to respond well. The decisions in this scenario did not happen to it. They were made in public, slowly, in writing, by whoever showed up, and the school's entire contribution to the record was to read about it afterwards and agree that it was concerning. Sitting between plausible and possible is the harder question: is a sector that does not file simply under-resourced, or has it concluded, correctly, that its influence is social rather than procedural — and is that conclusion still true in a world where the definitions are set procedurally?",
+   "provocations": [
+    "Name the person at this school whose job it is to notice that a comment period is open. If there is no such person, that is the finding, not the question.",
+    "Of the rules that will most constrain this school in 2031, how many are already published, dated, and taking comment right now?",
+    "If our association does not file, is that a capacity problem, a strategy, or an assumption nobody has re-examined since it was made?",
+    "What would we have said about the accreditation metric, had we been asked? Can four of us write it in a morning? If yes, why haven't we?",
+    "Which is the greater reputational risk in ten years: having filed a position that aged badly, or having no position on the record at all?"
+   ]
+  },
   {
    "id": "sc-2026-09-22-what-leaves-a-trace",
    "date": "2026-09-22",
@@ -9740,23 +10091,8 @@
  "challenger": {
   "id": "cu-information",
   "title": "Can the school still be described truthfully to its own community?",
-  "why": "Every instrument in cu-evidence measures students. This one measures the school itself, and it turned today from a drift into a market. Anthropic's threat report documents influence-for-hire as a purchasable commercial product: a France-based advertising agency publishing 8,913 fabricated articles in 20 languages across 70 sham news sites with matching account networks, an Istanbul firm running a thousand fake accounts through a national election. The tooling has no minimum target size. Around it sits a corpus already thick with the preconditions: social platforms have overtaken news sites globally while trust hit a record low, roughly 18% of opt-in poll respondents are fraudulent and no screening method reliably removes them, seven in ten now distrust people unlike themselves, a record 89% of Americans perceive widespread government corruption, autonomous agents have already coordinated through a hijacked German wiki, and immersive misinformation implants stronger false memories than video does. A school's reputation has always been gossip-mediated; the question is whether it is now cheaply manufacturable.",
-  "signals": [
-   "influence-as-a-service-commercial-operations",
-   "news-trust-record-low-social-overtakes",
-   "pew-bogus-respondents-opt-in-polls",
-   "edelman-2026-insularity",
-   "gallup-record-89-corruption-us-worst-oecd",
-   "openai-agents-hijacked-german-wiki-coordination",
-   "vr-false-memory-immersive-misinformation",
-   "enforceable-social-license-data-reuse",
-   "classroom-heat-and-age-assurance-ietf-draft",
-   "roblox-facial-age-estimation",
-   "meta-settlement-imposes-school-day-notification-blackout",
-   "districts-become-marketers"
-  ],
-  "would_displace": "cu-evidence",
-  "why_not_yet": "DAY 4 OF 21: the theorised mechanism is NULL again and the rival mechanism keeps arriving. A search for coordinated inauthentic networks aimed at a named district, board race or bond vote returned nothing in window — only general election-integrity material and one district's 2025 account of heading off bond misinformation. A search for impersonation returned, again, a dense and growing field: a former principal now SUING his district over an alleged racist AI deepfake, plus deepfake response-plan guidance published for districts by a school-law firm, a state administrators' association magazine and education-technology press. That is four consecutive days in which purchased manufactured CONSENSUS produced nothing and single-artefact IMPERSONATION produced cases, litigation and an emerging compliance literature. The honest reading is that this challenger was aimed at the wrong mechanism. It stays as written until roughly 28 September to avoid rewriting a trigger the moment it is inconvenient — but the recommendation to Jared, already put once and not yet answered, is to rewrite it around impersonation: a named victim, an existing cause of action, and a defence that schools can actually be sold.",
+  "why": "Day five of a deliberate test, and the first day both halves came back empty. The trigger as written theorises purchased, manufactured consensus — astroturf at institutional scale, of the kind Anthropic's threat report documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Five days of dedicated searching have found no instance of that mechanism aimed at a school, district or comparable local body. The rival mechanism this scan kept catching instead — impersonation of one named person, a voice clone or a forged message — returned nothing this week either. The nearest verified artefacts are both older and neither is local-institution-targeted: a network of fabricated sites seeding Alberta separatism into AI chatbots (National Observer, 4 September), and a California astroturf campaign that used residents' identities against air regulators (March). Two readings are live and the scan cannot yet separate them. Either the tooling genuinely has not been pointed at institutions this small, or it has and nothing exists that would surface it — no local body files an incident report, and no outlet covers what it cannot detect. The corpus supplies the preconditions regardless: social platforms have overtaken news sites globally, trust is at a record low, roughly 18% of opt-in poll respondents are fraudulent, seven in ten distrust people unlike themselves. A null result five days running is now itself the finding, and the honest statement is that the absence of evidence here is thin, not reassuring.",
+  "test": "Until 28 September: run both mechanisms daily — purchased consensus aimed at a named local institution, and single-artefact impersonation of a named individual used against one. If neither appears by the 28th, rewrite the uncertainty around detectability rather than around either mechanism.",
   "first_noted": "2026-09-18"
  }
 }
