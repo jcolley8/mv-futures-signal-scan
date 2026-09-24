@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-23",
- "scan_count": 25,
+ "last_updated": "2026-09-24",
+ "scan_count": 26,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -540,7 +540,7 @@
    "source_type": "report",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 7,
+   "sightings": 8,
    "revised_on": [
     "2026-09-09"
    ]
@@ -742,7 +742,7 @@
    "source_type": "data",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1102,7 +1102,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "eight-country-youth-loneliness",
@@ -1553,7 +1553,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 5
+   "sightings": 6
   },
   {
    "id": "roblox-facial-age-estimation",
@@ -2397,7 +2397,7 @@
    "source_date": "2026-08-24",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 1,
+   "sightings": 2,
    "revised_on": [
     "2026-09-09"
    ]
@@ -2522,7 +2522,7 @@
    "source_date": "2026-08-20",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09"
    ]
@@ -5576,7 +5576,7 @@
    "source_date": "2026-07-06",
    "source_type": "filing",
    "first_seen": "2026-09-10",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "maryland-contract-purpose-workers-comp-athletes",
@@ -7975,7 +7975,7 @@
    "source_date": "2026-09-11",
    "source_type": "news",
    "first_seen": "2026-09-22",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ice-detention-holds-above-66000-a-day",
@@ -8504,6 +8504,293 @@
    "source_type": "news",
    "first_seen": "2026-09-23",
    "sightings": 1
+  },
+  {
+   "id": "payrolls-grew-in-eight-states-over-the-year",
+   "title": "Payrolls grew in just eight states over the year, with 42 essentially unchanged",
+   "type": "signal",
+   "summary": "The Bureau of Labor Statistics' State Employment and Unemployment release, published 18 September 2026, reports that over the year to August 2026 nonfarm payroll employment increased in 8 states, decreased in the District of Columbia, and was essentially unchanged in 42 states. Month over month it rose in only 4 states and was essentially unchanged in 46 states and DC. The national unemployment rate was 4.1%, unchanged over the month and little changed from August 2025; state rates ran from 2.0% in South Dakota to 5.7% in the District of Columbia.",
+   "so_what": "The hiring stall is now geographically near-universal rather than concentrated in tech- or federal-heavy states, so a head cannot assume the local economy is the exception when setting next year's tuition increase. Expect financial-aid appeals framed as no raise and no promotion rather than job loss, and expect staff vacancies to draw applicants who are stuck rather than seeking.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "U.S. Bureau of Labor Statistics",
+   "source_url": "https://www.bls.gov/news.release/archives/laus_09182026.htm",
+   "source_date": "2026-09-18",
+   "source_type": "data",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "housing-affordability-index-68-twenty-one-year-low",
+   "title": "A Fed governor puts housing affordability at 68, the lowest in twenty-one years",
+   "type": "driver",
+   "summary": "In a speech on 23 September 2026 to the Chicago Fed's housing affordability summit, Federal Reserve Governor Michael Barr said the housing affordability index had fallen to 68 in July 2026, the lowest in 21 years and well below the threshold of 100. He said that between 2000 and 2024 real median household income rose roughly 17% while real US house prices rose about 70%, that around half of all renters are cost burdened at 30% or more of income and about a quarter pay at least half, and that in August 2026 the CPI for rent of primary residence stood 34% above December 2019.",
+   "so_what": "Shelter is the household line that competes most directly with tuition, and a family absorbing a 34% rent increase since 2019 against roughly flat real income will read next year's tuition letter as a housing decision. The same index governs whether early-career teachers can live near the school, which becomes the binding constraint on the salary scale well before it shows up as a recruiting problem.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Board, Governor Michael S. Barr",
+   "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
+   "source_date": "2026-09-23",
+   "source_type": "report",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "private-assets-move-toward-401k-default-menus",
+   "title": "Private-market assets move toward 401(k) default menus as Labor weighs a safe harbour",
+   "type": "signal",
+   "summary": "Fortune reported on 18 September 2026 on the Labor Department's proposed safe harbour, first issued in March 2026, for 401(k) fiduciaries evaluating private-market investments. The rule sets six factors a fiduciary must consider and document — risk-adjusted performance, fees, liquidity, valuation, benchmarks and complexity — drew more than 46,000 public comments and is not yet final. Modelling from Georgetown's Center for Retirement Initiatives cited in the piece projects that a 15-20% allocation to alternatives could raise retirement income by 6-8% net of fees (2022), with a 2025 report finding a 7-8% improvement across five modelled worker profiles. Those are projections from modelling, not measured outcomes.",
+   "so_what": "If finalised, private equity and private credit start appearing inside the default target-date funds that hold most of your faculty's retirement savings and most parents', moving household wealth into illiquid, infrequently-valued assets. The committee that picks the school's retirement menu will have to defend that choice to employees, and a family's capacity to pay becomes harder to read from anything visible on a tax return.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "P-Political"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "Fortune",
+   "source_url": "https://fortune.com/2026/09/18/dol-rule-private-market-assets-401k/",
+   "source_date": "2026-09-18",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "atlas-metaplant-output-is-training-data",
+   "title": "Boston Dynamics opens a Georgia centre whose output is training data, not parts",
+   "type": "signal",
+   "summary": "The Robot Report reported on 21 September 2026 that Boston Dynamics has opened the Robotics Metaplant Application Center at Hyundai Motor Group Metaplant America near Savannah, Georgia, described as a testbed and training centre — Atlas robots there are learning to sequence automotive parts rather than doing production work. Atlas is trained from teleoperation, reinforcement learning in simulation and Universal Manipulation Interface devices, and Boston Dynamics expects to scale data collection through 2027 and to expand to component assembly by 2030. Hyundai says it will deploy beginning with 25,000 units across its global plants over the next few years and build a US factory able to make up to 30,000 robots annually by 2028; those are company targets, not shipments.",
+   "so_what": "The facility's product is behaviour data, which means the first wave of humanoid-adjacent jobs in a US manufacturing town is teleoperating and demonstrating tasks to a robot — work that needs judgement and physical literacy but no engineering degree. A school advising families near any auto plant should say plainly that a manufacturing career now splits three ways: people replaced, people supervising fleets, and people teaching robots.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/boston-dynamics-opens-metaplant-application-center-train-atlas-humanoid-robots/",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "meta-prices-tethered-vr-glasses-at-1300",
+   "title": "Meta prices 100-gram tethered VR glasses at $1,300 for spring 2027",
+   "type": "signal",
+   "summary": "At Meta Connect on 23 September 2026 the company announced Meta VR Glasses, reported by Engadget the same day: $1,300, shipping spring 2027. The glasses weigh 100 grams with a separate 300-gram compute puck on a tether, run a 5K micro-OLED display at 2,412 by 2,288 per eye and 120Hz, and offer a 70-degree horizontal field of view against the Apple Vision Pro's 100 degrees. Engadget puts the Vision Pro's headset at 1.3 to 1.7 pounds and its current price at $3,700. This is a product announcement with a price and a ship window, not a concept demo.",
+   "so_what": "The visual cue that school device policy quietly depends on — that a VR headset looks like a headset — is being engineered away at roughly a third of the Vision Pro's price, on a date before the 2027-28 school year. Any rule written around headsets needs rewriting around eyewear, and the accommodation case will arrive at the same time as the integrity case.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Engadget",
+   "source_url": "https://www.engadget.com/2267218/meta-vr-glasses-price-specs-apple-vision-pro-comparison/",
+   "source_date": "2026-09-23",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "eu-kids-act-pulls-games-inside-the-age-gate",
+   "title": "The EU's proposed KIDS Act pulls games and chatbots inside a hard under-13 age gate",
+   "type": "driver",
+   "summary": "Euronews reported on 22 September 2026 on the European Commission's KIDS Act proposal, which would bar under-13s from personal social media accounts and allow parent-managed mini accounts for 13-to-15-year-olds with screen time limited to one hour a day. Its scope explicitly names video games, app stores, video-sharing services and AI companions and chatbots alongside social media. It would ban endless autoplay, infinite scrolling, rewards for posting and recommender systems based on behavioural profiling, and bar real-time location tracking or microphone and camera activation without consent. Age checks must run through the EU Age Verification App, the European Digital Identity Wallet or approved third-party systems that do not retain identity documents; fines reach 6% of worldwide annual turnover. This is a proposal — Parliament and Council must still negotiate the text.",
+   "so_what": "If this survives trilogue, age assurance stops being a social-media story and becomes a gaming and chatbot story, which means the platforms students actually spend evenings inside will start demanding verified age from families. The mechanism matters more than the rule: age is verified by a state identity wallet, so the school will be asked to arbitrate disputes about a credential it does not issue and cannot check.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Euronews",
+   "source_url": "https://www.euronews.com/my-europe/2026/09/22/eu-kids-act-the-eus-plan-to-make-the-internet-safer-for-kids",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "lutetium-clocks-agree-at-the-nineteenth-digit",
+   "title": "Two lutetium-ion clocks agree at the nineteenth digit and put the second up for redefinition",
+   "type": "signal",
+   "summary": "The National University of Singapore announced on 23 September 2026 that Murray Barrett's group has built two independent single-ion lutetium-176 optical clocks, each with a measured fractional frequency uncertainty near 1 x 10^-19, the lowest reported for any optical atomic clock, which agreed with one another to 5.7 x 10^-19 — the most precise clock comparison yet made. The result is a peer-reviewed paper published in Nature the same day. NUS notes that the international body responsible for time standards is weighing data from clocks of this kind toward a redefinition of the second expected in or after 2030.",
+   "so_what": "The connection to a school is long and nothing here changes next term, but the SI second is the one definition every timestamp, GPS fix, exam clock and network log in the building silently inherits, and it now has a redefinition date attached. Worth knowing that the most boring constant in the school's infrastructure is being quietly re-specified on a decade clock.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "National University of Singapore, on a paper in Nature",
+   "source_url": "https://news.nus.edu.sg/worlds-most-accurate-atomic-clock/",
+   "source_date": "2026-09-23",
+   "source_type": "study",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "canada-adds-fewest-people-since-1944",
+   "title": "Canada added 189,425 people in a year, the smallest gain since 1944-45",
+   "type": "signal",
+   "summary": "Statistics Canada's quarterly estimates, released 23 September 2026 and reported the same day by the Financial Post, put Canada's population at roughly 41.8 million on 1 July 2026 — an increase of 189,425 over the year at a growth rate of 0.5%, the smallest annual gain since 1944-45, when 126,000 were added. Non-permanent residents fell by 154,614 to 2.77 million, or 6.7% of the population, with study permit holders down 140,827. The agency revised its earlier estimate of a roughly 55,000-person decline between January and April 2026 to an increase of about 1,300, and attributes the swings since 2020 to international migration. Median age is now 40.9 years.",
+   "so_what": "Canada has been both a competitor destination and a staging post for the globally mobile families independent schools recruit, and it is now shedding temporary residents faster than at any point in the comparable record — expect Canadian schools to compete harder in the same Asian markets and fewer Canada-routed relocations into your applicant pool. It also narrows a hiring option, since teaching staff who would have moved north are more likely to stay in the US market.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Financial Post, on Statistics Canada estimates",
+   "source_url": "https://ca.finance.yahoo.com/news/canadas-population-growth-rate-slows-155436746.html",
+   "source_date": "2026-09-23",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "australia-bars-most-student-dependants",
+   "title": "Australia moves to bar most student dependants while holding a 295,000 intake target",
+   "type": "driver",
+   "summary": "The PIE News reported on 23 September 2026 that Home Affairs Minister Tony Burke has announced measures barring the families of most international students from accompanying them, with exceptions for PhD candidates, Pacific and ASEAN nationals and government-sponsored scholars, alongside a requirement to apply for a new visa when changing provider or course and a rule permitting only upward movement on the qualification scale. The student National Planning Level stays at 295,000 for 2027 while net overseas migration targets step down to 245,000 in 2026/27 and 225,000 in 2027/28; the government says net overseas migration has already fallen 47% from its post-Covid peak. The measures are announced but not in force, with no confirmed start date.",
+   "so_what": "A household that was going to move to Australia as a student-plus-dependants unit now has to pick a country that will admit the whole family, which quietly redirects a slice of globally mobile fee-paying parents toward US, UK and Canadian schooling — watch for it in inquiry traffic from India, Nepal and Bangladesh. It also closes a staff-mobility route, since an Australian-based teacher's family is now part of the calculation.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "The PIE News",
+   "source_url": "https://thepienews.com/australia-squeezes-dependants-as-wider-student-migration-questions-emerge/",
+   "source_date": "2026-09-23",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "climate-displacement-becomes-a-statehood-question",
+   "title": "UN member states begin treating permanent climate displacement as a statehood question",
+   "type": "trend",
+   "summary": "UN News reported on 22 September 2026, ahead of the General Assembly's high-level meeting on sea-level rise convened for 24 September, that Tuvalu, Kiribati and the Marshall Islands sit roughly 2 metres above sea level against projected rise of at least 0.5 metres and, on pessimistic projections, up to 2 metres by 2100. Under the 2023 Falepili Union Treaty, Australia recognises Tuvalu's continuing statehood notwithstanding sea-level rise and created a dedicated visa pathway; UN News reports that 90% of Tuvalu's population applied in the first ballot round for 280 visas. The General Assembly President's concept note places around 900 million people, roughly one in ten globally, in low-elevation coastal zones, approaching 1 billion by 2050, with global mean sea-level rise having doubled from 2.1 mm a year in 1993-2002 to 4.7 mm a year in 2015-2024.",
+   "so_what": "Climate mobility is being built as a treaty category with named countries, quotas and ballots rather than as ad hoc humanitarian response, which over a decade changes which nationalities and which family circumstances appear in international applicant pools. A head planning 2030s enrolment and financial aid should start treating coastal-diaspora families as a real recruitment and support category rather than a rhetorical one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "UN News",
+   "source_url": "https://news.un.org/en/story/2026/09/1168398",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "fema-map-revisions-start-a-45-day-clock",
+   "title": "Revised FEMA flood maps start a 45-day insurance clock in 100-plus communities",
+   "type": "signal",
+   "summary": "Insurance Journal reported on 21 September 2026 that FEMA's revised Flood Insurance Rate Maps move properties in more than 100 communities across 12 states into the Special Flood Hazard Area. An analysis by Cotality names the five communities with the most properties newly mapped in: Escambia County, Florida (2,344), Pender County, North Carolina (678), Chattanooga, Tennessee (635), Ithaca, New York (428) and Methuen, Massachusetts (428). Owners with federally backed mortgages have 45 days to secure flood insurance or face disruptions; Cotality notes that for 10% of FHA borrowers, escrow payments covering taxes and hazard insurance already exceed principal and interest.",
+   "so_what": "A business officer should pull the new panels for every campus parcel, athletic field, bus depot and faculty-housing property, because a newly mandated NFIP policy plus a repriced property deductible can land inside a single budget cycle. Any capital project on a newly in-zone parcel also inherits the local floodplain ordinance's elevation and floodproofing requirements, which changes the cost basis on a building already out to bid.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal, on a Cotality analysis",
+   "source_url": "https://www.insurancejournal.com/news/national/2026/09/21/886098.htm",
+   "source_date": "2026-09-21",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "doe-keeps-indiana-coal-online-after-a-court-loss",
+   "title": "DOE orders three Indiana coal units to stay online through December after a court loss",
+   "type": "driver",
+   "summary": "The Department of Energy announced on 19 September 2026 that it had issued Federal Power Act section 202(c) emergency orders keeping three Indiana coal units available from 20 September through 18 December 2026: NIPSCO's R.M. Schahfer units 17 and 18 in Jasper County and CenterPoint's roughly 103 MW F.B. Culley unit 2 in Warrick County. Indiana Public Media reported on 22 September that the orders followed the D.C. Circuit's 11 September ruling vacating a comparable DOE order for Consumers Energy's J.H. Campbell plant in Michigan, on the ground that DOE's reasons did not establish an emergency under section 202(c); that ruling did not vacate the Indiana orders. NIPSCO filed with FERC in August seeking roughly $38 million for January to March 2026 alone. CenterPoint says there are no direct bill impacts at present and is preparing recovery requests at FERC and the Indiana URC.",
+   "so_what": "For a school in the MISO or PJM footprint these costs arrive as FERC-approved recovery riders rather than as a visible state rate case, so an FY27 and FY28 electricity budget needs a contingency line that no state commission hearing will forewarn you about. It also weakens the planning assumption that announced coal retirements will clear the grid on schedule, which matters if you have priced a power-purchase agreement or an electrification retrofit against a falling grid emissions factor.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Indiana Public Media, on DOE section 202(c) orders",
+   "source_url": "https://www.ipm.org/news/2026-09-22/indiana-coal-retirements-delayed-again-as-utilities-seek-to-recover-costs",
+   "source_date": "2026-09-22",
+   "source_type": "news",
+   "first_seen": "2026-09-24",
+   "sightings": 1
+  },
+  {
+   "id": "carbon-removal-support-turns-on-fairness",
+   "title": "Public backing for carbon removal turns on fairness, not technical performance",
+   "type": "signal",
+   "summary": "Nature Climate Change published a study on 24 September 2026 running vignette experiments with 10,852 nationally representative respondents in Brazil, Malaysia, Saudi Arabia, Italy, Norway and the United Kingdom, producing 54,260 evaluations of direct air carbon capture and storage, bioenergy with carbon capture, and enhanced rock weathering. Consulting local communities or scientific experts raised support by roughly 1.0 to 1.7 points on a 1-10 scale, and redistributing project revenue to local communities raised it by roughly 0.5 to 1.25 points. Around 44% of UK and Italian respondents and 43% of Norwegians named a local community vote as the fairest arrangement, and respondents showed an unwillingness to trade fairness considerations for technical performance.",
+   "so_what": "If the school buys engineered removals against a net-zero pledge, or holds carbon-removal exposure in the endowment, the durable-quality question is becoming a consent question — who was consulted, who was paid — and a project that scores well on tonnes can still be stranded by local opposition. The six-country design also makes this an unusually clean primary source for an upper-school unit on how climate technology actually gets sited.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Nature Climate Change",
+   "source_url": "https://www.nature.com/articles/s41558-026-02741-7",
+   "source_date": "2026-09-24",
+   "source_type": "journal",
+   "first_seen": "2026-09-24",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -8560,11 +8847,12 @@
     "generated-worlds-hold-rules-instead-of-drifting",
     "parents-see-the-sexting-and-miss-the-reliance",
     "millennium-claim-lands-below-the-physics",
-    "newspaper-runs-its-own-ai-essay-experiment"
+    "newspaper-runs-its-own-ai-essay-experiment",
+    "atlas-metaplant-output-is-training-data"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-23",
-   "status_note": "Two items, and neither is a study. Nature reports that OpenAI claimed a Millennium Prize Problem solved, and that an applied mathematician at Brown calculated the claimed singularity appears at a vortex around 70 nanometres wide — the scale at which the assumption that a fluid is continuous stops holding. No peer review is reported. Separately, a Korean national newspaper ran its own thirty-minute essay experiment and published the scores: AI users better on expression, 82.7 to 61.3, and worse on comprehension of their own essay, 66.9 to 82.9, with more than half unable to recall their final sentence. No sample size was published. What both items measure is the evidence environment rather than the capability: the claims arriving fastest about what AI does to and for thinking are now being made by labs and by newspapers, and arrive complete with numbers, months ahead of anyone qualified checking them. That is a condition this uncertainty has to survive, not a finding it can use.",
+   "last_revised": "2026-09-24",
+   "status_note": "A thin day, and the one relevant item is about humans rather than models. Boston Dynamics has opened a centre at Hyundai's Georgia plant whose output is explicitly training data: Atlas robots learning to sequence parts from teleoperation, simulation and hand-held demonstration devices, scaling collection through 2027. The capability being built there is transferred from people, by people, deliberately — which is the cleanest available instance of the amplification pole running in the other direction. Someone's physical judgement is the input, and once transferred it is no longer scarce. This uncertainty has spent six weeks asking what AI does to the person using it. The Georgia facility asks a different question the corpus should start carrying: what happens to a skill after it has been demonstrated to something that does not forget.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -8653,11 +8941,12 @@
     "informant-specific-genetics-of-social-behaviour",
     "childhood-generalization-strategy-switch",
     "pm25-erodes-high-skilled-cognitive-output",
-    "newspaper-runs-its-own-ai-essay-experiment"
+    "newspaper-runs-its-own-ai-essay-experiment",
+    "private-assets-move-toward-401k-default-menus"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-23",
-   "status_note": "Revised on two findings that attack the instrument rather than the measurement. A genome-wide meta-regression in Nature Human Behaviour, 73,321 individuals across 25 cohorts and roughly 500,000 repeated observations, found that the genetic correlates of social behaviour vary systematically by who is doing the rating — parent, teacher or the young person — and by developmental stage. Parent-rated and teacher-rated social functioning are not two readings of one child. A second paper in Scientific Reports gave 84 children four generalization tasks and found the inter-task correlations inconclusive, with four- and six-year-olds solving transitive problems by reinforcement learning while eight-year-olds used explicit pair memory: transfer is not one capacity a single task can screen for. Both cut the same way as the term's earlier items, but one layer deeper — it is no longer only that a school's instruments may be invalid, it is that some of them are measuring the reporter and the task as much as the student. Against that, a causal estimate worth having: a 1 microgram rise in PM2.5 costs 0.23% of publication output across 2.5 million observations, an exposure a school controls and does not measure."
+   "last_revised": "2026-09-24",
+   "status_note": "One addition, from an unexpected direction — a school's read on its own families. The Labor Department's proposed safe harbour for private-market investments in 401(k) plans drew more than 46,000 comments and is awaiting a final rule; if it lands, private equity and private credit begin appearing inside the default target-date funds most households hold. Illiquid, infrequently-valued assets do not show up cleanly on anything a financial-aid office reads. This uncertainty has concentrated on instruments that measure students. The instruments that measure a family's capacity to pay are quietly degrading too, and nobody in the building will notice because the form will look exactly the same."
   },
   {
    "id": "cu-credential",
@@ -8715,11 +9004,15 @@
     "consumer-sentiment-falls-to-47-8",
     "single-cycle-gates-promise-thousandfold-quantum-speedup",
     "vietnam-higher-education-strategy-2035",
-    "accreditation-marketplace-opened-to-new-entrants"
+    "accreditation-marketplace-opened-to-new-entrants",
+    "payrolls-grew-in-eight-states-over-the-year",
+    "housing-affordability-index-68-twenty-one-year-low",
+    "canada-adds-fewest-people-since-1944",
+    "australia-bars-most-student-dependants"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-23",
-   "status_note": "Revised on the clearest instance yet that the repricing may not come from the market at all. The comment period on the Education Department's 354-page accreditation rewrite closed on 21 September with more than 4,590 comments, a final rule expected by 1 November 2026 and an effective date of 1 July 2027. From that date an accreditor must judge a college on licensure results, retention, completion, employment outcomes and economic return relative to cost, and new accreditors get a faster path in. This uncertainty was framed as employers versus transcripts. What is actually arriving is a regulator writing the earnings test into the definition of 'accredited' — pole B's outcome reached through pole A's machinery, on a date already fixed. Further out, Vietnam's 2026-2035 higher education strategy, signed 18 September, targets 45% enrolment of 18-to-22-year-olds and ten institutions in Asia's top 200 by 2035; targets like that are routinely missed, but a credible domestic alternative in a major sending country is a demand-side fact for anyone planning international enrolment."
+   "last_revised": "2026-09-24",
+   "status_note": "Revised on the demand side and the household side at once, and both readings point the same way. Payrolls grew in only 8 states over the year to August with 42 essentially unchanged, which makes the hiring stall geographic rather than sectoral — no local economy is the exception. Against that, a Federal Reserve governor put housing affordability at 68 in July, the lowest in 21 years, with rent 34% above December 2019 while real incomes rose 17% across a quarter-century in which real house prices rose 70%. The premium this uncertainty asks about is not being argued down in the abstract; it is being competed with by shelter, in the same household budget, in the same month. Internationally, Canada added 189,425 people in a year, the smallest gain since 1944-45, and Australia moved to bar most student dependants while holding a 295,000 student target — two of the three alternative destinations narrowing at once."
   },
   {
    "id": "cu-liability",
@@ -8786,11 +9079,13 @@
     "september-heat-dome-puts-41-million-under-advisory",
     "kelley-vacatur-teacher-training-directive",
     "ratepayer-protection-act-house-417-3",
-    "eu-climate-insurance-alliance-parametric"
+    "eu-climate-insurance-alliance-parametric",
+    "fema-map-revisions-start-a-45-day-clock",
+    "doe-keeps-indiana-coal-online-after-a-court-loss"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-23",
-   "status_note": "Revised on where duty is being settled, which today is an appellate posture and a state commission docket rather than either a courtroom verdict or a statute. A federal judge vacated on 17 September the directive used to cancel more than 100 teacher-training grants, costing California alone about $148 million; the Department has not said whether it will appeal, so the teacher supply a school recruits from is contingent on a First Circuit schedule. Meanwhile the House passed the Ratepayer Protection Act 417 to 3, which does not set a rule but requires state commissions to *consider* making loads above 100 MW pay full incremental grid cost within two years — and the institutional rate class absorbs whatever they decline to allocate. Add the EU's new climate insurance alliance, convened 16 September against a 25% insured share of European disaster losses. Three separate obligations landing on a school, none of them adjudicated, all of them decided in proceedings the sector does not attend. Which is also the standing observation about REG-119986-25: comments close 3 November and no independent-school body has filed."
+   "last_revised": "2026-09-24",
+   "status_note": "Revised on two obligations that arrive with clocks already running and neither through a courtroom. FEMA's revised flood maps move properties in more than 100 communities across 12 states into the Special Flood Hazard Area, and an owner with a federally backed mortgage has 45 days to secure cover — a duty that attaches to a parcel, not to conduct. Separately the Department of Energy ordered three Indiana coal units to stay available through 18 December under section 202(c), a week after the D.C. Circuit vacated a comparable order for a Michigan plant on the ground that DOE had not established an emergency; the costs return as FERC recovery riders rather than through any state rate case a school could attend. Both fit the pattern the corpus keeps recording: the duty is real, the clock is short, and the proceeding that set it is one the institution had no practical way to join. That remains the standing observation on REG-119986-25, where comments close 3 November and no independent-school body has filed."
   },
   {
    "id": "cu-boundary",
@@ -8853,11 +9148,13 @@
     "chatbot-turns-school-building-sensors-into-a-data-source",
     "parents-see-the-sexting-and-miss-the-reliance",
     "fda-approves-sanfilippo-gene-therapy-fayuvi",
-    "nice-draft-ocd-bdd-case-finding-consultation"
+    "nice-draft-ocd-bdd-case-finding-consultation",
+    "meta-prices-tethered-vr-glasses-at-1300",
+    "eu-kids-act-pulls-games-inside-the-age-gate"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-23",
-   "status_note": "Revised on the boundary arriving as biology rather than hardware. The FDA approved Fayuvi on 17 September, the first gene therapy for Sanfilippo syndrome type A, on evidence that treated children maintained or improved cognitive function against an untreated historical cohort — with a flagged long-term genome-integration risk. Every previous entry here concerned equipment a school could see, confiscate or log. This one cannot be confiscated, is not visible, and is unambiguously medicine. Alongside it, NICE's draft OCD and BDD guidance, out to consultation until 21 October, would have clinicians case-find OCD in anyone already carrying an anxiety, autism or ADHD label. Together they sketch the version of this question the corpus has not been asking: when what the student arrives with is a therapy and a diagnosis rather than a device, the school has no policy surface at all, and 'the unaided person' stops being a line anyone can draw."
+   "last_revised": "2026-09-24",
+   "status_note": "Revised on the day the two halves of this question arrived together. Meta priced VR glasses at $1,300 for spring 2027 — 100 grams, a tethered compute puck, a third of the Vision Pro's price — which removes the last practical basis of every device rule a school has, namely that a headset looks like a headset. On the same day the EU's KIDS Act proposal pulled video games, app stores and AI chatbots inside a hard under-13 gate with parent-managed mini accounts for 13-to-15s at one hour a day, enforced through the EU Age Verification App or the European Digital Identity Wallet. Put together, the boundary stops being about possession at all. What a student may do is determined by a credential issued by a state wallet, on hardware the school cannot identify by sight, and the school's role shrinks to adjudicating disputes about both without being able to inspect either."
   }
  ],
  "verification": {
@@ -8867,6 +9164,56 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-24-proof-of-age",
+   "date": "2026-09-24",
+   "title": "Proof of Age",
+   "year": "2032",
+   "axis": "cu-boundary resolving toward pole B — the equipped student is the student and the school governs data flows rather than possession — crossed with cu-liability resolving toward pole A, documented duty as the governor of practice. Fresh pairing. The collision is that the school is made responsible for enforcing two things it cannot inspect: what a student is wearing, and how old the system thinks they are.",
+   "based_on": [
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The equipped student is the student — possession stops being observable, the line collapses, and the school governs data flows instead of objects."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — the duty attaches to what the school documented about a credential it did not issue and could not verify."
+    }
+   ],
+   "premise": "The glasses stopped being identifiable around 2029. Not banned, not permitted — just no longer distinguishable from glasses, which is a different problem, because a rule that cannot be applied consistently is worse than no rule at all. What replaced possession was entitlement: every platform a student touches now asks a state wallet how old they are and what their guardian has allowed, and the answer comes back as a token the school never sees. On paper this solved everything. In practice it moved the entire question one step away from anyone who knows the child. The school's safeguarding duty did not move with it. When a fifteen-year-old is using an account the wallet says belongs to a nineteen-year-old cousin, the school is the only institution in the chain that can see the actual human being, and the last one with any authority to act. Its file now records what it asked, whom it asked, and what it was told — which is the entire extent of what it can control.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Tomas, 15",
+     "vignette": "His entitlement is set to fifteen, which is correct, and he finds it quietly humiliating in a way he cannot articulate to anyone. Half his year group's tokens say something else. He has never asked how, and he has noticed that not asking is itself a decision he keeps making. What bothers him is not the restriction. It is that the school treats his honesty as the absence of a problem rather than as anything at all, and he has worked out that being accurately described is the one status nobody gets credit for."
+    },
+    {
+     "role": "Teacher",
+     "name": "Iris Bhandari, head of Year 10",
+     "vignette": "She used to be able to say put it away. The sentence did work — it named a thing, it named an action, and the child either complied or did not, visibly. She has no replacement for it. She is expected to notice when a student's entitlement does not match the student, and the only instrument she has is knowing them, which is not admissible in the file and takes a term to acquire. She has started writing down hunches, because she was advised to, and she is aware the advice was about the school rather than the child."
+    },
+    {
+     "role": "Parent",
+     "name": "Wes Ferraro",
+     "vignette": "He set the wallet up when his daughter was eleven and has not looked at it since; it is one of about forty things he configured once. He believes, accurately, that he has been responsible. He would be genuinely shocked to learn that the settings he chose then now govern what she can read, buy and say, that she worked out how to route around them at thirteen, and that the school has known for a year and has recorded that it told him twice by email."
+    },
+    {
+     "role": "Administrator",
+     "name": "Delia Ofori, deputy head",
+     "vignette": "She has read the guidance and it is internally consistent and useless. The school must act on what it knows; the school may not verify a token; the school must document that it could not verify. She has a folder of incidents that are all the same incident. What she cannot get anyone to engage with is that the school is now liable for the gap between a state credential and a real child — a gap it did not create, cannot measure, and is the only party positioned to notice. She has stopped calling this a policy problem and started calling it an allocation of blame, which has not made her popular."
+    }
+   ],
+   "tension": "Every actor in this chain did the sensible thing. The regulator put age verification somewhere privacy-preserving and out of platform hands. The platform complied exactly. The parent configured it once, correctly. The student did what fifteen-year-olds have always done. And the school, which issued nothing, verified nothing and was consulted about nothing, holds the duty — because it is the only institution in the sequence that sees the child in person. The harder question is whether this is an accident of sequencing that will be corrected, or the settled shape of things: that as identity and capability both move into infrastructure, the school inherits responsibility for exactly the parts that infrastructure cannot see, and that this may be the most important thing a school does now and the one nobody has budgeted for.",
+   "provocations": [
+    "When our device rule can no longer be applied by looking, what is left of it? Write the replacement in one sentence and see whether a duty teacher could act on it.",
+    "If a student's verified age is wrong, who at this school is supposed to notice, and what are they allowed to do about it?",
+    "We are being asked to document what we could not verify. Is that a record of care, or a record built for a lawyer? Can it be both, and what does it cost us if it is?",
+    "Teacher judgement is the only instrument that detects the mismatch in this scenario, and it is not admissible anywhere. What would it take to make it admissible?",
+    "Name the thing this school does that no platform, regulator or wallet can do. If the answer is 'sees the child', what follows about where we should be spending?"
+   ]
+  },
   {
    "id": "sc-2026-09-23-nobody-filed",
    "date": "2026-09-23",
@@ -10091,8 +10438,8 @@
  "challenger": {
   "id": "cu-information",
   "title": "Can the school still be described truthfully to its own community?",
-  "why": "Day five of a deliberate test, and the first day both halves came back empty. The trigger as written theorises purchased, manufactured consensus — astroturf at institutional scale, of the kind Anthropic's threat report documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Five days of dedicated searching have found no instance of that mechanism aimed at a school, district or comparable local body. The rival mechanism this scan kept catching instead — impersonation of one named person, a voice clone or a forged message — returned nothing this week either. The nearest verified artefacts are both older and neither is local-institution-targeted: a network of fabricated sites seeding Alberta separatism into AI chatbots (National Observer, 4 September), and a California astroturf campaign that used residents' identities against air regulators (March). Two readings are live and the scan cannot yet separate them. Either the tooling genuinely has not been pointed at institutions this small, or it has and nothing exists that would surface it — no local body files an incident report, and no outlet covers what it cannot detect. The corpus supplies the preconditions regardless: social platforms have overtaken news sites globally, trust is at a record low, roughly 18% of opt-in poll respondents are fraudulent, seven in ten distrust people unlike themselves. A null result five days running is now itself the finding, and the honest statement is that the absence of evidence here is thin, not reassuring.",
-  "test": "Until 28 September: run both mechanisms daily — purchased consensus aimed at a named local institution, and single-artefact impersonation of a named individual used against one. If neither appears by the 28th, rewrite the uncertainty around detectability rather than around either mechanism.",
+  "why": "Day six, and the second consecutive double null. Neither mechanism appeared in the 18-24 September window: no purchased or manufactured consensus aimed at a named school, district or comparable small institution, and no impersonation of a single named individual used against one. What did surface is worth recording precisely because it is neither. The FBI warned on 17 September about AI-generated school threat hoaxes — but those are anonymous, impersonating nobody, and they work by being unattributable rather than by being convincingly attributed. That is a third mechanism, and it is the one that actually reaches schools. The trigger as written theorises astroturf at institutional scale, of the kind Anthropic's threat report documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Six days of searching have found that mechanism nowhere near a school. The rival this scan kept catching — impersonation of one named person — has now gone quiet too. The reading hardens: the problem is not which attack arrives but that an institution this small has no instrument that would register any of them. No local body files an incident report, no outlet covers what it cannot detect, and the hoaxes that do get reported are reported because a building was evacuated, not because anyone traced them. The corpus supplies the preconditions regardless — social platforms past news sites globally, trust at a record low, roughly 18% of opt-in poll respondents fraudulent, seven in ten distrusting people unlike themselves. Two nulls running is not reassurance; it is a measurement failure with a plausible cover story.",
+  "test": "Until 28 September: run both mechanisms daily — purchased consensus aimed at a named local institution, and single-artefact impersonation of a named individual used against one — and now also track anonymous fabricated artefacts aimed at institutions, which is what the FBI hoax warning describes. If neither of the original two appears by the 28th, rewrite the uncertainty around detectability: whether an institution this size could tell, and what it would have to install to find out.",
   "first_noted": "2026-09-18"
  }
 }
