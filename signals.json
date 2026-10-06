@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-28",
- "scan_count": 28,
+ "last_updated": "2026-09-29",
+ "scan_count": 29,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -2422,7 +2422,7 @@
    "source_date": "2026-08-27",
    "source_type": "news",
    "first_seen": "2026-08-28",
-   "sightings": 1
+   "sightings": 3
   },
   {
    "id": "ninety-percent-biomedical-papers-ai-written",
@@ -2821,7 +2821,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-08-29",
-   "sightings": 2,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -3200,7 +3200,7 @@
    "source_date": "2026-08-26",
    "source_type": "news",
    "first_seen": "2026-09-01",
-   "sightings": 5,
+   "sightings": 6,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6573,7 +6573,7 @@
    "source_date": "2026-09-02",
    "source_type": "study",
    "first_seen": "2026-09-15",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "fifty-six-rcts-say-retraining-barely-breaks-even",
@@ -6640,7 +6640,7 @@
    "source_date": "2026-09-03",
    "source_type": "data",
    "first_seen": "2026-09-15",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "bundibugyo-ebolavirus-drc-5458-cases",
@@ -7823,7 +7823,7 @@
    "source_date": "2026-09-21",
    "source_type": "news",
    "first_seen": "2026-09-21",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "usda-clears-first-engineered-forest-tree",
@@ -9054,7 +9054,7 @@
    "source_date": "2026-09-23",
    "source_type": "journal",
    "first_seen": "2026-09-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "superhot-rock-drilling-draws-135-million",
@@ -9186,7 +9186,7 @@
    "source_date": "2026-09-24",
    "source_type": "journal",
    "first_seen": "2026-09-28",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "routine-air-sampling-found-measles-with-no-known-case",
@@ -9428,6 +9428,270 @@
    "source_type": "news",
    "first_seen": "2026-09-28",
    "sightings": 1
+  },
+  {
+   "id": "imagined-speech-decodes-at-parity-with-spoken-speech",
+   "title": "Imagined speech decodes as accurately as spoken speech in nine surgical patients",
+   "type": "signal",
+   "summary": "Nature Neuroscience published a paper on 29 September 2026 by Zehao Zhao, Zhenjie Wang, Yan Liu and Jinsong Wu recording 256-channel high-density electrocorticography from nine neurosurgical patients performing matched syllable imagery and articulation tasks. Purely imagined syllables classified at a median 0.804 against a 0.167 chance level, statistically indistinguishable from 0.783 for spoken syllables (P = 0.3008). Synthesised imagined speech scored a median 3.90 on mean opinion against 3.88 for actual articulation and 3.84 for ground truth. Articulatory kinematics decoded at median r = 0.60 for imagery against 0.67 for speech, and continuous intraoperative video, audio and electromyographic monitoring confirmed no motor or auditory output during imagery trials.",
+   "so_what": "If inner speech carries the same decodable articulatory code as spoken speech, the long-run question is not assistive communication but whether unspoken thought is in principle readable, which is the premise underneath the neural-rights statutes several states have already passed. The clock is long because this needs implanted electrodes and a craniotomy, so what a head should actually watch is whether non-invasive recording gets anywhere near these accuracies, not what happens in neurosurgery.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02456-0",
+   "source_date": "2026-09-29",
+   "source_type": "journal",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "one-in-ten-cortical-variants-alters-gene-activity",
+   "title": "One in ten cortical-structure gene variants changes regulatory activity in human cells",
+   "type": "signal",
+   "summary": "Nature Neuroscience published a study on 23 September 2026 from Matoba, McAfee and Stein at the UNC Neuroscience Center putting 9,092 variants from 198 genome-wide significant cortical-structure loci through a massively parallel reporter assay in primary human neural progenitor cells, tested at baseline and under Wnt stimulation. 918 variants showed regulatory potential across 150 of the loci, and more than half of those showed allelic effects that modulate expression. Much of the measured activity was driven by Alu elements, and variants disrupting the transcription factors RARA, RARG, ZNF135 and NR2F1 produced region-specific effects. The authors caution that the design lacked haplotype constructs, so they cannot say whether effects come from single variants or combinations.",
+   "so_what": "This is the step that converts statistical associations with brain structure into named molecular mechanisms, which is what would eventually make polygenic scores for cognitive traits defensible rather than merely correlational — the direction embryo-screening vendors are already selling into. Nothing here informs teaching; what would have to happen first is replication in real developing cortex rather than progenitor cells, and a demonstrated link from these regulatory effects to anything a teacher can observe.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02454-2",
+   "source_date": "2026-09-23",
+   "source_type": "journal",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "shank3-syndrome-prevalence-revised-sharply-upward",
+   "title": "Autism-linked SHANK3 syndrome reaches 1 in 7,300, far above earlier estimates",
+   "type": "signal",
+   "summary": "A study in Autism Research published 25 September 2026 from the Seaver Autism Center at Mount Sinai pooled genetic testing results for nearly 180,000 individuals with autism across ten sources including GeneDx, Labcorp, Ambry Genetics, the SPARK cohort and the Autism Sequencing Consortium. It puts Phelan-McDermid syndrome at about 13.7 cases per 100,000, roughly 1 in 7,300 people, implying more than 45,000 affected individuals in the United States against a far smaller number actually diagnosed. This is a multi-source prevalence analysis rather than a population survey, and the authors attribute the gap between known and estimated cases to individuals never being offered genetic testing, insurance barriers and inadequate evaluation of the SHANK3 gene.",
+   "so_what": "A meaningful share of students carrying an autism or global-delay label may have an unidentified single-gene syndrome with its own known profile of absent speech, seizure risk and regression, and the barrier is testing access rather than science. Expect more students to arrive over the next few years with a specific genetic diagnosis rather than a generic one, which changes what a learning-support team can plan for and makes it worth asking families whether testing was ever offered.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "ScienceDaily, on a Mount Sinai study in Autism Research",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260924020405.htm",
+   "source_date": "2026-09-25",
+   "source_type": "study",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "fewer-than-one-in-five-stay-on-antipsychotics",
+   "title": "Fewer than one in five stay on antipsychotics after a first psychotic episode",
+   "type": "signal",
+   "summary": "Psychiatric Times reported on 28 September 2026 a retrospective administrative-claims cohort study published in JAMA Network Open. Of 27,592 US patients identified with first-episode psychosis, 11,889 were followed for 365 days from their first antipsychotic prescription; only 19.1% reached the adherence threshold of proportion of days covered at or above 0.8, and mean coverage was 158 of 365 days. Adherence was 23.1% in schizophrenia spectrum disorders, 16.9% in mood disorders with psychotic features and 13.5% in other psychotic disorders. The cohort is ages 15 to 40 with a mean age of 22.7, so this is not an adolescent-only figure, and it is observational claims data rather than a trial.",
+   "so_what": "For the rare student returning after a first psychotic episode, the base rate is that medication coverage lapses within months, so a re-entry plan should be built around expected discontinuation rather than assumed continuity. Name in the plan who is expected to notice and record a missed refill, a changed presentation or a dropped outpatient appointment.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Psychiatric Times, on a study in JAMA Network Open",
+   "source_url": "https://www.psychiatrictimes.com/view/fewer-than-1-in-5-young-patients-with-first-episode-psychosis-adhere-to-antipsychotics",
+   "source_date": "2026-09-28",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "clinicians-challenge-the-brain-matures-at-25-claim",
+   "title": "Forensic psychiatrists challenge the claim that the adolescent brain matures at 25",
+   "type": "driver",
+   "summary": "In Psychiatric Times on 27 September 2026, forensic psychiatrists Nicolas Badre and Paul Shronts argue that courts misapply group-level neuroimaging to individual young defendants. They cite Tervo-Clemmens and colleagues (2023), which examined more than 10,000 individuals and found executive function stabilising at adult levels in late adolescence, about 18 to 20, with more than 95% of age-related change in accuracy occurring before 18. They also cite Dosenbach and colleagues (2010), in which chronological age accounted for only about half the variance, and point to State v. O'Dell, where Washington's supreme court invoked brain development continuing into the twenties to mitigate sentencing for an 18-year-old. This is professional commentary in medical trade press, not new data.",
+   "so_what": "The line that the brain is not finished until 25 sits inside a great deal of school discipline framing, advisory curriculum and parent communication, and if clinicians are publicly retreating from it, handbooks and restorative-practice training that lean on it need a defensible replacement. Staff should stop offering brain immaturity as a written explanation in incident and counselling records, because it is now contestable rather than settled.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Psychiatric Times",
+   "source_url": "https://www.psychiatrictimes.com/view/exploring-a-misuse-of-neuroscience-how-biology-has-been-used-to-remove-responsibility-in-youth",
+   "source_date": "2026-09-27",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "primate-data-remove-the-adolescent-dopamine-surge",
+   "title": "Primate brain data remove the adolescent dopamine surge from the risk story",
+   "type": "signal",
+   "summary": "Psychiatric Times published on 23 September 2026 an account by Bruno Averbeck and Jessica Walters of primate brain-tissue measurements taken across development. Striatal dopamine availability peaked around primate age 7, equivalent to human ages 25 to 30, with no adolescence-specific surge; synaptic pruning replicated in neocortex but was absent in limbic cortical areas and the striatum during adolescence; myelination rose steadily into the equivalent of the human thirties and forties. Computational modelling showed pruning altered attractor dynamics, strengthening the return of perturbed neural activity to baseline during cognitive tasks, which the authors offer as a mechanism for adolescence-linked schizophrenia risk. This is mechanism-level animal work with no clinical recommendation attached.",
+   "so_what": "The clock is genuinely long: a mechanistic account must replicate, then reach diagnosis and prevention, before any counselling or health-office protocol follows, so nothing changes this year or next. What a head should track is that the developmental story used to explain teenage risk-taking to parents and staff is being rebuilt underneath it, and the explanation rather than the behaviour is what will need rewriting by the mid-2030s.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Psychiatric Times",
+   "source_url": "https://www.psychiatrictimes.com/view/the-adolescent-brain-and-schizophrenia-what-research-reveals-about-pruning-dopamine-and-myelin",
+   "source_date": "2026-09-23",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "oecd-adds-teachers-and-still-reports-shortages",
+   "title": "OECD adds 13% more primary teachers for 2% more pupils and still reports shortages",
+   "type": "trend",
+   "summary": "The OECD's Education at a Glance 2026, with teacher shortages as its thematic focus, was reported by The Irish Times on 24 September 2026. Across the OECD, primary teacher numbers rose 13% over seven years while primary student numbers rose 2%; in Ireland teacher numbers rose 27% while pupil numbers fell 1%. Shortages nonetheless persist, manifesting as unfilled posts or a higher share of non-fully-qualified staff: 9.1% of primary and secondary teachers across the OECD were not fully qualified in 2024/25, against 0.3% in Ireland. Spending per student in 2023 averaged USD 13,601 across the OECD against USD 13,113 in Ireland, with the gap concentrated at secondary level, USD 14,291 against USD 12,699.",
+   "so_what": "Headcount growth is no longer evidence that staffing is solved, because the binding constraint is subject-specific supply rather than total teachers. Add the share of your own teaching posts held by staff without full qualification for the subject they teach to the board dashboard this year, and benchmark it against the 9.1% OECD figure before the 2027-28 hiring cycle.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "The Irish Times, on OECD Education at a Glance 2026",
+   "source_url": "https://www.irishtimes.com/ireland/education/2026/09/29/ireland-spends-less-on-education-than-all-oecd-countries-new-data-shows/",
+   "source_date": "2026-09-24",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "japan-drafts-a-curriculum-that-lands-fully-in-2034",
+   "title": "Japan drafts a new information subject into a curriculum that lands fully in 2034",
+   "type": "signal",
+   "summary": "Japan's Central Council for Education Curriculum Planning Special Subcommittee met for its 18th session on 25 September 2026 and took the draft deliberation summary for the next national Courses of Study, published by MEXT the same week. It proposes an information domain in elementary school, a new compulsory lower-secondary Information and Technology subject, new mathematics and science guidance strands, and an adjustable class-hours system letting schools vary instructional time. The draft explicitly designs for Japan of the 2040s and 2050s, citing a projected 11 million worker shortfall by 2040. MEXT's published revision schedule sets notification in March 2029, full implementation in FY2030 for elementary and FY2031 for lower secondary, and for upper secondary first teaching from the 2032 entry cohort with full implementation in FY2034. This is a deliberation document, not the final report.",
+   "so_what": "By 2032-34 a major OECD system will run an upper-secondary curriculum built deliberately for the 2040s, with a named computing strand and school-set flexible hours, and the design is public now in draft. A head building a 2030s computing sequence or arguing for timetable flexibility has a fully documented reference design to borrow from, and roughly eight years to use it before the comparison becomes unflattering.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Education",
+   "source_name": "Japan Ministry of Education (MEXT), Central Council for Education",
+   "source_url": "https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00057.html",
+   "source_date": "2026-09-25",
+   "source_type": "policy",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "removing-the-class-teacher-from-grading-cut-the-gap",
+   "title": "Removing the class teacher from Danish exam grading cut the socioeconomic gap",
+   "type": "signal",
+   "summary": "The University of Copenhagen announced on 25 September 2026 a peer-reviewed study by Jesper Fels Birkelund published in Sociology of Education, evaluating Denmark's 2015 reform, implemented in 2016, which changed written ninth-grade final examination grading from a two-examiner model — the student's own teacher plus an external examiner — to a single external examiner who does not know the student. Inequality in grades awarded to students from more and less resourced families fell by 15 to 20 percent in written Danish composition. This is a study of an enacted national policy change across a whole cohort system, not a pilot or a single-school trial, and the author notes the effect size is unusually large for sociological research.",
+   "so_what": "This puts a measured size on the equity cost of teachers marking their own students' high-stakes work, and it is one of the few findings in this corpus a school can act on inside a single academic year. Move internal summative assessments to blind or externally moderated marking and expect the socioeconomic spread in marks, not the overall mark level, to be what moves.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "University of Copenhagen, on a study in Sociology of Education",
+   "source_url": "https://news.ku.dk/all_news/2026/09/new-exam-format-reduces-social-disparities-in-grades-in-danish-schools",
+   "source_date": "2026-09-25",
+   "source_type": "study",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "winter-heating-costs-forecast-up-8-7-percent",
+   "title": "Winter heating costs are forecast up 8.7% with heating oil more than 30% higher",
+   "type": "signal",
+   "summary": "WFSB reported on 23 September 2026 on the National Energy Assistance Directors Association's Winter Heating Report, which projects US household heating costs up 8.7% this winter against last. The rises are uneven by fuel: heating oil more than 30% higher, electricity up 9%, propane just behind electricity, and natural gas up 5.8%, with a cumulative rise of about 24% over five years. About 4% of households nationally use heating oil, concentrated in the Northeast and Mid-Atlantic. NEADA attributes the oil component to energy prices driven by the US conflict with Iran. NEADA is an association that advocates for federal heating-assistance funding, and the EIA's own Winter Fuels Outlook does not appear until the 6 October STEO.",
+   "so_what": "A campus heated with oil or propane should model a double-digit fuel-line increase against a budget built last spring, and an all-electric campus still faces a 9% commodity rise on top of demand charges. The spread between fuels is now wide enough that the case for a boiler replacement turns on which fuel the building currently burns, so wait for the 6 October EIA figure before committing rather than acting on an advocacy forecast.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "WFSB, on the NEADA Winter Heating Report",
+   "source_url": "https://www.wfsb.com/2026/09/23/experts-predict-heating-costs-will-rise-this-winter-what-know-about-price-jumps/",
+   "source_date": "2026-09-23",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "wmo-and-who-warn-of-a-very-strong-el-nino",
+   "title": "WMO and WHO warn a very strong El Nino will peak late in 2026",
+   "type": "driver",
+   "summary": "The World Meteorological Organization published a joint WMO-WHO Global Public Health Situation Analysis on El Nino on 23 September 2026, stating that El Nino will intensify into a very strong event by the end of the year with effects peaking late in 2026. The analysis names extreme heat, with cardiovascular, respiratory, renal, metabolic and mental health effects; vector-borne disease including malaria, dengue, chikungunya, yellow fever and Zika; and malnutrition, cholera and wildfire-smoke respiratory illness. It notes that more than 150 million people already face acute food insecurity globally, and argues the worst outcomes land where climate shocks meet weak health systems.",
+   "so_what": "A very strong El Nino peaking through the northern winter reshapes the spring and summer athletic calendar, outdoor-practice heat protocols and indoor air handling, and it is the clearest early warning for the commodity side of food-service contracts and for wildfire and flood exposure at the 2027 insurance renewal. It also gives a dated, concrete hook for teaching how a forecast becomes a public health decision.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "World Meteorological Organization",
+   "source_url": "https://wmo.int/media/news/act-now-limit-health-risks-of-el-nino",
+   "source_date": "2026-09-23",
+   "source_type": "report",
+   "first_seen": "2026-09-29",
+   "sightings": 1
+  },
+  {
+   "id": "thirty-one-governments-back-an-ocean-observing-alliance",
+   "title": "Thirty-one governments back a global ocean observing alliance worth CAD 339 million",
+   "type": "signal",
+   "summary": "The WMO reported on 25 September 2026 that an International Alliance for the Global Ocean Observing System was launched at the 81st UN General Assembly with 31 members, including Canada, the European Union and 29 countries. Pledges total over CAD 339 million (EUR 211 million), with EUR 92 million from the EU and CAD 82 million from Canada over five years. GOOS currently delivers around 120,000 observations a day from 8,000 platforms run by 64 countries and 17 global observation networks, and the pledges support a mobilisation running 2026-2028 and beyond, with further moments at COP31 and the 12th Our Ocean Conference.",
+   "so_what": "Ocean observation is the upstream input to the seasonal forecasts, sea-level projections and catastrophe models that will price a school's property insurance and set its flood-zone designation a decade from now, so a funded multilateral instrument here is an early indicator of whether that pricing gets sharper or noisier. For a school weighing long-lived capital on a coastal or riverine site, the quality of the projection it will be underwritten against in the 2030s is being decided now.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "World Meteorological Organization",
+   "source_url": "https://wmo.int/media/news/governments-un-general-assembly-support-global-ocean-observation",
+   "source_date": "2026-09-25",
+   "source_type": "news",
+   "first_seen": "2026-09-29",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -9493,8 +9757,8 @@
     "a-capable-ai-raises-teacher-agency-and-threat-together"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-28",
-   "status_note": "Revised on three items that together answer a question this uncertainty has been asking badly. METR published a pre-deployment evaluation of a frontier model on 22 September — five AI-R&D tasks, ten business days of API access — concluding the model accelerates expert work incrementally but is unlikely to fully automate research, citing roughly 1.5x overall acceleration with perhaps a 30% chance of 2x. That is the first dated, non-vendor ceiling the corpus has been able to quote. Underneath it, two studies published on the 28th point at the same lever from the classroom side. In a survey of 430 students, how they framed AI use predicted critical-thinking disposition while how often they used it predicted nothing at all (r = -0.044, not significant) — treating it as a task-completion tool was negative, treating it as a collaborator strongly positive. And in an experiment with 598 pre-service teachers, showing a more capable AI raised professional agency and replacement threat simultaneously, the two paths cancelling to no net change in identity unless the demonstration was explicitly framed as complementary. The pole question softens into something more useful: amplification and deskilling are not rival futures but rival dispositions, and the disposition is the part a school can act on.",
+   "last_revised": "2026-09-29",
+   "status_note": "Re-confirmed; no new evidence either way in this scan. The day's findings sit adjacent rather than inside — imagined speech decoding at parity with spoken speech is a question about legibility, not capability, and belongs to cu-boundary. Worth recording that nothing moved: this uncertainty was materially revised yesterday on the METR evaluation and the two orientation studies, and a quiet day immediately after is a normal reading rather than a gap.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -9591,11 +9855,13 @@
     "prenatal-chemical-exposure-and-infant-attention",
     "how-students-frame-ai-use-beats-how-much-they-use-it",
     "genome-sequencing-diagnoses-a-third-of-delay-referrals",
-    "an-outside-lab-publishes-its-verdict-before-a-model-ships"
+    "an-outside-lab-publishes-its-verdict-before-a-model-ships",
+    "removing-the-class-teacher-from-grading-cut-the-gap",
+    "oecd-adds-teachers-and-still-reports-shortages"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-28",
-   "status_note": "Revised on the measurement problem stated plainly for once. A survey of 430 students found that usage frequency — the one variable a school can actually count — had no significant association with critical-thinking disposition (r = -0.044, p = 0.363), while the orientation a student brought to the tool explained the difference and lifted explained variance from 0.286 to 0.390. Every AI policy in the corpus counts tools and tasks. This says the countable thing is the wrong variable, which is a sharper version of what this uncertainty has been circling: not that the instruments are invalid, but that the valid instrument would have to measure a stance, and nobody has one that scales. Alongside it, a finding that adds a second record to a student's file before anyone has taught them: clinical genome sequencing returned a positive result for 31.1% of 666 children referred for developmental delay, and 35.3% of those never previously tested, which the authors read as support for sequencing as a first-tier test."
+   "last_revised": "2026-09-29",
+   "status_note": "Revised on the cleanest actionable finding this uncertainty has produced. Denmark changed written ninth-grade examination grading in 2016 from a two-examiner model — the student's own teacher plus an external examiner — to a single external examiner who does not know the student, and inequality in grades between students from more and less resourced families fell by 15 to 20 percent in written Danish. This uncertainty has spent seven weeks arguing that teacher judgement should be rehabilitated as a measurement instrument with moderation and inter-rater checks. Here is the other half of the same argument, measured: the instrument is improved precisely by removing the rater who knows the student. Both can be true — knowing a student is what makes formative judgement valuable and what makes summative judgement biased — but a school cannot keep asserting the first while ignoring the size of the second. Alongside it, an OECD figure that measures the measurer: 9.1% of teachers across the OECD were not fully qualified in 2024/25, which is the quality of the judgement being moderated."
   },
   {
    "id": "cu-credential",
@@ -9662,11 +9928,13 @@
     "median-job-tenure-rises-to-four-point-one-years",
     "english-universities-plan-on-growth-that-has-not-happened",
     "five-million-robots-now-work-in-factories",
-    "uk-swaps-exchange-visas-for-a-twenty-pound-authorisation"
+    "uk-swaps-exchange-visas-for-a-twenty-pound-authorisation",
+    "oecd-adds-teachers-and-still-reports-shortages",
+    "japan-drafts-a-curriculum-that-lands-fully-in-2034"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-28",
-   "status_note": "Revised on supply, demand and destination in one sweep. Median job tenure rose to 4.1 years in January 2026 from 3.9 in 2024, with the share of workers under a year falling to 20.6% from 22.2% — the mid-career pool a school hires from has measurably stopped moving, and the public-sector median of 5.6 years is the benchmark that matters rather than the private 3.9. On the destination side, English providers have told the Office for Students they expect international enrolment to rise 22.5% by 2027/28 after it actually fell more than 10% between 2022/23 and 2024/25; the OfS finds nearly six in ten English institutions would be in deficit by 2028/29 without that growth, and an independent study puts the realistically available pool at about 52,000 students, 7.3% of current intake. And the work itself: five million industrial robots now operate globally, up 9%, but US annual installations are about 38,500 against China's 354,000. A pathway argument built on any of these three needs the actual number attached."
+   "last_revised": "2026-09-29",
+   "status_note": "Revised on supply, and on the discovery that adding staff has not fixed it. OECD primary teacher numbers rose 13% over seven years against a 2% rise in pupils — in Ireland 27% against a 1% fall — and shortages persist anyway, showing up as unfilled posts and as the 9.1% of OECD teachers who were not fully qualified in 2024/25. The constraint is subject-specific, concentrated in mathematics and science and in rural and disadvantaged communities, which means headcount is the wrong number to watch. Further out, Japan's draft Courses of Study put a compulsory lower-secondary information subject and school-set flexible hours into a curriculum that reaches full upper-secondary implementation in FY2034, designed explicitly against a projected 11 million worker shortfall by 2040 — a national system deciding now what a 2040s credential should contain."
   },
   {
    "id": "cu-liability",
@@ -9743,11 +10011,13 @@
     "judge-enjoins-oklahoma-ban-on-religious-charters",
     "fda-approves-a-boxed-warning-jak-pill-for-adolescents",
     "california-banks-571m-in-rate-rises-for-12189-policies",
-    "routine-air-sampling-found-measles-with-no-known-case"
+    "routine-air-sampling-found-measles-with-no-known-case",
+    "fewer-than-one-in-five-stay-on-antipsychotics",
+    "clinicians-challenge-the-brain-matures-at-25-claim"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-28",
-   "status_note": "Revised on duty arriving through three unfamiliar doors. A federal judge enjoined Oklahoma's bar on religious charter schools on 24 September, with 30 days to appeal to the Tenth Circuit and a 4-4 Supreme Court split already behind it — the question of what a publicly funded school may be is back in motion. The FDA approved a daily oral JAK inhibitor for severe alopecia areata down to age 12, carrying a boxed warning for serious infection, malignancy and thrombosis, which puts live-vaccine timing and exposure notification into the health office's written duties rather than its judgement. And California's insurers have banked $571 million in rate increases against 12,189 promised policies while the FAIR Plan residual market grew 157% in four years, which is the template for how a catastrophe-exposed state restores coverage and therefore the frame for a campus property renewal. None of these is a verdict; all three set an expectation a school will later be measured against."
+   "last_revised": "2026-09-29",
+   "status_note": "Revised on duty attaching to a medication record rather than a document. A claims cohort of 27,592 US patients with first-episode psychosis found only 19.1% adherent to antipsychotics over a year, with mean coverage of 158 days out of 365 — so for a returning student, discontinuation is the base case rather than the exception, and what a school recorded about a missed refill or a changed presentation becomes the evidence of its care. Separately, and more quietly, forensic psychiatrists have begun publicly disputing the claim that the brain matures at 25, citing evidence that executive function stabilises at 18 to 20. That claim is load-bearing in a great many school handbooks and restorative-practice frameworks; a written record that explains a student's conduct by brain immaturity is now contestable rather than settled, which is a documentation exposure nobody has been treating as one."
   },
   {
    "id": "cu-boundary",
@@ -9815,11 +10085,13 @@
     "eu-kids-act-pulls-games-inside-the-age-gate",
     "motor-cortex-scales-with-how-human-the-hand-looks",
     "dogs-show-the-human-consonant-bias-in-speech",
-    "discord-estimates-age-from-account-signals"
+    "discord-estimates-age-from-account-signals",
+    "imagined-speech-decodes-at-parity-with-spoken-speech",
+    "one-in-ten-cortical-variants-alters-gene-activity"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-28",
-   "status_note": "Revised on age assurance quietly changing method. Discord is re-introducing verification globally after its February attempt failed, but the new approach estimates age from account-level signals — how long an account has existed, what payment methods are on file — and the company says more than 90% of existing users will never see a check. The boundary the corpus has been tracking was about hardware a school could see. This is about inference a school cannot see, and its error distribution is the opposite of reassuring: the students most likely to be misclassified are the youngest ones, with new accounts and no card on file. A safeguarding policy that assumes the platform verifies identity is now describing something that no longer happens."
+   "last_revised": "2026-09-29",
+   "status_note": "Revised on the sharpest version of this question the corpus has carried. Nine neurosurgical patients with 256-channel electrocorticography produced median 0.804 classification of purely imagined syllables against a 0.167 chance level — statistically indistinguishable from the 0.783 achieved for speech they actually spoke, with video, audio and electromyographic monitoring confirming nothing was uttered. Synthesised imagined speech scored marginally higher on listener opinion than synthesised real speech. Every entry in this uncertainty so far concerns equipment a student wears or carries, and the argument has been about where possession ends. This is about whether the unaided person was ever a coherent category, because the thing a school means by 'unaided' is a mind working privately, and the same articulatory code appears whether or not anything is said aloud. The clock is long and the method is invasive; what matters is that the boundary's far edge is now empirical rather than philosophical."
   }
  ],
  "verification": {
@@ -9829,6 +10101,56 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-09-29-unaided",
+   "date": "2026-09-29",
+   "title": "Unaided",
+   "year": "2036",
+   "axis": "cu-ai-capability resolving toward pole B — deskilling is real, so the school ring-fences AI-free formation — crossed with cu-boundary resolving toward pole A, the unaided person is defensible and the school holds a line around device-free assessment. Fresh pairing, and both poles are the protective choice a careful school would make. The collision is that by the time the line is drawn and defended, 'unaided' has become a claim about a mind rather than about a room, and the only way to verify it is to look inside.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Deskilling — the erosion is real and measurable, so the school ring-fences protected AI-free formation to preserve what the credential means."
+    },
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The unaided person is defensible — the school holds a line around device-free assessment and accepts the cost of policing it."
+    }
+   ],
+   "premise": "The AI-free block survived, which nobody in 2026 would have bet on. Three hours a week, no devices, work produced in the room, and it is the single thing families cite when they explain why they chose here. It took a decade of argument and it is the school's whole identity now. The trouble is that the room stopped being the boundary around 2033. Subvocal interfaces reached consumer price — a collar, then an earpiece, then nothing visible at all — and the same articulatory code that a lab decoded from nine surgical patients in 2026 turned out to be readable, badly but usably, from the skin. Nothing is worn that a proctor can see. The school's response was the only one available: it stopped trying to detect devices and started asking students to attest. A signed statement, before each block, that the work was unaided. It holds because almost everyone is honest almost always, and because the alternative is a scanner at the door of a room whose entire purpose is to be the one place nobody is measured.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Faron, 17",
+     "vignette": "He signs it every time and he means it every time, and the signing has become the strangest ninety seconds of his week. What he cannot stop noticing is that the statement asks him to certify something about the inside of his own head, and that he has no way to check it either. He used a subvocal assistant for two years for everything else and he is fairly sure the habits it built are still running in there somewhere. He would like someone to tell him where the person ends. He has not asked, because he suspects the honest answer is that nobody knows and the school needs him not to raise it."
+    },
+    {
+     "role": "Teacher",
+     "name": "Meredith Okonjo, English",
+     "vignette": "She proctors the blocks and she has stopped calling it proctoring, because there is nothing to observe. She reads the work afterwards and she can usually tell, in the way she could always usually tell, and that judgement is worth exactly as much as it ever was and is now the only instrument in the building. Twice this year she has been almost certain and said nothing, because almost certain converts into an accusation she cannot support and a procedure that would end a student's year. She has started to think the block is less an assessment than a ritual, and to suspect that the ritual is doing real work anyway."
+    },
+    {
+     "role": "Parent",
+     "name": "Curtis Bellweather",
+     "vignette": "He chose the school for the AI-free block and he tells people so. He also bought his daughter the subvocal earpiece in Year 9 because her processing speed diagnosis made it the obvious accommodation, and he has never connected the two facts in the same thought until a friend asked him, at a dinner, how the attestation works. He gave an answer he was not happy with. He has not raised it with the school, and he is aware that not raising it is a choice he keeps making, and that the school is probably making the same one."
+    },
+    {
+     "role": "Administrator",
+     "name": "Lorraine Achebe, deputy head",
+     "vignette": "She knows the attestation is unenforceable and she defends it in every admissions evening, and both of those are true at once and she has made her peace with it. What she cannot get the leadership team to sit with is the succession question underneath: the block works because this faculty believes in it, and belief is not a control. She has drafted, twice, a paper proposing they either install verification or say publicly that the school assesses on trust and accepts the consequences. She has filed it twice. The middle position is the only one anyone will vote for and it is the only one that is not honest."
+    }
+   ],
+   "tension": "The school did the brave thing and it worked, and the victory is what created the problem. Ring-fencing AI-free formation was right; holding the line around the unaided person was right; and both were defined against equipment in a room, which is not where the question lives any more. What is left is an honour system dressed as an assessment, propped up by a faculty's judgement that cannot be written down and a student body that is mostly honest — which is, on inspection, roughly what school always was, minus the pretence that it could be verified. The argument worth having is not whether to install detection. It is whether an institution can say out loud that it assesses on trust, name what that costs when trust fails, and still charge a premium for the credential — or whether the pretence of verification is load-bearing in a way nobody wants to test.",
+   "provocations": [
+    "Our device rule assumes the device is visible. Write down what we would do if it were not, and see whether the answer is 'ask them'.",
+    "If a teacher is almost certain a student cheated and cannot support it, what do we want her to do? We have never written that down, and she is deciding it alone.",
+    "Name the accommodation we have granted that we would not permit in an assessment. If we have granted it, on what basis do we withdraw it?",
+    "Could this school say publicly that it assesses on trust? Draft the sentence, then decide whether we could survive printing it.",
+    "The AI-free block works because this faculty believes in it. What happens to it in the first year when half of them are new?"
+   ]
+  },
   {
    "id": "sc-2026-09-28-the-wrong-variable",
    "date": "2026-09-28",
@@ -11202,9 +11524,9 @@
  ],
  "challenger": {
   "id": "cu-information",
-  "title": "Can the school still be described truthfully to its own community?",
-  "why": "Day eight was the scheduled rewrite day and the test could not be run. The session's web-search budget was exhausted by the beat scan before the challenger questions were reached, and the fetch tool will not open a URL that has not already appeared in a search result — so there was no route to any of the three mechanisms, nor to the detection-and-provenance question that was to replace them. That is a non-answer, not a null, and the distinction matters: a null means the scan looked and found nothing, which is itself evidence. Nothing was learned today. The uncertainty is therefore carried forward UNCHANGED rather than rewritten, because rewriting it on the strength of a test that did not happen would be exactly the manufactured movement this scan refuses elsewhere. What stands from the previous seven days is unaltered: seven consecutive nulls on purchased consensus aimed at a named school or local body; impersonation of a named individual quiet alongside it; anonymous fabricated artefacts plainly active but entering the record only when a building is evacuated, per the FBI's 17 September warning and the Vermont and California incidents that preceded it; and proposed Federal Rule of Evidence 707 deferred again, with 82% of 931 surveyed federal judges saying they would require an initial showing before entertaining a claim that a recording is fabricated. The institution that cannot detect the artefact is still the party that would have to prove it.",
-  "test": "Next run, with search budget reserved UP FRONT and the challenger questions asked FIRST, before any beat scanning: (d) what has been published on how institutions detect fabricated media — provenance standards such as C2PA, detection tooling for schools or employers, incident-reporting duties, the cost of forensic authentication — then (a) purchased consensus aimed at a named local institution, (b) impersonation of a named individual used against one, (c) anonymous fabricated artefacts aimed at institutions. Rewrite around detectability and burden of proof on that run unless (a) or (b) appears.",
+  "title": "If something fabricated were aimed at this school, could anyone here tell?",
+  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument.",
+  "test": "Watch four things over the coming fortnight. First, whether any school, district or association acquires, pilots or budgets for media-authentication capability, as opposed to writing a policy about deepfakes. Second, whether the Advisory Committee on Evidence Rules moves Rule 707 or the proposed Rule 901(c) on deepfakes at its 15 October meeting, and whether either allocates the burden differently. Third, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication — that combination is the actual exposure. Fourth, whether provenance standards reach anything a school touches: a student information system, an email gateway, a phone, a camera. Promote this into the five only if a school-side detection or authentication capability appears, because that is the fact that would make it decidable rather than merely alarming.",
   "first_noted": "2026-09-18"
  }
 }
