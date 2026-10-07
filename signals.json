@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-09-29",
- "scan_count": 29,
+ "last_updated": "2026-10-07",
+ "scan_count": 30,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -6778,7 +6778,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "census-2025-record-income-national-only-instrument",
@@ -8745,7 +8745,7 @@
    "source_date": "2026-09-21",
    "source_type": "news",
    "first_seen": "2026-09-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "doe-keeps-indiana-coal-online-after-a-court-loss",
@@ -9580,7 +9580,7 @@
    "source_date": "2026-09-24",
    "source_type": "news",
    "first_seen": "2026-09-29",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "japan-drafts-a-curriculum-that-lands-fully-in-2034",
@@ -9692,6 +9692,295 @@
    "source_type": "news",
    "first_seen": "2026-09-29",
    "sightings": 1
+  },
+  {
+   "id": "federal-scholarship-credit-pays-for-tutoring-in-public-schools",
+   "title": "Federal scholarship credit will pay for tutoring for public-school students too",
+   "type": "driver",
+   "summary": "Treasury and the IRS released the Section 25F rules on 1 October 2026 — temporary regulations T.D. 10057 and proposed regulations REG-117199-25 — setting a dollar-for-dollar credit of up to $1,700 per filer and $3,400 for joint filers, with scholarships open to households up to 300% of area median gross income. Qualifying expenses are not confined to private tuition: they include tutoring for students attending local public schools, special education services, books, supplies and qualifying extended-day programmes. Comments close 1 December 2026, a public hearing is set for 15 December in Washington, and the programme starts 1 January 2027; Treasury's own announcement says thirty states have already opted in and projects roughly $26 billion in qualified contributions a year by 2030.",
+   "so_what": "The public argument is about private tuition, but the quieter design choice funds supplemental instruction for children who never leave public school, which would create a national, family-directed market for tutoring and extended day competing with the school day itself rather than with other schools. An independent school's competitive set stops being other schools and starts including whatever a family can assemble around a free one.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/rules-fuel-debate-over-who-benefits-from-the-federal-school-choice-plan/831997/",
+   "source_date": "2026-10-05",
+   "source_type": "news",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "sat-mean-rises-as-the-testing-pool-shrinks",
+   "title": "SAT mean rises 16 points to 1045 as the test-taking pool shrinks 2.5%",
+   "type": "signal",
+   "summary": "College Board figures reported on 30 September 2026 put the class of 2026 mean total SAT score at 1045, a 16-point increase on the class of 2025, with gains in both sections. About 1.95 million students took the test, a dip of 2.5% on the prior year, and about 42% met or exceeded college and career readiness benchmarks in both the reading and writing and the math sections. The digital redesign introduced in 2024 shortened the test to just over two hours and replaced nine reading passages of 400 to 750 words with 54 passages of 25 to 150 words.",
+   "so_what": "A second year of rising scores on a shrinking, more self-selected pool sitting a substantially redesigned shorter instrument is a composition-and-instrument story at least as much as a learning story. A school quoting score growth in its admissions marketing should be able to say which of the three it is measuring, because right now nobody can.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Higher Ed Dive",
+   "source_url": "https://www.highereddive.com/news/sat-scores-are-up-across-the-board-for-class-of-2026/831811/",
+   "source_date": "2026-09-30",
+   "source_type": "news",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "unesco-fifty-million-teachers-mostly-replacements",
+   "title": "UNESCO: the world needs 50 million more teachers by 2030, 58% of them replacements",
+   "type": "trend",
+   "summary": "UNESCO published new data on 5 October 2026 showing the world has 107 million teachers and needs another 50 million by 2030 to reach universal pre-primary, primary and secondary education — and that 58% of those hires are replacements for people leaving the profession rather than growth. Attrition runs at 7.2% in pre-primary, 5.4% in secondary and 4.7% in primary. Teachers spend an average of 19 hours a week in the classroom but work around 60 hours in total, and in two of every five of the 68 countries analysed teacher salaries sit below those of similarly qualified professionals at every level.",
+   "so_what": "The global shortage is now mostly a churn problem rather than a demand problem, which means recruitment campaigns and pipeline funding cannot close it. The binding constraint on any school's staffing plan is the roughly forty hours a week of work that happens outside the classroom and is what drives people out.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "UNESCO",
+   "source_url": "https://www.unesco.org/en/articles/new-unesco-data-every-two-teachers-world-needs-one-more",
+   "source_date": "2026-10-05",
+   "source_type": "data",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "memory-supply-caps-the-agent-population",
+   "title": "Memory shipped by 2027 could run 33-171 million concurrent AI agents",
+   "type": "signal",
+   "summary": "Epoch AI published an estimate on 2 October 2026 that the high-bandwidth memory shipped between 2025 and 2027 could support 33 to 171 million frontier-model agents running concurrently, which it equates to the working capacity of roughly 140 to 720 million full-time employees. Using efficient open models such as DeepSeek V4 Pro, the same hardware could support about 1.9 billion concurrent agents. The estimate assumes a serving cost of $30 per agent-hour with a sensitivity range of $10 to $100, $5 per GB300-hour of GPU rental, and full allocation of that hardware to agent workloads rather than to chat or training.",
+   "so_what": "If the ceiling on agent supply is a memory supply chain rather than model quality, the scarce human capability is not doing the task but directing and auditing a very large number of cheap workers. That is a supervisory skill, and almost no K-12 curriculum teaches it to anyone who is not already a prefect.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "Epoch AI",
+   "source_url": "https://epoch.ai/publications/estimating-the-agent-population",
+   "source_date": "2026-10-02",
+   "source_type": "report",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "speech-polyfeatures-predict-decline-seven-years",
+   "title": "Speech features during a memory test predict cognitive decline seven years out",
+   "type": "signal",
+   "summary": "Boston University researchers applied natural language processing to speech recorded during story-recall testing in the Long Life Family Study, covering 598 cognitively normal and 112 cognitively impaired participants. A delayed-recall polyfeature score came close to traditional hand-scoring at separating impairment, with an area under the precision-recall curve of 0.77 against 0.81, and predicted weaker cognitive screener performance about seven years later, with a beta of -0.08 and a 95% confidence interval of -0.11 to -0.06. Odds ratios for impairment were 1.07 for delayed recall and 1.05 for immediate recall. The work appeared in the Journal of the International Neuropsychological Society.",
+   "so_what": "If how a person speaks while recalling is almost as diagnostic as what they recall, then every recorded seminar, oral assessment and recorded conference becomes latent longitudinal assessment data that nobody collected on purpose. A school will meet the consent question long before it meets the measurement question.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Neuroscience News, on Boston University work in the Journal of the International Neuropsychological Society",
+   "source_url": "https://neurosciencenews.com/speech-patterns-memory-cognitive-decline-31272/",
+   "source_date": "2026-09-30",
+   "source_type": "study",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "post-practice-vagus-stimulation-window",
+   "title": "Vagus stimulation after practice, not during, strengthened motor learning in mice",
+   "type": "signal",
+   "summary": "Tohoku University researchers implanted a cuff electrode on the left cervical vagus nerve in mice and stimulated it after — not during — training sessions on an optokinetic motor-learning task. Stimulated animals showed stronger long-term learning on following days, and the magnitude of the rhythmic cerebellar blood-volume oscillations the stimulation produced correlated with better learning by day five. The underlying paper appeared in iScience on 25 August 2026 and the institutional release followed on 5 October 2026. Neither the release nor the coverage reports a sample size or a numeric effect size, which is a real limit on how much weight this can carry.",
+   "so_what": "If consolidation has a biologically stimulable window that opens after practice ends, the contested design variable in schooling shifts from how a lesson is taught to what is allowed to occupy the minutes immediately afterwards — and then to whether a consumer wearable may advertise that window to parents.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "ScienceDaily, on Tohoku University work in iScience",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261002080034.htm",
+   "source_date": "2026-10-05",
+   "source_type": "study",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "at-risk-children-attention-locks-on-sad-faces",
+   "title": "Eye tracking shows at-risk children's attention locks onto sad faces as symptoms rise",
+   "type": "signal",
+   "summary": "Binghamton University followed 242 children and their mothers for two years with assessments every six months, using eye tracking to measure which of a paired neutral and emotional face — happy, sad or angry — held a child's gaze and for how long. Children whose mothers had a history of depression looked increasingly at sad faces as their own symptoms rose, while children without that family risk instead showed reduced attention to happy faces. The study appeared in the Journal of Psychopathology and Clinical Science, volume 135, issue 6, page 774; the institutional release reports no effect sizes.",
+   "so_what": "Attention bias is measurable in a task shorter than a class period and it moves with symptom level, so the earliest credible mental-health signal a school holds may turn out to be gaze data thrown off by ordinary screen use rather than anything a wellbeing survey asks.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "ScienceDaily, on Binghamton University work in the Journal of Psychopathology and Clinical Science",
+   "source_url": "https://www.sciencedaily.com/releases/2026/09/260927225022.htm",
+   "source_date": "2026-09-29",
+   "source_type": "study",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "eu-regions-split-above-and-below-the-2030-jobs-target",
+   "title": "EU regions split: 115 clear the 2030 jobs target while 64 sit below 74 percent",
+   "type": "trend",
+   "summary": "Eurostat reported on 6 October 2026 that the EU employment rate for 20-to-64-year-olds reached 76.1% in 2025, the highest since the series began in 2009, against a 2030 European Pillar of Social Rights target of 78.0%. Of 244 regions, 115 — 47.1% — have already met or passed that target, while 64 sit below 74.0%. The spread runs from Warszawski stoleczny in Poland at 86.9%, Praha at 86.0% and Aland at 85.5% down to Mayotte at 36.9%, Guyane at 50.0% and Calabria at 50.3%.",
+   "so_what": "Europe is converging on its headline number while splitting into regions where paid work is near-universal and regions where half the working-age population has none. That is the map along which the next decade of intra-EU family relocation runs, and any school recruiting internationally should be reading the regional column rather than the national one.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "Eurostat",
+   "source_url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261006-2",
+   "source_date": "2026-10-06",
+   "source_type": "data",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "ai-skill-outprices-other-technical-skills-in-pay",
+   "title": "72% of managers will pay more for AI skill; 42% rank it above other tech skills",
+   "type": "signal",
+   "summary": "Reporting on 5 October 2026 on Robert Half's 2027 Salary Guide, Fortune found 72% of managers plan to raise compensation for recruits with AI expertise and 42% say AI knowledge now commands a greater premium than other technical skills. In the same survey 57% of US managers said they were offering higher salaries than planned to new hires and 64% said job offers are more competitive than three years ago. The piece also cites LinkedIn 2026 data putting the average advertised AI role at about $177,000 against about $80,000 for non-AI roles.",
+   "so_what": "The wage signal has detached from the credential and attached to a capability most schools still treat as a compliance and acceptable-use topic rather than a taught competence. A computer science or careers programme that files AI under policy is mispricing its own curriculum.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Fortune",
+   "source_url": "https://fortune.com/2026/10/05/workers-fear-ai-kill-jobs-instead-could-boost-paychecks-72-employers-pay-more-for-ai-skills",
+   "source_date": "2026-10-05",
+   "source_type": "news",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "basic-ai-skill-demand-already-peaked-and-fell",
+   "title": "Demand for basic AI skills fell 25% while hands-on AI skill demand rose 51%",
+   "type": "driver",
+   "summary": "Workday's Global Workforce Report, released 5 October 2026, draws on roughly 550 enterprise employers using its recruiting product between September 2025 and July 2026 plus a survey of 6,001 employees and business leaders. Employer demand for basic AI skills peaked in January 2026 and has since fallen 25%, while demand for hands-on AI skills such as building tools and automations rose 51% over the same period. The same data show 69 applicants per filled position, up from 58 a year earlier, and internal moves falling at 57% of employers. The figures come from a vendor's own product telemetry and should be read as such.",
+   "so_what": "A graduation requirement in generic AI literacy may be teaching a skill whose employer price already peaked in January 2026, while what is still being bid up is building and automating. With the internal ladder slowing at most employers, the first job now has to carry more of a graduate's development than it used to.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "Workday Global Workforce Report, via PR Newswire",
+   "source_url": "https://prnewswire.com/news-releases/workday-global-workforce-report-ai-is-rewriting-jobs-more-than-its-cutting-them-302898076.html",
+   "source_date": "2026-10-05",
+   "source_type": "report",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "eia-raises-q4-brent-to-105-on-middle-east-shut-ins",
+   "title": "EIA raises its Q4 Brent forecast $14 to $105 as Middle East shut-ins persist",
+   "type": "driver",
+   "summary": "The US Energy Information Administration's Short-Term Energy Outlook of 6 October 2026 forecasts Brent crude averaging $105 a barrel in the fourth quarter of 2026, $14 higher than in the previous month's outlook, with annual averages of $96 for 2026 and $84 for 2027. The revision follows regional production shut in since the onset of hostilities in the Middle East, with September the lowest month for shut-in volumes since they began. For the coming winter the EIA forecasts households heating with oil spending about 21% more than last winter even though heating oil prices are up more than 30%, while natural gas and propane households spend less and electrically heated households slightly more.",
+   "so_what": "The corpus already carries an advocacy forecast of heating oil more than 30% higher; the federal number is 21%, and the gap is not a contradiction but the difference between a price and a bill. Budget off the price headline and you over-provision — and the exposure is concentrated on oil-heated buildings and diesel bus fleets rather than on energy generally, since gas-heated campuses get cheaper this winter.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "US Energy Information Administration, Short-Term Energy Outlook",
+   "source_url": "https://www.eia.gov/outlooks/steo/",
+   "source_date": "2026-10-06",
+   "source_type": "data",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "flood-insurance-covers-a-fraction-of-the-properties-at-risk",
+   "title": "Only 2.4% of US properties carry flood insurance against 8.4% at severe risk",
+   "type": "signal",
+   "summary": "An Associated Press analysis of the National Flood Insurance Program, reported on 1 October 2026, found 2.4% of US properties covered by 4.5 million federal flood policies while 8.4% face severe or extreme flood risk. In the eastern Kentucky areas hit by the 2022 floods just 2.1% of properties were insured against about 47% at severe or extreme risk — a 45-point gap, more than seven times the national average — and only 18% of the buildings affected fell inside a FEMA-mapped high-risk zone. The typical policy now costs $1,100 a year, up roughly 90% in five years; one Lake Charles homeowner's premium went from about $900 to $4,000.",
+   "so_what": "Facilities and insurance budgets are set off the FEMA map, and in a real disaster that map caught fewer than one building in five that flooded, so a campus outside the mapped zone is not a campus outside the risk. The affordability spiral also means the families least able to absorb an uninsured flood drop coverage first, which turns a weather event directly into an attendance and enrollment event.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Insurance Journal, on an Associated Press analysis",
+   "source_url": "https://www.insurancejournal.com/news/national/2026/10/01/887439.htm",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-07",
+   "sightings": 1
+  },
+  {
+   "id": "plant-rna-recruits-its-own-soil-microbes",
+   "title": "Plant root RNA is being used to recruit the soil microbes a crop needs",
+   "type": "signal",
+   "summary": "A Comment published in npj Science of Plants on 1 October 2026, from the State Key Laboratory of Wheat Improvement at Shandong Agricultural University, sets out evidence that organic fertiliser prompts tomato roots to secrete specific microRNAs in extracellular vesicles that reshape the rhizosphere microbiome. The dual-function sly-miR159 cut growth of the wilt pathogen Ralstonia solanacearum by 30 to 40% while promoting Bacillus subtilis and Streptomyces fradiae, and sly-miR319c-3p suppressed the pathogen only. After six generations of planting the bacterial wilt disease index was 52.43% under organic fertiliser against 64.33% under chemical fertiliser. These are figures as reported in the Comment, which summarises work the authors did not conduct.",
+   "so_what": "If crop protection moves from applied chemistry to plant-directed RNA signalling that recruits a microbial community, the agriculture and biology pipeline a school feeds shifts from agronomy and chemistry toward microbial ecology and RNA biology. It also erodes the clean boundary between an organism's genome and its environment that AP Biology still teaches as settled.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Biotechnology",
+   "source_name": "npj Science of Plants (Nature Portfolio)",
+   "source_url": "https://www.nature.com/articles/s44383-026-00040-w",
+   "source_date": "2026-10-01",
+   "source_type": "journal",
+   "first_seen": "2026-10-07",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -9754,11 +10043,13 @@
     "clinician-built-rubric-grades-ai-mental-health-talk",
     "an-outside-lab-publishes-its-verdict-before-a-model-ships",
     "how-students-frame-ai-use-beats-how-much-they-use-it",
-    "a-capable-ai-raises-teacher-agency-and-threat-together"
+    "a-capable-ai-raises-teacher-agency-and-threat-together",
+    "memory-supply-caps-the-agent-population",
+    "basic-ai-skill-demand-already-peaked-and-fell"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-09-29",
-   "status_note": "Re-confirmed; no new evidence either way in this scan. The day's findings sit adjacent rather than inside — imagined speech decoding at parity with spoken speech is a question about legibility, not capability, and belongs to cu-boundary. Worth recording that nothing moved: this uncertainty was materially revised yesterday on the METR evaluation and the two orientation studies, and a quiet day immediately after is a normal reading rather than a gap.",
+   "status_note": "Carried forward; the framing did not change, so the revision date has not moved. Two findings were added underneath it. Epoch AI estimates the high-bandwidth memory shipped between 2025 and 2027 could run 33 to 171 million concurrent frontier agents, or about 1.9 billion on efficient open models — which locates the ceiling on agent supply in a memory supply chain rather than in model quality, and makes the scarce human capability supervision rather than execution. Workday's recruiting telemetry puts the other half of it: employer demand for basic AI skills peaked in January 2026 and has fallen 25% since, while demand for hands-on building and automation rose 51%. Neither settles amplification against deskilling. Both sharpen what the question is about, which is not whether students use AI but whether what remains for them to do is work that builds anything.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -9857,11 +10148,12 @@
     "genome-sequencing-diagnoses-a-third-of-delay-referrals",
     "an-outside-lab-publishes-its-verdict-before-a-model-ships",
     "removing-the-class-teacher-from-grading-cut-the-gap",
-    "oecd-adds-teachers-and-still-reports-shortages"
+    "oecd-adds-teachers-and-still-reports-shortages",
+    "sat-mean-rises-as-the-testing-pool-shrinks"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-29",
-   "status_note": "Revised on the cleanest actionable finding this uncertainty has produced. Denmark changed written ninth-grade examination grading in 2016 from a two-examiner model — the student's own teacher plus an external examiner — to a single external examiner who does not know the student, and inequality in grades between students from more and less resourced families fell by 15 to 20 percent in written Danish. This uncertainty has spent seven weeks arguing that teacher judgement should be rehabilitated as a measurement instrument with moderation and inter-rater checks. Here is the other half of the same argument, measured: the instrument is improved precisely by removing the rater who knows the student. Both can be true — knowing a student is what makes formative judgement valuable and what makes summative judgement biased — but a school cannot keep asserting the first while ignoring the size of the second. Alongside it, an OECD figure that measures the measurer: 9.1% of teachers across the OECD were not fully qualified in 2024/25, which is the quality of the judgement being moderated."
+   "last_revised": "2026-10-07",
+   "status_note": "Revised on an instrument changing under the measurement. The class of 2026 posted a mean SAT of 1045, up 16 points, on a pool that shrank 2.5% to about 1.95 million and sat a test redesigned in 2024 from nine reading passages of 400 to 750 words to 54 passages of 25 to 150 words, in just over two hours rather than three. Three things moved at once — who sits it, what it asks, and what it reports — and only 42% cleared both benchmarks. This uncertainty has argued for narrowing to instruments a school directly controls and can verify. The SAT is the clearest case yet of the opposite kind: an instrument nobody in the building controls, whose year-on-year movement cannot be decomposed into learning, composition and redesign by anyone outside College Board. A school that cites the number in its marketing has adopted a measurement it cannot audit."
   },
   {
    "id": "cu-credential",
@@ -9930,11 +10222,15 @@
     "five-million-robots-now-work-in-factories",
     "uk-swaps-exchange-visas-for-a-twenty-pound-authorisation",
     "oecd-adds-teachers-and-still-reports-shortages",
-    "japan-drafts-a-curriculum-that-lands-fully-in-2034"
+    "japan-drafts-a-curriculum-that-lands-fully-in-2034",
+    "ai-skill-outprices-other-technical-skills-in-pay",
+    "basic-ai-skill-demand-already-peaked-and-fell",
+    "federal-scholarship-credit-pays-for-tutoring-in-public-schools",
+    "eu-regions-split-above-and-below-the-2030-jobs-target"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-29",
-   "status_note": "Revised on supply, and on the discovery that adding staff has not fixed it. OECD primary teacher numbers rose 13% over seven years against a 2% rise in pupils — in Ireland 27% against a 1% fall — and shortages persist anyway, showing up as unfilled posts and as the 9.1% of OECD teachers who were not fully qualified in 2024/25. The constraint is subject-specific, concentrated in mathematics and science and in rural and disadvantaged communities, which means headcount is the wrong number to watch. Further out, Japan's draft Courses of Study put a compulsory lower-secondary information subject and school-set flexible hours into a curriculum that reaches full upper-secondary implementation in FY2034, designed explicitly against a projected 11 million worker shortfall by 2040 — a national system deciding now what a 2040s credential should contain."
+   "last_revised": "2026-10-07",
+   "status_note": "Revised on price, which is the thing this uncertainty is actually about. Robert Half's 2027 guide has 72% of managers planning to pay more for AI expertise and 42% saying it now outprices other technical skills, with LinkedIn putting advertised AI roles near $177,000 against about $80,000 for non-AI roles. Against that, Workday's telemetry shows demand for basic AI skills peaked in January 2026 and has fallen 25% since while hands-on building rose 51% — so the premium is already moving off literacy and onto construction, inside a single year. The repricing is no longer a forecast; it is happening faster than a curriculum cycle, which is the part that should worry a school. Separately, the Section 25F rules now fund tutoring for public-school students, which opens a family-directed market in supplemental instruction that competes with the credential-granting institution rather than with other credentials."
   },
   {
    "id": "cu-liability",
@@ -10013,11 +10309,12 @@
     "california-banks-571m-in-rate-rises-for-12189-policies",
     "routine-air-sampling-found-measles-with-no-known-case",
     "fewer-than-one-in-five-stay-on-antipsychotics",
-    "clinicians-challenge-the-brain-matures-at-25-claim"
+    "clinicians-challenge-the-brain-matures-at-25-claim",
+    "flood-insurance-covers-a-fraction-of-the-properties-at-risk"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-09-29",
-   "status_note": "Revised on duty attaching to a medication record rather than a document. A claims cohort of 27,592 US patients with first-episode psychosis found only 19.1% adherent to antipsychotics over a year, with mean coverage of 158 days out of 365 — so for a returning student, discontinuation is the base case rather than the exception, and what a school recorded about a missed refill or a changed presentation becomes the evidence of its care. Separately, and more quietly, forensic psychiatrists have begun publicly disputing the claim that the brain matures at 25, citing evidence that executive function stabilises at 18 to 20. That claim is load-bearing in a great many school handbooks and restorative-practice frameworks; a written record that explains a student's conduct by brain immaturity is now contestable rather than settled, which is a documentation exposure nobody has been treating as one."
+   "last_revised": "2026-10-07",
+   "status_note": "Revised on the map a school's duty is measured against turning out to be wrong. An Associated Press analysis of the National Flood Insurance Program found that in the eastern Kentucky floods of 2022 only 18% of the buildings actually damaged sat inside a FEMA-mapped high-risk zone, while 2.4% of US properties carry federal flood cover against 8.4% at severe or extreme risk. Facilities planning, insurance placement and board risk registers all key off that map. If the instrument that defines reasonable precaution misses four damaged buildings in five, then a campus that did everything the map asked has a documented record of compliance and no defence on the merits — which is this uncertainty's pole A arriving by accident rather than by design."
   },
   {
    "id": "cu-boundary",
@@ -10087,11 +10384,13 @@
     "dogs-show-the-human-consonant-bias-in-speech",
     "discord-estimates-age-from-account-signals",
     "imagined-speech-decodes-at-parity-with-spoken-speech",
-    "one-in-ten-cortical-variants-alters-gene-activity"
+    "one-in-ten-cortical-variants-alters-gene-activity",
+    "post-practice-vagus-stimulation-window",
+    "speech-polyfeatures-predict-decline-seven-years"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-09-29",
-   "status_note": "Revised on the sharpest version of this question the corpus has carried. Nine neurosurgical patients with 256-channel electrocorticography produced median 0.804 classification of purely imagined syllables against a 0.167 chance level — statistically indistinguishable from the 0.783 achieved for speech they actually spoke, with video, audio and electromyographic monitoring confirming nothing was uttered. Synthesised imagined speech scored marginally higher on listener opinion than synthesised real speech. Every entry in this uncertainty so far concerns equipment a student wears or carries, and the argument has been about where possession ends. This is about whether the unaided person was ever a coherent category, because the thing a school means by 'unaided' is a mind working privately, and the same articulatory code appears whether or not anything is said aloud. The clock is long and the method is invasive; what matters is that the boundary's far edge is now empirical rather than philosophical."
+   "last_revised": "2026-10-07",
+   "status_note": "Revised one notch inward, from what a student wears to what is done to a student's nervous system. Tohoku researchers stimulated the cervical vagus nerve in mice after training rather than during it and got stronger long-term motor learning, with the size of the cerebellar blood-volume oscillation predicting the gain by day five — no sample size or effect size published, so this is thin evidence of a real mechanism rather than strong evidence of anything. Set beside it, Boston University's finding that speech features during story recall predict cognitive screener performance seven years later, at an area under the precision-recall curve of 0.77 against 0.81 for hand-scoring. One says the minutes after a lesson may be a stimulable window; the other says the recording of an ordinary oral task is already a longitudinal instrument. The boundary question has been about possession and the line around assessment. These push it toward consolidation and toward speech, neither of which a school can hand back at the door."
   }
  ],
  "verification": {
@@ -10101,6 +10400,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-07-provenance",
+   "date": "2026-10-07",
+   "title": "Provenance",
+   "year": 2034,
+   "axis": "The market reprices the credential toward demonstrated capability, while routine AI use quietly dissolves the capability being demonstrated.",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — portfolios, apprenticeships and demonstrated work displace transcripts at the point of entry."
+    },
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Deskilling — persistence and conceptual understanding measurably decay, and schools ring-fence AI-free formation to preserve what the credential means."
+    }
+   ],
+   "premise": "By 2034 almost nobody reads a transcript. Employers and universities ask instead for provenanced work: an artefact plus a verifiable record of how it was made, which tools were in the room, and which stretches the person did unassisted. Mount Vernon was early to this and built its upper school around it, logging process in the studio and the seminar so that a graduate leaves with something an employer will actually open. The logging is the product. Families understand that what is being certified is not the essay but the hours around it, and the hours around it are now a thing that can be bought, because the federal scholarship credit pays for tutoring and extended day and a decent share of Atlanta's supplemental-instruction market sells certified unassisted practice by the block.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Tobias Nwachukwu, 17",
+     "vignette": "Tobias writes the second half of his Civic Systems capstone in a logged room because the logged hours are what Georgia Tech weights. He is good at this. He is also aware that he thinks differently in there — slower, more carefully, and with a low-grade performance anxiety he does not have anywhere else, because the log does not only record that he worked, it records how long he sat before he moved. His friend Priya has eleven hundred logged hours by October. Tobias has four hundred and ten. He has started booking Saturday blocks at a tutoring centre on Roswell Road that sells, by the hour, a room where nothing helps you."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dana Reinholt",
+     "vignette": "Dana used to read essays. Now she reviews provenance: a timeline, a tool manifest, flagged stretches where the draft moved faster than a person types. The software is good and she does not trust it, because the stretches it flags are often the ones where a student finally understood something and wrote quickly. She writes an override note on roughly one in six. Her department has argued for two years about whether the overrides should be visible to universities. She thinks they should. She also knows the day they become visible is the day she stops writing the honest ones."
+    },
+    {
+     "role": "Parent",
+     "name": "Yolanda Stapp",
+     "vignette": "Yolanda's scholarship, routed through a granting organisation she picked from an IRS list, covers tutoring but not tuition, so Marcus is at Chamblee and comes to Mount Vernon's partner programme on Tuesdays and Saturdays for logged hours. She did the arithmetic in 2031 and it was not close: the hours are worth more to an employer than the school name. What she did not anticipate is the conversation they now have on Saturday mornings, when Marcus asks why he has to do the hard part with the help turned off while the help is on for everything else in his life, and she does not have an answer that is not about the log."
+    },
+    {
+     "role": "Administrator",
+     "name": "Marcus Ebeling",
+     "vignette": "The provenance vendor's renewal is on Marcus's desk with a 19% increase and a new clause: aggregate process data, de-identified, licensed onward. His counsel says the de-identification holds. His head of upper school says the logs are the only reason their graduates place as well as they do. Marcus keeps returning to a line in the enrollment survey — that 61% of applying families named 'verified unassisted work' as a reason for choosing the school. He built that. He is not sure whether he has built a pedagogy or a certification business that happens to have children in it."
+    }
+   ],
+   "tension": "The good thing and the bad thing are the same thing. Provenance made capability legible, and a legible capability is one a student from Chamblee can carry into a room that would once have asked where he went to school — which is a real widening of who gets seen. But to make it legible the school had to instrument the act of working, and the moment unassisted effort became the scarce certified good, it acquired a price. Mount Vernon did not set out to sell difficulty by the hour; it set out to protect formation from dissolving. The protection worked, and the thing it protected turned into inventory. Meanwhile the capability itself keeps thinning underneath, because outside the logged rooms nobody does the hard part at all, and the log cannot certify what a person would be able to do if the log were switched off everywhere.",
+   "provocations": [
+    "If unassisted hours are what the market pays for, is a school that sells them doing education or arbitrage?",
+    "Dana overrides one flag in six today because her notes are private. What is the policy the day a university asks to see the overrides?",
+    "We can measure logged hours. What would we have to measure to know whether a graduate can still do the hard part with the log switched off?"
+   ]
+  },
   {
    "id": "sc-2026-09-29-unaided",
    "date": "2026-09-29",
@@ -11525,7 +11872,7 @@
  "challenger": {
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
-  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument.",
+  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument. Re-tested on 7 October across the nine-day catch-up window, with far fewer searches than the rewrite itself consumed: nothing found that moves it. No school, district or association surfaced acquiring, piloting or budgeting for media-authentication capability; the Advisory Committee on Evidence Rules has not yet reached its 15 October date; no state has followed Massachusetts in imposing an investigation duty. Record this as a thin null rather than a thorough one — it is a week of not looking very hard and finding nothing, which is weaker evidence than the nine days that produced the rewrite.",
   "test": "Watch four things over the coming fortnight. First, whether any school, district or association acquires, pilots or budgets for media-authentication capability, as opposed to writing a policy about deepfakes. Second, whether the Advisory Committee on Evidence Rules moves Rule 707 or the proposed Rule 901(c) on deepfakes at its 15 October meeting, and whether either allocates the burden differently. Third, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication — that combination is the actual exposure. Fourth, whether provenance standards reach anything a school touches: a student information system, an email gateway, a phone, a camera. Promote this into the five only if a school-side detection or authentication capability appears, because that is the fact that would make it decidable rather than merely alarming.",
   "first_noted": "2026-09-18"
  }
