@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-07",
- "scan_count": 30,
+ "last_updated": "2026-10-08",
+ "scan_count": 31,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -2000,7 +2000,7 @@
    "source_date": "2026-09-22",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09",
     "2026-09-23"
@@ -4748,7 +4748,7 @@
    "source_date": "2026-09-01",
    "source_type": "study",
    "first_seen": "2026-09-08",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -5374,7 +5374,7 @@
    "source_date": "2026-09-02",
    "source_type": "news",
    "first_seen": "2026-09-10",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "unesco-ministerial-statement-education-common-good-ai",
@@ -9981,6 +9981,230 @@
    "source_type": "journal",
    "first_seen": "2026-10-07",
    "sightings": 1
+  },
+  {
+   "id": "korea-puts-the-ib-inside-public-schools",
+   "title": "South Korea puts the IB inside public schools: 72 of 110 authorised schools are state-run",
+   "type": "trend",
+   "summary": "As of February 2026 South Korea had 110 authorised IB World Schools, 72 of them public, alongside 155 candidate schools and nearly 300 prospect institutions, with the IB Organisation partnered with 12 provincial and metropolitan education authorities. More than 1,200 in-service public school teachers have obtained official IB certification since 2021. The Ministry of Education projects a 31% decline in the K-12 student population between 2023 and 2033, and at rural public IB campuses in Jeju and Jeonnam 60 to 70% of new student intakes were motivated specifically by access to the global curriculum. Only one-third of Korean university admission quotas recognise Diploma Programme credentials with CSAT exemptions.",
+   "so_what": "A national system is importing a foreign curriculum and assessment regime as a hedge against demographic collapse, but the admissions machinery that gives that credential its value has moved far slower, so public IB students carry two assessment systems at once. Curriculum can be nationalised faster than the market that prices it, which is the trap any school walks into when it adopts a credential its destination universities have not yet learned to read.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "The PIE News",
+   "source_url": "https://thepienews.com/inside-south-koreas-push-to-bring-ib-into-mainstream-schools/",
+   "source_date": "2026-10-05",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "uwa-chennai-branch-campus-cleared",
+   "title": "An Australian university opens a second India campus as UGC clears its Chennai branch",
+   "type": "signal",
+   "summary": "India's University Grants Commission gave final approval for the University of Western Australia's Chennai international branch campus; orientation began on 5 October 2026 and classes start on 19 October, following a Mumbai campus that opened on 18 September 2026. UWA has committed about AUD 80 million to its wholly owned Indian campuses, targets 100 to 200 enrolments across the two cities by the end of 2026 and at least 10,000 students across both over the next decade. The UGC introduced its branch-campus framework in 2023, with the University of Southampton the first international university to open under it.",
+   "so_what": "Degree supply is relocating to the student's home country rather than the student relocating to the degree, which quietly removes the outbound-mobility premium that Anglophone universities and the whole college-counselling industry are built on. For families who treat an overseas degree as the point of the exercise, the destination may end up forty minutes from home.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "The PIE News",
+   "source_url": "https://thepienews.com/uwa-gets-green-light-for-chennai-as-two-campus-india-bet-takes-shape/",
+   "source_date": "2026-10-07",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "dubai-ties-fee-rises-to-a-two-year-old-rating",
+   "title": "Dubai ends annual school inspections and ties fee rises to a rating up to two years old",
+   "type": "driver",
+   "summary": "After 17 years of inspecting every school every year, Dubai's Knowledge and Human Development Authority is resuming quality assurance on a targeted basis, selecting schools from its own data where it judges an inspection would be most useful. Schools will not know in advance whether they face a QA1 or a QA2 visit; a QA2 does not change a school's overall rating, and any school entering its third year of operation gets a QA1. Future private school fee increases will be tied to a school's most recent inspection result even if that inspection was up to two years old, with KHDA noting that some schools will hold ratings from this year and others from two years ago. Director General Aisha Miran said no school was allowed to increase fees this year, and the Education Cost Index is usually not calculated until April.",
+   "so_what": "When a rating that may be two years stale sets the fee ceiling, a school's pricing power becomes a function of inspection timing rather than of current quality, and a regulator choosing whom to inspect acquires a revenue lever that costs it nothing to pull. Any accreditor moving from universal cycles to risk-targeted sampling makes the same trade, and schools will start managing the trigger rather than the teaching.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Khaleej Times",
+   "source_url": "https://www.khaleejtimes.com/uae/education/dubai-khda-school-inspections-return-fees-increase-rating",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "ai-tutor-trial-drains-participation-not-scores",
+   "title": "AI tutor trial: participation falls 0.9 SD while only about 15% of students ever use it",
+   "type": "signal",
+   "summary": "A randomised study of 2,379 undergraduates across 30 instructors at the University of Maryland in autumn 2025 gave some course sections a GPT-4o study assistant built into the course platform. Recorded participation in the learning management system fell by 0.90 standard deviations, and students with access finished around four percentage points lower, a 0.37 standard deviation effect. Only around 15% of the students offered the tutor ever used it, and nearly 74% of the requests it did receive were for information, explanations or solutions rather than for help working something through. The findings are reported from an Annenberg working paper; the coverage does not state whether the grade effect reached statistical significance.",
+   "so_what": "The measurable damage landed on course participation rather than on assignment quality, so a school piloting an AI tutor and watching grades would have seen nothing while engagement drained away. And because an eighth of the cohort generated the whole effect, the procurement question is not whether a tutor is offered but what it does when a student asks it for the answer.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "EdTech Innovation Hub, on an Annenberg working paper from the University of Maryland",
+   "source_url": "https://www.edtechinnovationhub.com/news/students-offered-an-ai-tutor-got-lower-grades-and-disengaged-from-course-materials-university-of-maryland-trial-finds",
+   "source_date": "2026-10-02",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "vision-models-lack-perceptual-adaptation",
+   "title": "Vision models get position right where brains get it usefully wrong",
+   "type": "signal",
+   "summary": "Work from York University in Toronto, published in Current Biology, found that after motion adaptation the position codes in macaque inferior temporal cortex shifted in the same direction as humans' illusory reports of the motion aftereffect, even though the pixel input had not changed. Feedforward, recurrent and state-of-the-art video-based neural networks encoded object position accurately and showed no such adaptation-induced shift; applying empirically derived transformations from IT cortex to the model features was enough to reproduce the effect. The published report gives no participant, animal or neuron counts and no numerical effect sizes, which limits how much weight it can carry.",
+   "so_what": "Machine vision is being installed in schools as a neutral witness for proctoring, attention scoring and AR overlays, but it lacks the adaptation-driven drift that is a normal property of a working human visual system. Human and machine accounts of what a student saw will therefore diverge in a patterned way that looks exactly like a student being wrong.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Neuroscience News, on a paper in Current Biology from York University",
+   "source_url": "https://neurosciencenews.com/optical-illusion-exposes-blind-spot-in-ai-vision/",
+   "source_date": "2026-10-02",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "ilo-says-the-informality-escalator-has-stalled",
+   "title": "ILO chief economist: 2.1bn workers, 58% of the global workforce, remain informal",
+   "type": "driver",
+   "summary": "In an opinion piece published on 1 October 2026 and reposted by the International Labour Organization, its chief economist Sangheon Lee writes that some 2.1 billion workers, around 58% of the global workforce, remain in informal employment, and that the decline in informal work that used to accompany economic growth has stalled in recent years. He argues structural transformation has often failed to create enough work, naming Rwanda and Ethiopia as places where young people struggle to enter the labour market, and that low-quality jobs weaken skills, productivity, demand and resilience. This is a named official restating the organisation's own published figures rather than a fresh statistical release.",
+   "so_what": "A school-to-work model that treats a formal, credentialed job as the destination is designed for under half the world's workers, and the ILO's own chief economist now says the escalator out of informality has stopped moving. Career-readiness curricula built on the formal-employment assumption mis-describe the market most of the world's graduates actually enter, including a growing share of the international families independent schools recruit.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Labor & Economy",
+   "source_name": "International Labour Organization",
+   "source_url": "https://www.ilo.org/resource/article/how-escape-low-pay-low-productivity-jobs-trap",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "asia-pacific-employers-report-rising-compliance-pressure",
+   "title": "Asia-Pacific employer bodies: 81% say labour and responsible-business pressure has risen",
+   "type": "signal",
+   "summary": "An ILO survey of 60 employer and business membership organisations across 22 economies in Asia and the Pacific, reported on 5 October 2026, found 96% saying labour and responsible-business requirements are relevant to their member companies and 81% saying those companies face more pressure to meet them than they did two to three years ago. The same organisations named funding, at 53%, and staff capacity, at 47%, as the barriers to meeting the resulting demand for support.",
+   "so_what": "Due-diligence and labour-compliance literacy is moving from a corporate speciality to a general business competence across 22 economies, while the bodies expected to teach it report they have neither the money nor the people. That pushes the training burden onto vocational systems and business schools, and it makes supply-chain ethics a hiring credential rather than a values statement.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "International Labour Organization",
+   "source_url": "https://www.ilo.org/resource/news/ilo-survey-signals-rising-business-demand-support-labour-trade-and",
+   "source_date": "2026-10-05",
+   "source_type": "report",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "delhi-cut-grid-losses-from-fifty-to-five",
+   "title": "Delhi cut grid losses from about 50% to 5% as Argentina's nearly doubled to 24%",
+   "type": "trend",
+   "summary": "IEEE Spectrum published an analysis by Emily Waltz on 1 October 2026 reporting that Delhi cut its electricity losses from about 50 to 5 percent over the past 25 years, presented as a replicable blueprint. The same piece reports World Bank tracking for 2023 in which more than half of the countries that measure these metrics lost at least 10 percent of their electricity, losses topped 20 percent in 24 nations, and two countries lost more than half of what they generated. Over the same quarter century Singapore fell from 6.6 percent to a nearly nonexistent 0.2 percent, while Argentina's losses nearly doubled between 2015 and 2023, from an all-time low of about 12 percent to an all-time high of nearly 24 percent.",
+   "so_what": "Grid reliability here is decided by metering, collections and utility governance rather than by generation capacity, so a campus's exposure to outages and rate shocks as data centres and electrified heating arrive will track its utility's administrative discipline more closely than the megawatts on the system. It is an argument for reading your utility's loss figures before reading its capacity plan.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "IEEE Spectrum",
+   "source_url": "https://spectrum.ieee.org/electricity-theft",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "autonomous-wildfire-launcher-sold-by-the-month",
+   "title": "An autonomous wildfire launcher covers 70 acres at $10,000 to $15,000 a month",
+   "type": "signal",
+   "summary": "The Robot Report describes FireDome, a California company founded after its two co-founders met at a climate-technology conference in Israel in early 2024, which has built a ground-based autonomous launcher that fires non-explosive capsules of retardant or water to defend property from wildfire. Each unit has a launch radius of about 1,000 feet covering roughly 70 acres, fires capsules of about 10 gallons that open a few to a few dozen feet above ground rather than on impact, and runs pre-programmed perimeter, structure-coating and spot-fire routines autonomously unless an owner or firefighter intervenes. Early-adopter pricing is $10,000 to $15,000 a month with a lower-fee ownership option; one full demonstration system is installed in Yuba County, California, with first production units planned for spring 2027. The company states, without independent verification in the article, that the current launcher does not reach the one to one-and-a-half miles of range wildland use would require.",
+   "so_what": "Autonomous fire suppression is arriving as a monthly subscription aimed at property owners rather than at fire departments, which would put a campus in the position of leasing a robot as a condition of staying insurable rather than buying one as an educational asset. The budget line it lands on is facilities, and the people who understand it are in the robotics club.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/firedome-builds-autonomous-artillery-for-wildfire-defense/",
+   "source_date": "2026-10-06",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
+  },
+  {
+   "id": "robot-policy-learns-from-ordinary-video",
+   "title": "Runway's open-weight robot policy learns from ordinary video, not robot demonstrations",
+   "type": "signal",
+   "summary": "Runway AI introduced Praxis-1, an open-weight world action model that turns the company's large-scale video pretraining into robot control, trained mostly on third-person video rather than on teleoperated robot demonstrations, across tasks from pick-and-place such as lifting soda cans to deformable-object work such as packing gift bags. Runway claims that simulating robot policies inside its world model predicts real-world results with a 0.95 correlation, that this compares favourably with more expensive 3D-reconstruction methods, and that early partners including Noble Machines, Standard Bots and Ultra find one model adapts across bimanual arms and humanoids with light fine-tuning; the report states these company claims are not independently verified. The model is in testing with early partners, with a public open-weight release planned for the coming months.",
+   "so_what": "If robot competence comes from watching ordinary video rather than from teleoperated demonstrations, the scarce school-side skill shifts from controls engineering toward filming, framing and curating task video. That is a media-production literacy schools already teach, and currently route to entirely different students from the ones in the robotics programme.",
+   "likelihood": "possible",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Robot Report",
+   "source_url": "https://www.therobotreport.com/runway-introduces-praxis-1-world-action-model-robotics/",
+   "source_date": "2026-10-02",
+   "source_type": "news",
+   "first_seen": "2026-10-08",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -10045,11 +10269,12 @@
     "how-students-frame-ai-use-beats-how-much-they-use-it",
     "a-capable-ai-raises-teacher-agency-and-threat-together",
     "memory-supply-caps-the-agent-population",
-    "basic-ai-skill-demand-already-peaked-and-fell"
+    "basic-ai-skill-demand-already-peaked-and-fell",
+    "ai-tutor-trial-drains-participation-not-scores"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-09-29",
-   "status_note": "Carried forward; the framing did not change, so the revision date has not moved. Two findings were added underneath it. Epoch AI estimates the high-bandwidth memory shipped between 2025 and 2027 could run 33 to 171 million concurrent frontier agents, or about 1.9 billion on efficient open models — which locates the ceiling on agent supply in a memory supply chain rather than in model quality, and makes the scarce human capability supervision rather than execution. Workday's recruiting telemetry puts the other half of it: employer demand for basic AI skills peaked in January 2026 and has fallen 25% since, while demand for hands-on building and automation rose 51%. Neither settles amplification against deskilling. Both sharpen what the question is about, which is not whether students use AI but whether what remains for them to do is work that builds anything.",
+   "last_revised": "2026-10-08",
+   "status_note": "Revised on the best-designed evidence this uncertainty has had. A randomised study of 2,379 undergraduates across 30 instructors at Maryland gave some sections a GPT-4o study assistant inside the course platform. Participation in the learning system fell 0.90 standard deviations and grades finished around four percentage points lower, 0.37 of a standard deviation — and only about 15% of the students offered the tutor ever opened it. An eighth of a cohort produced a cohort-level effect, which means the damage is concentrated rather than diffuse, and it is the students who reach for the tool who carry it. Nearly 74% of the requests it did receive were for information, explanations or solutions rather than for help working something through. This does not settle amplification against deskilling, because the trial measured offering a tutor rather than teaching with one. What it does settle is that merely making the thing available is not neutral.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -10149,11 +10374,13 @@
     "an-outside-lab-publishes-its-verdict-before-a-model-ships",
     "removing-the-class-teacher-from-grading-cut-the-gap",
     "oecd-adds-teachers-and-still-reports-shortages",
-    "sat-mean-rises-as-the-testing-pool-shrinks"
+    "sat-mean-rises-as-the-testing-pool-shrinks",
+    "ai-tutor-trial-drains-participation-not-scores",
+    "vision-models-lack-perceptual-adaptation"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-07",
-   "status_note": "Revised on an instrument changing under the measurement. The class of 2026 posted a mean SAT of 1045, up 16 points, on a pool that shrank 2.5% to about 1.95 million and sat a test redesigned in 2024 from nine reading passages of 400 to 750 words to 54 passages of 25 to 150 words, in just over two hours rather than three. Three things moved at once — who sits it, what it asks, and what it reports — and only 42% cleared both benchmarks. This uncertainty has argued for narrowing to instruments a school directly controls and can verify. The SAT is the clearest case yet of the opposite kind: an instrument nobody in the building controls, whose year-on-year movement cannot be decomposed into learning, composition and redesign by anyone outside College Board. A school that cites the number in its marketing has adopted a measurement it cannot audit."
+   "last_revised": "2026-10-08",
+   "status_note": "Revised on where the damage showed up. In the Maryland trial the effect that mattered was invisible in the place a school would look: assignment quality held up well enough that a pilot watching grades would have reported no harm, while participation in the course platform fell 0.90 standard deviations. The instrument that saw it was a log, not an assessment — which is both the reassuring and the alarming half of this uncertainty. Reassuring, because a school does hold an instrument capable of detecting this. Alarming, because that instrument is a vendor's telemetry, calibrated on nobody in particular, and no school has ever validated it as a measure of engagement. Alongside it: machine vision in Current Biology shows none of the adaptation-induced position drift that macaque IT cortex and human perception both show, so a proctoring or attention-scoring system and the student it is watching will disagree in a patterned way that reads as student error."
   },
   {
    "id": "cu-credential",
@@ -10226,11 +10453,15 @@
     "ai-skill-outprices-other-technical-skills-in-pay",
     "basic-ai-skill-demand-already-peaked-and-fell",
     "federal-scholarship-credit-pays-for-tutoring-in-public-schools",
-    "eu-regions-split-above-and-below-the-2030-jobs-target"
+    "eu-regions-split-above-and-below-the-2030-jobs-target",
+    "korea-puts-the-ib-inside-public-schools",
+    "uwa-chennai-branch-campus-cleared",
+    "ilo-says-the-informality-escalator-has-stalled",
+    "asia-pacific-employers-report-rising-compliance-pressure"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-07",
-   "status_note": "Revised on price, which is the thing this uncertainty is actually about. Robert Half's 2027 guide has 72% of managers planning to pay more for AI expertise and 42% saying it now outprices other technical skills, with LinkedIn putting advertised AI roles near $177,000 against about $80,000 for non-AI roles. Against that, Workday's telemetry shows demand for basic AI skills peaked in January 2026 and has fallen 25% since while hands-on building rose 51% — so the premium is already moving off literacy and onto construction, inside a single year. The repricing is no longer a forecast; it is happening faster than a curriculum cycle, which is the part that should worry a school. Separately, the Section 25F rules now fund tutoring for public-school students, which opens a family-directed market in supplemental instruction that competes with the credential-granting institution rather than with other credentials."
+   "last_revised": "2026-10-08",
+   "status_note": "Revised on three findings that all point the same way: the credential and the market that prices it are coming apart geographically. South Korea now has 110 authorised IB World Schools, 72 of them public, and more than 1,200 certified public school teachers, adopted explicitly against a projected 31% fall in the K-12 population by 2033 — while only one-third of Korean university admission quotas recognise Diploma Programme credentials with CSAT exemptions. A national system can nationalise a curriculum faster than its own universities learn to read it. Meanwhile India's UGC cleared the University of Western Australia's second branch campus, so the degree relocates to the student rather than the student to the degree, removing the outbound-mobility premium underneath a great deal of college counselling. And the ILO's chief economist says 2.1 billion workers, 58% of the global workforce, remain informal and the decline has stalled, which is the reminder that the whole pole-A-versus-pole-B argument is being conducted about a minority of the world's labour market."
   },
   {
    "id": "cu-liability",
@@ -10310,11 +10541,12 @@
     "routine-air-sampling-found-measles-with-no-known-case",
     "fewer-than-one-in-five-stay-on-antipsychotics",
     "clinicians-challenge-the-brain-matures-at-25-claim",
-    "flood-insurance-covers-a-fraction-of-the-properties-at-risk"
+    "flood-insurance-covers-a-fraction-of-the-properties-at-risk",
+    "autonomous-wildfire-launcher-sold-by-the-month"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-07",
-   "status_note": "Revised on the map a school's duty is measured against turning out to be wrong. An Associated Press analysis of the National Flood Insurance Program found that in the eastern Kentucky floods of 2022 only 18% of the buildings actually damaged sat inside a FEMA-mapped high-risk zone, while 2.4% of US properties carry federal flood cover against 8.4% at severe or extreme risk. Facilities planning, insurance placement and board risk registers all key off that map. If the instrument that defines reasonable precaution misses four damaged buildings in five, then a campus that did everything the map asked has a documented record of compliance and no defence on the merits — which is this uncertainty's pole A arriving by accident rather than by design."
+   "status_note": "Carried forward; nothing moved it this scan and the revision date has not been bumped. One finding was added underneath: FireDome is selling an autonomous wildfire launcher at $10,000 to $15,000 a month, aimed at property owners rather than fire departments. That is worth holding here rather than in the technology file, because the mechanism by which it would reach a campus is insurance — a carrier making suppression hardware a condition of cover turns a robotics purchase into a liability decision taken by the facilities budget. Nothing yet says a carrier has done so. Watch for the first underwriting guideline that names autonomous suppression."
   },
   {
    "id": "cu-boundary",
@@ -10386,11 +10618,12 @@
     "imagined-speech-decodes-at-parity-with-spoken-speech",
     "one-in-ten-cortical-variants-alters-gene-activity",
     "post-practice-vagus-stimulation-window",
-    "speech-polyfeatures-predict-decline-seven-years"
+    "speech-polyfeatures-predict-decline-seven-years",
+    "vision-models-lack-perceptual-adaptation"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-07",
-   "status_note": "Revised one notch inward, from what a student wears to what is done to a student's nervous system. Tohoku researchers stimulated the cervical vagus nerve in mice after training rather than during it and got stronger long-term motor learning, with the size of the cerebellar blood-volume oscillation predicting the gain by day five — no sample size or effect size published, so this is thin evidence of a real mechanism rather than strong evidence of anything. Set beside it, Boston University's finding that speech features during story recall predict cognitive screener performance seven years later, at an area under the precision-recall curve of 0.77 against 0.81 for hand-scoring. One says the minutes after a lesson may be a stimulable window; the other says the recording of an ordinary oral task is already a longitudinal instrument. The boundary question has been about possession and the line around assessment. These push it toward consolidation and toward speech, neither of which a school can hand back at the door."
+   "status_note": "Carried forward; revised yesterday, and the framing has not changed, so the date has not moved. One addition sharpens the far edge: vision models encode object position accurately and show none of the adaptation-induced drift that macaque IT cortex and human perception both display. Every entry here so far has asked where the student ends and the equipment begins. This asks a narrower and harder question about the equipment schools are installing to watch students — whether a machine witness and a human witness are even describing the same event. For proctoring, attention scoring and AR overlay that is not a philosophical point, it is a dispute-resolution problem waiting for its first case."
   }
  ],
  "verification": {
@@ -10400,6 +10633,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-08-good-standing",
+   "date": "2026-10-08",
+   "title": "Good Standing",
+   "year": 2033,
+   "axis": "The credential holds its value, while the school's own evidence about its own students is outsourced to instruments nobody in the building can audit.",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Credential reasserts — degrees and transcripts remain the sorting mechanism and the college-preparatory pathway holds."
+    },
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence outsourced — inherited instruments are retained at unknown validity and the gap is managed with vendors, disclaimers and legal review."
+    }
+   ],
+   "premise": "The pathway held. By 2033, selective universities had doubled down on the transcript and a small set of externally administered exams, precisely because everything else a student could submit had become unverifiable. A Mount Vernon transcript is worth more than it was in 2026, and the school knows it. What the school no longer has is any instrument of its own. The wellbeing screener, the placement predictor, the learning-support identifier, the engagement index that flags a student three weeks before a teacher would, the benchmark that says whether a grade means what it meant last year — all of them are vendor products, renewed annually, calibrated on national populations, and none has ever been validated against the four hundred children actually in the building.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Imogen Castellanos, 16",
+     "vignette": "Imogen is in good standing. The dashboard says so: engagement in the ninetieth percentile, no flags, predicted band unchanged since September. She has not finished a book she chose herself since she was thirteen, and she could not say when that stopped. In October she asks her advisor whether anyone looks at anything other than the dashboard, and her advisor says of course, we know you, and means it. Imogen goes away reassured and faintly unconvinced. She is right to be. Nothing in the building is set up to see a student who is doing everything correctly and is not learning."
+    },
+    {
+     "role": "Teacher",
+     "name": "Rafael Oduya",
+     "vignette": "Rafael teaches eleventh-grade history and has stopped trusting the engagement index, not because it is wrong but because he cannot tell when it is. Last spring it flagged two of his quietest readers and missed a boy who was in genuine trouble. He raised it and was told the vendor's validation study covers 1.4 million students. He wanted to ask which 1.4 million. Instead he keeps a paper list in his desk of the nine students he actually worries about, updated on Fridays, shown to nobody, and he is aware that this list is both the best instrument in the building and completely inadmissible."
+    },
+    {
+     "role": "Parent",
+     "name": "Beth Ann Pruitt",
+     "vignette": "Beth Ann gets the quarterly report and it is magnificent: six colour-coded domains, a cohort comparison, a predicted outcome band with a confidence interval. She pays $58,000 a year and this is what good looks like. At the October conference she asks what the confidence interval means and the division head says it reflects the model's uncertainty. She asks uncertainty about what, and there is a pause that she thinks about on the drive home, and again two weeks later, and then not again until March, when her son says something at dinner that is not in any of the six domains."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Sandra Keel",
+     "vignette": "Sandra is dean of academics and the transcript is her instrument. It works: placements are the best in a decade and three universities now treat the school's internal assessments as pre-validated. She also knows the chain. The transcript is trusted because graduates place; graduates place because the transcript is trusted; and the assessments behind it are moderated against a vendor benchmark whose construction is proprietary. She has asked twice. She has the renewal in front of her and a board that reads the placement numbers as proof of quality. She has not worked out how to say that the school's confidence and the school's knowledge stopped being the same thing."
+    }
+   ],
+   "tension": "Everything in this school is working, and nothing in it is measured. The credential held, which is the outcome families paid for and the outcome the strategic plan named — but the credential holds because of a reputational loop with no instrument anywhere inside it, and the better the placements get, the less anyone has reason to look. What the school outsourced was not assessment; it was the capacity to be surprised by its own students. The vendor instruments are not bad. They are simply built to find the children who deviate from a national pattern, and a school's actual job is to notice the child who fits every pattern and is quietly not all right. Rafael's paper list does that and cannot be defended; the dashboard can be defended and does not do that. Nobody chose this trade, and there is no version of the conversation where the board votes to replace a validated national instrument with a history teacher's handwriting.",
+   "provocations": [
+    "Name one instrument this school owns, controls and could defend the validity of to a sceptical parent. If the list is short, what follows?",
+    "Rafael's paper list is the best early-warning system in the building and is invisible to every process. Do we formalise it, and does it survive formalisation?",
+    "Our placement results are the evidence we cite that the school is working. What would have to be true for them to be excellent and for us to be failing a quarter of our students?"
+   ]
+  },
   {
    "id": "sc-2026-10-07-provenance",
    "date": "2026-10-07",
@@ -11872,8 +12153,8 @@
  "challenger": {
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
-  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument. Re-tested on 7 October across the nine-day catch-up window, with far fewer searches than the rewrite itself consumed: nothing found that moves it. No school, district or association surfaced acquiring, piloting or budgeting for media-authentication capability; the Advisory Committee on Evidence Rules has not yet reached its 15 October date; no state has followed Massachusetts in imposing an investigation duty. Record this as a thin null rather than a thorough one — it is a week of not looking very hard and finding nothing, which is weaker evidence than the nine days that produced the rewrite.",
-  "test": "Watch four things over the coming fortnight. First, whether any school, district or association acquires, pilots or budgets for media-authentication capability, as opposed to writing a policy about deepfakes. Second, whether the Advisory Committee on Evidence Rules moves Rule 707 or the proposed Rule 901(c) on deepfakes at its 15 October meeting, and whether either allocates the burden differently. Third, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication — that combination is the actual exposure. Fourth, whether provenance standards reach anything a school touches: a student information system, an email gateway, a phone, a camera. Promote this into the five only if a school-side detection or authentication capability appears, because that is the fact that would make it decidable rather than merely alarming.",
+  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument. Re-tested on 7 October across the nine-day catch-up window, with far fewer searches than the rewrite itself consumed: nothing found that moves it. No school, district or association surfaced acquiring, piloting or budgeting for media-authentication capability; the Advisory Committee on Evidence Rules has not yet reached its 15 October date; no state has followed Massachusetts in imposing an investigation duty. Record this as a thin null rather than a thorough one — it is a week of not looking very hard and finding nothing, which is weaker evidence than the nine days that produced the rewrite. Tested properly on 8 October, ten searches aimed at the four watch items, and it produced a third consecutive null. No school, district or association was found acquiring, piloting or budgeting for media-authentication capability; the searches returned vendor marketing, generic edtech procurement guidance and identity-verification products for banks. The Advisory Committee on Evidence Rules has an October meeting noticed for Boston but no agenda book was published as of today, and the most recent commentary on federal AI-evidence rulemaking describes it as paused. Virginia has a Synthetic Digital Content Workgroup that reported in January, but no state has followed Massachusetts in imposing an investigation duty. The Future of Privacy Forum's school deepfake toolkit remains the best school-facing artefact and it is guidance, not authentication. Three nulls is where a question either earns its place or loses it, and this one earns it on a technicality that matters: the absence of school-side capability IS the claim. A null here is confirmation, not silence. But that cannot be true forever, so it now has a stated expiry.",
+  "test": "This has a decision date. If the Advisory Committee on Evidence Rules meets in October without moving Rule 707 or the proposed Rule 901(c), AND no school, district, association or school-sector vendor has announced media-authentication capability by 31 October, retire it from the challenger slot and record the finding as settled: schools hold the duty, hold no instrument, and nobody is building them one. Until then, watch four things. First, acquisition rather than policy — a line item, a pilot, an RFP. Second, the Evidence Rules agenda book when it publishes, and specifically whether either rule allocates the burden of proof differently. Third, any state that follows Massachusetts in requiring schools to investigate fabricated media without supplying a means of authentication; that combination is the actual exposure. Fourth, whether provenance standards reach anything a school touches — a student information system, an email gateway, a phone, a camera. Promote it into the five only if school-side capability appears, because that is the fact that would make it decidable rather than merely alarming.",
   "first_noted": "2026-09-18"
  }
 }
