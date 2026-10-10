@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-09",
- "scan_count": 32,
+ "last_updated": "2026-10-10",
+ "scan_count": 33,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -3925,7 +3925,7 @@
    "source_date": "2026-08-28",
    "source_type": "journal",
    "first_seen": "2026-09-04",
-   "sightings": 1,
+   "sightings": 2,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6778,7 +6778,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "census-2025-record-income-national-only-instrument",
@@ -7029,7 +7029,7 @@
    "source_date": "2026-09-10",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "frontier-labs-private-safety-standards-talks",
@@ -7073,7 +7073,7 @@
    "source_date": "2026-09-17",
    "source_type": "journal article",
    "first_seen": "2026-09-18",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "math-metacognition-growth-tracks-intelligence",
@@ -10472,6 +10472,204 @@
    "source_type": "journal",
    "first_seen": "2026-10-09",
    "sightings": 1
+  },
+  {
+   "id": "malaysia-indexes-school-closure-to-air-quality",
+   "title": "Malaysia sets a national air-quality number at which schools must close",
+   "type": "signal",
+   "summary": "On 8 October 2026 Malaysia's Education Director-General Mohd Azam Ahmad directed that all educational institutions under the Education Ministry in areas where the Air Pollutant Index exceeds 180, on Department of Environment records, must close from 9 October, and that areas reading above 150 for three consecutive days must close from 12 October. Affected institutions switch to home-based teaching and learning, and teachers and support staff may work from home. State and district education offices are told to monitor readings and act when a threshold is crossed. The directive is area-by-area rather than a nationwide shutdown, and the announcement names neither the number of schools nor the states affected.",
+   "so_what": "Once attendance is governed by a published index threshold rather than a head's judgement, remote learning stops being an emergency improvisation and becomes standing infrastructure that has to be funded, staffed and rehearsed year-round. It also converts a judgement call into a bright line, which is where duties of care usually harden.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Malay Mail",
+   "source_url": "https://www.malaymail.com/news/malaysia/2026/10/08/schools-in-malaysia-to-close-from-tomorrow-if-haze-index-tops-180-education-ministry-says/238300",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "bangladesh-schools-without-a-subject-teacher",
+   "title": "Bangladesh: 3,861 secondary schools have no ICT teacher, 2,744 none in maths",
+   "type": "trend",
+   "summary": "The Daily Star reported on 9 October 2026 that Bangladesh has 2,842 vacant teaching posts in government secondary schools and 77,227 in non-government MPO-listed institutions, across 20,631 secondary schools and secondary sections of colleges serving about 9 million students; the 77,227 figure is the Education Minister's own number given to parliament in April rather than a fresh October count. EMIS data show 3,861 schools with no ICT teacher, 2,744 with no mathematics teacher and 2,625 with no English teacher, while recruitment proceeds in rounds of roughly 2,330 to 3,300 posts. One district school runs at about one teacher per 44 students against the National Education Policy 2010 target of one per 30.",
+   "so_what": "A curriculum can be legislated but not staffed. The binding constraint on any national computing or AI curriculum in a large system is subject-specific teacher supply, not content, devices or policy intent - and recruitment rounds of three thousand against a shortfall of eighty thousand will not close it.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "The Daily Star (Bangladesh)",
+   "source_url": "https://thedailystar.net/news/bangladesh/news/secondary-schools-vacant-posts-hurting-children-taxing-teachers-4294221",
+   "source_date": "2026-10-09",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "libya-strike-exposes-a-salary-heavy-education-budget",
+   "title": "Libya's teacher strike exposes a budget where 91% goes to salaries",
+   "type": "signal",
+   "summary": "Libyan public-school teachers moved from a 15-day sit-in begun on 13 September 2026 to a general strike on 27 September, over pay, outstanding entitlements, health insurance and employment status, and the union maintained the strike after the ministry called for schools to reopen. UNICEF figures cited in the 4 October report put education at an average 16% of Libyan public spending from 2021 to 2023, with 91% of the education budget going to salaries against 7% for capital spending. Ongoing education projects were valued at more than 722 million Libyan dinars, about $113 million, and 258 projects produced 1,815 new classrooms nationwide.",
+   "so_what": "When nine-tenths of an education budget is payroll, a government can fund a pay settlement only by cutting the classroom-building line, so teacher wages and school capacity stop being separate policy choices and become directly substitutable ones. Any system in that position will keep choosing the one with a picket line attached.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Ecofin Agency",
+   "source_url": "https://www.ecofinagency.com/news-services/0410-59441-libya-teachers-strike-tests-an-education-system-under-budget-pressure",
+   "source_date": "2026-10-04",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "one-second-load-delays-degrade-online-learning",
+   "title": "Load delays of one to two seconds degrade online learning in two field studies",
+   "type": "signal",
+   "summary": "Nature Human Behaviour published two longitudinal quasi-experimental field studies online on 8 October 2026 reporting that microdelays as short as one to two seconds predicted impaired learner engagement and achievement. Study 1 covered 26,707 US primary and secondary school students doing online mathematics assignments through ASSISTments.org; Study 2 covered 55,184 aspiring coders, primarily in Latin America, through freeCodeCamp. The accessible article page reports outcomes only qualitatively - fewer assignments completed, longer completion times, more mid-task distraction and multitasking, lower scores, fewer lessons and a lower likelihood of reaching a course milestone - and publishes no coefficients, effect sizes or confidence intervals outside the paywall.",
+   "so_what": "Network latency has been an operations metric and is now an instructional one, which puts learning-platform response times and the bandwidth contract into the academic review rather than the IT budget line. It also means a school can degrade its own teaching by a procurement decision nobody treats as pedagogical.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02598-y",
+   "source_date": "2026-10-08",
+   "source_type": "journal",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "twin-controls-shrink-the-screen-distress-link",
+   "title": "Swedish twin study: co-twin controls cut screen and mental-health links by up to 95%",
+   "type": "signal",
+   "summary": "A Karolinska Institutet analysis of the Child and Adolescent Twin Study in Sweden, published in Nature Human Behaviour on 8 October 2026, followed 21,797 twins (68.5% response rate, 49.9% female) surveyed at ages 9, 15, 18 and 24. In the full sample, heavy recreational screen use - defined as more than 6 hours a day, against 2 hours or less - gave standardised betas of 0.20 to 0.38 for internalizing symptoms at ages 15 and 18. Within discordant monozygotic pairs those fell to 0.02-0.21 at age 15, attenuated by 32-95%, and to 0.18-0.26 at age 18, attenuated by 16-45%, against a Benjamini-Yekutieli threshold of P < 0.00133. Heavy weekday interactive use at 15 predicted a later depressive or anxiety disorder at an adjusted hazard ratio of 3.37 (95% CI 1.98-5.73) in the full sample; within discordant pairs, which pool monozygotic and dizygotic twins, it was 1.65 (1.07-2.56).",
+   "so_what": "If much of the screen-and-distress association is shared family background rather than screens, a device ban is aimed substantially at a confound. A school that justifies one by promising wellbeing gains has volunteered to be measured against an outcome the best-controlled design available does not predict.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Nature Human Behaviour",
+   "source_url": "https://www.nature.com/articles/s41562-026-02607-0",
+   "source_date": "2026-10-08",
+   "source_type": "journal",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "state-anxiety-disengages-the-low-trait-anxious",
+   "title": "State anxiety disengages the low-trait-anxious, reversing the expected effort story",
+   "type": "signal",
+   "summary": "Communications Psychology published on 9 October 2026 two online experiments (N = 107 and N = 572) from the Donders Institute at Radboud University and Johns Hopkins University School of Medicine, manipulating participants' affective state and measuring willingness to take on cognitively demanding tasks. The result contradicted the authors' own hypothesis: participants with low trait anxiety became less engaged under induced state anxiety, and higher trait anxiety weakened rather than amplified that disengagement. Experiment 1 found the pattern only on easy tasks while Experiment 2 found it across all difficulty levels, so the replication is partial. The page is an accepted manuscript subject to further edits and reports no effect sizes or test statistics.",
+   "so_what": "Schools model test anxiety as a uniform brake on effort and point pastoral support at the visibly anxious. If acute anxiety withdraws effort hardest from the habitually calm student, the triage on exam day is aimed at the wrong children.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Communications Psychology (Nature Portfolio)",
+   "source_url": "https://www.nature.com/articles/s44271-026-00545-1",
+   "source_date": "2026-10-09",
+   "source_type": "journal",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "six-grid-operators-ask-ferc-for-more-time",
+   "title": "FERC told six grid operators to speed large loads; all six asked for more time",
+   "type": "signal",
+   "summary": "Utility Dive reported on 8 October 2026 that FERC issued show-cause orders on 18 June 2026 to six system operators demanding plans to speed large-load interconnection, and that all six asked for more time; in August FERC extended PJM's compliance deadline to 16 November. A July 2026 report from the Energy Systems Integration Group and The Brattle Group argues transmission planning must shift from project-by-project upgrades to proactive, coordinated long-term planning, while FERC's 2025 State of the Market report found most transmission projects are still driven by reliability and asset renewal rather than load growth. At least six states have passed laws since 2024 requiring utilities to consider advanced transmission technologies.",
+   "so_what": "Every month the interconnection queue stays jammed, new data-centre demand lands on existing supply rather than new supply, so a school's electricity line is being set by a federal procedural calendar it cannot see and no efficiency retrofit can offset.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Utility Dive",
+   "source_url": "https://www.utilitydive.com/news/power-system-plans-to-meet-large-load-demand-miss-near-term-solutions-some/832508/",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "sediment-core-ties-fire-to-the-end-of-indigenous-burning",
+   "title": "A 1,000-year sediment core ties Australia's fire crisis to the end of Indigenous burning",
+   "type": "driver",
+   "summary": "Nature's news report of 7 October 2026 describes a paper led by Michael-Shawn Fletcher, a Wiradjuri palaeoecologist at the University of Melbourne, reconstructing roughly 1,000 years of vegetation and fire from a lake sediment core in Croajingolong National Park, on Gunaikurnai land at Australia's southeastern tip. The site was open grassy woodland for about 800 years; around 1840, after the Gunaikurnai were violently removed by the British, eucalyptus coverage doubled, woody shrubs spread and the share of high-temperature charcoal rose, which the authors read as a catastrophic wildfire loop in which hotter fires favour flammable regrowth that adds fuel. The 2019-20 Black Summer fires burnt more than 8 million hectares of forest in the region. All figures here are as printed in the news report rather than read off the paper.",
+   "so_what": "This moves Indigenous land management from a cultural-respect topic to a measurable fire-control variable, which decides whether it belongs in a humanities unit or in the earth-science sequence and the campus wildfire plan. A school that teaches it only as history is now teaching it in the wrong department.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "S-Social",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Nature (news)",
+   "source_url": "https://www.nature.com/articles/d41586-026-03184-y",
+   "source_date": "2026-10-07",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
+  },
+  {
+   "id": "woody-blankets-on-permafrost-sold-as-carbon-credits",
+   "title": "A startup lays woody blankets on thawing permafrost and plans to sell the carbon",
+   "type": "signal",
+   "summary": "Nature reported on 8 October 2026 that PermaC, a Canadian start-up co-founded by University of British Columbia natural-hazards researcher Cansu Culha, is laying mats of wood shavings, soil, native seeds and coconut-husk fabric on the eroding edges of permafrost thaw slumps; over one Arctic summer an unblanketed slump edge retreated 5 metres while the blanketed area showed no measurable retreat. The company says it has raised Can$1.4 million, aims to treat 20,000 slumps across Canada and Alaska within a decade, and hopes to issue carbon credits as soon as next year. Researchers quoted by Nature, including Mark Lara of the University of Illinois Urbana-Champaign, caution that the result comes from a single slump in a single summer and that slump geometry, soil carbon content and the split between carbon dioxide and methane could change the numbers dramatically; no third-party-verifiable methodology yet exists.",
+   "so_what": "Carbon removal is drifting from chemistry and forestry toward landscape repair sold on credit markets before any verification standard is built. A school buying offsets against its own net-zero pledge would be underwriting a measurement that does not yet exist.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "T-Technological",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Nature (news)",
+   "source_url": "https://www.nature.com/articles/d41586-026-03045-8",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-10",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -10538,11 +10736,12 @@
     "memory-supply-caps-the-agent-population",
     "basic-ai-skill-demand-already-peaked-and-fell",
     "ai-tutor-trial-drains-participation-not-scores",
-    "ai-gains-saturate-at-twenty-three-hours"
+    "ai-gains-saturate-at-twenty-three-hours",
+    "one-second-load-delays-degrade-online-learning"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-09",
-   "status_note": "Revised on the clearest statement of this question yet produced as two numbers in one study. A meta-analysis of 47 randomised trials from a team at Beijing Forestry University found AI interventions produced a large academic effect, Hedges' g = 0.68 across 37 effect sizes at p < 0.001, and no detectable cognitive effect at all, g = 0.17 across 11 at p = 0.480. Grades move; measured cognition does not. That is not evidence for deskilling - a null is not a decline - but it is strong evidence against the amplification story in its ambitious form, which was always that AI raises what a mind can do rather than what a transcript records. The dosage finding sharpens it further: academic gains peak at about 22.79 hours of intervention and then flatten with a slight decline, so the return is not only narrow but bounded. A school buying AI by the seat-hour past that point is purchasing a curve that has already levelled off.",
+   "status_note": "Carried forward; nothing in this scan bears directly on it and the revision date has not moved. One finding is filed underneath because it will be mistaken for an AI question and is not one: two field studies in Nature Human Behaviour, covering 26,707 US school students and 55,184 learners primarily in Latin America, found that load delays as short as one to two seconds predicted worse engagement and achievement. That is a claim about infrastructure, not about capability - but it matters here because every comparison of an AI tutor against a control is also, silently, a comparison of two response times. Some part of the measured effect of educational software may be latency rather than pedagogy, and no study in this uncertainty has ever controlled for it.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -10646,11 +10845,13 @@
     "ai-tutor-trial-drains-participation-not-scores",
     "vision-models-lack-perceptual-adaptation",
     "three-cannabis-screens-find-three-different-students",
-    "claustrum-tracks-uncertainty-only-while-acting"
+    "claustrum-tracks-uncertainty-only-while-acting",
+    "twin-controls-shrink-the-screen-distress-link",
+    "state-anxiety-disengages-the-low-trait-anxious"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-09",
-   "status_note": "Revised on a study that is this uncertainty's thesis in miniature. A longitudinal cohort of up to 11,036 young people compared three ways of detecting cannabis use: self-report flagged 67% of users, hair toxicology 22% and urine 21%, and the three identified overlapping but substantially different populations. The instrument does not measure the problem; it selects which children are deemed to have it. Every downstream consequence - who is counselled, who is disciplined, who appears in the school's own data and therefore in its understanding of itself - follows from a procurement decision nobody framed as a measurement decision. The finding generalises well past cannabis, to wellbeing screening, learning-support identification and attendance triggers alike. And the harm that was measurable landed on working memory, the capacity every classroom task taxes, which means the children the instrument misses are the ones least able to absorb being missed."
+   "last_revised": "2026-10-10",
+   "status_note": "Revised on the strongest methodological finding this uncertainty has carried. A Karolinska analysis of 21,797 Swedish twins found that heavy screen use was associated with internalizing symptoms at standardised betas of 0.20 to 0.38 in the full sample - and that within discordant monozygotic pairs, who share their genes and their household, the same associations fell to as little as 0.02, attenuated by between 32% and 95% at age 15. The hazard ratio for a later depressive or anxiety diagnosis dropped from 3.37 to 1.65 once twins were compared with their own siblings. The association is not nothing; it is a great deal less than the uncontrolled number a school would read in a headline. This is the clearest available demonstration that an instrument can be real, replicated, widely cited and still mostly measuring something other than what a policy is aimed at. Any school writing a device policy on wellbeing grounds should be able to say which of those two numbers it is relying on."
   },
   {
    "id": "cu-credential",
@@ -10731,11 +10932,13 @@
     "hong-kong-non-local-enrolment-passes-half",
     "gems-prices-the-two-hour-day-at-the-affordable-tier",
     "korea-old-age-dependency-doubles-by-2036",
-    "adb-builds-a-pension-system-around-informal-work"
+    "adb-builds-a-pension-system-around-informal-work",
+    "bangladesh-schools-without-a-subject-teacher",
+    "libya-strike-exposes-a-salary-heavy-education-budget"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-09",
-   "status_note": "Revised on where the competition for a credential is actually happening. Hong Kong's non-local enrolment has passed half the total at 52%, up from 41% in 2019/20, with mainland students 79% of non-local enrolments on publicly funded programmes, and the quota rises again to 50% from 2026/27 - so a regional destination is absorbing demand that American and British counselling offices still model as flowing to them. Alongside it, GEMS will price a two-hour teacher-led day with AI self-pacing at US$8,000 to 10,000, placing individualised instruction in the affordable tier rather than the premium one. And separately, the IRS has published its participating-state list for the federal scholarship tax credit: Georgia is on it as of 14 September, with no eligible-SGO list published yet. The credential question is no longer only whether employers still read transcripts. It is whether the institutions that issue them can defend their price when the two things families thought they were buying - scarcity and personalisation - are both being supplied more cheaply elsewhere."
+   "last_revised": "2026-10-10",
+   "status_note": "Revised on a deadline that could switch the federal scholarship credit off in a single state. Rev. Proc. 2026-6 sets the mechanism behind the Section 25F credit: a participating state must submit a list of qualifying scholarship granting organisations to Treasury, by 1 January of the election year and for 2027 as early as practicable, and the revenue procedure is explicit that if the list is not submitted by the deadline then no organisation in that state qualifies as an SGO for calendar year 2027. Georgia has made the advance election and appears on the IRS participating-state list as of 14 September, but the list of eligible Georgia SGOs is the gating step and has not been published. Separately, two findings on the supply side of the same question: Bangladesh has 3,861 secondary schools with no ICT teacher and 2,744 with no mathematics teacher against recruitment rounds of about three thousand posts, and Libya's education budget runs at 91% salaries against 7% capital. A credential is only worth what the system behind it can actually staff and fund."
   },
   {
    "id": "cu-liability",
@@ -10817,11 +11020,13 @@
     "clinicians-challenge-the-brain-matures-at-25-claim",
     "flood-insurance-covers-a-fraction-of-the-properties-at-risk",
     "autonomous-wildfire-launcher-sold-by-the-month",
-    "eu-opens-a-probe-into-in-game-currencies"
+    "eu-opens-a-probe-into-in-game-currencies",
+    "malaysia-indexes-school-closure-to-air-quality",
+    "six-grid-operators-ask-ferc-for-more-time"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-07",
-   "status_note": "Carried forward; nothing moved the core question and the revision date has not been bumped. One addition belongs here rather than in the technology file: consumer authorities across all 27 EU member states, coordinated through the Consumer Protection Cooperation Network, have opened an investigation into nine game makers over in-game virtual currencies, with a requirement that games display real-world prices and honour a 14-day withdrawal right including for unused currency. The mechanism to watch is not the fine. It is that a child's in-game purchase becomes a consumer contract with a counterparty and a remedy, which is the first plausible route by which a school's duty of care over a student's online life acquires a concrete legal shape rather than a pastoral one."
+   "last_revised": "2026-10-10",
+   "status_note": "Revised on a bright line replacing a judgement call. Malaysia's Education Director-General has directed that institutions in areas where the Air Pollutant Index exceeds 180 must close, and that areas above 150 for three consecutive days must close as well, with affected schools switching to home-based learning. Until now, closing for air quality was a head's discretionary call and a bad outcome was misfortune. Once a published index number triggers a duty, staying open at 181 is a documented failure to act on a reading anyone can retrieve, and the record that proves it is a government dataset the school does not control. That is this uncertainty's mechanism arriving through an environmental door rather than a pastoral one - and heat, air quality and flood indices are all numbers that already exist and could be wired to a duty the same way."
   },
   {
    "id": "cu-boundary",
@@ -10898,7 +11103,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-07",
-   "status_note": "Carried forward unchanged; nothing in this scan bears on it, and the revision date has not moved. Recording the null explicitly because this uncertainty has been fed by neuroscience for three weeks and a quiet scan is a real reading rather than a gap. The nearest adjacent finding, that human claustrum neurons track uncertainty only while a learner is acting and not while resting, is filed under cu-evidence because it concerns when a mind is measurable rather than where the person ends."
+   "status_note": "Carried forward unchanged for a second consecutive scan; nothing in this window bears on it and the revision date has not moved. Two carries in a row is worth recording rather than smoothing over: this uncertainty has been fed almost entirely by neuroscience and consumer-hardware releases, and both streams were quiet. If a third scan passes without evidence, the honest question is whether the question is dormant or whether the scan is simply not looking where the evidence lives - device procurement, accommodation law and examination-board rules rather than journals."
   }
  ],
  "verification": {
@@ -10908,6 +11113,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-10-the-standard",
+   "date": "2026-10-10",
+   "title": "The Standard",
+   "year": 2032,
+   "axis": "The deskilling evidence settles hard enough to form a standard of care, and documented liability rather than pedagogy becomes the thing that decides what a school does about AI.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Deskilling — persistence, conceptual understanding and tolerance for difficulty measurably decay, and schools ring-fence AI-free formation to preserve what the credential means."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — documented duty sets the boundary of practice, and policy, retention schedules and counsel shape what a school may adopt."
+    }
+   ],
+   "premise": "By 2032 the deskilling evidence stopped being contested. Three large longitudinal cohorts landed within eighteen months and a standard of care formed around them, the way it formed around concussion protocols: not by legislation but by accreditors, insurers and the first settled claim. Mount Vernon now runs unaided formation blocks - 40% of assessed work produced in supervised conditions with no machine assistance, logged, retained seven years. The faculty proposed them in 2029 on educational grounds and were voted down on cost. They came back in 2031 because the carrier asked whether the school had them, and the board approved them in one meeting.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Calla Mbeki-Strand, 16",
+     "vignette": "Calla is in Block C, which is three hours a week of work done the slow way, and she is good at it in the way you are good at something you were made to do. What she notices is the camera. Not that it is there - it has always been there - but that her Latin teacher once said, half joking, that the recording is what makes the block count. Calla has started to think of the hard part as something she does for the record rather than for herself, and she cannot work out whether that changes what it does to her. Nobody has ever raised it."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ignatius Pham",
+     "vignette": "Ignatius wrote the original proposal in 2029 and watched it die for want of eleven thousand dollars of invigilation. He now teaches inside the thing he wanted, and it is good: his students argue better and give up later than the cohorts in between. He also knows that the paragraph that saved it was not his. It was a line in the insurance renewal. He has stopped saying this in department meetings because it sounds ungrateful, and because the honest version is worse - that he is no longer sure he would fight for the block if the carrier dropped the question."
+    },
+    {
+     "role": "Parent",
+     "name": "Dov Lanzmann",
+     "vignette": "Dov's daughter will graduate into a market where nobody works unaided, and he has joined eleven other families in a complaint arguing that the school's AI-free blocks withhold the fluency his child is paying for. He is not a crank; he has the hiring data and a lawyer who has read the accreditation standard closely. At the mediation he says the thing that lands: that the school adopted the blocks when its insurer asked, not when its teachers asked, and that a standard of care which arrived through an underwriter is not a standard of care about children."
+    },
+    {
+     "role": "Administrator",
+     "name": "Rosalind Tiernan",
+     "vignette": "Rosalind has both files on her desk and they are the same file. The carrier wants the blocks documented more heavily; the complaint wants them narrowed. Each request is reasonable and each has a lawyer behind it. What she cannot say aloud at the board is that she no longer knows what the school believes about any of this independently of what it can defend, and that she stopped being able to tell the difference some time around the second renewal. She has begun drafting a paper nobody asked for, titled What We Would Do If Nobody Were Watching."
+    }
+   ],
+   "tension": "The right thing happened for the wrong reason, and it is not clear the difference is recoverable. Unaided formation is defensible on the evidence and the students in it are measurably better off; the faculty were right in 2029 and are vindicated. But the blocks exist because an insurer asked a question, which means their scope, their documentation and their survival are all set by whoever is pricing the risk rather than by anyone who has met the children. Dov is also right: a standard of care that arrives through an underwriter encodes the carrier's exposure, not the student's interest, and the two only happen to coincide. And the coincidence is doing real work - it is the only reason the good thing is funded. Nobody in this school can now separate what they believe from what they can defend, and the more successful the blocks become, the less anyone needs to try.",
+   "provocations": [
+    "Ignatius is not sure he would fight for the blocks if the carrier stopped asking. Is that a failure of conviction or an accurate reading of how institutions actually hold a practice in place?",
+    "If a standard of care reaches us through an insurer rather than through evidence we evaluated ourselves, what is our procedure for noticing when the carrier's interest and the student's interest come apart?",
+    "Name a practice we currently defend on educational grounds that we would drop within two years if our insurer stopped asking about it. If the list is empty, are we sure?"
+   ]
+  },
   {
    "id": "sc-2026-10-09-firsthand",
    "date": "2026-10-09",
@@ -12476,8 +12729,8 @@
  "challenger": {
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
-  "why": "Rewritten today, on the ninth day of a test that produced eight consecutive nulls on the mechanism it was originally built around. The trigger theorised purchased, manufactured consensus — astroturf at institutional scale, of the kind documented as a commercial product: 8,913 fabricated articles across 70 sham news sites, an Istanbul firm running a thousand accounts through a national election. Nine days of dedicated searching have found that mechanism nowhere near a school, district or comparable local body; the nearest verified case remains an AI astroturf campaign that used California residents' identities against air regulators in March, which is neither local-institution-scale nor school-adjacent. Impersonation of a single named individual returned nothing new either; the reference case is still an athletic director cloning a Baltimore principal's voice in April 2024. What is unambiguously active is the third mechanism, and it is the one that reframes the question. AI-generated hoax threats against schools are frequent and documented — the FBI issued a public warning on 17 September, and the traceable incidents run through Vermont in June, a California high school in August, Kentucky in August and a Texas arrest in which a man used an AI platform to generate detailed mass-shooting threats against a named San Antonio elementary school. In that case the detection did not come from the school. It came from the FBI's National Threat Operations Section, which surfaced the queries at the provider and alerted local authorities seventeen days later; investigators then traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient with no instrument of its own. Set that against what schools are now being asked to do: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties, and the guidance says nothing whatever about how to establish whether media is fabricated. And set it against where the burden falls: proposed Federal Rule of Evidence 707 has been deferred again to a 15 October meeting, and a Federal Judicial Center survey found 82% of 931 responding judges would require an initial showing before entertaining a claim that a recording is fake. The provenance infrastructure that might close the gap exists but is not pointed at schools — C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and affiliates running live applications and a conformance programme since late 2025, none of it built for a school trying to authenticate a forty-second clip of a teacher. So the uncertainty is no longer which attack arrives. It is that detection capability has migrated to model providers, platforms and federal agencies, the duty to investigate has been pushed down to the institution, and the burden of proof sits with whoever alleges the fake. A school is the only party in that chain that sees the child, holds the duty, and has no instrument. Re-tested on 7 October across the nine-day catch-up window, with far fewer searches than the rewrite itself consumed: nothing found that moves it. No school, district or association surfaced acquiring, piloting or budgeting for media-authentication capability; the Advisory Committee on Evidence Rules has not yet reached its 15 October date; no state has followed Massachusetts in imposing an investigation duty. Record this as a thin null rather than a thorough one — it is a week of not looking very hard and finding nothing, which is weaker evidence than the nine days that produced the rewrite. Tested properly on 8 October, ten searches aimed at the four watch items, and it produced a third consecutive null. No school, district or association was found acquiring, piloting or budgeting for media-authentication capability; the searches returned vendor marketing, generic edtech procurement guidance and identity-verification products for banks. The Advisory Committee on Evidence Rules has an October meeting noticed for Boston but no agenda book was published as of today, and the most recent commentary on federal AI-evidence rulemaking describes it as paused. Virginia has a Synthetic Digital Content Workgroup that reported in January, but no state has followed Massachusetts in imposing an investigation duty. The Future of Privacy Forum's school deepfake toolkit remains the best school-facing artefact and it is guidance, not authentication. Three nulls is where a question either earns its place or loses it, and this one earns it on a technicality that matters: the absence of school-side capability IS the claim. A null here is confirmation, not silence. But that cannot be true forever, so it now has a stated expiry. On 9 October the first watch item resolved, and it is the most informative thing this question has produced. The agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 is published. Proposed Rule 707, on machine-generated evidence, was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c), on deepfakes, has been prepared but not finally approved; the Committee convened a panel of experts for the morning of 15 October to advise on a proposed rule. Two facts in that agenda book settle what was previously open. First, the burden allocation in the current 901(c) draft: the opponent bears the initial burden of producing evidence sufficient to support a finding that the item is a deepfake, and only then must the proponent show it is more likely than not authentic. The party alleging the fake goes first, exactly as the Federal Judicial Center survey of 931 judges predicted. Second, the clock: the May minutes record that 901(c) would not take effect until 1 December 2028 even had it been published in summer 2026, and it was not. So the answer to the question this uncertainty was holding open is now known. No federal rule will help a school establish that media is fabricated before December 2028 at the earliest, the duty to investigate is already in force in at least one state, and whoever alleges the fake carries the opening burden. That is not a null. It is a dated, specific confirmation of the asymmetry, and it converts the question from whether anyone is coming to help into what a school does for the next two years knowing that nobody is.",
-  "test": "The rulemaking watch item is answered: nothing binding before December 2028, and the party alleging a fake makes the initial showing. Three things remain worth watching, and the retirement condition is now tied to them rather than to the committee. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing media-authentication capability, as a line item, a pilot or an RFP. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, whether provenance standards reach anything a school actually touches - a student information system, an email gateway, a phone, a camera. If none of the three has moved by 30 November, retire this from the challenger slot and record the finding as settled rather than open: schools hold the duty, hold no instrument, have a two-year wait for any rule that would allocate the burden, and nobody is building them anything. Promote it into the five only if school-side capability appears, because that is the fact that would make it decidable rather than merely alarming.",
+  "why": "Consolidated on 10 October from four separate tests run between 18 September and today, because the entry had become a log rather than an argument. The argument is this. A school now holds a duty to investigate fabricated media and has no instrument with which to do it, while every party that does have an instrument sits outside the school. The evidence for each half is specific. On capability: in the one fully traceable case, a Texas arrest for AI-generated mass-shooting threats against a named San Antonio elementary school, detection did not come from the school at all - it came from the FBI's National Threat Operations Section, which surfaced the queries at the model provider and alerted local authorities seventeen days later, after which investigators traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient. On duty: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties and said nothing about how to establish whether media is fabricated. New Jersey's principals and supervisors association had already told districts in 2025 to build in a process to review the authenticity of video, audio and images and to explore the use of available tools that may assist in spotting deepfakes - naming no tool, because there is none to name for a school. Two bodies, two years apart, both instructing schools to establish authenticity and neither able to say with what. On the burden of proof: the agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 settles what was open. Proposed Rule 707 on machine-generated evidence was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c) on deepfakes is prepared but not finally approved, with an expert panel convened for the morning of the meeting. Under the current draft the opponent bears the initial burden of producing evidence sufficient to support a finding that an item is a deepfake, and only then must the proponent show it is more likely than not authentic - the party alleging the fake goes first, exactly as a Federal Judicial Center survey of 931 judges predicted, 82% of whom said they would require an initial showing. And the May minutes record that 901(c) could not take effect before 1 December 2028. On provenance: C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and a conformance programme, none of it built for a school trying to authenticate a forty-second clip of a teacher. The mechanism that was originally theorised - purchased, manufactured consensus at institutional scale, documented as a commercial product in 8,913 fabricated articles across 70 sham news sites and an Istanbul firm running a thousand accounts through a national election - has now been searched for across four tests and found nowhere near a school, a district or a comparable local body. The nearest verified case remains an AI astroturf campaign using California residents' identities against air regulators in March. Impersonation of a named individual returned nothing newer than an athletic director cloning a Baltimore principal's voice in April 2024. Four searches for school-side authentication capability - a line item, a pilot, an RFP, a vendor product aimed at schools - have produced four nulls. On this question a null is the finding rather than the absence of one, because the claim is precisely that the capability does not exist. But four is enough: the question is no longer whether anyone is coming to help. It is what a school does for the next two years knowing that nobody is.",
+  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Three things are still open and the retirement condition is tied to them. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, whether provenance standards reach anything a school actually touches - a student information system, an email gateway, a phone, a camera. Watch the 15 October meeting outcome as the near-term marker. If none of the three has moved by 30 November, retire this from the challenger slot and record the finding as settled rather than open: schools hold the duty, hold no instrument, have a two-year wait for any rule that would allocate the burden, and nobody is building them anything. Promote it into the five only if school-side capability appears, because that is the fact that would make it decidable rather than merely alarming.",
   "first_noted": "2026-09-18"
  }
 }
