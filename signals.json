@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-10",
- "scan_count": 33,
+ "last_updated": "2026-10-11",
+ "scan_count": 34,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -6778,7 +6778,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 4
+   "sightings": 5
   },
   {
    "id": "census-2025-record-income-national-only-instrument",
@@ -7029,7 +7029,7 @@
    "source_date": "2026-09-10",
    "source_type": "news",
    "first_seen": "2026-09-18",
-   "sightings": 5
+   "sightings": 6
   },
   {
    "id": "frontier-labs-private-safety-standards-talks",
@@ -10493,7 +10493,7 @@
    "source_date": "2026-10-08",
    "source_type": "news",
    "first_seen": "2026-10-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "bangladesh-schools-without-a-subject-teacher",
@@ -10670,6 +10670,207 @@
    "source_type": "news",
    "first_seen": "2026-10-10",
    "sightings": 1
+  },
+  {
+   "id": "odisha-phone-free-classroom-trial",
+   "title": "A 16,683-student trial finds phone-free classrooms help the weakest students most",
+   "type": "signal",
+   "summary": "Science published a Policy Article on 8 October 2026 reporting a randomised controlled trial of 16,683 students across 10 higher education institutions in Odisha, India, in which phones were collected at the start of lectures. The release reports improved academic performance concentrated among lower-performing students and first-year undergraduates, and effects described as minimal among higher-performing, postgraduate and STEM students; removing phones narrowed GPA disparities. Attendance did not change. Classroom observation found less disruptive behaviour, fewer off-topic conversations and greater teacher engagement, and students who experienced a ban became more supportive of restrictions afterwards. The release reports direction and heterogeneity but gives no effect size in standard deviations or grade points, and the trial was run in colleges and universities, not in schools.",
+   "so_what": "The largest trial yet of classroom phone collection supports a targeted intervention and will almost certainly be cited for a universal one. The finding is that the benefit concentrates in the students who were already struggling and all but disappears for the strong ones - which argues for using a ban as a support measure rather than a moral one, and makes the absence of a published effect size the number a head should ask for before writing policy on it.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "EurekAlert (AAAS, on Science)",
+   "source_url": "https://www.eurekalert.org/news-releases/1146437",
+   "source_date": "2026-10-08",
+   "source_type": "press release on peer-reviewed article",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "breathwork-drops-cerebral-blood-flow",
+   "title": "Intensive breathing cuts blood flow to the brain by about 40%, with no device involved",
+   "type": "signal",
+   "summary": "A study presented at the 39th ECNP Congress and released on 10 October 2026 measured 30 healthy, experienced breathwork practitioners during high-ventilation breathing. Mean global grey-matter cerebral blood flow fell from 16.24 plus or minus 4.35 to 9.81 plus or minus 7.58 ml per 100g per minute, t(29) = -10.69, p < .001, alongside altered network dynamics and subjective states the researchers compare to psychedelic experience. Note a discrepancy in the release itself: the headline says blood flow falls by up to 45% and the body repeats around 45%, but the two printed means correspond to roughly a 40% reduction. This entry reports the measured values rather than the percentage. The work is a congress presentation; the release names no journal.",
+   "so_what": "Every framing of the device question assumes the line is drawn around hardware. This says the most consequential state change available to a sixteen-year-old in an exam room may need no equipment, no substance and no network - only a breathing pattern that is already taught in advisory and wellness programmes as a calming technique. A school that bans phones and teaches breathwork has not drawn a boundary around the unaided person; it has only drawn one around the purchasable part.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "EurekAlert (ECNP)",
+   "source_url": "https://www.eurekalert.org/news-releases/1146789",
+   "source_date": "2026-10-10",
+   "source_type": "press release on conference presentation",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "skilled-trades-pipeline-and-immigration-squeeze",
+   "title": "US trades need 1.7m workers a year while training produces just over half",
+   "type": "trend",
+   "summary": "The Pennsylvania Capital-Star reported on 10 October 2026 that a September report by the Alliance for America's Skilled Trades projects the United States will need 1.7 million new skilled trade workers every year through 2035, while training programmes produce just over half that number and only half of those who enrol in skilled training programmes finish. The squeeze is simultaneously on the other side: Ken Simonson of the Associated General Contractors said more than 50% of craft workers are born outside the United States, a 2025 analysis found immigrants are a majority of roofers, painters and stucco masons, and a federal judge in September stayed warrantless immigration entries at construction sites. Nine states combine high demand with low supply - Arizona, Colorado, Delaware, Florida, Georgia, New Jersey, North Carolina, South Carolina and Texas. The Alliance was formed over the summer by BlackRock, Carhartt, Ford and Google, with Jobs for the Future.",
+   "so_what": "The non-college pathway that advising offices increasingly recommend is being squeezed from both ends at once, and Georgia is on the short list of states where it is worst. The part a school can act on is the completion number, not the demand number: half of entrants finishing means the pathway's weak point is persistence after placement, which is a formation problem schools are actually equipped to address - and which nobody in the coalition is funded to solve.",
+   "likelihood": "plausible",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Labor & Economy",
+   "source_name": "Pennsylvania Capital-Star via WESA",
+   "source_url": "https://www.wesanews.org/politics-government/2026-10-10/immigration-construction-workers-shortage",
+   "source_date": "2026-10-10",
+   "source_type": "news",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "world-bank-prescribes-small-ai-twice",
+   "title": "The World Bank tells two regions the same thing: build small AI, not frontier",
+   "type": "signal",
+   "summary": "On 6 October 2026 the World Bank released regional economic updates for Sub-Saharan Africa and South Asia on the same day, both with artificial intelligence as the special focus. The Africa Economic Update states that the region's greatest opportunity lies in affordable, locally adapted small AI applications, meaning low bandwidth tools for education, agriculture, health, finance, logistics and public administration, rather than frontier AI systems, with growth projected at 4.3% in 2026 and adoption concentrated in Kenya, Nigeria and South Africa. The South Asia Economic Update, subtitled Adopting AI for Growth, projects 6.9% growth in 2026 and reports around 23% of Indian firms using AI against 43% in the United States, arguing for AI in public service delivery across health, education and agriculture while warning that capturing gains requires carefully tailoring tools to local conditions.",
+   "so_what": "Development finance has settled on a prescription before the evidence on learning gains is in: small, local, low-bandwidth AI, with education named as a delivery sector in both regions. That matters to an American independent school because it sets the direction of the tools most of the world's children will meet first, and because the capability question is now being answered institutionally - by what gets financed - rather than empirically.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "World Bank",
+   "source_url": "https://www.worldbank.org/en/news/press-release/2026/10/06/economic-growth-in-sub-saharan-africa-gains-momentum-despite-global-uncertainty",
+   "source_date": "2026-10-06",
+   "source_type": "institutional report",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "texas-growth-funding-lag-opens-charter-lane",
+   "title": "Texas growth funding arrives after you must build, and charters need no bond",
+   "type": "trend",
+   "summary": "The Texas Tribune reported on 8 October 2026 that in Liberty County, between Houston and Beaumont, charter enrolment went from 71 students in 2021-22 to 3,379 added since, across six new schools, while traditional districts added about 2,090 over the same period from a base of 22,224. Cleveland ISD, serving more than 12,000 students next to the 34,000-acre Colony Ridge development, lost bond votes of $250 million in 2019, $150 million in 2021 and $125 million in 2023; Texas caps the statewide fast-growth allotment at $320 million a year and prorates it, so over six years the district was entitled to about $83 million and received $69 million. Statewide, rural districts added 156,204 students since 2021 while urban districts lost 89,707, and charters now enrol 8.2% of Texas public students against roughly 5% a decade ago.",
+   "so_what": "The mechanism is the story and it generalises: districts must build before the growth money arrives and need voter approval to do it, while charters can open campuses without a bond or an electorate. Where growth is fastest the public system is structurally the slowest provider, and the resulting overcrowding feeds the ratings decline that moves the next family. Any independent school in a growth corridor should read this as a description of its own enrolment tailwind, and of how fragile the public alternative beside it has become.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "The Texas Tribune",
+   "source_url": "https://www.texastribune.org/2026/10/08/texas-rural-public-schools-charter-growth-struggle/",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "lithium-buildout-becomes-a-water-fight",
+   "title": "The race for lithium in the arid West is becoming a race for water",
+   "type": "trend",
+   "summary": "Inside Climate News and Columbia Journalism Investigations published a joint investigation on 11 October 2026 built on an S&P Global dataset of roughly 540 proposed lithium mines worldwide and about 100 US projects in the permitting pipeline, with at least half a dozen new mines expected by 2030 and another 13 to follow. Nearly two-thirds of proposed and developing US mines sit near socially and economically vulnerable communities, and nearly six in ten are where drought is projected to be most severe. In California's Imperial Valley, Controlled Thermal Resources has requested 6,500 acre-feet a year for Hell's Kitchen, two operators together could consume up to 50,000 acre-feet, and the county projects up to 100,000 acre-feet for a full buildout - against Imperial Irrigation District commitments to cut at least 250,000 acre-feet a year from 2027. Farmers pay $20 an acre-foot for river water while some residents face utility bills near $1,000 a year.",
+   "so_what": "The energy transition's bottleneck is turning out to be water rights rather than minerals, in counties that are already drought-exposed and already poor. For a school this is the shape of the next decade's civics and science curriculum - allocation conflicts between a decarbonisation imperative and a local community, with no villain and no clean answer - and it is also a preview of how the siting fights over data centres will be argued.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Inside Climate News / Columbia Journalism Investigations",
+   "source_url": "https://insideclimatenews.org/news/11102026/lithium-race-becomes-race-for-water-in-arid-west/",
+   "source_date": "2026-10-11",
+   "source_type": "investigative journalism",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "usda-corn-yield-surprise-sinks-price",
+   "title": "USDA's corn yield surprise beats almost every trade estimate and sinks the price",
+   "type": "signal",
+   "summary": "The USDA's October WASDE, reported by DTN on 9 October 2026, raised the 2026-27 US corn yield by 2.7 bushels per acre to 181.2, against a trade average expectation of 177.6 in a range of 173.2 to 182.1. Production rose to 16.034 billion bushels from 15.8 billion in September, ending stocks to 1.849 billion from 1.567 billion, and the season-average price forecast fell 10 cents to $4.70 a bushel; corn futures dropped about 30 cents to a six-week low. Soybean yield went to 53.1 bushels per acre and wheat ending stocks to 740 million bushels with the price cut to $6.30. The report does not explain why the yield came in above expectations - it cites neither weather, genetics, management practice nor methodology.",
+   "so_what": "A record yield is an income shock for farm households and for the local tax bases that fund rural schools, arriving in the same month those districts are absorbing the fastest enrolment growth in the country. The second thing worth noticing is the unexplained surprise itself: the most heavily resourced agricultural forecasting apparatus in the world missed by more than the width of most of its analysts' range and offered no account of why.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "DTN Progressive Farmer",
+   "source_url": "https://www.dtnpf.com/agriculture/web/ag/news/article/2026/10/09/usda-raises-corn-yield-2-7-bpa-181-2",
+   "source_date": "2026-10-09",
+   "source_type": "news",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "teams-adds-third-party-deepfake-detection",
+   "title": "Microsoft Teams will surface third-party deepfake detection inside meetings",
+   "type": "signal",
+   "summary": "Microsoft 365 roadmap items 573451 and 573157, reported by BleepingComputer on 8 October 2026, add third-party deepfake detection and impersonation protection to Teams, with general availability expected in November after a worldwide rollout. The detection is not performed by Teams. Certified third-party providers analyse meeting audio and video and send signals back, which Teams surfaces as integrated in-meeting experiences and controls, and as impersonation warnings and risk indicators for organisers and attendees. Neither the roadmap entries nor the reporting mentions education, and neither states which licensing tiers will receive the capability or which providers are certified.",
+   "so_what": "This is the first time in three weeks of tracking that a verification capability has reached a platform schools actually run - and it arrives as a socket rather than a capability, with the detection itself performed by a vendor the school has not chosen and cannot audit. That changes the liability picture before it changes the practice: once authentication is purchasable, not buying it becomes a documented decision rather than an absence of options.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "BleepingComputer",
+   "source_url": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-11",
+   "sightings": 1
+  },
+  {
+   "id": "tipping-point-research-attention-mismatch",
+   "title": "A 20,736-paper audit finds climate tipping-point research does not track risk",
+   "type": "signal",
+   "summary": "A study by Heming Wang and colleagues published in the Proceedings of the National Academy of Sciences on 6 October 2026 audited 20,736 peer-reviewed publications covering 14 climate tipping elements across roughly a quarter-century. Greenland dominates the literature while the North Atlantic subpolar gyre, whose threshold is estimated at about 1.8 degrees C, appears in 649 papers or 3.1% of the total, with only 53 examining tipping dynamics. Boreal permafrost abrupt thaw, with a threshold estimated near 1.5 degrees C, together with coral reefs accounts for just 22 papers on tipping dynamics. Of all 20,736 papers, only 8.1% explicitly examined abruptness or irreversibility - the two properties that make a tipping element a tipping element. The authors attribute the concentration to historical momentum rather than risk priority.",
+   "so_what": "This is the clearest available demonstration that a settled-looking evidence base can be shaped by what was easy to study rather than by what matters, and it is measured rather than asserted. Any school that teaches climate as established science, or that reads a literature review as a map of the risk, is reading a distribution. The transferable discipline is to ask of any body of evidence not what it says but what proportion of it examined the property the decision actually turns on.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "PNAS",
+   "source_url": "https://www.pnas.org/doi/10.1073/pnas.2618666123",
+   "source_date": "2026-10-06",
+   "source_type": "peer-reviewed study",
+   "first_seen": "2026-10-11",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -10737,11 +10938,12 @@
     "basic-ai-skill-demand-already-peaked-and-fell",
     "ai-tutor-trial-drains-participation-not-scores",
     "ai-gains-saturate-at-twenty-three-hours",
-    "one-second-load-delays-degrade-online-learning"
+    "one-second-load-delays-degrade-online-learning",
+    "world-bank-prescribes-small-ai-twice"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-09",
-   "status_note": "Carried forward; nothing in this scan bears directly on it and the revision date has not moved. One finding is filed underneath because it will be mistaken for an AI question and is not one: two field studies in Nature Human Behaviour, covering 26,707 US school students and 55,184 learners primarily in Latin America, found that load delays as short as one to two seconds predicted worse engagement and achievement. That is a claim about infrastructure, not about capability - but it matters here because every comparison of an AI tutor against a control is also, silently, a comparison of two response times. Some part of the measured effect of educational software may be latency rather than pedagogy, and no study in this uncertainty has ever controlled for it.",
+   "last_revised": "2026-10-11",
+   "status_note": "Revised on an institutional answer arriving ahead of an empirical one. On 6 October the World Bank published regional economic updates for Sub-Saharan Africa and South Asia on the same day, both with AI as the special focus, and both prescribing the same thing: affordable, locally adapted small AI for public service delivery, with education named as a delivery sector in each, rather than frontier systems. Around 23% of Indian firms report using AI against 43% in the United States. Nothing in either report establishes that these tools build capability; what the reports establish is that the money has already chosen. This uncertainty has been framed as a question the evidence will settle. It is now also a question that development finance is settling in advance, for the tools most of the world's children will meet first - which means the eventual evidence will be gathered on systems that were selected for cost and bandwidth rather than for learning.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -10847,11 +11049,13 @@
     "three-cannabis-screens-find-three-different-students",
     "claustrum-tracks-uncertainty-only-while-acting",
     "twin-controls-shrink-the-screen-distress-link",
-    "state-anxiety-disengages-the-low-trait-anxious"
+    "state-anxiety-disengages-the-low-trait-anxious",
+    "tipping-point-research-attention-mismatch",
+    "odisha-phone-free-classroom-trial"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-10",
-   "status_note": "Revised on the strongest methodological finding this uncertainty has carried. A Karolinska analysis of 21,797 Swedish twins found that heavy screen use was associated with internalizing symptoms at standardised betas of 0.20 to 0.38 in the full sample - and that within discordant monozygotic pairs, who share their genes and their household, the same associations fell to as little as 0.02, attenuated by between 32% and 95% at age 15. The hazard ratio for a later depressive or anxiety diagnosis dropped from 3.37 to 1.65 once twins were compared with their own siblings. The association is not nothing; it is a great deal less than the uncontrolled number a school would read in a headline. This is the clearest available demonstration that an instrument can be real, replicated, widely cited and still mostly measuring something other than what a policy is aimed at. Any school writing a device policy on wellbeing grounds should be able to say which of those two numbers it is relying on."
+   "last_revised": "2026-10-11",
+   "status_note": "Revised on a finding about evidence itself rather than about students. A PNAS audit of 20,736 peer-reviewed papers across 14 climate tipping elements found that only 8.1% examined abruptness or irreversibility - the properties that define the thing being studied - and that attention tracks historical momentum rather than risk: the North Atlantic subpolar gyre, threshold about 1.8 degrees C, holds 3.1% of the literature with 53 papers on tipping dynamics, and boreal permafrost abrupt thaw accounts for 22. The mechanism transfers directly to every body of evidence a school consumes. A literature is not a map of what matters; it is a map of what was tractable. The practical version of the question also showed up this week: a 16,683-student randomised trial on classroom phone collection reported direction and heterogeneity through its press release and no effect size at all, which is the magnitude a head would need to decide whether the intervention is worth its cost. Ask of any evidence base what share of it examined the property the decision turns on."
   },
   {
    "id": "cu-credential",
@@ -10934,11 +11138,12 @@
     "korea-old-age-dependency-doubles-by-2036",
     "adb-builds-a-pension-system-around-informal-work",
     "bangladesh-schools-without-a-subject-teacher",
-    "libya-strike-exposes-a-salary-heavy-education-budget"
+    "libya-strike-exposes-a-salary-heavy-education-budget",
+    "skilled-trades-pipeline-and-immigration-squeeze"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-10",
-   "status_note": "Revised on a deadline that could switch the federal scholarship credit off in a single state. Rev. Proc. 2026-6 sets the mechanism behind the Section 25F credit: a participating state must submit a list of qualifying scholarship granting organisations to Treasury, by 1 January of the election year and for 2027 as early as practicable, and the revenue procedure is explicit that if the list is not submitted by the deadline then no organisation in that state qualifies as an SGO for calendar year 2027. Georgia has made the advance election and appears on the IRS participating-state list as of 14 September, but the list of eligible Georgia SGOs is the gating step and has not been published. Separately, two findings on the supply side of the same question: Bangladesh has 3,861 secondary schools with no ICT teacher and 2,744 with no mathematics teacher against recruitment rounds of about three thousand posts, and Libya's education budget runs at 91% salaries against 7% capital. A credential is only worth what the system behind it can actually staff and fund."
+   "last_revised": "2026-10-11",
+   "status_note": "Revised on the alternative pathway being squeezed from both ends at once. A September report from the Alliance for America's Skilled Trades - a coalition formed this summer by BlackRock, Carhartt, Ford and Google with Jobs for the Future - projects the United States needing 1.7 million new skilled trade workers a year through 2035, against training programmes producing just over half that and only half of entrants finishing. On the supply side, the Associated General Contractors put more than 50% of craft workers as foreign-born, with immigration enforcement at construction sites now the subject of a federal stay. Georgia is one of nine states combining high demand with low supply. The advising implication is uncomfortable: the pathway schools increasingly recommend as the pragmatic alternative to a degree has a completion problem, not a demand problem, and the completion problem is a formation problem no one in that coalition is funded to solve. Separately, the Section 25F tracking item is carried unchanged for a sixth run - Georgia has made the advance election but its list of qualifying scholarship granting organisations remains unpublished."
   },
   {
    "id": "cu-liability",
@@ -11022,11 +11227,12 @@
     "autonomous-wildfire-launcher-sold-by-the-month",
     "eu-opens-a-probe-into-in-game-currencies",
     "malaysia-indexes-school-closure-to-air-quality",
-    "six-grid-operators-ask-ferc-for-more-time"
+    "six-grid-operators-ask-ferc-for-more-time",
+    "teams-adds-third-party-deepfake-detection"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-10",
-   "status_note": "Revised on a bright line replacing a judgement call. Malaysia's Education Director-General has directed that institutions in areas where the Air Pollutant Index exceeds 180 must close, and that areas above 150 for three consecutive days must close as well, with affected schools switching to home-based learning. Until now, closing for air quality was a head's discretionary call and a bad outcome was misfortune. Once a published index number triggers a duty, staying open at 181 is a documented failure to act on a reading anyone can retrieve, and the record that proves it is a government dataset the school does not control. That is this uncertainty's mechanism arriving through an environmental door rather than a pastoral one - and heat, air quality and flood indices are all numbers that already exist and could be wired to a duty the same way."
+   "last_revised": "2026-10-11",
+   "status_note": "Revised on a duty acquiring a purchasable means. Microsoft 365 roadmap items 573451 and 573157 add third-party deepfake detection and impersonation protection to Teams, general availability expected in November. Teams does not perform the detection: certified third-party providers analyse the meeting media and return signals, which Teams surfaces as warnings and risk indicators. This is the mechanism this uncertainty tracks, arriving from the vendor side rather than the regulatory one. While no instrument existed, a school that could not authenticate media had an excuse that was also a fact. Once the capability ships inside a platform most schools already run, the absence becomes a procurement decision - documented, dated, and made by someone whose name is on the renewal. The structural problem does not go away: the detection still sits with a vendor the school did not choose and cannot audit, so what the school acquires is a signal rather than a capability."
   },
   {
    "id": "cu-boundary",
@@ -11099,11 +11305,12 @@
     "one-in-ten-cortical-variants-alters-gene-activity",
     "post-practice-vagus-stimulation-window",
     "speech-polyfeatures-predict-decline-seven-years",
-    "vision-models-lack-perceptual-adaptation"
+    "vision-models-lack-perceptual-adaptation",
+    "breathwork-drops-cerebral-blood-flow"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-07",
-   "status_note": "Carried forward unchanged for a second consecutive scan; nothing in this window bears on it and the revision date has not moved. Two carries in a row is worth recording rather than smoothing over: this uncertainty has been fed almost entirely by neuroscience and consumer-hardware releases, and both streams were quiet. If a third scan passes without evidence, the honest question is whether the question is dormant or whether the scan is simply not looking where the evidence lives - device procurement, accommodation law and examination-board rules rather than journals."
+   "last_revised": "2026-10-11",
+   "status_note": "Revised after two consecutive carries, and the revision vindicates the complaint recorded with the second one - that the scan was looking where the evidence was not. A study released on 10 October from the 39th ECNP Congress measured 30 experienced breathwork practitioners during high-ventilation breathing and found mean global grey-matter cerebral blood flow falling from 16.24 to 9.81 ml per 100g per minute, t(29) = -10.69, p < .001, with network changes and subjective states the researchers compare to psychedelic experience. The release's own headline figure of 45% does not follow from its printed means, which give about 40%; the measured values are the defensible part. The relevance is that this uncertainty has been fed almost entirely by hardware, and hardware was the wrong place to look. A student can produce a large, measurable change in their own brain state with no device, no substance and no network - using a technique many schools already teach in advisory as a calming exercise. A boundary drawn around equipment is a boundary drawn around the purchasable part of the question only."
   }
  ],
  "verification": {
@@ -11113,6 +11320,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-11-baseline",
+   "date": "2026-10-11",
+   "title": "Baseline",
+   "year": 2037,
+   "axis": "The opposite corner of 29 September: AI use turns out to build capability rather than dissolve it, and the boundary around the unaided person collapses - so the school's job becomes designing the pairing, and amplification turns out to amplify the gap.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Amplification - routine use measurably builds judgment when the student brings a real question to it, and three independent replications settle the deskilling argument against the pessimists."
+    },
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The equipped student is the student - the line collapses, unaided work stops being assessed, and competence is defined as a property of the person plus their instruments."
+    }
+   ],
+   "premise": "By 2037 the deskilling case has lost. Three replications across four countries established that routine machine use builds judgment, persistence and conceptual reach - on one condition, that the student arrives with a question of their own. Extraction decays; interrogation compounds. Mount Vernon stopped assessing unaided work in 2034 and now assesses pairings: the student, their instruments and the transcript of what passed between them. The school was right, early, and is widely copied. The consequence nobody argued for is that the scarce input turned out to be the disposition to ask, which tracks family, early talk and prior confidence more tightly than anything the old system ever measured. Amplification is real. It amplifies what arrives.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Tamsin Achebe-Roy, 17",
+     "vignette": "Tamsin is the student the model works best on, and she knows it. Her transcripts read like arguments: she pushes back, she refuses the first answer, she asks the thing underneath. Her roommate Ines does none of this and is not lazy - she accepts what she is given because that is what she was taught a question is for. Tamsin has started reading Ines's transcripts and finds them unbearable, not because they are stupid but because every one of them stops exactly where hers begins. She has no idea how to teach someone to want more, and she is beginning to suspect nobody does."
+    },
+    {
+     "role": "Teacher",
+     "name": "Hollis Vantongeren",
+     "vignette": "Hollis teaches the pairing seminar and has the best outcome data in the division, which he regards as a measurement error he has not yet located. His intervention is twelve weeks of being asked what he actually wants to know, and it works on students who already half knew. On the others it produces compliant, well-formed, hollow questions - the shape of curiosity without the pressure behind it. He wrote a paper in 2035 arguing the school had industrialised an aptitude rather than taught a skill. It was cited admiringly and changed nothing, including in his own classroom."
+    },
+    {
+     "role": "Parent",
+     "name": "Yusuf Dereli",
+     "vignette": "Yusuf's son is doing fine and Yusuf is the one who objects. He grew up where nobody asked him anything and learned to ask anyway, late, badly, alone, and he thinks that long hard stretch is the thing his son is being spared and also the thing that made him. He cannot make the argument without sounding like a man romanticising his own deprivation, so at the parent forum he asks a narrower question instead: if the school assesses the pairing, who is being graded? He is told this is a category error. He does not think it is."
+    },
+    {
+     "role": "Administrator",
+     "name": "Pearl Mwangi-Stroud",
+     "vignette": "Pearl has the admissions model in front of her and it is unambiguous. The single best predictor of growth under the pairing curriculum is a disposition the school does not create, and selecting for it would make every outcome number rise. Three peer schools have quietly started. She has drafted a policy that forbids it here and she does not know whether the policy is integrity or vanity, because the families who bring that disposition will keep arriving regardless and the gap will widen either way. What she cannot find is a single intervention in the literature that moves it."
+    }
+   ],
+   "tension": "The optimists were right and it did not help. Routine machine use does build capability, the evidence is now as good as education evidence gets, and the school that acted on it early is genuinely better - students argue harder, reach further and quit later than any cohort before them. But the mechanism turns out to have a precondition the school cannot manufacture: it amplifies a disposition to interrogate that arrives already formed, mostly from home. For a decade the equity argument against AI was that it would deskill the vulnerable. The actual outcome is the opposite shape and worse news - it works, it works best on the already-advantaged, and because it works nobody can argue for withholding it. Hollis industrialised an aptitude. Pearl can see exactly which applicants have it. Yusuf is asking whether the thing that formed him is now something the school removes on purpose. And the better the outcomes get, the more completely the question disappears into them.",
+   "provocations": [
+    "If an intervention works, and works roughly twice as well on students who arrive with advantages, is it an equity intervention, a stratifying one, or both - and which of those does our current reporting make visible?",
+    "Hollis can produce the form of a good question in twelve weeks and not the pressure behind it. Name something we teach where we are confident we are producing the pressure and not the form. How would we know we were wrong?",
+    "Pearl's policy forbids selecting on a disposition that would improve every number we publish. Would we hold that line in a year when enrolment was down 8%? What would make the answer not depend on the year?"
+   ]
+  },
   {
    "id": "sc-2026-10-10-the-standard",
    "date": "2026-10-10",
@@ -12729,8 +12984,8 @@
  "challenger": {
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
-  "why": "Consolidated on 10 October from four separate tests run between 18 September and today, because the entry had become a log rather than an argument. The argument is this. A school now holds a duty to investigate fabricated media and has no instrument with which to do it, while every party that does have an instrument sits outside the school. The evidence for each half is specific. On capability: in the one fully traceable case, a Texas arrest for AI-generated mass-shooting threats against a named San Antonio elementary school, detection did not come from the school at all - it came from the FBI's National Threat Operations Section, which surfaced the queries at the model provider and alerted local authorities seventeen days later, after which investigators traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient. On duty: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties and said nothing about how to establish whether media is fabricated. New Jersey's principals and supervisors association had already told districts in 2025 to build in a process to review the authenticity of video, audio and images and to explore the use of available tools that may assist in spotting deepfakes - naming no tool, because there is none to name for a school. Two bodies, two years apart, both instructing schools to establish authenticity and neither able to say with what. On the burden of proof: the agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 settles what was open. Proposed Rule 707 on machine-generated evidence was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c) on deepfakes is prepared but not finally approved, with an expert panel convened for the morning of the meeting. Under the current draft the opponent bears the initial burden of producing evidence sufficient to support a finding that an item is a deepfake, and only then must the proponent show it is more likely than not authentic - the party alleging the fake goes first, exactly as a Federal Judicial Center survey of 931 judges predicted, 82% of whom said they would require an initial showing. And the May minutes record that 901(c) could not take effect before 1 December 2028. On provenance: C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and a conformance programme, none of it built for a school trying to authenticate a forty-second clip of a teacher. The mechanism that was originally theorised - purchased, manufactured consensus at institutional scale, documented as a commercial product in 8,913 fabricated articles across 70 sham news sites and an Istanbul firm running a thousand accounts through a national election - has now been searched for across four tests and found nowhere near a school, a district or a comparable local body. The nearest verified case remains an AI astroturf campaign using California residents' identities against air regulators in March. Impersonation of a named individual returned nothing newer than an athletic director cloning a Baltimore principal's voice in April 2024. Four searches for school-side authentication capability - a line item, a pilot, an RFP, a vendor product aimed at schools - have produced four nulls. On this question a null is the finding rather than the absence of one, because the claim is precisely that the capability does not exist. But four is enough: the question is no longer whether anyone is coming to help. It is what a school does for the next two years knowing that nobody is.",
-  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Three things are still open and the retirement condition is tied to them. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, whether provenance standards reach anything a school actually touches - a student information system, an email gateway, a phone, a camera. Watch the 15 October meeting outcome as the near-term marker. If none of the three has moved by 30 November, retire this from the challenger slot and record the finding as settled rather than open: schools hold the duty, hold no instrument, have a two-year wait for any rule that would allocate the burden, and nobody is building them anything. Promote it into the five only if school-side capability appears, because that is the fact that would make it decidable rather than merely alarming.",
+  "why": "Consolidated on 10 October from four separate tests run between 18 September and today, because the entry had become a log rather than an argument. The argument is this. A school now holds a duty to investigate fabricated media and has no instrument with which to do it, while every party that does have an instrument sits outside the school. The evidence for each half is specific. On capability: in the one fully traceable case, a Texas arrest for AI-generated mass-shooting threats against a named San Antonio elementary school, detection did not come from the school at all - it came from the FBI's National Threat Operations Section, which surfaced the queries at the model provider and alerted local authorities seventeen days later, after which investigators traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient. On duty: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties and said nothing about how to establish whether media is fabricated. New Jersey's principals and supervisors association had already told districts in 2025 to build in a process to review the authenticity of video, audio and images and to explore the use of available tools that may assist in spotting deepfakes - naming no tool, because there is none to name for a school. Two bodies, two years apart, both instructing schools to establish authenticity and neither able to say with what. On the burden of proof: the agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 settles what was open. Proposed Rule 707 on machine-generated evidence was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c) on deepfakes is prepared but not finally approved, with an expert panel convened for the morning of the meeting. Under the current draft the opponent bears the initial burden of producing evidence sufficient to support a finding that an item is a deepfake, and only then must the proponent show it is more likely than not authentic - the party alleging the fake goes first, exactly as a Federal Judicial Center survey of 931 judges predicted, 82% of whom said they would require an initial showing. And the May minutes record that 901(c) could not take effect before 1 December 2028. On provenance: C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and a conformance programme, none of it built for a school trying to authenticate a forty-second clip of a teacher. The mechanism that was originally theorised - purchased, manufactured consensus at institutional scale, documented as a commercial product in 8,913 fabricated articles across 70 sham news sites and an Istanbul firm running a thousand accounts through a national election - has now been searched for across four tests and found nowhere near a school, a district or a comparable local body. The nearest verified case remains an AI astroturf campaign using California residents' identities against air regulators in March. Impersonation of a named individual returned nothing newer than an athletic director cloning a Baltimore principal's voice in April 2024. Four searches for school-side authentication capability - a line item, a pilot, an RFP, a vendor product aimed at schools - have produced four nulls. On this question a null is the finding rather than the absence of one, because the claim is precisely that the capability does not exist. But four is enough: the question is no longer whether anyone is coming to help. It is what a school does for the next two years knowing that nobody is. Addendum, 11 October. The fourth null has an exception. Microsoft 365 roadmap items 573451 and 573157 add third-party deepfake detection and impersonation protection to Teams, general availability expected in November after a worldwide rollout. This is the first movement in three weeks on the third watch item, and it is the first verification capability to reach a platform schools actually run. It does not falsify the argument; it sharpens it. Teams performs no detection of its own - certified third-party providers analyse the meeting media and return signals, which Teams surfaces as in-meeting controls and as impersonation warnings and risk indicators. Neither the roadmap entries nor the reporting mentions education, licensing tiers or which providers are certified. So the instrument is arriving, but it is arriving as a socket into which someone else's instrument plugs, which leaves the school holding the duty, the signal and the liability while holding none of the capability. That is a different problem from having nothing, and a worse one to be unprepared for.",
+  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Of the three open items, the third has now moved. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Five searches, five nulls. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, whether provenance or detection reaches anything a school actually touches. This has moved: Teams gets third-party deepfake detection at general availability in November. The follow-on questions are which licensing tiers carry it, which providers are certified, and whether an education tenant gets it at all - all three unanswered in the announcement and all three decidable by watching the November release notes. The 15 October Evidence Rules meeting outcome remains the near-term marker. The retirement condition is unchanged but its terms have shifted: if by 30 November no school-side acquisition has appeared and no state has followed Massachusetts, retire this from the challenger slot - but record the finding as changed rather than settled, because a capability a school can buy and cannot audit is a live governance question even after the detection question closes. Promote it into the five only if school-side capability appears.",
   "first_noted": "2026-09-18"
  }
 }
