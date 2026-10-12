@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-11",
- "scan_count": 34,
+ "last_updated": "2026-10-12",
+ "scan_count": 35,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -312,7 +312,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 7,
+   "sightings": 8,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6778,7 +6778,7 @@
    "source_date": "2026-09-16",
    "source_type": "news",
    "first_seen": "2026-09-17",
-   "sightings": 5
+   "sightings": 6
   },
   {
    "id": "census-2025-record-income-national-only-instrument",
@@ -8634,7 +8634,7 @@
    "source_date": "2026-09-22",
    "source_type": "news",
    "first_seen": "2026-09-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "lutetium-clocks-agree-at-the-nineteenth-digit",
@@ -10537,7 +10537,7 @@
    "source_date": "2026-10-04",
    "source_type": "news",
    "first_seen": "2026-10-10",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "one-second-load-delays-degrade-online-learning",
@@ -10871,6 +10871,188 @@
    "source_type": "peer-reviewed study",
    "first_seen": "2026-10-11",
    "sightings": 1
+  },
+  {
+   "id": "epa-strips-nonattainment-review-from-atlanta",
+   "title": "EPA strips nonattainment permit review from metro Atlanta's seven ozone counties",
+   "type": "signal",
+   "summary": "EPA published a final rule on 8 October 2026 at 91 FR 64274, docket EPA-R04-OAR-2024-0626, approving Georgia's removal of Nonattainment New Source Review from the Atlanta 2015 8-hour ozone area - Bartow, Clayton, Cobb, DeKalb, Fulton, Gwinnett and Henry Counties - effective 9 November 2026, along with the emission reduction credit provisions in Rule 391-3-1-.03(13). The sole adverse comment, from the Southern Environmental Law Center, argued that Atlanta's 2024 ozone design values exceeded the standard and that removal would let new gas units at Plant Bowen and Plant Wansley be reviewed under the less stringent PSD track. EPA did not confirm or dispute those design values; it held that PSD applies on the basis of designation status rather than current air quality, Atlanta having been redesignated to attainment effective 16 November 2022.",
+   "so_what": "The permitting regime over the seven counties where this school's families live now tracks a 2022 designation rather than 2024 measurements, just as data-centre and gas load arrives in the metro. Whether the campus has an ozone-day protocol for athletics and outdoor instruction stops being something the permitting floor underwrites and becomes a school policy decision, made by people who will have to justify it without a regulatory number to point at.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Federal Register (EPA)",
+   "source_url": "https://www.federalregister.gov/documents/2026/10/08/2026-20636/air-plan-approval-ga-removal-of-nonattainment-area-new-source-review",
+   "source_date": "2026-10-08",
+   "source_type": "policy",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "section-25f-rules-net-the-state-credit-first",
+   "title": "The federal scholarship credit's rules subtract a state credit before the $1,700 cap",
+   "type": "signal",
+   "summary": "Treasury published proposed regulations under section 25F on 2 October 2026 at 91 FR 62818, with comments due 1 December and a public hearing on 15 December. The credit is capped at $1,700 per individual, and qualifying contributions are reduced by any state credit received for the same contribution before the cap is applied. Scholarship granting organisations must be 501(c)(3) public charities, hold segregated accounts, spend at least 90% of income on scholarships, verify household income against a 300%-of-area-median limit and avoid disqualified persons; donors receive acknowledgments with unique donor numbers reported on Form 8525. A participating state must still certify its SGO list to the Secretary not later than 1 January of each calendar year, and for 2027 as early as practicable.",
+   "so_what": "For a Georgia donor who already takes the state scholarship credit, the federal credit is worth far less than the headline figure, because the state credit is netted out before the cap rather than stacked on top of it - which makes the development office's modelling of this credit, and any campaign built on it, wrong in the same direction for every donor. After six consecutive scans that found only law-firm alerts, the operating rules are now on the table.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Federal Register (Treasury and IRS)",
+   "source_url": "https://www.federalregister.gov/documents/2026/10/02/2026-20277/federal-scholarship-tax-credit",
+   "source_date": "2026-10-02",
+   "source_type": "policy",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "australia-high-court-counts-exported-emissions",
+   "title": "Australia's High Court makes a regulator weigh the emissions burned in other countries",
+   "type": "signal",
+   "summary": "On 7 October 2026 the High Court of Australia, three judges to two, dismissed MACH Energy's appeal and upheld the block on extending the Mount Pleasant open-cut coal mine in the NSW Hunter Valley to 2048. The expansion would have caused more than 870 million tonnes of carbon dioxide equivalent from combustion occurring in other countries, and the court found that the NSW Independent Planning Commission needed to consider imposing conditions to minimise, to the greatest extent practicable, all greenhouse gas emissions rather than only those released on site. The challenge was brought by the Denman Aberdeen Muswellbrook Scone Healthy Environment Group. Legal commentators describe it as the first time the High Court has considered who is responsible for greenhouse gas emissions and the harm they cause; reporting of the coal tonnage differs between outlets, so this entry gives only the carbon figure.",
+   "so_what": "An apex court has held that an exporting country's regulator must account for its customers' combustion, which is the clearest available classroom case of the question students find hardest - where an emission stops being yours. It also runs in parallel with the Boulder deception case argued in the US Supreme Court on 5 October, so a school teaching this as contested evidence should expect the contest to be partly settled, in opposite directions, within the next two years.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "ABC News (Australia)",
+   "source_url": "https://www.abc.net.au/news/2026-10-07/mount-pleasant-coal-mine-high-court-ruling/107233650",
+   "source_date": "2026-10-07",
+   "source_type": "news",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "colonial-land-use-loaded-the-forest-before-warming",
+   "title": "A 1,000-year lake core: colonial land use loaded Australia's forests before warming did",
+   "type": "driver",
+   "summary": "A study led by Michael-Shawn Fletcher of the University of Melbourne with the Gunaikurnai Land and Waters Corporation, published in Nature and released on 8 October 2026, reconstructed 1,000 years of vegetation, fire and erosion from a lake sediment record in Croajingolong National Park, East Gippsland, using pollen, charcoal and infrared estimation of past fire temperatures. It reports a four-fold increase in eucalypt cover, hotter fires replacing cooler cultural fires, and increased soil erosion after British colonisation halted Indigenous cultural burning. The paper does not claim colonisation rather than climate change drives the current crisis: it argues colonial land-use legacies set the stage and, in Fletcher's phrase, handed control of fire to climate. It does not quantify the relative contribution of the two.",
+   "so_what": "This is a rare, defensible classroom case of layered causation, where one cause loads the system and a second one fires it - and it arrives already being retold under the headline 'colonisation, not climate change', which is a claim the paper declines to make. A school that wants students to reason about attribution now has both the evidence and a live example of that evidence being flattened in transit, which is the more useful of the two lessons.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "University of Melbourne, on Fletcher et al., Nature",
+   "source_url": "https://www.unimelb.edu.au/newsroom/news/2026/october/australias-bushfire-crisis-linked-to-colonial-land-use-change",
+   "source_date": "2026-10-08",
+   "source_type": "study",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "teen-chatgpt-parent-alerts-fail-an-audit",
+   "title": "Teen ChatGPT sent zero parent alerts across a 4,000-prompt safety audit",
+   "type": "signal",
+   "summary": "Common Sense Media's Youth AI Safety Institute published a risk assessment on 7 October 2026 rating OpenAI's ChatGPT for Teens an unacceptable risk, after running more than 4,000 prompts on accounts registered to 13-to-17-year-olds before and after the product's 18 August announcement, with responses reviewed by child psychiatrists and a paediatrician. Testers spent up to an hour discussing suicidal ideation, self-harm or disordered eating on newly created parent-linked accounts and the linked parent accounts received zero alerts; the product missed more than one in four warranted crisis referrals and fell below its own 95% threshold on three of the five severe harms the Institute treats as red lines. Caregiver-set study hours could be defeated by deleting the @study prefix, and adult-registered test accounts never switched to the teen experience even when testers said they were 13. The Institute discloses that it is funded partly by the OpenAI Foundation and by makers of technologies it evaluates, and the release gives no denominators for the crisis-referral rate.",
+   "so_what": "Any school counting a vendor's teen mode and parental alerts as part of its safeguarding or academic-integrity layer is relying on controls that did not fire under test, and on an age assignment the product never actually made. The harder problem is the second order: the only body auditing this is funded in part by the company it audited, so the instrument measuring the instrument has a disclosed interest too.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Common Sense Media (Youth AI Safety Institute)",
+   "source_url": "https://www.commonsensemedia.org/press-releases/chatgpt-for-teens-poses-unacceptable-risk-to-kids-common-sense-media-finds",
+   "source_date": "2026-10-07",
+   "source_type": "report",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "israel-plans-ai-english-in-every-school",
+   "title": "Israel plans AI English in every school within three years on an untested evaluation",
+   "type": "signal",
+   "summary": "JNS reported on 6 October 2026 that Israel's Education Ministry intends to extend Project 720, an AI-delivered English-language programme, to every school in the country within three years, and that a preliminary evaluation found gains among struggling students while the effect on academic achievement has not yet been tested. The three-year universal target is carried by that single outlet. Earlier reporting in the Jerusalem Post on 24 August described Project 720 as a ministry initiative run as a regulatory sandbox with Microsoft, Google and Amazon named among the suppliers, growing from a 28-school pilot in 2025 to a planned 180 schools with about 300 expressing interest, available in Hebrew and Arabic, and reported no outcome data of any kind.",
+   "so_what": "A national system is committing to universal AI-delivered instruction in a core subject on an evaluation that, by its own account, has not measured achievement - and the suppliers are the same three hyperscalers whose products are already in most American schools. Expect 'adopted nationally' to arrive in vendor materials long before any achievement result does, and treat the regulatory-sandbox framing as the thing to ask about rather than the reassurance it sounds like.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Education",
+   "source_name": "JNS",
+   "source_url": "https://www.jns.org/feature/israels-ai-classroom-experiment-is-going-national",
+   "source_date": "2026-10-06",
+   "source_type": "news",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "indonesia-rebuilds-ninety-thousand-schools",
+   "title": "Indonesia adds 6,000 schools to a rebuild that now covers more than 90,000",
+   "type": "trend",
+   "summary": "ANTARA, Indonesia's state news agency, reported on 2 October 2026 that Primary and Secondary Education Minister Abdul Mu'ti had added 6,000 schools to the 2026 revitalisation programme, whose initial target was 71,744, bringing the 2025-2026 total above 90,000 including 16,167 in 2025. Mu'ti said there is no per-school funding cap and that priority goes to frontier, underdeveloped and outermost regions, disaster-hit areas and severely damaged schools. The report carries two completion dates that do not reconcile - all schools renovated by the end of 2028, and a presidential goal of about 100,000 educational units by 2027 - and it is ministerial self-reporting through the state wire, with no independent verification of how many of the 90,000 are complete rather than allocated.",
+   "so_what": "The world's fourth-largest school system is spending its scarce state capacity on roofs and walls rather than pedagogy or technology, and is triaging explicitly by disaster exposure. For most of the world's children the binding constraint on learning this decade is physical plant, and climate damage has become an ordinary line in school capital planning rather than an emergency one.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic",
+    "I-Environmental"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "ANTARA News",
+   "source_url": "https://en.antaranews.com/news/433953/indonesian-govt-adds-6000-schools-to-2026-revitalization-program",
+   "source_date": "2026-10-02",
+   "source_type": "news",
+   "first_seen": "2026-10-12",
+   "sightings": 1
+  },
+  {
+   "id": "irish-schools-close-over-a-whole-government-pay-deal",
+   "title": "Irish teachers to close almost all schools twice over a national public-service pay deal",
+   "type": "signal",
+   "summary": "The Irish Times reported on 5 October 2026 that teachers' unions would serve strike notice the following day for one-day strikes on 14 and 21 October, the second of which would close almost all schools, with INTO beginning a work-to-rule on 5 October that its general secretary John Boyle expected to run three school weeks. The dispute is over a new national public-service pay deal rather than any education-specific claim, and the action spans health, local government and justice, naming INMO, SIPTU, Forsa, the IMO, TUI and Unite alongside the teaching unions; the Minister for Public Expenditure, Jack Chambers, called the disruption completely unnecessary while promising a very significant allocation for 2027 public pay. The reporting gives no count of schools, teachers or the pay percentage in dispute.",
+   "so_what": "Teacher pay here is being settled inside a whole-of-government pay round, which means the school calendar is exposed to a fiscal timetable no education ministry controls and no education argument can move. Where teacher compensation is bundled with nurses and civil servants, the lever that closes a school sits in the finance department, and the thing that reopens it has nothing to do with children.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "The Irish Times",
+   "source_url": "https://www.irishtimes.com/ireland/2026/10/05/almost-all-schools-to-close-for-second-day-in-coming-weeks-as-unions-turn-the-screw/",
+   "source_date": "2026-10-05",
+   "source_type": "news",
+   "first_seen": "2026-10-12",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -10939,11 +11121,12 @@
     "ai-tutor-trial-drains-participation-not-scores",
     "ai-gains-saturate-at-twenty-three-hours",
     "one-second-load-delays-degrade-online-learning",
-    "world-bank-prescribes-small-ai-twice"
+    "world-bank-prescribes-small-ai-twice",
+    "israel-plans-ai-english-in-every-school"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-11",
-   "status_note": "Revised on an institutional answer arriving ahead of an empirical one. On 6 October the World Bank published regional economic updates for Sub-Saharan Africa and South Asia on the same day, both with AI as the special focus, and both prescribing the same thing: affordable, locally adapted small AI for public service delivery, with education named as a delivery sector in each, rather than frontier systems. Around 23% of Indian firms report using AI against 43% in the United States. Nothing in either report establishes that these tools build capability; what the reports establish is that the money has already chosen. This uncertainty has been framed as a question the evidence will settle. It is now also a question that development finance is settling in advance, for the tools most of the world's children will meet first - which means the eventual evidence will be gathered on systems that were selected for cost and bandwidth rather than for learning.",
+   "last_revised": "2026-10-12",
+   "status_note": "Revised on a second institutional answer arriving ahead of an empirical one, two days after the first. Israel's Education Ministry intends to extend Project 720, an AI-delivered English programme supplied with Microsoft, Google and Amazon components and run as a regulatory sandbox, to every school in the country within three years - on a preliminary evaluation that, by the ministry's own account, has not tested the effect on academic achievement. The pilot was 28 schools in 2025 and the next phase is 180. Taken with the World Bank's twin prescriptions on 6 October, the pattern this week is that the capability question is being settled by procurement in two different systems before any of the evidence lands. One honest gap to record: a German randomised controlled trial of GPT-4o self-regulated-learning scaffolds with 371 students in Grades 7-9, reporting near-total nulls on elaboration and learning-by-explaining and 35% attrition, surfaced in this scan and is not logged, because three metadata services declined to give its publication date and it may predate the window. If it is in-window it belongs here.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -11051,11 +11234,12 @@
     "twin-controls-shrink-the-screen-distress-link",
     "state-anxiety-disengages-the-low-trait-anxious",
     "tipping-point-research-attention-mismatch",
-    "odisha-phone-free-classroom-trial"
+    "odisha-phone-free-classroom-trial",
+    "teen-chatgpt-parent-alerts-fail-an-audit"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-11",
-   "status_note": "Revised on a finding about evidence itself rather than about students. A PNAS audit of 20,736 peer-reviewed papers across 14 climate tipping elements found that only 8.1% examined abruptness or irreversibility - the properties that define the thing being studied - and that attention tracks historical momentum rather than risk: the North Atlantic subpolar gyre, threshold about 1.8 degrees C, holds 3.1% of the literature with 53 papers on tipping dynamics, and boreal permafrost abrupt thaw accounts for 22. The mechanism transfers directly to every body of evidence a school consumes. A literature is not a map of what matters; it is a map of what was tractable. The practical version of the question also showed up this week: a 16,683-student randomised trial on classroom phone collection reported direction and heterogeneity through its press release and no effect size at all, which is the magnitude a head would need to decide whether the intervention is worth its cost. Ask of any evidence base what share of it examined the property the decision turns on."
+   "last_revised": "2026-10-12",
+   "status_note": "Revised on an instrument a school would plausibly be relying on failing its first public audit. Common Sense Media's Youth AI Safety Institute ran more than 4,000 prompts on accounts registered to 13-to-17-year-olds and found that parent-linked accounts received zero alerts after up to an hour of conversation about suicidal ideation, self-harm or disordered eating; that more than one in four warranted crisis referrals were missed; that three of five severe-harm red lines fell below the product's own 95% threshold; that caregiver study hours were defeated by deleting a four-character prefix; and that adult-registered accounts never switched to the teen experience even when the tester said they were 13. Two cautions that belong in the same breath. The release publishes no denominators for the referral rate. And the Institute discloses funding from the OpenAI Foundation and from makers of technologies it evaluates. So this uncertainty now has a second storey: the school cannot audit the vendor's instrument, and the body that can is not disinterested either."
   },
   {
    "id": "cu-credential",
@@ -11139,11 +11323,12 @@
     "adb-builds-a-pension-system-around-informal-work",
     "bangladesh-schools-without-a-subject-teacher",
     "libya-strike-exposes-a-salary-heavy-education-budget",
-    "skilled-trades-pipeline-and-immigration-squeeze"
+    "skilled-trades-pipeline-and-immigration-squeeze",
+    "section-25f-rules-net-the-state-credit-first"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-11",
-   "status_note": "Revised on the alternative pathway being squeezed from both ends at once. A September report from the Alliance for America's Skilled Trades - a coalition formed this summer by BlackRock, Carhartt, Ford and Google with Jobs for the Future - projects the United States needing 1.7 million new skilled trade workers a year through 2035, against training programmes producing just over half that and only half of entrants finishing. On the supply side, the Associated General Contractors put more than 50% of craft workers as foreign-born, with immigration enforcement at construction sites now the subject of a federal stay. Georgia is one of nine states combining high demand with low supply. The advising implication is uncomfortable: the pathway schools increasingly recommend as the pragmatic alternative to a degree has a completion problem, not a demand problem, and the completion problem is a formation problem no one in that coalition is funded to solve. Separately, the Section 25F tracking item is carried unchanged for a sixth run - Georgia has made the advance election but its list of qualifying scholarship granting organisations remains unpublished."
+   "last_revised": "2026-10-12",
+   "status_note": "Revised, and a tracking item that produced six consecutive nulls has finally moved. Treasury's proposed regulations under section 25F, published 2 October at 91 FR 62818 with comments due 1 December and a hearing on 15 December, set the operating rules behind the federal scholarship credit: a $1,700 per-individual cap, with qualifying contributions reduced by any state credit received for the same contribution before the cap is applied; scholarship granting organisations required to be 501(c)(3) public charities spending at least 90% of income on scholarships and verifying household income against a 300%-of-area-median limit; unique donor numbers reported on Form 8525. The netting rule is the one that bites in Georgia, which has its own scholarship credit: a donor taking both does not stack them, and every model built on the headline $1,700 is wrong in the same direction. The state-list deadline is unchanged - not later than 1 January of each year, and for 2027 as early as practicable - and Georgia's list of qualifying organisations is still unpublished."
   },
   {
    "id": "cu-liability",
@@ -11228,11 +11413,13 @@
     "eu-opens-a-probe-into-in-game-currencies",
     "malaysia-indexes-school-closure-to-air-quality",
     "six-grid-operators-ask-ferc-for-more-time",
-    "teams-adds-third-party-deepfake-detection"
+    "teams-adds-third-party-deepfake-detection",
+    "epa-strips-nonattainment-review-from-atlanta",
+    "australia-high-court-counts-exported-emissions"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-11",
-   "status_note": "Revised on a duty acquiring a purchasable means. Microsoft 365 roadmap items 573451 and 573157 add third-party deepfake detection and impersonation protection to Teams, general availability expected in November. Teams does not perform the detection: certified third-party providers analyse the meeting media and return signals, which Teams surfaces as warnings and risk indicators. This is the mechanism this uncertainty tracks, arriving from the vendor side rather than the regulatory one. While no instrument existed, a school that could not authenticate media had an excuse that was also a fact. Once the capability ships inside a platform most schools already run, the absence becomes a procurement decision - documented, dated, and made by someone whose name is on the renewal. The structural problem does not go away: the detection still sits with a vendor the school did not choose and cannot audit, so what the school acquires is a signal rather than a capability."
+   "last_revised": "2026-10-12",
+   "status_note": "Revised on the mechanism running backwards for once. Two days ago this uncertainty took Malaysia indexing school closure to a published air-quality number - a duty hardening around a measurement. This week EPA did the opposite on our own doorstep: a final rule effective 9 November removes Nonattainment New Source Review from the seven metro Atlanta counties, and EPA held explicitly that the stricter PSD-versus-NNSR question turns on designation status rather than current air quality, declining to engage with the 2024 design values the Southern Environmental Law Center put in front of it. The regulatory floor under campus air quality now tracks a 2022 designation. That is the uncomfortable symmetry: a duty can arrive because a number was wired to it, and it can leave because the number was decoupled from it, and in neither case did anyone at the school participate in the decision. Separately, the High Court of Australia held three to two that a regulator must weigh more than 870 million tonnes of carbon dioxide equivalent burned by customers overseas - liability extending past the point of sale, which is the same doctrinal move the Boulder deception case argued on 5 October would make in the United States."
   },
   {
    "id": "cu-boundary",
@@ -11310,7 +11497,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-11",
-   "status_note": "Revised after two consecutive carries, and the revision vindicates the complaint recorded with the second one - that the scan was looking where the evidence was not. A study released on 10 October from the 39th ECNP Congress measured 30 experienced breathwork practitioners during high-ventilation breathing and found mean global grey-matter cerebral blood flow falling from 16.24 to 9.81 ml per 100g per minute, t(29) = -10.69, p < .001, with network changes and subjective states the researchers compare to psychedelic experience. The release's own headline figure of 45% does not follow from its printed means, which give about 40%; the measured values are the defensible part. The relevance is that this uncertainty has been fed almost entirely by hardware, and hardware was the wrong place to look. A student can produce a large, measurable change in their own brain state with no device, no substance and no network - using a technique many schools already teach in advisory as a calming exercise. A boundary drawn around equipment is a boundary drawn around the purchasable part of the question only."
+   "status_note": "Carried forward; revised yesterday on the breathwork hypoperfusion finding and nothing in this window bears on it, so the revision date has not moved. The redirection recorded yesterday stands and should govern the next several scans: this uncertainty was fed almost entirely by consumer hardware and neuroscience releases, and the evidence that actually moved it came from self-regulation research with no device in it at all. Keep looking in accommodation law, examination-board rules, device procurement and self-induced state change rather than in product launches."
   }
  ],
  "verification": {
@@ -11320,6 +11507,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-12-unforced",
+   "date": "2026-10-12",
+   "title": "Unforced",
+   "year": 2035,
+   "axis": "The opposite corner of 23 September: the credential holds and liability stays mere friction, so nothing outside the school ever compels it to change - and the school discovers what it does with a free hand.",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Credential reasserts - the entry-level dip proved cyclical, degrees held as the sorting mechanism, and the college-preparatory pathway kept its premium intact."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as friction - it raised cost and paperwork and changed nothing about practice; schools absorbed it as overhead the way they absorbed FERPA, and pedagogy stayed a pedagogical decision."
+    }
+   ],
+   "premise": "By 2035 both of the decade's loudest anxieties resolved benignly. The entry-level collapse turned out to be interest rates: hiring recovered in 2029 and the degree held. The liability wave crested and settled into paperwork, priced into the renewal and delegated to a compliance officer who is competent and uninteresting. Nothing outside Mount Vernon now compels it to do anything in particular. The school is as free as it has been since 1972. Enrolment is full, the waiting list is real, and the strategic plan adopted in 2033 is the 2028 plan with the dates changed. The innovation programme still exists. It is run by two people, it is extremely good, and in twelve years nothing it has produced has altered a single graduation requirement.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Marisol Okpara-Vance, 17",
+     "vignette": "Marisol is in the design studio on a Thursday and it is the best room in the school, which is also the problem. She picked the two-year capstone because she wanted to, and the eleven people in it wanted to, and that is the whole selection mechanism. Her brother did the ordinary path and is at the same university she is applying to, with a slightly better transcript, because the capstone is weighted as one elective. She does not resent this. What she has started to notice is that nobody has ever had to decide whether the room matters, because nothing has ever made them."
+    },
+    {
+     "role": "Teacher",
+     "name": "Benedict Oyelaran",
+     "vignette": "Benedict has taught here nineteen years and has watched four reform waves arrive as consultants and leave as binders. He is good at his subject and his students do well, and he has stopped proposing things. The honest account, which he gave once at a retreat and has not repeated, is that every change he ever won was won because something outside forced it - an accreditor, a lawsuit, a pandemic - and that with none of those pressing, the school reverts to whatever its most confident parents last approved of. He is not bitter. He finds it clarifying, which worries him more."
+    },
+    {
+     "role": "Parent",
+     "name": "Thea Brandvold",
+     "vignette": "Thea chose the school for the innovation language in the viewbook and has been happy for six years. At the capital campaign dinner she asks the development director, pleasantly, what the school does differently now from what it did in 2023. She gets a good answer about the studio and the capstone, and she believes it, and on the drive home she works out that the answer named programmes rather than requirements, and that both are optional, and that her daughter could have gone through the whole school without touching either. She decides not to raise it. The school is excellent and her daughter is fine."
+    },
+    {
+     "role": "Administrator",
+     "name": "Garrett Nwosu-Kehoe",
+     "vignette": "Garrett has the easiest job of any head in the association and knows exactly what it costs. He has no crisis, no consent decree, no enrolment cliff and no insurer asking questions, and so every proposal he brings competes only against comfort, which beats it. He has started reading the minutes of schools that had something go wrong, with something close to envy, and he is aware that this is a diseased thing to feel. What he cannot work out is how you manufacture a forcing function honestly, or whether a school that needs one has already answered the question."
+    }
+   ],
+   "tension": "Everything the school feared failed to happen, and the absence turned out to be the problem. For a decade every serious change in independent education was made under duress - by an accreditor, a carrier, a court, a labour market or a virus - and the schools that looked bravest were mostly the ones standing where the pressure landed. Remove the pressure and what remains is preference, and preference at a full school with a waiting list is conservative by construction. Benedict is right that nothing has ever been won here on the argument alone. Thea is right that the innovation is real and optional, which is to say it is a programme rather than a position. Garrett is right that he cannot invent a crisis without lying. And Marisol, who has the best of it, has noticed the only thing that matters: that no one has ever been made to say whether the room is the point or the ornament, and that a school can go a very long time without finding out, and be full the whole time.",
+   "provocations": [
+    "Name one thing we do now, as a requirement rather than an option, that we adopted on the argument alone - with no accreditor, carrier, regulator, competitor or crisis behind it. If the list is short, what does that tell us about how we actually decide?",
+    "Our innovation work is excellent and optional. Is that a deliberate strategy for protecting it, or the form a good idea takes when nothing obliges anyone to adopt it - and how would we tell the two apart from inside?",
+    "Garrett cannot honestly manufacture a forcing function. What is the legitimate substitute - and if our answer is 'leadership' or 'culture', what evidence do we have that it has ever worked here without external pressure alongside it?"
+   ]
+  },
   {
    "id": "sc-2026-10-11-baseline",
    "date": "2026-10-11",
@@ -12985,7 +13220,7 @@
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
   "why": "Consolidated on 10 October from four separate tests run between 18 September and today, because the entry had become a log rather than an argument. The argument is this. A school now holds a duty to investigate fabricated media and has no instrument with which to do it, while every party that does have an instrument sits outside the school. The evidence for each half is specific. On capability: in the one fully traceable case, a Texas arrest for AI-generated mass-shooting threats against a named San Antonio elementary school, detection did not come from the school at all - it came from the FBI's National Threat Operations Section, which surfaced the queries at the model provider and alerted local authorities seventeen days later, after which investigators traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient. On duty: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties and said nothing about how to establish whether media is fabricated. New Jersey's principals and supervisors association had already told districts in 2025 to build in a process to review the authenticity of video, audio and images and to explore the use of available tools that may assist in spotting deepfakes - naming no tool, because there is none to name for a school. Two bodies, two years apart, both instructing schools to establish authenticity and neither able to say with what. On the burden of proof: the agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 settles what was open. Proposed Rule 707 on machine-generated evidence was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c) on deepfakes is prepared but not finally approved, with an expert panel convened for the morning of the meeting. Under the current draft the opponent bears the initial burden of producing evidence sufficient to support a finding that an item is a deepfake, and only then must the proponent show it is more likely than not authentic - the party alleging the fake goes first, exactly as a Federal Judicial Center survey of 931 judges predicted, 82% of whom said they would require an initial showing. And the May minutes record that 901(c) could not take effect before 1 December 2028. On provenance: C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and a conformance programme, none of it built for a school trying to authenticate a forty-second clip of a teacher. The mechanism that was originally theorised - purchased, manufactured consensus at institutional scale, documented as a commercial product in 8,913 fabricated articles across 70 sham news sites and an Istanbul firm running a thousand accounts through a national election - has now been searched for across four tests and found nowhere near a school, a district or a comparable local body. The nearest verified case remains an AI astroturf campaign using California residents' identities against air regulators in March. Impersonation of a named individual returned nothing newer than an athletic director cloning a Baltimore principal's voice in April 2024. Four searches for school-side authentication capability - a line item, a pilot, an RFP, a vendor product aimed at schools - have produced four nulls. On this question a null is the finding rather than the absence of one, because the claim is precisely that the capability does not exist. But four is enough: the question is no longer whether anyone is coming to help. It is what a school does for the next two years knowing that nobody is. Addendum, 11 October. The fourth null has an exception. Microsoft 365 roadmap items 573451 and 573157 add third-party deepfake detection and impersonation protection to Teams, general availability expected in November after a worldwide rollout. This is the first movement in three weeks on the third watch item, and it is the first verification capability to reach a platform schools actually run. It does not falsify the argument; it sharpens it. Teams performs no detection of its own - certified third-party providers analyse the meeting media and return signals, which Teams surfaces as in-meeting controls and as impersonation warnings and risk indicators. Neither the roadmap entries nor the reporting mentions education, licensing tiers or which providers are certified. So the instrument is arriving, but it is arriving as a socket into which someone else's instrument plugs, which leaves the school holding the duty, the signal and the liability while holding none of the capability. That is a different problem from having nothing, and a worse one to be unprepared for.",
-  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Of the three open items, the third has now moved. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Five searches, five nulls. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, whether provenance or detection reaches anything a school actually touches. This has moved: Teams gets third-party deepfake detection at general availability in November. The follow-on questions are which licensing tiers carry it, which providers are certified, and whether an education tenant gets it at all - all three unanswered in the announcement and all three decidable by watching the November release notes. The 15 October Evidence Rules meeting outcome remains the near-term marker. The retirement condition is unchanged but its terms have shifted: if by 30 November no school-side acquisition has appeared and no state has followed Massachusetts, retire this from the challenger slot - but record the finding as changed rather than settled, because a capability a school can buy and cannot audit is a live governance question even after the detection question closes. Promote it into the five only if school-side capability appears.",
+  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Of the three open items, the third has moved and the other two have not. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Six searches, six nulls. The 12 October search returned nothing but vendor marketing pages, SEO listicles and unrelated cybersecurity solicitations, which is itself the shape of the finding: there is a market forming to sell schools the idea of deepfake readiness and no school yet buying the capability. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication; Virginia's Synthetic Digital Content Workgroup reported in January and is the nearest candidate. Third, provenance or detection reaching something a school actually touches. Microsoft Teams gets third-party deepfake detection at general availability in November. The follow-on questions - which licensing tiers carry it, which providers are certified, whether an education tenant gets it at all - were unanswered in the announcement and are decidable by watching the November release notes. The Advisory Committee on Evidence Rules meets on 15 October, three days from now; its outcome is the near-term marker and the next scan should look for it from the 16th. The retirement condition is unchanged: if by 30 November no school-side acquisition has appeared and no state has followed Massachusetts, retire this from the challenger slot - but record the finding as changed rather than settled, because a capability a school can buy and cannot audit is a live governance question even after the detection question closes. Promote it into the five only if school-side capability appears.",
   "first_noted": "2026-09-18"
  }
 }
