@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-13",
- "scan_count": 36,
+ "last_updated": "2026-10-14",
+ "scan_count": 37,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -10984,7 +10984,7 @@
    "source_date": "2026-10-07",
    "source_type": "report",
    "first_seen": "2026-10-12",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "israel-plans-ai-english-in-every-school",
@@ -11233,6 +11233,206 @@
    "source_type": "news",
    "first_seen": "2026-10-13",
    "sightings": 1
+  },
+  {
+   "id": "big-feelings-little-evidence-on-genai-and-learning",
+   "title": "Learning scientists converge on where genAI hurts and rate their own evidence weak",
+   "type": "signal",
+   "summary": "A preregistered two-round Delphi report published in October 2026 by Panayiota Kendeou, Jeffrey Greene and Nia Nixon, with 27 experts plus three lead coordinating authors, consolidated nominations into 65 learning processes across eight categories and rated each for genAI enhancement and disruption. Consensus was reached on 42 of the 65. Ten of eighteen higher-order-thinking items reached consensus on vulnerability only - among them Critical Thinking, Creativity, Evaluation, Inquiry Learning and Sourcing - while only four reached enhancement-only consensus. All four affective-motivational processes reached vulnerability consensus; Agency at a vulnerability mean of 3.60 with 79% rating three or higher, against an enhancement mean of 2.80. Across the consensus items importance ratings were high and strength-of-evidence ratings mostly fell below 2.5 on a 1-4 scale, with Agency's evidence mean at 1.64. The report's own name for this is Big Feelings, Little Evidence.",
+   "so_what": "The field has converged on a conclusion it openly rates itself as unable to support, which means a school adopting these recommendations is acting on expert intuition and should say so rather than cite a consensus. Note also which three recommendations the panel rated hardest to implement - competency-gated genAI use, authentic assessment redesign, and equity-centred interaction - because those are precisely the three a school would have to do for the rest to mean anything.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "University of Minnesota College of Education and Human Development",
+   "source_url": "https://www.cehd.umn.edu/AI-expert-consensus-report-2026",
+   "source_date": "2026-10-08",
+   "source_type": "report",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "openai-ships-gpt-6-with-under-18-regressions",
+   "title": "OpenAI ships GPT-6 to everyone with three under-18 safety evals significantly worse",
+   "type": "signal",
+   "summary": "OpenAI's Deployment Safety Hub published the deployment card for GPT-6 Sol and GPT-6 Luna on 7 October 2026, replacing GPT-5.6 in ChatGPT for all free and paid users. Against the August models, both show statistically significant regressions on three of the under-18 evaluation categories - age-restricted content, sexual content and emotional reliance - with Luna also regressing on gore. No magnitudes are published for any of these, the evaluations are OpenAI's own with no third party named, and the card states that a classifier-based block on self-harm, sexual and gore responses is not captured in the evaluation results. OpenAI attributes the emotional-reliance regression to its evaluation being overly sensitive to benign nicknames such as bro or bestie. Both models are classified High capability in Cybersecurity and in Biological and Chemical, with Sol scoring 51.68% on multimodal virology troubleshooting against a 31% threshold.",
+   "so_what": "The model teenagers are actually handed got measurably worse on three of the vendor's own teen-safety categories and shipped anyway, so a school policy cannot treat a newer version as a safer one, and a vendor's release cadence cannot substitute for the school's own review cycle. The deeper problem is auditability: the regressions are reported as significant with no effect sizes, graded in-house, and partly explained away by a mitigation the vendor says its own numbers do not reflect.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "OpenAI Deployment Safety Hub",
+   "source_url": "https://deploymentsafety.openai.com/gpt-6-october",
+   "source_date": "2026-10-07",
+   "source_type": "report",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "midbrain-encodes-which-sense-is-coming",
+   "title": "The human midbrain encodes which sense is coming before the stimulus arrives",
+   "type": "signal",
+   "summary": "Nature Neuroscience published a study on 7 October 2026 using 7-Tesla fMRI at 1.1 mm isotropic resolution in 80 adults - 40 visual, 40 somatosensory, mean age 26.58 - showing that the superior colliculus carries modality-specific activity before any stimulus is delivered, when sensory input is identical across conditions. The anticipatory depth-by-modality interaction was F(1,66.76) = 30.88, p < 0.001, and a classifier trained on the pre-stimulus decision period decoded the upcoming modality at 62.84% within-category and 73.35% out-of-category accuracy, while a shape-presentation control failed to decode above chance at 52.81%. Two cautions belong with it: the visual arm showed no significant superficial-versus-deep anticipatory difference, t(39) = -1.53, p = 0.134, so the headline effect rests substantially on the somatosensory arm, and 140 participants were recruited to yield 80, a 43% loss the paper does not characterise.",
+   "so_what": "If a structure this early in the sensory pathway is already running predictions about which sense is about to be used, then attention is partly a prediction set before any material appears, and how a lesson is framed in the seconds before content arrives becomes a physiological variable rather than a classroom courtesy. That is a long way from a teaching recommendation, which is why this is logged as a weak signal rather than a finding to act on.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Nature Neuroscience",
+   "source_url": "https://www.nature.com/articles/s41593-026-02480-0",
+   "source_date": "2026-10-07",
+   "source_type": "journal",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "parity-reached-while-pregnant-girls-stay-out",
+   "title": "UNESCO: enrolment parity reached while 6 million pregnant girls stay out of school",
+   "type": "trend",
+   "summary": "UNESCO published findings from the 2026 GEM Gender Report on 8 October 2026, ahead of its formal launch the following day. Gender parity in enrolment has been achieved globally from pre-primary through upper secondary, and the share of girls married before 18 fell from 25% in 2000 to 18% in 2025. But an estimated 6 million pregnant girls and young mothers aged 10 to 19 were out of school in sub-Saharan Africa in 2024, and fewer than 5% of pregnant and parenting girls in the region return to school. While 58% of countries guarantee the right to education without sex or gender discrimination, only 35% explicitly protect the right to education of pregnant and parenting girls. These are UNESCO's own figures for its own report; the underlying methodology was not independently checked.",
+   "so_what": "The headline equity statistic now measures a constraint that has largely been solved, while the binding one has moved to the legal right to stay enrolled, which only about a third of countries codify. Any equity dashboard built on enrolment will read as success precisely where completion is failing - a measurement failure worth recognising, because a school's own diversity and access reporting is built the same way.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "UNESCO",
+   "source_url": "https://www.unesco.org/en/articles/gender-gaps-education-narrow-globally-yet-early-marriage-remains-major-barrier-girls-education-new",
+   "source_date": "2026-10-08",
+   "source_type": "report",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "english-universities-at-84-percent-fee-dependence",
+   "title": "English universities now cover 84% of degree costs from fees and are deleting subjects",
+   "type": "driver",
+   "summary": "University World News reported on 8 October 2026 that English universities' reliance on fees to cover degree costs has risen from 52% in 2012-13 to 84%, citing Universities UK analysis by London Economics, while public investment in students fell from 0.42% of GDP in 2012-13 to 0.12% in 2024-25 and the government's real-terms contribution to undergraduate teaching fell from 8.9 billion pounds to 3.3 billion. Total funding per full-time student fell 23%, from 12,220 pounds in 2020-21 to 9,450, and nearly half of English providers are in deficit. The University of Nottingham announced cuts expected to affect 500 jobs and the axing of full degree programmes in modern languages and music; Edinburgh staff are striking over a feared 1,880 job losses. The figures come from a sector lobbying body arguing for more public funding, relayed by an aggregating outlet rather than reported from the London Economics analysis itself.",
+   "so_what": "At 84% fee dependence the adjustment mechanism is subject deletion rather than institutional closure, so the question a college counsellor now has to answer is not which university a student should aim at but whether their subject still has a receiving department anywhere in the system. Modern languages and music are the first named casualties, which are exactly the subjects an independent school defends on formation grounds rather than destination grounds.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "University World News",
+   "source_url": "https://www.universityworldnews.com/post.php?story=2026100813195654",
+   "source_date": "2026-10-08",
+   "source_type": "news",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "rhodes-would-gate-registration-on-clearing-debt",
+   "title": "Rhodes would gate 2027 registration on clearing half a student's outstanding debt",
+   "type": "signal",
+   "summary": "Daily Maverick reported on 11 October 2026 that Rhodes University has proposed a registration protocol requiring students to clear 50% of outstanding debt and of 2026 tuition fees by the end of 2026 in order to register for 2027. The protocol remains subject to council approval and is not yet in force. Rhodes has 9,532 students, of whom 5,039 are self-funded and 4,493 funded by the national student aid scheme, according to spokesperson Olwetu Gwanya, and 13 students were arrested in related protests. The Department of Higher Education and Training's Thandi Lewin put sector-wide historic student debt at about 30 billion rand, much of it impaired. Management was modelling a 75,000-rand residence debt threshold after agreeing that 25,000 rand may not be workable, and no agreement was reached on a requested 15% settlement discount.",
+   "so_what": "Tertiary access is being re-gated on prior payment rather than prior attainment, which means a school-leaving result stops reliably converting into a place. Any school whose promise to families is that results open the next door should notice that the door is acquiring a second lock, and that the second lock is one a bursary at the school end does not reach.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Daily Maverick",
+   "source_url": "https://dailymaverick.co.za/article/2026-10-11-student-funding",
+   "source_date": "2026-10-11",
+   "source_type": "news",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "us-september-inflation-reaccelerates-to-3-7",
+   "title": "US inflation reaccelerates to 3.7% in September, with core up to 2.6%",
+   "type": "signal",
+   "summary": "The Bureau of Labor Statistics released the September 2026 Consumer Price Index on 14 October 2026. Headline CPI rose 0.6% on the month and 3.7% year on year, up from 3.4% in August and above a 3.6% consensus; core CPI rose 0.3% on the month and 2.6% year on year, up from 2.4% and above a 2.5% consensus. Morningstar, CNBC and CBS News all led on the 3.7% figure and on energy and gasoline as the drivers. A provenance caution belongs on the record: the BLS release pages served the August data from this environment all day, so the figures above come from a financial news desk reporting within minutes of the release and corroborated across three further newsrooms, not from the BLS tables. No education or tuition component was verified, so none is claimed here.",
+   "so_what": "Independent schools are setting 2027-28 tuition and financial-aid envelopes now, against an assumption that disinflation continues. A headline rate up 0.3 points in two months with core also turning up makes a modest fee increase paired with a flat aid pool the riskiest combination on the board, because the families who need aid feel an energy-led price rise first and hardest.",
+   "likelihood": "probable",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "FXStreet, corroborated by Morningstar, CNBC and CBS News",
+   "source_url": "https://www.fxstreet.com/news/us-cpi-data-expected-to-rise-in-september-as-markets-reassess-fed-rate-outlook-202610140830",
+   "source_date": "2026-10-14",
+   "source_type": "news",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "observed-warming-doubles-past-the-models",
+   "title": "Observed warming doubled to 0.40C a decade while 26 models simulate only 0.29C",
+   "type": "driver",
+   "summary": "Qinjian Jin and Bing Pu of the University of Kansas report in npj Climate and Atmospheric Science on 8 October 2026 that the global warming rate roughly doubled, from about 0.20C per decade over 1971-2025 to about 0.40C per decade over 2011-2025, with the acceleration concentrated in East Asia and the North Pacific, mid-latitude Eurasia and the South Atlantic and Antarctic. The ensemble mean of 26 climate models simulates about 0.29C per decade and does not reproduce the acceleration. Extrapolating the recent observed rate puts the 1.5C crossing around 2028, roughly a decade earlier than previous estimates - and that 2028 figure is a linear extrapolation of a fifteen-year observed trend, which is the paper's own framing and the distinction press retellings have tended to drop. The article is an accepted version shared ahead of final edits.",
+   "so_what": "A school that teaches climate from model-based projections now has a peer-reviewed paper saying the models under-run the observations, which is an unusually clean classroom case of the difference between a projection and an extrapolation - and the extrapolation is the weaker of the two, which is the part students should be made to see. It also compresses the planning horizon: end-of-century scenarios in curriculum and in facilities planning are describing a world current ninth-graders will be working in.",
+   "likelihood": "plausible",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Climate, Civic & Society",
+   "source_name": "npj Climate and Atmospheric Science",
+   "source_url": "https://www.nature.com/articles/s41612-026-01561-y",
+   "source_date": "2026-10-08",
+   "source_type": "journal",
+   "first_seen": "2026-10-14",
+   "sightings": 1
+  },
+  {
+   "id": "wmo-forecasts-a-record-nino-peak-in-december",
+   "title": "WMO forecasts a Nino 3.4 anomaly near plus 3.7C peaking in December",
+   "type": "signal",
+   "summary": "The WMO Global Seasonal Climate Update for October to December 2026, dated 8 October on its page, reports that multi-model ensembles point to further strengthening toward El Nino with a seasonal-average Nino 3.4 sea surface temperature anomaly of about plus 3.7C peaking around December 2026, and a narrow spread between forecast systems which WMO reads as high confidence. A positive Indian Ocean Dipole is expected to peak in October at a seasonal mean near plus 0.5C, and the equatorial Atlantic is forecast to stay above normal. This is a forward forecast rather than an observation and extends the Copernicus September bulletin already held in this corpus, which recorded an observed Nino 3.4 anomaly of 2.99C. WMO publishes no probability percentages on the page, and plus 3.7C would be far above any observed peak in the instrumental record.",
+   "so_what": "A strong El Nino winter is the Southeast's wet-and-stormy configuration, which bears on reservoir recovery, on severe-weather days falling inside the school calendar, and on how many closure decisions a head makes between January and March. The less obvious use is pedagogical: a dated, numerical, publicly archived forecast is a teaching asset, because a science department can have students score WMO's own prediction in January rather than argue about climate in the abstract.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "World Meteorological Organization",
+   "source_url": "https://wmo.int/resources/publication-series/global-seasonal-climate-updates/gscu-ond2026",
+   "source_date": "2026-10-08",
+   "source_type": "data",
+   "first_seen": "2026-10-14",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -11303,11 +11503,12 @@
     "one-second-load-delays-degrade-online-learning",
     "world-bank-prescribes-small-ai-twice",
     "israel-plans-ai-english-in-every-school",
-    "half-of-us-adults-never-use-a-chatbot"
+    "half-of-us-adults-never-use-a-chatbot",
+    "big-feelings-little-evidence-on-genai-and-learning"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-13",
-   "status_note": "Revised on a finding that undercuts this uncertainty's own framing. The question above opens 'as AI becomes ambient' - and Pew's 9 October short read, from 5,119 US adults, reports that 51% never use an AI chatbot, that 67% of non-users are not too or not at all likely to start within a year, and that only 5% think it highly likely. Non-use runs 34% even among 18-29s, the cohort new teachers are hired from. Ambient is a description of a professional milieu, not of the country, and a school that has been planning for universal adoption is planning for a condition that does not yet obtain in half of its parent body. One closure to record: the chase for the Futterer randomised controlled trial of GPT-4o self-regulated-learning scaffolds ends here. The Springer PDF was hard-refused by the proxy today after three metadata services declined to give a date, and the article number - volume 38, article 42 - places it in all likelihood in mid-2026 rather than in any October window. The finding stands as context but is not logged, and no further budget should go to dating it.",
+   "last_revised": "2026-10-14",
+   "status_note": "Revised on the strongest and most self-aware evidence this uncertainty has carried. A preregistered two-round Delphi exercise with 27 experts and three lead authors rated 65 learning processes for genAI enhancement and disruption and reached consensus on 42. Ten of eighteen higher-order-thinking items reached consensus on vulnerability only - Critical Thinking, Creativity, Evaluation, Inquiry Learning, Sourcing among them - against four reaching enhancement-only consensus, and all four affective-motivational processes reached vulnerability consensus, Agency at a vulnerability mean of 3.60 against an enhancement mean of 2.80. The field has converged on the deskilling pole. And in the same tables it rates its own evidence below 2.5 on a 1-4 scale, Agency at 1.64, under the panel's own heading: Big Feelings, Little Evidence. That is the honest state of this question. Experts who have read everything believe one pole and can tell you the evidence does not yet carry them there, which means a school citing a consensus here is citing a belief, and should say so.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -11418,11 +11619,13 @@
     "odisha-phone-free-classroom-trial",
     "teen-chatgpt-parent-alerts-fail-an-audit",
     "half-of-us-adults-never-use-a-chatbot",
-    "a-spreadsheet-row-doubled-the-cost-of-net-zero"
+    "a-spreadsheet-row-doubled-the-cost-of-net-zero",
+    "big-feelings-little-evidence-on-genai-and-learning",
+    "openai-ships-gpt-6-with-under-18-regressions"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-13",
-   "status_note": "Revised on the instruments of the audience rather than of the school. Two findings three days apart make the same shape. Pew reports that 51% of US adults never use an AI chatbot and two-thirds of those have decided against it, so a school communicating about AI is writing to a readership half of whom have no direct experience of the thing being described. And Carbon Brief's 9 October factcheck shows a major UK party attributing a 957 billion pound net-zero cost to the Climate Change Committee when the CCC's figure is 478 billion - the booklet having added the spreadsheet's own row of combined annual totals, counting costs and savings twice. That error is not ideological. It is a spreadsheet row, it doubled a politically useful number, and it survived into print. This uncertainty has been framed around whether a school can audit its own measures; both of these say the harder problem is the measures a school receives already audited by someone else, in a public that largely cannot check them either."
+   "last_revised": "2026-10-14",
+   "status_note": "Revised on two instruments arriving the same week that a school cannot audit from where it stands. The Delphi panel on genAI and learning publishes importance ratings above 3.0 and strength-of-evidence ratings mostly below 2.5 on a 1-4 scale, so the instrument discloses its own weakness and is still the best thing available. OpenAI's deployment card for GPT-6, shipped to all free and paid users on 7 October, reports statistically significant regressions against the August models on three under-18 evaluation categories with no magnitudes published anywhere, no third party named, and a classifier mitigation the card states is not captured in the evaluation results. One instrument is honest about being weak; the other is strong enough to detect a regression and publishes neither the size of it nor an independent check. Neither can be verified by the school relying on it, and the school's only available response to both is to say out loud which it is leaning on and why."
   },
   {
    "id": "cu-credential",
@@ -11509,11 +11712,14 @@
     "skilled-trades-pipeline-and-immigration-squeeze",
     "section-25f-rules-net-the-state-credit-first",
     "thirty-two-countries-now-make-ninety-five-percent-of-growth",
-    "canada-education-sector-sheds-thirty-five-thousand"
+    "canada-education-sector-sheds-thirty-five-thousand",
+    "english-universities-at-84-percent-fee-dependence",
+    "rhodes-would-gate-registration-on-clearing-debt",
+    "us-september-inflation-reaccelerates-to-3-7"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-13",
-   "status_note": "Revised on where the destination is going rather than on what the credential signals. The IMF's October World Economic Outlook states that just 32 countries now account for 95% of global growth, against 54 countries in April - a two-track world economy consolidating in six months, sorted by whether a country builds or supplies AI infrastructure. Underneath it, Canada's September Labour Force Survey shows employment down 68,000 with 48,000 of the loss among 15-24s, and the single largest sectoral loss, 35,000, in educational services. RBC discounts the youth concentration as seasonal and the education figure is the one it does not discount. The advising implication is uncomfortable in a new direction: the question stops being whether a degree still sorts graduates and starts being whether the country a graduate is sorted into is still one where growth happens at all."
+   "last_revised": "2026-10-14",
+   "status_note": "Revised on three different mechanisms narrowing the destination in a single week. In England, fee dependence has gone from 52% to 84% of degree costs with public investment in students down from 0.42% to 0.12% of GDP, and the adjustment is arriving as subject deletion - Nottingham axing modern languages and music degrees outright - rather than as institutional closure. In South Africa, Rhodes has proposed gating 2027 registration on clearing half a student's outstanding debt, against a sector-wide historic debt of about 30 billion rand: access re-gated on prior payment rather than prior attainment. And US headline inflation reaccelerated to 3.7% in September with core up to 2.6%, which prices the whole pathway. The question has been whether a degree still sorts graduates. These say the prior question is whether the subject still exists, whether the student can be admitted at all, and whether the family can carry the price - three locks on a door the credential was supposed to open by itself."
   },
   {
    "id": "cu-liability",
@@ -11603,8 +11809,8 @@
     "australia-high-court-counts-exported-emissions"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-12",
-   "status_note": "Carried forward; revised yesterday on EPA removing nonattainment review from the seven metro Atlanta counties and on the High Court of Australia counting exported emissions, and nothing in this window adds to either. The revision date has not moved. Two markers sit just ahead: EPA's Atlanta rule takes effect on 9 November, and the Advisory Committee on Evidence Rules meets on 15 October, two days from now."
+   "last_revised": "2026-10-14",
+   "status_note": "Revised on the first concrete school-side artefact this scan has found in eight searches, and it is a null with a shape. Holliston Public Schools in Massachusetts published AI deepfake guidelines, current as of April 2026, committing the district to investigate reports of deepfake content promptly and to ensure every staff member knows how to identify and report potential AI-generated harm. The document names no tool, no product, no vendor and no technical method for establishing whether media is fabricated, and it does not say who makes that determination. It advises consulting legal counsel. That is this uncertainty's mechanism caught in the act: a duty written into district policy because a state told it to, an instrument that does not exist, and counsel standing in for the instrument. The document is out of window as a signal and is recorded here rather than logged, but it is the clearest evidence yet that the gap the challenger describes is now being papered over at district level rather than closed."
   },
   {
    "id": "cu-boundary",
@@ -11683,7 +11889,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-13",
-   "status_note": "Revised on a second no-device finding in three days, and logged with its weaknesses visible. A post-hoc re-analysis presented at the 39th ECNP Congress reports that four 15-microgram LSD doses cut mean reaction time from 335 to 308 milliseconds and attentional lapses from 4.7 to 2.3 in women and did nothing in men, on a per-arm female sample of roughly twelve that the release never states, with no p-values, confidence intervals or effect sizes published and the primary outcomes null. Taken alone it proves nothing. Taken with the breathwork hypoperfusion study from the same congress on 10 October, it establishes something this uncertainty did not have before: that the evidence for cognitive modulation without equipment is arriving through psychopharmacology conference abstracts, which reach parents and the press long before they reach education research. A school whose integrity apparatus detects objects is defending a perimeter that this entire literature walks around, and it will hear about it from a parent first."
+   "status_note": "Carried forward; revised yesterday on the second no-device cognitive-modulation finding and nothing in this window bears on it, so the revision date has not moved. The standing redirection holds - accommodation law, examination-board rules, device procurement and self-regulation research rather than product launches - and a deliberate note of caution was added yesterday against a third conference abstract from the same congress. An agent searched the examination-board and accommodation seam this week and found nothing in window."
   }
  ],
  "verification": {
@@ -11693,6 +11899,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-14-hearsay",
+   "date": "2026-10-14",
+   "title": "Hearsay",
+   "year": 2034,
+   "axis": "AI use does erode capability and the school cannot audit its own instruments - so the erosion is real, is happening to these children, and reaches the school only as a report from somewhere else.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Deskilling - persistence, conceptual understanding and tolerance for difficulty measurably decay, and the decay is real whether or not any particular school can see it."
+    },
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence outsourced - inherited instruments are retained at unknown validity and the gap is managed with vendors, disclaimers and legal review, so nobody in the building can audit the numbers decisions rest on."
+    }
+   ],
+   "premise": "By 2034 the deskilling finding is settled. Four cohorts, three countries, consistent effects on persistence and conceptual transfer; nobody argues any more. What Mount Vernon cannot do is see it. The school's instruments were never rebuilt - the 2029 proposal died on cost and the 2031 one died on the accreditor's timetable - so what it has is a vendor analytics suite, a wellbeing screener it cannot audit, and teacher judgment that was never moderated. Every term the division heads receive a national benchmarking report that tells them how students like theirs are doing. It is accurate. It is also the only thing they have, and it describes a population rather than a child. The faculty know the research. They do not know, and have no way to find out, whether it is happening here.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Teodora Vasquez-Lindhardt, 16",
+     "vignette": "Teodora is fine, probably. Her grades are good and her analytics profile is green across the board. What she notices is that she has stopped reading anything to the end, and that she cannot remember deciding to stop, and that nothing in the school has ever asked her about it. Twice this year a teacher has said the cohort is showing lower persistence, in the voice people use for weather. She wants to ask whether they mean her. She has worked out that the honest answer is that nobody could tell her, and that asking would make it her problem rather than theirs."
+    },
+    {
+     "role": "Teacher",
+     "name": "Columba Nwachukwu-Reiss",
+     "vignette": "Columba has taught the same eleventh-grade course for fourteen years and is certain, in the way you are certain about a room you stand in daily, that something has changed in how her students hold an argument. She cannot demonstrate it. Her gradebook says what it has always said, because she calibrated her own standards downward in increments she did not record. At the November meeting she says she thinks it is happening here. She is asked, reasonably, for evidence, and the only honest answer she has is fourteen years of standing in the room, which is not admissible and which she suspects is right."
+    },
+    {
+     "role": "Parent",
+     "name": "Halvard Ozdemir",
+     "vignette": "Halvard reads the research and brings it to the conference, and the teacher agrees with every word of it. Then he asks the only question he actually came with, which is whether it is true of his daughter, and watches two competent adults discover that they cannot answer. He is shown the benchmark report. It is about students like her. He says, more sharply than he meant to, that he did not enrol a student like her. On the drive home he works out that he is paying a premium for a place that knows his child, and that this is the first time he has tested the claim."
+    },
+    {
+     "role": "Administrator",
+     "name": "Perpetua Lindqvist-Oyelaran",
+     "vignette": "Perpetua has the vendor dashboard, the benchmark subscription and the accreditor's data appendix, and between them they produce a confident account of a school she is no longer sure she can see into. She has run the numbers on rebuilding the instruments: four years, two posts, and a defensible answer at the end of it that might be worse than the one she publishes now. The board would fund it if she could say what it would show. She cannot, because that is what the instruments would be for. She has begun to describe this privately as the only decision she has ever faced where knowing less is cheaper, better-reviewed, and indefensible."
+    }
+   ],
+   "tension": "The science settled and the school was left outside it. Deskilling is real and measured, which means the thing the faculty feared has been happening to actual children in actual rooms for years - and the only account Mount Vernon can give of those children comes from instruments it does not control, describing a cohort it does not have. Columba is right and cannot prove it; worse, she has been quietly absorbing the drift into her own standards, so the gradebook that should have caught it is the thing that hid it. Halvard has found the exact seam between what the school sells and what it can demonstrate. And Perpetua's arithmetic is the real horror: building the instrument costs four years and might produce a number worse than the comfortable one, so every rational actor keeps choosing not to know, and the choosing never looks like a decision. The research will keep improving. None of it will ever be about this school, and nothing in the current arrangement will ever make it so.",
+   "provocations": [
+    "Columba calibrated her standards downward without recording it, which is the normal way a human instrument drifts. What in our system would catch that, and if the answer is nothing, what are we actually claiming when we report grades over time?",
+    "Halvard asked whether the research is true of his daughter. Write down, now, the procedure we would follow to answer that question about one named student. If the procedure does not exist, is that a gap or is it the product?",
+    "Perpetua will not fund an instrument that might return a worse number than the one she publishes. Name the decision in this school that is currently protected by our not measuring it - and say who would have to agree before we measured it anyway."
+   ]
+  },
   {
    "id": "sc-2026-10-13-calibrated",
    "date": "2026-10-13",
@@ -13454,7 +13708,7 @@
   "id": "cu-information",
   "title": "If something fabricated were aimed at this school, could anyone here tell?",
   "why": "Consolidated on 10 October from four separate tests run between 18 September and today, because the entry had become a log rather than an argument. The argument is this. A school now holds a duty to investigate fabricated media and has no instrument with which to do it, while every party that does have an instrument sits outside the school. The evidence for each half is specific. On capability: in the one fully traceable case, a Texas arrest for AI-generated mass-shooting threats against a named San Antonio elementary school, detection did not come from the school at all - it came from the FBI's National Threat Operations Section, which surfaced the queries at the model provider and alerted local authorities seventeen days later, after which investigators traced the account through emergency disclosure requests to three telecoms. The school was a downstream notification recipient. On duty: Massachusetts told its schools in April to investigate reported deepfakes under anti-bullying, anti-discrimination and Title IX duties and said nothing about how to establish whether media is fabricated. New Jersey's principals and supervisors association had already told districts in 2025 to build in a process to review the authenticity of video, audio and images and to explore the use of available tools that may assist in spotting deepfakes - naming no tool, because there is none to name for a school. Two bodies, two years apart, both instructing schools to establish authenticity and neither able to say with what. On the burden of proof: the agenda book for the Advisory Committee on Evidence Rules meeting of 15 October 2026 settles what was open. Proposed Rule 707 on machine-generated evidence was withdrawn as issued for public comment and sent back for further study. Proposed Rule 901(c) on deepfakes is prepared but not finally approved, with an expert panel convened for the morning of the meeting. Under the current draft the opponent bears the initial burden of producing evidence sufficient to support a finding that an item is a deepfake, and only then must the proponent show it is more likely than not authentic - the party alleging the fake goes first, exactly as a Federal Judicial Center survey of 931 judges predicted, 82% of whom said they would require an initial showing. And the May minutes record that 901(c) could not take effect before 1 December 2028. On provenance: C2PA's Content Credentials reached version 2.3 in February with more than 6,000 members and a conformance programme, none of it built for a school trying to authenticate a forty-second clip of a teacher. The mechanism that was originally theorised - purchased, manufactured consensus at institutional scale, documented as a commercial product in 8,913 fabricated articles across 70 sham news sites and an Istanbul firm running a thousand accounts through a national election - has now been searched for across four tests and found nowhere near a school, a district or a comparable local body. The nearest verified case remains an AI astroturf campaign using California residents' identities against air regulators in March. Impersonation of a named individual returned nothing newer than an athletic director cloning a Baltimore principal's voice in April 2024. Four searches for school-side authentication capability - a line item, a pilot, an RFP, a vendor product aimed at schools - have produced four nulls. On this question a null is the finding rather than the absence of one, because the claim is precisely that the capability does not exist. But four is enough: the question is no longer whether anyone is coming to help. It is what a school does for the next two years knowing that nobody is. Addendum, 11 October. The fourth null has an exception. Microsoft 365 roadmap items 573451 and 573157 add third-party deepfake detection and impersonation protection to Teams, general availability expected in November after a worldwide rollout. This is the first movement in three weeks on the third watch item, and it is the first verification capability to reach a platform schools actually run. It does not falsify the argument; it sharpens it. Teams performs no detection of its own - certified third-party providers analyse the meeting media and return signals, which Teams surfaces as in-meeting controls and as impersonation warnings and risk indicators. Neither the roadmap entries nor the reporting mentions education, licensing tiers or which providers are certified. So the instrument is arriving, but it is arriving as a socket into which someone else's instrument plugs, which leaves the school holding the duty, the signal and the liability while holding none of the capability. That is a different problem from having nothing, and a worse one to be unprepared for.",
-  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Of the three open items, the third has moved and the other two have not. First, acquisition rather than policy - any school, district, association or school-sector vendor announcing authentication capability as a line item, a pilot or an RFP. Seven searches, seven nulls. The 13 October search returned law-firm briefings, SEO legislation trackers and the original Massachusetts guidance and nothing else, which is the shape of the finding rather than a gap in it: a market is forming to sell schools the idea of deepfake readiness and no school is yet buying the capability. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication. Still only Massachusetts; Virginia's Synthetic Digital Content Workgroup reported in January and remains the nearest candidate. Third, provenance or detection reaching something a school actually touches. Microsoft Teams gets third-party deepfake detection at general availability in November. Which licensing tiers carry it, which providers are certified and whether an education tenant gets it at all were all unanswered in the announcement and are decidable by watching the November release notes. The Advisory Committee on Evidence Rules meets on 15 October, two days from now; its outcome on proposed Rules 901(c) and 707 is the near-term marker and the next scan should look for it from the 16th. The retirement condition is unchanged: if by 30 November no school-side acquisition has appeared and no state has followed Massachusetts, retire this from the challenger slot - but record the finding as changed rather than settled, because a capability a school can buy and cannot audit is a live governance question even after the detection question closes. Promote it into the five only if school-side capability appears.",
+  "test": "The rulemaking question is answered: nothing binding before December 2028, and whoever alleges a fake makes the initial showing. Of the three open items, the third has moved and the other two have not. First, acquisition rather than policy. Eight searches, eight nulls - but the eighth returned something the previous seven did not, and it sharpens the finding rather than softening it. Holliston Public Schools in Massachusetts has published AI deepfake guidelines, current as of April 2026, committing the district to investigate reports of deepfake content promptly and to ensure every staff member knows how to identify and report potential AI-generated harm. The document names no tool, no product, no vendor and no method for establishing whether media is fabricated, does not say who makes that determination, and advises consulting legal counsel. So the duty is now written down at district level, the instrument is still absent, and counsel is standing in for it. That is the gap being papered over rather than closed, and it is the most concrete school-side evidence this test has produced. Second, whether any state follows Massachusetts in imposing an investigation duty without supplying a means of authentication. Still only Massachusetts; Virginia's Synthetic Digital Content Workgroup reported in January and remains the nearest candidate. Third, provenance or detection reaching something a school actually touches. Microsoft Teams gets third-party deepfake detection at general availability in November; which licensing tiers carry it, which providers are certified and whether an education tenant gets it at all remain unanswered and are decidable from the November release notes. Apple's sensor-level Reference Image signing and SSL.com's C2PA-conformant certificates both predate the current window and neither reaches a school. The Advisory Committee on Evidence Rules meets tomorrow, 15 October, on proposed Rules 901(c) and 707. No preview or filing was findable today; the next scan should hunt the outcome from the 16th, and note that an outcome re-sights the existing corpus entry on that rulemaking rather than opening a new one. The retirement condition is unchanged: if by 30 November no school-side acquisition has appeared and no state has followed Massachusetts, retire this from the challenger slot - but record the finding as changed rather than settled, because a district writing a duty it has no means to discharge is a live governance question whatever the detection market does. Promote it into the five only if school-side capability appears.",
   "first_noted": "2026-09-18"
  }
 }
