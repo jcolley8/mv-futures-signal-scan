@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-15",
- "scan_count": 38,
+ "last_updated": "2026-10-18",
+ "scan_count": 39,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -312,7 +312,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 8,
+   "sightings": 9,
    "revised_on": [
     "2026-09-09"
    ]
@@ -7073,7 +7073,7 @@
    "source_date": "2026-09-17",
    "source_type": "journal article",
    "first_seen": "2026-09-18",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "math-metacognition-growth-tracks-intelligence",
@@ -8700,7 +8700,7 @@
    "source_date": "2026-09-23",
    "source_type": "news",
    "first_seen": "2026-09-24",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "climate-displacement-becomes-a-statehood-question",
@@ -9186,7 +9186,7 @@
    "source_date": "2026-09-24",
    "source_type": "journal",
    "first_seen": "2026-09-28",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "routine-air-sampling-found-measles-with-no-known-case",
@@ -9759,7 +9759,7 @@
    "source_date": "2026-10-05",
    "source_type": "data",
    "first_seen": "2026-10-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "memory-supply-caps-the-agent-population",
@@ -10069,7 +10069,7 @@
    "source_date": "2026-10-02",
    "source_type": "news",
    "first_seen": "2026-10-08",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "vision-models-lack-perceptual-adaptation",
@@ -10427,7 +10427,7 @@
    "source_date": "2026-10-06",
    "source_type": "report",
    "first_seen": "2026-10-09",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "eu-opens-a-probe-into-in-game-currencies",
@@ -11614,6 +11614,299 @@
    "source_type": "news",
    "first_seen": "2026-10-15",
    "sightings": 1
+  },
+  {
+   "id": "college-very-important-falls-to-31-percent",
+   "title": "Share of Americans calling college 'very important' hits a 48-year low of 31%",
+   "type": "trend",
+   "summary": "Gallup's August 2026 poll of 1,200 adults found 31% say a college education is 'very important', the lowest since the question began in 1978 and down from a 2013 peak of 70%. 'Fairly important' (39%) is now the plurality view and 'not too important' has risen from 6% in 2013 to 29%. The decline runs through every tracked demographic, party and education level, with non-Hispanic Black adults down 25 points since 2019 and Republicans at 22%, down from 41%.",
+   "so_what": "The collapse is now universal rather than partisan, so an independent school's college-placement record is losing its force as a value proposition with a widening share of its own parent body - the justification has to shift to what the degree is for, not that it is had.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Higher Ed Dive (Gallup)",
+   "source_url": "https://www.highereddive.com/news/share-of-americans-who-say-college-is-very-important-hits-a-new-low/831966/",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "bls-ai-exposure-tier-becomes-a-career-guidance-instrument",
+   "title": "BLS's new AI-exposure tiers are already being used as sector recruiting arguments",
+   "type": "signal",
+   "summary": "Alongside its 2025-35 employment projections BLS published an official AI-exposure classification - low, moderate, high, very high - built from five data sources, placing 206 detailed occupations in the top tier including web developers and customer service representatives. On 1 October 2026 the National Association of Home Builders ran that classification across 47 construction occupations and found 45, about 96%, rated low or moderate and none very high; only construction managers (+9% projected growth) and building inspectors rated high, while solar PV installers, rated moderate, project +37% growth.",
+   "so_what": "A federal statistical agency has now given every occupation an official AI-risk label, which means counsellors, CTE programmes and parents will begin sorting pathways by a government number rather than by interest or aptitude - and trade associations are already marketing against that table.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "T-Technological",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "HousingWire (NAHB analysis of BLS AI exposure categories)",
+   "source_url": "https://www.housingwire.com/articles/ai-risk-low-for-most-construction-jobs/",
+   "source_date": "2026-10-01",
+   "source_type": "news",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "washington-deletes-the-graduation-pathway",
+   "title": "Washington moves to delete its graduation pathway requirement and replace it with a personalised credit",
+   "type": "signal",
+   "summary": "Washington's State Board of Education approved a legislative proposal that would remove the state's graduation pathway requirement outright and substitute a one-credit Personalized Pathway Requirement covering financial education, High School and Beyond Plan instruction and life skills, plus a mandate that every district offer at least one CTE sequence leading to a credential, postsecondary credit or apprenticeship. Accompanying rulemaking, with draft language due at the Board's October 2026 meeting, would add a senior-year quantitative reasoning course and let Data Science, Statistics or Financial Algebra satisfy the third maths credit alongside Algebra 2.",
+   "so_what": "A state is quietly unbundling the diploma from a gatekeeping assessment and re-bundling it around a credential and a data-literacy maths route, which gives independent schools a defensible template for replacing Algebra 2 as the senior maths default without appearing to lower the bar.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Washington State Board of Education",
+   "source_url": "https://sbe.wa.gov/news/2026/state-board-education-approves-legislative-proposal-update-washington-high-school-graduation",
+   "source_date": "2026-09-11",
+   "source_type": "policy",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "arxiv-rations-submissions-against-ai-volume",
+   "title": "arXiv rations its own intake as AI doubles submission volume",
+   "type": "driver",
+   "summary": "From 1 October 2026 arXiv caps every author at two submissions per calendar month and three active submissions at a time, across all categories. September 2026 brought a record 40,363 submissions, nearly double September 2024's 20,569 and four times September 2016's 9,869; cs.AI alone rose more than sixfold in two years and generated almost 9,000 support tickets. arXiv names AI-accelerated writing, thin papers and salami-slicing as causes, and calls the cap a stopgap while it determines new best practice.",
+   "so_what": "The open scholarly record that schools treat as free, neutral raw material for research skills is now rate-limited rather than filtered on quality, so teaching source evaluation has to move from 'is it peer-reviewed' to 'what did this venue actually screen for'.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Research Information",
+   "source_url": "https://www.researchinformation.info/news/arxiv-imposes-submission-limits-amid-surge-in-ai-generated-papers/",
+   "source_date": "2026-10-07",
+   "source_type": "news",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "anaesthetised-hippocampus-still-predicts-words",
+   "title": "The anaesthetised hippocampus still parses grammar and predicts the next word",
+   "type": "signal",
+   "summary": "Baylor College of Medicine researchers used Neuropixels probes to record hundreds of individual hippocampal neurons in epilepsy-surgery patients under general anaesthesia (Katlowitz et al., Nature 654(8119):714). Neurons discriminated deviant tones and improved that discrimination over the course of the experiment - plasticity without consciousness - and population activity carried information about word category and about which word came next in a story. The finding separates two things usually bundled together: predictive language processing and conscious awareness.",
+   "so_what": "If hierarchical language prediction and learning-like plasticity run with the lights off, classroom proxies for engagement - eye contact, visible focus, self-report - are measuring something other than whether encoding is happening, which quietly weakens the folk theory that attention is the gate all learning passes through.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "ScienceDaily (Baylor College of Medicine / Nature)",
+   "source_url": "https://www.sciencedaily.com/releases/2026/10/261015003440.htm",
+   "source_date": "2026-10-15",
+   "source_type": "study",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "no-empirical-floor-under-low-fertility",
+   "title": "No empirical floor under low fertility",
+   "type": "driver",
+   "summary": "An NBER working paper (w35824, 28 September 2026) by Coffey, Geruso, Spears and Vyas tests the assumption embedded in most official population projections that fertility stabilises or rebounds once it falls low. Across UN period TFRs for all country-years 1950-2023, Human Fertility Database completed fertility for cohorts born 1935-1975 in 31 countries, and subnational data from Japan, India and the United States, they find no robust evidence of a rebound or an equilibrium at any conventionally assumed level: where fertility has fallen low, it has generally kept falling.",
+   "so_what": "Enrolment forecasts that schools and bond underwriters rely on inherit a rebound assumption this paper says is unsupported, so the demographic trough planning models treat as a passing dip may be the baseline - ten-year facilities and endowment maths should be stress-tested against no recovery.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "National Bureau of Economic Research",
+   "source_url": "https://www.nber.org/papers/w35824",
+   "source_date": "2026-09-28",
+   "source_type": "study",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "remote-work-lowered-births-among-married-women",
+   "title": "Remote work lowered births among married women",
+   "type": "signal",
+   "summary": "NBER working paper 35881 (Andrew C. Johnston, 12 October 2026) uses the 2020 remote-work expansion as a natural experiment, grouping US college graduates by the pre-pandemic teleworkability of their college major to avoid occupational self-selection. Among married women, a one-standard-deviation increase in teleworkability cut annual birth rates by 2% and raised full-time employment by 1.3%, with roughly half the birth decline explained by the employment rise; no significant effects appear for men, unmarried women, marriage or divorce. Reverting to pre-pandemic telework would raise the TFR by an estimated 0.09 births per woman.",
+   "so_what": "The flexible-work arrangements assumed to be family-friendly appear to pull the other way on births, which reframes the enrolment pipeline and the school's own faculty retention strategy - and if professional parents are working more, not less, extended-day and holiday provision becomes a core expectation rather than an add-on.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "National Bureau of Economic Research",
+   "source_url": "https://www.nber.org/papers/w35881",
+   "source_date": "2026-10-12",
+   "source_type": "study",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "trust-in-scientists-falls-below-pre-pandemic-level",
+   "title": "Trust in scientists falls below its pre-pandemic level",
+   "type": "trend",
+   "summary": "The Wellcome Global Monitor 2026, published 10 October 2026 from surveys of more than 140,000 people across 140 countries, finds the share trusting science some or a lot down from 80% in 2020 to 72%, while active distrust rose from 13% to 19%. Those trusting scientists 'a lot' rose from 34% in 2018 to 43% in 2020 and then fell to 32% in 2025, below the pre-pandemic baseline and the largest drop of any group measured. The income gradient widened: 20% of people struggling financially trust science a lot against 39% of those living comfortably.",
+   "so_what": "Science trust is tracking institutional trust and inequality rather than scientific literacy, so a school's response is civic and relational rather than more content coverage - teaching how expert claims are warranted, contested and corrected becomes a trust-building exercise with families as much as a curriculum objective.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Wellcome Trust",
+   "source_url": "https://wellcome.org/insights/articles/wellcome-global-monitor-2026-trust-science-has-declined-worldwide-picture-varies",
+   "source_date": "2026-10-10",
+   "source_type": "report",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "who-first-global-adolescent-obesity-guidelines",
+   "title": "WHO issues its first global guidelines on managing obesity in adolescents",
+   "type": "driver",
+   "summary": "On 7 October 2026 WHO published 'Guidelines on the integrated management of obesity in adolescents', a 133-page document and its first global clinical guidance aimed at 10-19 year olds, delivered through primary health care. It makes formal recommendations across eight domains - diet, physical activity, sedentary behaviour and sleep, behaviour-change interventions, digital health interventions, pharmacotherapy, bariatric surgery and multimodal care - and is framed around equity and rights rather than weight targets alone, with diet and activity first-line.",
+   "so_what": "Once WHO names sedentary behaviour, sleep and digital health interventions as clinical levers in one document, a school's timetable, screen policy and start time stop being pastoral preferences and become citable clinical variables - which is the lever a parent or clinician will use to request an individualised accommodation.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "World Health Organization",
+   "source_url": "https://www.who.int/publications/i/item/9789240123878",
+   "source_date": "2026-10-07",
+   "source_type": "policy",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "yrbs-2025-adolescent-cardiovascular-health-score",
+   "title": "YRBS 2025 scores teen cardiovascular health: diet is the floor, sleep second-worst",
+   "type": "signal",
+   "summary": "An analysis in the MMWR Supplement on the 2025 Youth Risk Behavior Survey (McKinnon et al., MMWR Suppl 2026;75(1):25-34) scored US high school students on five cardiovascular health metrics. Of 10,710 students, 5,192 had complete data; the mean composite score was 65.3, with roughly 21% high, 61% moderate and 18% low - about four in five below the high threshold. Component means were diet 39.3, sleep health 59.1, physical activity 62.0, BMI 85.4 and nicotine exposure 80.5.",
+   "so_what": "The two worst-scoring components, diet and sleep, are the two most directly shaped by school operations rather than individual choice, so a national cardiometabolic dataset now quietly indicts the master schedule and hands wellness committees a benchmark they can be measured against.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "CDC MMWR Supplements",
+   "source_url": "https://www.cdc.gov/mmwr/volumes/75/su/su7501a3.htm",
+   "source_date": "2026-10-15",
+   "source_type": "data",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "guardian-genomic-newborn-screening-ancestry-equity",
+   "title": "Genomic newborn screening catches what the hearing screen misses, and pulls whole families into testing",
+   "type": "signal",
+   "summary": "At the International Consortium on Newborn Sequencing (Boston, 7-8 October 2026), GeneDx reported GUARDIAN cohort data: about 30,000 newborns enrolled, 72.3% parental uptake, 76% of participants of non-European genetic ancestry, with screen-positive rates broadly consistent across ancestries once G6PD deficiency was excluded. Sequencing detected Long QT syndrome in infants with no biomarker screen available - eight started beta-blockers - and cascade testing put six parents and one older sibling on preventive therapy; it also found hearing loss in infants who had passed the conventional hearing screen. The successor BRIDGES-NBS panel covers 777 conditions across 746 genes.",
+   "so_what": "A cohort of children is now arriving at school with presymptomatic cardiac diagnoses and genotype-confirmed hearing loss no school-age screening would have found, so PE restriction, AED siting and audiological accommodation requests will increasingly originate from a genome report rather than an observed symptom - and sometimes for siblings too.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "GeneDx / BioSpace (ICoNS 2026)",
+   "source_url": "https://www.biospace.com/press-releases/genedx-presents-new-evidence-advancing-genomic-newborn-screening-at-icons-2026",
+   "source_date": "2026-10-07",
+   "source_type": "report",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "full-color-material-jetting-drops-to-3999",
+   "title": "Full-colour material jetting crosses into school budget territory at $3,999",
+   "type": "signal",
+   "summary": "Flashforge announced the CJ270 on 14 October 2026, a desktop material-jetting printer available in the US for $3,999, with CMYK plus white and transparent resins yielding over 10 million colour combinations, 7-micron minimum layer thickness, water-soluble supports and a built-in planarizer, in a 697 x 410 x 405 mm body. Material jetting - the PolyJet and MJP class of machine producing photorealistic multi-colour, multi-material parts - has historically started around $20,000 and run into six figures. The release names educational settings among target users.",
+   "so_what": "The ceiling on what a school makerspace can physically produce has moved from monochrome FDM to anatomically-coloured, gradient-shaded, transparent-overmoulded objects, which turns 3D printing into a legitimate medium for biology, geology, data physicalisation and art - and makes 'we have a 3D printer' a much weaker claim about capability than it was last year.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Flashforge (GlobeNewswire)",
+   "source_url": "https://www.globenewswire.com/news-release/2026/10/14/3380869/0/en/flashforge-introduces-cj270-as-full-color-3d-printing-moves-toward-desktop-applications.html",
+   "source_date": "2026-10-14",
+   "source_type": "advertisement",
+   "first_seen": "2026-10-18",
+   "sightings": 1
+  },
+  {
+   "id": "doe-spire-embodied-ai-photon-facilities",
+   "title": "DOE funds SPIRE: robots and embodied AI to run national-lab experiments end to end",
+   "type": "driver",
+   "summary": "On 8 October 2026 the DOE Office of Science announced SPIRE, the Source-to-Discovery Platform for Instrumentation, Robotics and Embodied AI in DOE Photon Science Facilities, led by SLAC with Stanford, the University of Chicago, Argonne, Brookhaven and Lawrence Berkeley. Its three strands are robots with tactile sensing for handling delicate and irregular samples, a control layer that self-corrects X-ray and electron beams from live detector data, and detector-embedded AI making first-pass analysis decisions streamed to SLAC's S3DF facility during the experiment.",
+   "so_what": "If sample handling, beam tuning and first-pass analysis - the work that currently fills graduate apprenticeships - is automated at national-lab level, the entry rung of the experimental-science career ladder thins, and the school science skill that holds value shifts from executing a protocol to specifying, interrogating and falsifying one.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Wildcards & Periphery",
+   "source_name": "SLAC National Accelerator Laboratory",
+   "source_url": "https://www6.slac.stanford.edu/news/2026-10-08-slac-leads-new-project-build-self-driving-laboratory-future",
+   "source_date": "2026-10-08",
+   "source_type": "policy",
+   "first_seen": "2026-10-18",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -11686,11 +11979,13 @@
     "israel-plans-ai-english-in-every-school",
     "half-of-us-adults-never-use-a-chatbot",
     "big-feelings-little-evidence-on-genai-and-learning",
-    "teachers-use-ai-where-nobody-audits-it"
+    "teachers-use-ai-where-nobody-audits-it",
+    "arxiv-rations-submissions-against-ai-volume",
+    "anaesthetised-hippocampus-still-predicts-words"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-15",
-   "status_note": "Revised on where teachers actually put the tool, which turns out not to be where anyone has been arguing about it. Teacher Tapp panel data, 8,837 respondents in September 2026 against 5,254 predicting in April 2023, show primary classroom teachers at 55% using AI for lesson planning against 39% predicted, and primary senior leaders at roughly 56% for parent communications against about 28% predicted. The assessment uses collapsed in the opposite direction: 34% expected for attainment-data analysis against about 7% actual, and about 31% expected for marking against about 7%. This bears on the capability question sideways and usefully. The debate has been about whether students using AI lose capability. The measured behaviour is that adults have adopted it for the unobserved, creative half of the job and avoided it for the half that leaves a record - which means whatever is happening to professional capability is happening in preparation, where no instrument is pointed, and the AI-in-assessment policies most schools wrote are governing a behaviour that is not occurring.",
+   "status_note": "Carried forward; re-confirmed with no evidence shifting it either way in three days. The one item worth logging is sideways and from neuroscience rather than AI: Baylor researchers recording hippocampal neurons in anaesthetised patients (Nature 654:714) found population activity still carrying word-category information and still predicting the next word in a story, with plasticity improving over the session. That does not bear on whether AI builds or dissolves capability, but it does undercut a proxy both sides of the argument rely on - visible attention as the gate through which learning passes. If prediction and plasticity run without awareness, then 'the student was engaged' and 'the student encoded it' are measuring different things, and the engagement data schools collect to evaluate AI tools is weaker evidence than it looks.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -11805,11 +12100,16 @@
     "big-feelings-little-evidence-on-genai-and-learning",
     "openai-ships-gpt-6-with-under-18-regressions",
     "people-identify-real-from-ai-below-chance",
-    "methane-satellites-miss-by-forty-four-percent"
+    "methane-satellites-miss-by-forty-four-percent",
+    "arxiv-rations-submissions-against-ai-volume",
+    "no-empirical-floor-under-low-fertility",
+    "trust-in-scientists-falls-below-pre-pandemic-level",
+    "anaesthetised-hippocampus-still-predicts-words",
+    "yrbs-2025-adolescent-cardiovascular-health-score"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-15",
-   "status_note": "Revised on a measurement of the instrument this uncertainty has always assumed without testing: a competent adult looking at something and judging whether it is real. A Florida State law study submitted to the US Advisory Committee on Evidence Rules on 13 October asked 1,783 adults, 62.32% of them in legal roles, to classify 28 stimuli as real or AI-generated. Overall accuracy was 47.4%, significantly below chance; video ran 44.7% and text 42.7%, both below chance; legal training conferred no advantage and confidence was poorly calibrated to accuracy. Set beside this week's Nature blind test of methane satellites, where built-for-purpose instruments achieved a 44% mean absolute percentage error and AI-based methods generated 79% of all false positives, the shape is the same at two very different scales. The human instrument is worse than chance and does not know it. The machine instrument is wrong by nearly half and publishes the error bar. Only one of those two is auditable, and it is not the one schools are relying on."
+   "status_note": "Carried forward; framing, poles and watch indicators stand, and the revision date has not moved. Three items landed on the same nerve from outside the school. arXiv capped every author at two submissions a month from 1 October after a record 40,363 submissions in September, nearly double September 2024 - the open record schools teach students to search is now rationed on throughput rather than filtered on quality, which is a different kind of gatekeeping than 'peer-reviewed' implies. An NBER paper (w35824) finds no empirical floor under low fertility across every dataset tested, meaning the rebound assumption inside official population projections, and therefore inside enrolment forecasts, is unsupported. And the Wellcome Global Monitor 2026 has trust in scientists at 32%, below its pre-pandemic level, with the gap between people struggling financially and those comfortable widened to 19 points. The pattern this uncertainty keeps surfacing holds: the instruments are degrading at the source, not at the school, and the school has no way to audit upstream."
   },
   {
    "id": "cu-credential",
@@ -11822,7 +12122,8 @@
     "Whether the Stanford 22–25 employment gap keeps widening past 19% or reverts as rates normalize",
     "Whether 'seniorised' junior postings keep growing, or junior roles reappear once AI tooling matures",
     "Whether trade-and-apprenticeship signing ceremonies spread beyond defense contractors into other sectors",
-    "Whether elite employers formally drop degree requirements rather than merely saying so"
+    "Whether elite employers formally drop degree requirements rather than merely saying so",
+    "Whether parental willingness to pay for a college-preparatory premium tracks the collapse in stated valuation of the degree, or decouples from it"
    ],
    "signals": [
     "stanford-ai-employment-gap-young-workers",
@@ -11902,11 +12203,17 @@
     "us-september-inflation-reaccelerates-to-3-7",
     "australian-youth-unemployment-reaches-eleven-percent",
     "five-fed-districts-report-ai-attrition",
-    "korea-opened-schools-while-losing-half-a-million-pupils"
+    "korea-opened-schools-while-losing-half-a-million-pupils",
+    "college-very-important-falls-to-31-percent",
+    "bls-ai-exposure-tier-becomes-a-career-guidance-instrument",
+    "washington-deletes-the-graduation-pathway",
+    "doe-spire-embodied-ai-photon-facilities",
+    "no-empirical-floor-under-low-fertility",
+    "remote-work-lowered-births-among-married-women"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-15",
-   "status_note": "Revised on the entry-level squeeze appearing in two places it cannot be attributed to AI or to the United States. The Australian Bureau of Statistics put 15-24 unemployment at 11.1% in September against a headline rate of 4.7%, in a country with unusually strong vocational pathways. And the Federal Reserve's Beige Book of 14 October reports that in five of twelve Districts some firms had reduced staffing through attrition, delayed hiring or expected less job creation after investing in AI - a mechanism that closes the door to new entrants while leaving incumbent employment statistics intact, which is exactly why the headline rate keeps looking stable. Separately and on the supply side, South Korea opened 180 schools while losing 510,000 students over six years, because siting is decided by elected superintendents for whom a new building is a campaign pledge. The common thread is that the aggregate numbers a school would consult are the wrong instrument for the question it is actually asking."
+   "last_revised": "2026-10-18",
+   "status_note": "Revised on the demand side, which this uncertainty has tracked only through employers. Gallup's August 2026 poll puts the share of US adults calling college 'very important' at 31%, the lowest since the question began in 1978 and down from 70% in 2013; 'not too important' has risen from 6% to 29%. The decline runs through every demographic, party and education level - non-Hispanic Black adults down 25 points since 2019, Republicans at 22% from 41% - so this is no longer a partisan artefact but a general repricing of the thing an independent school sells. Two mechanisms arrived with it. BLS has published an official AI-exposure classification placing 206 occupations in the top tier, and within a month the National Association of Home Builders was using it as a recruiting argument (96% of construction occupations low or moderate), which means pathway guidance now has a federal number to sort by. And Washington's State Board moved to delete the graduation pathway requirement outright, replacing it with a one-credit personalised requirement plus a mandated CTE sequence - the diploma unbundled from a gatekeeping assessment at state level. A watch indicator has been added, because the live question is now whether stated valuation and willingness to pay move together or come apart; a parent body that no longer believes the degree is very important and pays the premium anyway is a different institution from one that believes and pays."
   },
   {
    "id": "cu-liability",
@@ -11993,11 +12300,14 @@
     "six-grid-operators-ask-ferc-for-more-time",
     "teams-adds-third-party-deepfake-detection",
     "epa-strips-nonattainment-review-from-atlanta",
-    "australia-high-court-counts-exported-emissions"
+    "australia-high-court-counts-exported-emissions",
+    "who-first-global-adolescent-obesity-guidelines",
+    "guardian-genomic-newborn-screening-ancestry-equity",
+    "yrbs-2025-adolescent-cardiovascular-health-score"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward; revised yesterday on the Holliston Public Schools deepfake guidelines and nothing in this window adds to the mechanism, so the revision date has not moved. One development sits adjacent and is recorded rather than logged here, because it belongs to the challenger: the Florida State study submitted to the Advisory Committee on Evidence Rules proposes that where metadata is stripped, provenance is silent and detection gives no reliable signal, the exhibit should be excluded. Courts can decline to decide. A school investigating an allegation about a child cannot, which is the asymmetry this uncertainty will eventually have to price. Two markers remain ahead: EPA's Atlanta rule takes effect on 9 November, and the Evidence Rules committee met today, 15 October, with an outcome to be hunted from tomorrow."
+   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved, but a mechanism this uncertainty has not yet priced showed itself twice this week, both times with the duty arriving from outside the building. WHO published its first global guidelines on adolescent obesity on 7 October, naming sedentary behaviour, sleep and digital health interventions as clinical levers across eight domains - which converts the master schedule, start time and screen policy from pastoral preferences into citable clinical variables a clinician can write an accommodation request against. And GeneDx's GUARDIAN cohort data (about 30,000 newborns, 72.3% uptake, 76% non-European ancestry) shows presymptomatic Long QT diagnoses and genotype-confirmed hearing loss in infants who passed the conventional screen, with cascade testing pulling in parents and siblings. Both point the same way: the school's duty is increasingly defined by a document it did not generate, about a condition it could not have observed, arriving with a specificity its own records cannot match. Two markers remain ahead: EPA's Atlanta rule takes effect on 9 November, and the Advisory Committee on Evidence Rules outcome from its 15 October meeting is still unpublished."
   },
   {
    "id": "cu-boundary",
@@ -12072,11 +12382,14 @@
     "speech-polyfeatures-predict-decline-seven-years",
     "vision-models-lack-perceptual-adaptation",
     "breathwork-drops-cerebral-blood-flow",
-    "an-attention-finding-with-no-device-to-confiscate"
+    "an-attention-finding-with-no-device-to-confiscate",
+    "full-color-material-jetting-drops-to-3999",
+    "guardian-genomic-newborn-screening-ancestry-equity",
+    "who-first-global-adolescent-obesity-guidelines"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-13",
-   "status_note": "Carried forward; the revision date has not moved, and the reason is worth recording. A third no-device cognitive-modulation finding surfaced this week - a pilot study of auto-induced trance reporting sense of motor agency falling from 83.8 to 10.4 on a 100-point scale - and it was deliberately not logged. All 17 participants were trained by the institute that teaches the practice, a co-author is affiliated with that institute, the design is retrospective self-report comparing a remembered trance against a remembered meal, and no effect sizes or p-values are published. That is a conflicted measurement rather than a fragile one. The pattern across three weeks now stands as the finding in itself: evidence for cognitive modulation without equipment keeps arriving from conference abstracts and from organisations with an interest in the practice, which is to say it will reach parents and the press through channels that have no quality filter at all, long before anything a school would recognise as evidence exists. Keep looking in accommodation law, examination-board rules and device procurement."
+   "status_note": "Carried forward; re-confirmed with no new evidence either way in the three days since the last scan, and the revision date has not moved. Nothing surfaced in accommodation law, examination-board rules or device procurement, which are the three places this uncertainty says to look. One adjacent item is recorded rather than logged against the mechanism: a desktop full-colour material-jetting printer at $3,999, a class of machine that started near $20,000, explicitly marketed into education. That is the other end of the same question - the equipment a school hands a student rather than the equipment a student wears - and it matters here only as a reminder that the boundary is being redrawn from both directions at once. A candidate signal on retroactive PEGI re-rating of already-installed games was investigated and dropped for want of an editorially-governed source; worth re-checking, since a store badge that changes overnight would hit device policy without any change to the device."
   }
  ],
  "verification": {
@@ -12086,6 +12399,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-18-bare-hands",
+   "date": "2026-10-18",
+   "title": "Bare Hands",
+   "year": 2033,
+   "axis": "Employers reprice toward demonstrated, equipped performance (cu-credential: Market reprices) while the school holds a defended line around the unaided person (cu-boundary: The unaided person is defensible)",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices - portfolios, apprenticeships and demonstrated work displace transcripts at the point of entry; prestige fragments across multiple legitimate pathways."
+    },
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The unaided person is defensible - schools hold a line around device-free assessment and device-free formation, absorb the accommodation cost case by case, and accept that some cheating goes undetected rather than concede that the equipped student is the baseline."
+    }
+   ],
+   "premise": "By 2033 the transcript has stopped doing the work it used to do. Entry-level hiring runs on recorded performance: a sixty-minute equipped work sample, screen and glasses and agent stack all running, scored on what the candidate produced and how they steered the tools. Mount Vernon held its line through all of it. Fifth through twelfth grade, the Upper School's assessed work happens in six rooms with no network and no wearables, and the school publishes a Formation Record alongside the transcript: a signed, moderated account of what a student can do with nothing switched on. Atlanta parents mostly chose the school for exactly this, and tuition has gone from $41,000 to $58,000 while they did. The two systems do not talk to each other, so students carry both, and increasingly they notice which one anybody asks for.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Amara Osei, Grade 11",
+     "vignette": "Wednesday, Room 214, the clean rooms. Amara writes the Reconstruction essay by hand, ninety minutes, no glasses, and it is good - she knows it is good, she can feel the argument land. Thursday she does a paid remote work sample for a logistics firm in Smyrna, forty-five minutes equipped, and the thing she is scored on is how fast she catches her agent's bad assumption about dock scheduling. She catches it in eleven seconds. Nobody will ever read the essay. She has started thinking of Wednesday as the part she does for the school and Thursday as the part she does for herself, and she has not said that to anyone."
+    },
+    {
+     "role": "Teacher",
+     "name": "Danny Reyes, Upper School history",
+     "vignette": "Danny proctors the clean rooms twice a week and marks on paper, and he will defend it in any room in the building, because he has watched what students write unaided get better for four straight years and he has the moderation data. What he cannot get past is Tuesday's advisory. Three juniors asked him, separately, how to describe the Formation Record on an application, and he did not have a good answer. He said it shows who you are without the scaffolding. One of them, politely, asked whether anyone was hiring for that. He has been turning the question over since, and he does not think she was being rude."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya Raghunathan, mother of two",
+     "vignette": "Priya pays $58,000 for her son and will pay it again, and she means it when she says the clean rooms are the reason. Her daughter graduated in 2031 and is doing fine - better than fine, actually, she steers three agents at a climate-analytics shop in Midtown and talks about her work the way Priya's father talked about surgery. But Priya noticed that her daughter learned all of that in nine weeks after graduating, from a free employer bootcamp, and that nobody at the firm asked about the Formation Record. She has not said this at a parents' evening. She is not sure what she would be arguing for."
+    },
+    {
+     "role": "Administrator",
+     "name": "Chris Boateng, Head of Upper School",
+     "vignette": "The board packet is due Friday and Chris has the retention numbers in front of him. Eleventh-grade attrition to the two equipped-pathway schools in Alpharetta is 6% this year, up from 2%, and the exit interviews all say some version of the same thing: we love it here, we just need the other thing too. The six clean rooms cost $340,000 a year in proctoring and moderation. He believes in them. He also knows that a defended line is only defended while families keep paying for it, and that what he is actually asking the board to fund is a conviction, measured against a market that has stopped agreeing."
+    }
+   ],
+   "tension": "The school was right. Unaided formation got better, measurably, and the moderation data is real - Danny's students write more clearly than their predecessors did, and that is a genuine achievement nobody faked. The trouble is that being right produced something with no buyer: a capability the school can evidence and the market will not price, held by students who can feel the gap and have quietly started splitting themselves in two to manage it. And the alternative is no cleaner, because the equipped-pathway schools are producing fast, fluent, well-paid eighteen-year-olds whose unaided thinking nobody has measured in six years and who may be exactly as hollow as Mount Vernon fears. The cost is hidden inside the benefit and cannot be separated from it: the clean rooms work because they are protected from the world, and the protection is the thing that makes what they build illegible to it. Nobody chose this trade - the school chose formation, employers chose observable performance, and the gap between them opened in the space where neither was looking.",
+   "provocations": [
+    "If the Formation Record never gets asked for by an employer or a university, is it still worth $340,000 a year - and what evidence would change that answer rather than restate the conviction?",
+    "Amara has split herself into a Wednesday self and a Thursday self. Is that integration failing, or is it the most honest thing the school has taught her?",
+    "If 6% attrition becomes 15%, does Mount Vernon hold the line with a smaller, more committed, wealthier family body - and is that school still the one the mission describes?"
+   ]
+  },
   {
    "id": "sc-2026-10-15-held",
    "date": "2026-10-15",
