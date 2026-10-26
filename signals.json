@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-18",
- "scan_count": 39,
+ "last_updated": "2026-10-25",
+ "scan_count": 40,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -6098,7 +6098,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-12",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "gallup-union-influence-record-high-47",
@@ -8041,7 +8041,7 @@
    "source_date": "2026-09-21",
    "source_type": "news",
    "first_seen": "2026-09-22",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "superintendent-turnover-returns-to-baseline",
@@ -11907,6 +11907,319 @@
    "source_type": "policy",
    "first_seen": "2026-10-18",
    "sightings": 1
+  },
+  {
+   "id": "science-of-reading-effect-vanishes-under-preferred-estimator",
+   "title": "Science-of-Reading laws show no significant NAEP gain under the preferred estimator",
+   "type": "signal",
+   "summary": "An Annenberg/Brown working paper (No. 26-1616, October 2026) runs state-level difference-in-differences on 1,122 state-year observations (51 jurisdictions, 2003-2024) against NAEP Grade 4 reading. The preferred Callaway & Sant'Anna estimate is 0.33 NAEP points (SE 0.35), about 0.05 state SDs and not significant, while alternative estimators on the same data give 1.04 (Sun-Abraham) and 2.35 points (stacked DiD). Effects emerge only at 4-6 years post-adoption and are significant for non-FRPL (2.37) and White students (2.06) but not FRPL-eligible (1.00); the components carrying the signal are licensure (1.43, p=.04) and professional development (1.66, p=.01), not mandates.",
+   "so_what": "The most-legislated reform of the decade appears to deliver its measurable value through teacher certification and PD rather than curriculum mandates, so a school copying the mandate without the workforce investment buys the brand and not the effect. That the headline result flips significance purely on econometric choice is the sharper point: any 'proven curriculum' claim a school buys on can be unwound by an estimator it will never read.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute at Brown University (EdWorkingPaper No. 26-1616)",
+   "source_url": "https://edworkingpapers.com/ai26-1616",
+   "source_date": "2026-10-16",
+   "source_type": "study",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "criterion-relevant-assessment-share-predicts-lower-gpa",
+   "title": "Coded syllabi show grades fall 0.6 points as assessment becomes gradeable against a standard",
+   "type": "signal",
+   "summary": "An October 2026 working paper (Annenberg No. 26-1622) links hand-coded syllabi from 425 undergraduate courses at four large public R1 universities to course-average GPAs, classifying every graded component as criterion-relevant (exams, quizzes, structured projects judged against common standards) or criterion-limited (participation, completion credit, self-selected portfolio work). Moving from 0% to 100% criterion-relevant weighting is associated with a 0.60-point lower course GPA under instructor fixed effects (SE 0.08, p<.001); the raw association is 0.74. By quartile, GPA runs 0.13, 0.28 and 0.54 lower moving up from the lowest criterion-relevant quartile, and every academic field's slope is negative.",
+   "so_what": "Grade inflation may be less a story about lenient marking than about grade weight quietly migrating into components that cannot be judged against any standard, which makes the AI-era turn toward process portfolios, participation and completion credit an inflation engine by construction. A school can audit its own drift by measuring the weight share rather than the marks.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute at Brown University (EdWorkingPaper No. 26-1622)",
+   "source_url": "https://edworkingpapers.com/ai26-1622",
+   "source_date": "2026-10-22",
+   "source_type": "study",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "broken-grader-inflated-agent-success-29-points",
+   "title": "Fixing one grading bug cut a benchmark agent's success rate from 94.3% to 65.5%",
+   "type": "signal",
+   "summary": "An arXiv preprint submitted 12 October 2026 audited the evaluation harness rather than the agent on an LLM agent benchmark, applying five state-integrity invariants and three known-answer controls. A reward-function defect that mutated environment state before post-run scoring had inflated results: across 4,320 episodes, database-pass labels fell from 4,194 to 2,883 after replay-based correction, dropping measured success from 94.3% to 65.5%, a 28.8-point swing. A separate 3,240-episode ablation found scores moved 5.3 to 9.2 points on tool descriptions and error strings alone, with one effect reversing sign in a second task domain.",
+   "so_what": "The gap between a vendor's agent demo and classroom reality may be a measurement artefact rather than a deployment problem, which means the useful procurement question is who wrote the grader and whether anyone audited it, not what the score was. Every edtech rubric built on published benchmark numbers rests on infrastructure nobody checks.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (cs.SE/cs.AI)",
+   "source_url": "https://arxiv.org/abs/2610.16067",
+   "source_date": "2026-10-12",
+   "source_type": "study",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "six-year-olds-skip-control-networks-talking-to-chatgpt",
+   "title": "First graders talking to ChatGPT barely engage the control network adults use",
+   "type": "signal",
+   "summary": "A Cerebral Cortex study (Horowitz-Kraus et al., doi:10.1093/cercor/bhag167) scanned 15 first graders (mean age 6.4) and 16 adults with fMRI during a five-minute spoken ChatGPT conversation about opening a store. Frontoparietal within-network connectivity was 0.201 in adults versus 0.113 in children, and frontoparietal-to-dorsal-attention coupling 0.126 versus 0.039, both surviving multiple-comparison correction. Default-mode connectivity was effectively identical (0.187 vs 0.181) and divergent-thinking scores equivalent for age (28.6th vs 26.2nd percentile), so the gap sits specifically in executive control rather than imagination or arousal.",
+   "so_what": "Children can produce age-appropriate creative output in an AI conversation while recruiting almost none of the monitoring circuitry adults bring to it, so the critical-evaluation layer schools assume travels with AI use may be neurologically absent in early primary. Output quality is exactly the wrong place to look for it.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "PsyPost, reporting Cerebral Cortex",
+   "source_url": "https://www.psypost.org/brain-scans-suggest-first-graders-dont-engage-their-control-networks-like-adults-when-talking-to-chatgpt/",
+   "source_date": "2026-10-22",
+   "source_type": "news",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "rest-replay-buys-gist-by-spending-detail",
+   "title": "Memory replay during a 90-second rest trades episodic detail for gist",
+   "type": "signal",
+   "summary": "Hindy and colleagues, in the Journal of Cognitive Neuroscience (doi:10.1162/JOCN.a.2592, reported 12 October 2026), used high-resolution fMRI on 24 adults to track spontaneous hippocampal replay during a 90-second post-learning rest. Greater CA1 replay predicted both more confident false recognition of theme words never presented and worse accuracy at recalling which voice had spoken a word, while memory for the studied words themselves was unchanged. CA3 replay tracked only thematic false memories and dentate gyrus activity only source-memory loss, splitting along the hippocampal long axis.",
+   "so_what": "The quiet consolidation break schools are told to build in after instruction appears to purchase conceptual generalisation by spending source and surface detail, so the same pause that strengthens what it means weakens where I learned it. That is precisely the provenance habit an AI-saturated information environment most needs students to keep.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "PsyPost, reporting Journal of Cognitive Neuroscience",
+   "source_url": "https://www.psypost.org/mental-replay-during-rest-trades-specific-memory-details-for-general-concepts/",
+   "source_date": "2026-10-12",
+   "source_type": "news",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "canada-study-permit-arrivals-undershoot-cap-by-two-thirds",
+   "title": "Canada's student cap stops binding as arrivals run 36% below last year",
+   "type": "signal",
+   "summary": "IRCC data compiled on 15 October 2026 shows only 28,205 new international students arrived in Canada from January to July 2026, about 18% of the 155,000 commencement target inside a 408,000-permit cap, against 40-50% by end-July in 2024 and 2025. Year-to-date arrivals are down roughly 36% on 2025 and about 80% on 2024, projecting a full year under 100,000. Approval rates actually rose, to 47% for January-May 2026 from 36% a year earlier, and the Association of Atlantic Universities counted 3,020 fewer international students on 1 October, down 18% year-on-year and nearly 48% from 2024.",
+   "so_what": "The binding constraint has flipped from policy supply to family demand: a cap is undershot by two-thirds even as approvals get easier. Destination countries will start competing for mindshare at secondary level rather than at application, and counselling that still treats Canada as the safe fallback to the US is working off a market that quietly halved.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "ICEF Monitor",
+   "source_url": "https://monitor.icef.com/2026/10/what-is-happening-with-international-student-numbers-in-canada-so-far-this-year/",
+   "source_date": "2026-10-15",
+   "source_type": "report",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "denver-immigrant-enrolment-233-breaks-closure-moratorium",
+   "title": "Denver's immigrant intake falls from 1,470 to 233, triggering a moratorium exception",
+   "type": "signal",
+   "summary": "Denver Public Schools lost 1,780 students this autumn, overshooting its own 1,400-1,500 projection and last year's roughly 1,200 decline. Only 233 new immigrant students enrolled in the first five weeks against more than 1,470 in autumn 2023, with over 570 leaving in the first month. Superintendent Alex Marrero told the board on 8 October 2026 he expects to invoke the substantial-shift clause in the district's four-year closure moratorium; Robert F. Smith STEAM Academy cut ninth grade after fewer than 20 students enrolled and now has 24 students across grades 10-12.",
+   "so_what": "Migration enforcement has become a larger short-run error term in enrolment forecasting than fertility is, a demographic variable that moves in months rather than across the fourteen-year lag from a birth cohort. Any school running tuition-revenue or staffing models off birth-cohort projections is now modelling the slower of its two drivers.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Denver Gazette",
+   "source_url": "https://www.denvergazette.com/2026/10/16/with-enrollment-drop-dps-superintendent-says-school-closures-possible/",
+   "source_date": "2026-10-16",
+   "source_type": "news",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "closure-tracker-176-schools-october-approvals-cluster",
+   "title": "Three districts approved 29 school closures in 19 days, all effective 2027-28",
+   "type": "trend",
+   "summary": "K-12 Dive's closure tracker, updated 22 October 2026, now lists 17 districts closing, consolidating or repurposing 176 schools. Three voted in October alone: Tulsa (17 schools, approved 19 October, about $11.1m in savings), Adams 12 Five Star in Colorado (6 schools, 7 October, about $5m) and Olathe, Kansas (6 schools, 1 October, about $12m), every one of them effective 2027-28. Tulsa has shed roughly a fifth of enrolment in a decade, from 40,900 to 32,500; Adams 12 lost 1,365 students in a single year, three times its own projection.",
+   "so_what": "The uniform 2027-28 effective date opens an eighteen-month window in which thousands of families know their school is closing and have not yet chosen a replacement, a concentrated enrolment market that appears and closes faster than most independent-school admissions cycles would notice. It also puts usable school buildings onto local markets at distress prices.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/public-schools-closure-tracker-enrollment/809364/",
+   "source_date": "2026-10-22",
+   "source_type": "data",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "young-nonvoters-unsure-not-distrustful-of-elections",
+   "title": "Among young non-voters, 46% say they don't know if elections will be fair",
+   "type": "signal",
+   "summary": "The Harvard IOP Youth Poll released 22 October 2026 (n=2,024, ages 18-29, fielded 30 September to 7 October, MoE 2.61 points) finds only 34% of young Americans trust the 2026 congressional elections will be fair and accurate. The split is not simple cynicism: trust runs 53% among likely voters but 12% among those certain not to vote, and 46% of that non-voting group answered unsure rather than distrustful. Separately, 43% of non-voters say participation makes little or no difference, against 8% of likely voters.",
+   "so_what": "The civic deficit is not belief in fraud but the absence of any working model of how an election is administered, which means media-literacy and spot-the-misinformation units are aimed at the wrong failure mode. Procedural civics, who counts ballots and how an audit works, is the under-taught thing.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Harvard Institute of Politics Youth Poll, 53rd Edition",
+   "source_url": "https://iop.harvard.edu/youth-poll/53rd-edition-fall-2026",
+   "source_date": "2026-10-22",
+   "source_type": "data",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "warming-rate-doubles-within-one-bond-cycle",
+   "title": "Decadal warming rate hits 0.36C, nearly double the 1970-2010 pace",
+   "type": "driver",
+   "summary": "The 2026 state of the climate report (BioScience, 14 October 2026; Ripple, Wolf, Mann, Rockstrom et al.) reports the global warming rate rising from about 0.05C per decade (1880-1970) to 0.19C (1970-2010) to 0.36C (2010-2024), with 7 of 16 planetary vital signs at record extremes and CO2 above 428 ppm. It puts adaptation finance at roughly US$64bn in 2024 against an estimated US$310-365bn a year needed by 2035, and notes July 2026 was the hottest month on record for the contiguous US in a series running from 1895.",
+   "so_what": "School facilities are specified against 30-year climate normals, so an HVAC or envelope system sized today on historical averages is mis-specified before a 20-year bond is repaid. The capital-planning question shifts from whether it is getting hotter to what rate of change the building is designed and amortised against.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "BioScience",
+   "source_url": "https://academic.oup.com/bioscience/advance-article/doi/10.1093/biosci/biag125/8836482",
+   "source_date": "2026-10-14",
+   "source_type": "journal",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "strictest-phone-school-had-worst-depression-scores",
+   "title": "Belgian study: the strictest phone-ban school scored worst on depression",
+   "type": "signal",
+   "summary": "A KU Leuven growth-trajectory study published 14 October 2026 in the Journal of Computer-Mediated Communication tracked 283 Flemish students across up to seven monthly waves (November 2024 to May 2025) in three schools with different phone policies: full restriction, lunch-break access, and lunch-plus-afternoon-break access. Two months after implementation the full-restriction school had the highest depressive symptoms (M=2.37 against 2.06 and 1.96) and significantly higher anxiety than both partial-restriction schools. Depressive symptoms rose over time in the full-restriction (b=0.05, p<.01) and lunch-break (b=0.08, p<.001) schools but not where afternoon access was allowed (b=0.01, p=.610). There was no control group or pretest, and the authors claim no causation.",
+   "so_what": "If restriction severity tracks with worse rather than better wellbeing, schools that adopted bell-to-bell bans on a mental-health rationale have bought an attention benefit they can defend and a wellbeing benefit they cannot. Partial policies preserving a social window may be the defensible position rather than the half-measure.",
+   "likelihood": "plausible",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Journal of Computer-Mediated Communication",
+   "source_url": "https://academic.oup.com/jcmc/article/31/6/zmag025/8916679",
+   "source_date": "2026-10-14",
+   "source_type": "journal",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "ff-nova-sub-2500-humanoid-pitched-at-schools",
+   "title": "A walking humanoid lands under $2,500 with a school curriculum attached",
+   "type": "signal",
+   "summary": "On 15-16 October 2026 Faraday Future and FF EAI Robotics launched FF Nova, a 49.7cm, 2.8kg, 20-degree-of-freedom ROS 2 humanoid at $2,490, explicitly aimed at developers, universities and schools, alongside a $299 FF Nova Mini for children aged 8 and up with block-based programming. The commercial package is education-shaped rather than industrial: a $390 developer software add-on and a $499 bundle of 16 live online classes carrying a voucher toward the robot, with training built on Nvidia's Isaac simulation platform. Phase one is 100 invitation-only units for developers and schools; FF's robotics unit had shipped 817 units by end of September.",
+   "so_what": "Once a walking humanoid costs less than a classroom set of Chromebooks, robotics stops being a competition-team specialism and the binding constraint shifts from capital budget to whether any teacher can write a unit of work for an embodied agent. The course-plus-voucher structure is the sharper detail: the vendor is selling curriculum as the on-ramp to hardware, which puts the school's scope and sequence inside someone else's funnel.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "The Next Web",
+   "source_url": "https://thenextweb.com/news/faraday-future-nova-humanoid-robots",
+   "source_date": "2026-10-16",
+   "source_type": "news",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "pegi-retrofits-16-rating-onto-already-published-games",
+   "title": "PEGI retroactively re-rates live games to 16 over paid random items",
+   "type": "signal",
+   "summary": "From mid-October 2026 the Games Rating Authority, PEGI's UK administrator, began reclassifying already-published digital-only games previously rated PEGI 3, 7 or 12 up to a new PEGI 16 descriptor for paid random items, covering titles rated through both the PEGI Classic procedure and IARC. Pokemon TCG Pocket, Pokemon Masters EX and Fire Emblem Heroes have already moved, with Marvel Rivals and EA Sports FC 27 also affected. GRA policy manager Connor Hinde acknowledged that a high volume of rating changes would take place over a relatively short period, with rollout continuing through October.",
+   "so_what": "Games a school's acceptable-use policy, esports roster or MDM profile cleared last term as 3+ or 12+ are silently becoming 16+ with no change to the game itself, so compliance now drifts out of date by re-rating rather than by anything a student did. The deeper shift is that a ratings body is labelling monetisation mechanics rather than content, which hands schools a vocabulary for teaching gambling-adjacent design instead of only screen time.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "PocketGamer.biz",
+   "source_url": "https://www.pocketgamer.biz/games-with-loot-boxes-receive-updated-pegi-16-rating-for-paid-random-items/",
+   "source_date": "2026-10-20",
+   "source_type": "news",
+   "first_seen": "2026-10-25",
+   "sightings": 1
+  },
+  {
+   "id": "ai-disclosure-label-crosses-a-third-of-a-storefront",
+   "title": "A generative-AI disclosure label now covers a third of a major catalogue",
+   "type": "signal",
+   "summary": "At Steam Next Fest in October 2026, 2,593 of 7,145 upcoming titles, just over 36%, carried Valve's mandatory generative-AI disclosure, up from roughly 20% at the June event, per SteamDB counts. Excluding AI-disclosed titles leaves 4,552 entries. A jump of about 16 percentage points in four months is the clearest at-scale measurement yet of how fast a machine-readable this-contains-generative-AI label propagates through a creative marketplace once a platform makes it compulsory.",
+   "so_what": "This is the first large real-world dataset on what universal AI-provenance labelling actually does, and the answer is that within two cycles the label stops meaning suspect and starts meaning normal, which is the fate waiting for any school's AI-use declaration on student work. A disclosure regime reaching a third of submissions has ceased to be a sorting mechanism, so assessment has to move from declaring AI use to evidencing the student's own contribution.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "PC Guide, citing SteamDB",
+   "source_url": "https://www.pcguide.com/news/steam-next-fest-has-even-more-generative-ai-than-last-time-gamers-say-the-event-is-absolutely-ruined/",
+   "source_date": "2026-10-20",
+   "source_type": "data",
+   "first_seen": "2026-10-25",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -11981,11 +12294,14 @@
     "big-feelings-little-evidence-on-genai-and-learning",
     "teachers-use-ai-where-nobody-audits-it",
     "arxiv-rations-submissions-against-ai-volume",
-    "anaesthetised-hippocampus-still-predicts-words"
+    "anaesthetised-hippocampus-still-predicts-words",
+    "six-year-olds-skip-control-networks-talking-to-chatgpt",
+    "rest-replay-buys-gist-by-spending-detail",
+    "broken-grader-inflated-agent-success-29-points"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-15",
-   "status_note": "Carried forward; re-confirmed with no evidence shifting it either way in three days. The one item worth logging is sideways and from neuroscience rather than AI: Baylor researchers recording hippocampal neurons in anaesthetised patients (Nature 654:714) found population activity still carrying word-category information and still predicting the next word in a story, with plasticity improving over the session. That does not bear on whether AI builds or dissolves capability, but it does undercut a proxy both sides of the argument rely on - visible attention as the gate through which learning passes. If prediction and plasticity run without awareness, then 'the student was engaged' and 'the student encoded it' are measuring different things, and the engagement data schools collect to evaluate AI tools is weaker evidence than it looks.",
+   "status_note": "Carried forward; framing, poles and watch indicators stand and the revision date has not moved. One item lands squarely on the mechanism, and does so from developmental neuroscience rather than from an outcome study. A Cerebral Cortex fMRI comparison of 15 first graders (mean age 6.4) and 16 adults during a five-minute spoken ChatGPT conversation found frontoparietal within-network connectivity of 0.113 against 0.201 and frontoparietal-to-dorsal-attention coupling of 0.039 against 0.126, both surviving correction, while default-mode connectivity (0.187 vs 0.181) and age-normed divergent thinking were equivalent. The children produced comparable creative output with almost none of the monitoring circuitry engaged. That cuts across both poles as they are usually argued: the live question at that age is not whether AI amplifies or dissolves capability but whether the evaluative layer both poles presuppose was ever recruited in the first place, which makes output quality the wrong instrument for settling the argument. A second item is adjacent and recorded rather than logged against the mechanism: JoCN high-resolution fMRI (n=24) showing CA1 replay during a 90-second post-learning rest predicting both confident thematic false memories and source-memory loss, with word memory unchanged. The consolidation pause schools are urged to protect appears to buy gist by spending provenance, which is an awkward finding for anyone proposing reflection breaks as the antidote to AI-assisted production.",
    "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
   },
   {
@@ -12105,11 +12421,18 @@
     "no-empirical-floor-under-low-fertility",
     "trust-in-scientists-falls-below-pre-pandemic-level",
     "anaesthetised-hippocampus-still-predicts-words",
-    "yrbs-2025-adolescent-cardiovascular-health-score"
+    "yrbs-2025-adolescent-cardiovascular-health-score",
+    "science-of-reading-effect-vanishes-under-preferred-estimator",
+    "criterion-relevant-assessment-share-predicts-lower-gpa",
+    "broken-grader-inflated-agent-success-29-points",
+    "six-year-olds-skip-control-networks-talking-to-chatgpt",
+    "rest-replay-buys-gist-by-spending-detail",
+    "ai-disclosure-label-crosses-a-third-of-a-storefront",
+    "strictest-phone-school-had-worst-depression-scores"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-15",
-   "status_note": "Carried forward; framing, poles and watch indicators stand, and the revision date has not moved. Three items landed on the same nerve from outside the school. arXiv capped every author at two submissions a month from 1 October after a record 40,363 submissions in September, nearly double September 2024 - the open record schools teach students to search is now rationed on throughput rather than filtered on quality, which is a different kind of gatekeeping than 'peer-reviewed' implies. An NBER paper (w35824) finds no empirical floor under low fertility across every dataset tested, meaning the rebound assumption inside official population projections, and therefore inside enrolment forecasts, is unsupported. And the Wellcome Global Monitor 2026 has trust in scientists at 32%, below its pre-pandemic level, with the gap between people struggling financially and those comfortable widened to 19 points. The pattern this uncertainty keeps surfacing holds: the instruments are degrading at the source, not at the school, and the school has no way to audit upstream."
+   "status_note": "Carried forward; framing, poles and watch indicators stand and the revision date has not moved. This was the heaviest week this uncertainty has had, and all three items concern the machinery that produces evidence rather than any school's use of it. An Annenberg working paper (26-1616) on Science of Reading legislation finds the preferred Callaway and Sant'Anna estimate at 0.33 NAEP points (SE 0.35, not significant) where alternative estimators on the same 1,122 state-year panel give 1.04 and 2.35 - the most-legislated reform of the decade flips significance on econometric choice alone, and what survives is licensure (1.43) and professional development (1.66), not the mandate. A second Annenberg paper (26-1622), coding 425 university syllabi, finds a 0.60-point lower course GPA as graded weight moves from criterion-limited to criterion-relevant components, which reframes grade inflation as a measurement-composition effect and makes the AI-era shift toward portfolios and participation credit an inflation engine by construction. And an arXiv audit of a benchmark harness, not the agent, found a reward-function defect inflating measured agent success from a replay-corrected 65.5% to 94.3% across 4,320 episodes, with a further 5.3-9.2 points moving on tool descriptions alone. The pattern holds and sharpens: the school is downstream of instruments whose error is generated at the source, and in all three cases the error is invisible at the point of use. The practical edge for procurement is the third item - the right question about an edtech claim is who wrote the grader and whether anyone audited it."
   },
   {
    "id": "cu-credential",
@@ -12209,11 +12532,16 @@
     "washington-deletes-the-graduation-pathway",
     "doe-spire-embodied-ai-photon-facilities",
     "no-empirical-floor-under-low-fertility",
-    "remote-work-lowered-births-among-married-women"
+    "remote-work-lowered-births-among-married-women",
+    "closure-tracker-176-schools-october-approvals-cluster",
+    "canada-study-permit-arrivals-undershoot-cap-by-two-thirds",
+    "denver-immigrant-enrolment-233-breaks-closure-moratorium",
+    "criterion-relevant-assessment-share-predicts-lower-gpa",
+    "ff-nova-sub-2500-humanoid-pitched-at-schools"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-18",
-   "status_note": "Revised on the demand side, which this uncertainty has tracked only through employers. Gallup's August 2026 poll puts the share of US adults calling college 'very important' at 31%, the lowest since the question began in 1978 and down from 70% in 2013; 'not too important' has risen from 6% to 29%. The decline runs through every demographic, party and education level - non-Hispanic Black adults down 25 points since 2019, Republicans at 22% from 41% - so this is no longer a partisan artefact but a general repricing of the thing an independent school sells. Two mechanisms arrived with it. BLS has published an official AI-exposure classification placing 206 occupations in the top tier, and within a month the National Association of Home Builders was using it as a recruiting argument (96% of construction occupations low or moderate), which means pathway guidance now has a federal number to sort by. And Washington's State Board moved to delete the graduation pathway requirement outright, replacing it with a one-credit personalised requirement plus a mandated CTE sequence - the diploma unbundled from a gatekeeping assessment at state level. A watch indicator has been added, because the live question is now whether stated valuation and willingness to pay move together or come apart; a parent body that no longer believes the degree is very important and pays the premium anyway is a different institution from one that believes and pays."
+   "status_note": "Carried forward; the revision of 18 October stands and the framing, poles and watch indicators are unchanged. Nothing moved the employer side this week, but three items moved the enrolment side, which the demand-valuation watch indicator added last week now has to absorb. K-12 Dive's closure tracker reached 176 schools across 17 districts, with Tulsa (17 schools, 19 October), Adams 12 (6 schools, 7 October) and Olathe (6 schools, 1 October) all voting in a 19-day window and all effective 2027-28 - a synchronised eighteen-month interval in which families know their school is closing and have not chosen a replacement. Denver lost 1,780 students against a 1,400-1,500 projection, with new immigrant enrolment at 233 against more than 1,470 in 2023, and expects to invoke the substantial-shift clause in its own closure moratorium. And Canadian study-permit arrivals ran at 28,205 for January-July, roughly 18% of the 155,000 commencement target, down about 36% year-on-year even as approval rates rose from 36% to 47%. The common structure is worth naming: in each case the constraint stopped being policy supply and became family demand, and the forecast error is now larger and faster-moving than the fertility signal most enrolment models are built on."
   },
   {
    "id": "cu-liability",
@@ -12303,11 +12631,15 @@
     "australia-high-court-counts-exported-emissions",
     "who-first-global-adolescent-obesity-guidelines",
     "guardian-genomic-newborn-screening-ancestry-equity",
-    "yrbs-2025-adolescent-cardiovascular-health-score"
+    "yrbs-2025-adolescent-cardiovascular-health-score",
+    "strictest-phone-school-had-worst-depression-scores",
+    "pegi-retrofits-16-rating-onto-already-published-games",
+    "warming-rate-doubles-within-one-bond-cycle",
+    "science-of-reading-effect-vanishes-under-preferred-estimator"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved, but a mechanism this uncertainty has not yet priced showed itself twice this week, both times with the duty arriving from outside the building. WHO published its first global guidelines on adolescent obesity on 7 October, naming sedentary behaviour, sleep and digital health interventions as clinical levers across eight domains - which converts the master schedule, start time and screen policy from pastoral preferences into citable clinical variables a clinician can write an accommodation request against. And GeneDx's GUARDIAN cohort data (about 30,000 newborns, 72.3% uptake, 76% non-European ancestry) shows presymptomatic Long QT diagnoses and genotype-confirmed hearing loss in infants who passed the conventional screen, with cascade testing pulling in parents and siblings. Both point the same way: the school's duty is increasingly defined by a document it did not generate, about a condition it could not have observed, arriving with a specificity its own records cannot match. Two markers remain ahead: EPA's Atlanta rule takes effect on 9 November, and the Advisory Committee on Evidence Rules outcome from its 15 October meeting is still unpublished."
+   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved. The sharpest item is a liability problem that looks like a wellbeing study. A KU Leuven growth-trajectory paper in JCMC (283 Flemish students, up to seven monthly waves) found the full-restriction phone school scoring highest on depressive symptoms two months in (M=2.37 against 2.06 and 1.96) and significantly higher on anxiety than both partial-restriction schools, with no control group and no causal claim. Weak evidence, but it is now published evidence against a policy many schools adopted on an explicitly stated mental-health rationale, and a documented rationale that the literature contradicts is a different exposure from a policy adopted on attention grounds alone. Two smaller items show duty drifting without any institutional act: the UK Games Rating Authority began retroactively re-rating already-published titles to PEGI 16 for paid random items, so an acceptable-use list goes out of compliance by reclassification rather than by anything a student did; and the BioScience state-of-the-climate report puts decadal warming at 0.36C against 0.19C for 1970-2010, which bears on facilities specified against 30-year normals and amortised over 20-year bonds. Two previously flagged markers are still outstanding: EPA's Atlanta nonattainment rule takes effect 9 November, and the Advisory Committee on Evidence Rules outcome from 15 October remains unpublished."
   },
   {
    "id": "cu-boundary",
@@ -12385,11 +12717,15 @@
     "an-attention-finding-with-no-device-to-confiscate",
     "full-color-material-jetting-drops-to-3999",
     "guardian-genomic-newborn-screening-ancestry-equity",
-    "who-first-global-adolescent-obesity-guidelines"
+    "who-first-global-adolescent-obesity-guidelines",
+    "pegi-retrofits-16-rating-onto-already-published-games",
+    "ff-nova-sub-2500-humanoid-pitched-at-schools",
+    "six-year-olds-skip-control-networks-talking-to-chatgpt",
+    "ai-disclosure-label-crosses-a-third-of-a-storefront"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-13",
-   "status_note": "Carried forward; re-confirmed with no new evidence either way in the three days since the last scan, and the revision date has not moved. Nothing surfaced in accommodation law, examination-board rules or device procurement, which are the three places this uncertainty says to look. One adjacent item is recorded rather than logged against the mechanism: a desktop full-colour material-jetting printer at $3,999, a class of machine that started near $20,000, explicitly marketed into education. That is the other end of the same question - the equipment a school hands a student rather than the equipment a student wears - and it matters here only as a reminder that the boundary is being redrawn from both directions at once. A candidate signal on retroactive PEGI re-rating of already-installed games was investigated and dropped for want of an editorially-governed source; worth re-checking, since a store badge that changes overnight would hit device policy without any change to the device."
+   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved. The open item logged on 13 October has closed. The retroactive PEGI re-rating was dropped last scan for want of an editorially-governed source; PocketGamer.biz has now reported it with the Games Rating Authority's policy manager on record, confirming that already-published titles rated PEGI 3, 7 or 12 are being moved to a new PEGI 16 paid-random-items descriptor, with Pokemon TCG Pocket, Fire Emblem Heroes, Marvel Rivals and EA Sports FC 27 among them. That is the shape this uncertainty predicted from an unexpected direction: a device policy going out of date with no change to the device, the software or the student, because a third party relabelled the object. It also marks a ratings body classifying monetisation mechanics rather than content, which is a boundary of a different kind. On the school-issued side, a 49.7cm ROS 2 humanoid at $2,490 with a $299 children's variant and a $499 class bundle carrying a hardware voucher continues the redrawing from the other direction - the equipment a school hands a student, sold with the curriculum attached. Nothing surfaced in accommodation law or examination-board rules, which remain the two places this uncertainty says to look."
   }
  ],
  "verification": {
@@ -12399,6 +12735,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-25-well-documented",
+   "date": "2026-10-25",
+   "title": "Well Documented",
+   "year": 2033,
+   "axis": "Evidence outsourced x Liability as governor",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence outsourced - inherited instruments are retained at unknown validity and the gap is managed with vendors, disclaimers and legal review"
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor - documented duty sets the boundary of practice, and policy, retention schedules and counsel shape what teachers write down"
+    }
+   ],
+   "premise": "By 2033 every instrument Mount Vernon uses to see its own students comes from outside the building: a wellbeing screener, an engagement index, a learning-support flagger, an AI-contribution estimator, each validated by its vendor against a benchmark the school has never seen. In parallel, a line of negligence decisions has made the written record, not the outcome, the thing that determines whether a school acted reasonably. The two forces have locked together. The school must document comprehensively, and it can only document in the categories the vendors supply, so a student's file is now longer, earlier and more consequential than at any point in the school's history. The genuinely good news is that it works: children who would once have slipped through to March are flagged in September, and Mount Vernon's learning-support team reaches them. The genuinely bad news arrived in the same box.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nadia Okonjo, Grade 10",
+     "vignette": "Wednesday advisory, and Nadia can read her advisor's laptop upside down because she has been doing it since seventh grade. Regulation Index: amber. She knows what moves it. Eye contact during the check-in. Submitting the reflection before 9pm rather than at 11:40. Not sitting with Teo three days running. She does these things the way she flosses before a dentist appointment, and she is not cynical about it, exactly. The index has been amber since her grandmother died in February. She told Mr. Hartley she was fine in April and meant it. The index did not agree, and the index is the part that gets written down."
+    },
+    {
+     "role": "Teacher",
+     "name": "Ben Hartley, Grade 7 Humanities",
+     "vignette": "Thursday, 4:15, and Ben has the observation form open. The dropdown offers eleven behaviours. What he noticed about Marcus today is not among them: that the boy has started answering questions a half-second before he has finished thinking, as though speed were the thing being graded. The free-text field allows 240 characters and carries a grey note that entries form part of the student record and may be disclosable. Ben writes nothing. He will mention it to Marcus's advisor in the hallway instead, where it is a conversation between two adults who know a child and not a document."
+    },
+    {
+     "role": "Parent",
+     "name": "Marisol Vega",
+     "vignette": "The monthly family dashboard lands Tuesday at six. Three green, one amber, a line saying the school has initiated appropriate support. Marisol calls. The division head is warm and entirely candid: the amber reflects a composite of attendance pattern, assignment timing and advisory sentiment, the weighting is proprietary, and yes, the school acted on it, because not acting on it is the thing that would be indefensible. Marisol asks whether her daughter is all right. There is a pause, and then an answer that is honest and useless: the indicator says what it says, and Esme seems happy at pickup."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dr. Priya Raghunathan, Head of Upper School",
+     "vignette": "Monday, counsel on the call about the screener contract. The vendor's renewal is up eleven percent and Priya has a competitor's demo she likes better. Counsel walks her through it without enthusiasm: switching makes three years of flags non-comparable, the retention schedule holds the old records seven years regardless, and a plaintiff would have both sets. Staying is defensible. Leaving is a decision she would have to explain. She asks the question she has asked twice before, whether anyone has ever validated the amber threshold against Mount Vernon's own students. Nobody has. The call moves to the renewal terms."
+    }
+   ],
+   "tension": "The children are being caught. That is not a rhetorical concession, it is the whole difficulty: the flagging works, the September catches are real, and families who would have spent a year wondering now get a phone call in week three. What the school traded for it is the distinction between knowing a student and being able to demonstrate that it attended to one. Those used to be roughly the same activity and are now measurably different, because the record can only hold what the vendor's schema will accept, and the things a teacher actually notices are precisely the uncertain, unschematised observations that create exposure when written down. So the file grows more complete and less true at the same rate, and the institution's confidence rises with the file. Nobody chose this. Each step was the defensible one: buy the validated instrument, document the duty, keep the records, act on the flag. The school is now very good at proving it was watching and no longer able to say what it saw.",
+   "provocations": [
+    "Which single instrument would we retire outright on validity grounds, accepting that afterwards we could not show a court we were watching?",
+    "If a teacher's honest, uncertain observation is simultaneously our best knowledge of a child and our clearest legal exposure, who do we want holding the pen, and what would we have to promise them to get it written?",
+    "If we cannot explain what an amber means to the parent of the child it describes, on what grounds do we keep producing one?"
+   ]
+  },
   {
    "id": "sc-2026-10-18-bare-hands",
    "date": "2026-10-18",
