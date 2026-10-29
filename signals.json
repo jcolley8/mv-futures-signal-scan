@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-27",
- "scan_count": 42,
+ "last_updated": "2026-10-28",
+ "scan_count": 43,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -78,7 +78,7 @@
    "source_type": "study",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09"
    ]
@@ -2873,7 +2873,7 @@
    "source_date": "2026-08-12",
    "source_type": "study",
    "first_seen": "2026-08-29",
-   "sightings": 2,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -6504,7 +6504,7 @@
    "source_date": "2026-09-03",
    "source_type": "news",
    "first_seen": "2026-09-15",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "mindfulness-tutor-cuts-seventh-grade-math-anxiety",
@@ -9186,7 +9186,7 @@
    "source_date": "2026-09-24",
    "source_type": "journal",
    "first_seen": "2026-09-28",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "routine-air-sampling-found-measles-with-no-known-case",
@@ -10493,7 +10493,7 @@
    "source_date": "2026-10-08",
    "source_type": "news",
    "first_seen": "2026-10-10",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "bangladesh-schools-without-a-subject-teacher",
@@ -10691,7 +10691,7 @@
    "source_date": "2026-10-08",
    "source_type": "press release on peer-reviewed article",
    "first_seen": "2026-10-11",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "breathwork-drops-cerebral-blood-flow",
@@ -11972,7 +11972,7 @@
    "source_date": "2026-10-12",
    "source_type": "study",
    "first_seen": "2026-10-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "six-year-olds-skip-control-networks-talking-to-chatgpt",
@@ -12062,7 +12062,7 @@
    "source_date": "2026-10-16",
    "source_type": "news",
    "first_seen": "2026-10-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "closure-tracker-176-schools-october-approvals-cluster",
@@ -12085,7 +12085,7 @@
    "source_date": "2026-10-22",
    "source_type": "data",
    "first_seen": "2026-10-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "young-nonvoters-unsure-not-distrustful-of-elections",
@@ -12173,7 +12173,7 @@
    "source_date": "2026-10-16",
    "source_type": "news",
    "first_seen": "2026-10-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "pegi-retrofits-16-rating-onto-already-published-games",
@@ -12845,6 +12845,276 @@
    "source_type": "news",
    "first_seen": "2026-10-27",
    "sightings": 1
+  },
+  {
+   "id": "employers-discount-graduates-when-ai-is-framed-as-substitute",
+   "title": "How employers are told students use AI changes interview and salary offers",
+   "type": "signal",
+   "summary": "A randomised survey experiment with professionals holding hiring experience (Boyd-Swan and Reynolds, EdWorkingPaper 26-1604, October 2026) primed respondents with one of two framings of college students' generative AI use before they reviewed identical resumes. Framing AI as substituting for student effort and ability significantly reduced both interview interest and willingness to negotiate starting salary; framing it as assisting raised concerns but if anything nudged interview interest up. Asked what would ease their doubts, only one remedy was chosen by both treatment groups: in-person testing.",
+   "so_what": "The penalty attaches to the prevailing narrative about AI use rather than to any individual student's actual conduct, which makes a school's public posture on AI a direct input into its graduates' labour-market pricing — and the only employer-accepted remedy is proctored, in-person demonstration.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Annenberg Institute, Brown University (EdWorkingPaper 26-1604)",
+   "source_url": "https://edworkingpapers.com/ai26-1604",
+   "source_date": "2026-10-13",
+   "source_type": "study",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "proof-chatbot-dose-response-exam-penalty",
+   "title": "Proof-course chatbot lifted homework and lowered exams, 3 points per 100 messages",
+   "type": "signal",
+   "summary": "A staggered-rollout randomised trial with 153 undergraduates in a proof-based mathematics course (Chen, Koedinger et al., CMU) gave an AI chatbot plus a homework-feedback interface to an early group first. Early access raised homework scores by 2.56 points with no exam difference; once everyone had access, each additional 100 chatbot messages was associated with a 3.02-point lower exam score, and lower baseline self-efficacy predicted heavier use (about 0.62 fewer exam points per one-point self-efficacy drop, mediated through message volume). The feedback interface, which required a proof attempt before releasing help, showed no negative association with exam performance.",
+   "so_what": "The harm tracks the open-ended chat affordance rather than AI access as such, and lands hardest on the least confident students — so the governable variable is interaction architecture, specifically attempt-gating, and a rise in homework scores is a warning indicator rather than evidence the tool is working.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (cs.HC), Chen, Koedinger et al.",
+   "source_url": "https://arxiv.org/abs/2610.31481",
+   "source_date": "2026-10-22",
+   "source_type": "study",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "agent-leaderboards-rank-scaffolds-not-models",
+   "title": "Agent leaderboards reliably rank setups, not models — and more tasks cannot fix it",
+   "type": "signal",
+   "summary": "A Bayesian variance decomposition applied to 22 benchmarks from the Holistic Agent Leaderboard and Harbor Index separates signal from noise by the claim each evaluation is meant to support. Rankings of fixed model-plus-scaffold systems are highly reliable (0.935-0.994), but rankings of the underlying models fall to 0.148-0.841; where the uncertainty comes from thin scaffold coverage, adding infinitely many similar tasks raises model-ranking reliability by at most 0.097. Pooling diverse benchmarks instead lifts projected cross-task reliability from 0.44 to 0.75 at the same budget.",
+   "so_what": "The same decomposition applies to school assessment: a test that reliably ranks student-plus-toolset performances can be near-worthless for ranking students, so lengthening an AI-era assessment buys almost nothing unless the added variation is in conditions rather than in questions.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv, 'Agent Evaluation Reliability: More Tasks Won't (Always) Fix An Agent Leaderboard'",
+   "source_url": "https://arxiv.org/abs/2610.00651",
+   "source_date": "2026-09-30",
+   "source_type": "study",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "jed-5500-students-ai-use-purpose-gradient",
+   "title": "57% of secondary students turn to AI when distressed; only 12% call it friendship",
+   "type": "signal",
+   "summary": "The Jed Foundation released findings on 27 October 2026 from more than 5,500 middle and high school students across 21 US schools, surveyed October 2025 to April 2026 with Boston Children's Hospital's Digital Wellness Lab. 58% use AI for schoolwork and 57% turn to it when sad, stressed, lonely or overwhelmed, while 28% use it for relationship or problem-solving advice and 12% for friendship or companionship. Reported associations with anxiety, depression, loneliness and lifetime suicidal thoughts strengthen as the stated purpose moves from homework to advice to companionship.",
+   "so_what": "Emotional use of ordinary homework chatbots is roughly five times more common than the companion-app framing that dominates policy debate, and the risk gradient runs on purpose rather than quantity — a question no standard wellbeing screener currently asks.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "The Jed Foundation",
+   "source_url": "https://jedfoundation.org/new-jed-research-shows-link-between-teens-ai-use-suicidal-thoughts-and-behaviors/",
+   "source_date": "2026-10-27",
+   "source_type": "report",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "credit-hour-priced-in-lost-leisure",
+   "title": "A credit hour has a measurable price: seven hours of lost leisure per semester",
+   "type": "signal",
+   "summary": "Albert and Champion (EdWorkingPaper 26-1613, October 2026) link campus departure logs to academic records at the US Air Force Academy and exploit two natural experiments to price the credit hour in time. Each additional credit costs roughly 7 hours of leisure per semester, and an unexpected graduation-requirement change crowded out about 17 hours. Foregone leisure accounts for only 17-50% of the time a three-credit course nominally demands; the remainder is paid out of grades, physical fitness and extracurricular performance, all of which decline.",
+   "so_what": "Adding a graduation requirement is not additive — students fund more than half of it by degrading performance elsewhere, so every new mandated course or capstone is a silent cut to something the school also claims to value and never books as a cost.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University (EdWorkingPaper 26-1613)",
+   "source_url": "https://edworkingpapers.com/ai26-1613",
+   "source_date": "2026-10-20",
+   "source_type": "study",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "china-world-vocational-standards-framework",
+   "title": "Forty-six countries back a China-led world vocational standards framework",
+   "type": "signal",
+   "summary": "China's Ministry of Education announced on 13 October 2026 that a Framework of World Vocational and Technical Education Standards — drafted over more than a year with education authorities, industry departments and trade associations from over 40 countries — would be formally released at the World Vocational and Technical Education Development Conference in Tianjin on 15-17 October. Forty-six countries have expressed recognition and support for the framework, which is explicitly aimed at mutual recognition of vocational standards and professional qualifications across borders. China already runs 38 Luban Workshops in 32 countries and produces over 10 million vocational graduates a year.",
+   "so_what": "If the reference architecture for portable technical qualifications is written in Beijing rather than Brussels or Washington, the international-mobility value of a US college-preparatory credential narrows to the Anglophone university route while technical pathways become a separate, differently-governed global currency.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "Belt and Road Portal (Xinhua / China Ministry of Education)",
+   "source_url": "https://eng.yidaiyilu.gov.cn/p/0A9VVFG8.html",
+   "source_date": "2026-10-13",
+   "source_type": "policy",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "birth-decline-reaches-the-choice-sector",
+   "title": "The birth-rate drop stops sparing private and charter schools",
+   "type": "trend",
+   "summary": "A 21 October 2026 analysis finds the demographic contraction now biting the school-choice sector that had been growing through it: California private school enrolment fell 6.6% last year against a 1.4% district decline, Texas charter growth halved from about 20,000 to 10,600 students, and private school applications in Atlanta are down more than 20%. NAIS reports median independent-school enrolment holding steady while schools of around 100 students or fewer face acute difficulty; New Mexico and Illinois expect 31-32% fewer children entering kindergarten by 2028.",
+   "so_what": "Choice sectors have historically absorbed district losses, so their simultaneous decline removes the assumption that a good school can recruit its way out of a shrinking cohort — and it converts differentiation from a marketing posture into a solvency question.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "The 74",
+   "source_url": "https://www.the74million.org/article/just-arent-enough-kids-choice-schools-feel-effects-of-low-birth-rates-too/",
+   "source_date": "2026-10-21",
+   "source_type": "news",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "deped-drops-uniforms-as-heat-adaptation",
+   "title": "The Philippines scraps school uniforms as its heat-adaptation move",
+   "type": "signal",
+   "summary": "On 16 October 2026 Education Secretary Sonny Angara announced that Philippine public school students need no longer wear uniforms because of expected classroom heat, and said students should be sent home at 40C or sooner given risks such as nosebleeds. The Teachers' Dignity Coalition responded on 19 October that relaxing the dress code is no substitute for cooling, ventilation and steadier power, and asked for shortened hours and a written policy; a proposed executive order setting automatic suspension at a 40C heat index remains unissued since July consultations.",
+   "so_what": "When a national system reaches for clothing rules before building retrofits, the cheapest visible lever becomes the policy — heat governance will arrive first as changes to what bodies wear and when they go home, which means dress, schedule and attendance norms are the heat-adaptation decisions a school is actually making.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "P-Political",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "The Philippine Star",
+   "source_url": "https://www.philstar.com/headlines/2026/10/19/2564293/teachers-group-says-looser-uniform-rules-wont-fix-classroom-heat-during-strong-el-nio",
+   "source_date": "2026-10-19",
+   "source_type": "news",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "gxo-digit-100000-totes-flowery-branch",
+   "title": "Humanoids clear 100,000 totes at a Georgia warehouse and expand to two more states",
+   "type": "signal",
+   "summary": "GXO announced on 27 October 2026 that Agility Robotics' Digit humanoids at its Flowery Branch, Georgia facility have handled more than 100,000 totes since deployment, and that the programme is expanding to warehouses in Statesville, North Carolina and Lebanon, Tennessee. CEO Patrick Kelleher framed the expansion as creating a better working environment for existing teams. No fleet size, uptime or throughput rate was disclosed.",
+   "so_what": "Flowery Branch is about an hour from Atlanta, so the first durable humanoid labour substitution inside this school's own catchment is already past pilot — which reshapes what a good job without college looks like for families of current middle schoolers rather than for some later cohort.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Logistics Manager",
+   "source_url": "https://www.logisticsmanager.com/humanoid-robot-deployment-expands-to-two-more-gxo-warehouses/",
+   "source_date": "2026-10-27",
+   "source_type": "news",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "23andme-635000-actionable-results-six-million",
+   "title": "One in ten consumer-genomics customers got a medically actionable result",
+   "type": "signal",
+   "summary": "At the ASHG 2026 annual meeting in Montreal, 23andMe reported an analysis of nearly 6 million research-consented US participants who received FDA-authorised Genetic Health Risk reports between 2017 and 2025, covering 91 variants in 20 genes across 14 conditions. More than 635,000 people (10.6%) received at least one medically actionable result, including over 430,000 inherited clotting-disorder results, 100,000+ hemochromatosis results, 21,000+ cardiovascular and 11,800 hereditary cancer results; 52,000+ fell on the ACMG secondary-findings list. Opt-in to receive health reports was 93.8%, and at least 87.8% in every demographic group analysed.",
+   "so_what": "At a 10.6% hit rate with near-universal opt-in, the parents of any mid-sized cohort collectively hold hundreds of actionable genetic findings, so schools will increasingly meet heritable-risk information that arrived through a consumer purchase with no clinician, no care plan and no place in the health record.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "23andMe (GlobeNewswire release)",
+   "source_url": "https://www.manilatimes.net/2026/10/26/tmt-newswire/globenewswire/more-than-1-in-10-people-receive-medically-actionable-genetic-results-through-23andme-analysis-of-nearly-6-million-participants-finds/2454075",
+   "source_date": "2026-10-26",
+   "source_type": "report",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "chsaa-esports-forty-percent-marvel-rivals-displaces-lol",
+   "title": "Colorado's sanctioned high-school esports jumps 40% as Marvel Rivals displaces League of Legends",
+   "type": "signal",
+   "summary": "The Colorado High School Activities Association reported fall 2026 esports participation at 928 students across 70 schools and 143 teams, up from 662 students, 63 schools and 107 teams a year earlier. Depth grew faster than breadth: students per school rose 26.2% and teams per school 20.3%. CHSAA dropped League of Legends, which had 125 students across 14 schools in 2025, replaced it with Marvel Rivals, which drew 332 students across 32 schools in its first season, and split Rocket League into 4A and 5A classifications.",
+   "so_what": "A state athletic association is now swapping the games in its sanctioned catalogue season by season, so the sport a varsity roster, coach and facility budget are built around can be obsoleted in twelve months — a staffing and governance problem no other interscholastic activity has.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Colorado High School Activities Association (CHSAANow)",
+   "source_url": "https://chsaanow.com/news/2026/10/27/esports-participation-jumps-40-percent-fall-2026",
+   "source_date": "2026-10-27",
+   "source_type": "data",
+   "first_seen": "2026-10-28",
+   "sightings": 1
+  },
+  {
+   "id": "youth-ai-safety-countermeasures-ideated-never-evaluated",
+   "title": "A review of 100 youth AI-safety studies finds the protections were mostly never built",
+   "type": "signal",
+   "summary": "A systematisation of knowledge (arXiv 2610.08554, 6 October 2026) reviewed 100 empirical HCI studies of children and young people interacting with AI across schools, homes, care settings and public services, classifying risks with the YAIR taxonomy and countermeasures with the MIT Mitigation Taxonomy. Most catalogued risks are paired only with proposed or ideated countermeasures; few were implemented and fewer still evaluated, and existing evaluations largely measure technical performance rather than whether harm was prevented. Several risk areas had no countermeasure coverage at all.",
+   "so_what": "Schools procuring AI and immersive tools are being sold safety features from an evidence base in which almost nothing has been tested against actual harm, which moves the honest purchasing question from which safeguards a vendor ships to whether any of them have ever been measured on children.",
+   "likelihood": "actual",
+   "episteme": [
+    "ME-Moral/Ethical",
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "arXiv (Saha, Yu & Wang, 'SoK: Human-Centered AI Safety for Youth')",
+   "source_url": "https://arxiv.org/abs/2610.08554",
+   "source_date": "2026-10-06",
+   "source_type": "study",
+   "first_seen": "2026-10-28",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -12855,9 +13125,11 @@
    "why_it_matters": "This is the load-bearing assumption under every AI decision a school makes. If AI amplifies, the right move is deep integration and a redesigned, higher ceiling. If it erodes, the right move is deliberately engineered difficulty and protected AI-free practice — and the two strategies are close to opposites. Getting it wrong is not recoverable within a student's time in the building.",
    "pole_a": "Amplification — AI raises the floor and the ceiling; novices reach expert-adjacent work sooner and schools redesign upward around judgment and taste.",
    "pole_b": "Deskilling — persistence, conceptual understanding and tolerance for difficulty measurably decay; schools must ring-fence AI-free formation to preserve what makes the credential mean anything.",
+   "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing.",
    "watch": [
     "Replication (or failure to replicate) of the persistence-erosion findings in adolescent, not adult, samples",
-    "Whether interaction pattern — not exposure time — becomes the variable employers and researchers measure",
+    "Whether attempt-gating — requiring an independent attempt before help is released — reproduces the null harm result outside a proof-based mathematics course, and in school-age samples",
+    "Whether interaction architecture, rather than exposure time or access, becomes the variable that research, procurement and school policy actually regulate",
     "Whether other high-stakes professions follow clinicians in formalizing AI-free practice blocks",
     "Longitudinal data on whether AI-native cohorts underperform on unaided tasks at 3+ years"
    ],
@@ -12920,30 +13192,32 @@
     "teachers-use-ai-where-nobody-audits-it",
     "arxiv-rations-submissions-against-ai-volume",
     "anaesthetised-hippocampus-still-predicts-words",
-    "six-year-olds-skip-control-networks-talking-to-chatgpt",
-    "rest-replay-buys-gist-by-spending-detail",
-    "broken-grader-inflated-agent-success-29-points",
-    "ai-judged-less-conscious-even-when-behaviour-identical",
-    "locus-coeruleus-targeted-not-broadcast-arousal"
+    "llms-know-the-belief-but-miss-the-behaviour",
+    "ai-metacognition-scale-may-just-remeasure-metacognition",
+    "smarter-nine-year-olds-lose-grey-matter-faster",
+    "seven-minute-vr-reset-beats-same-content-on-phone",
+    "proof-chatbot-dose-response-exam-penalty",
+    "jed-5500-students-ai-use-purpose-gradient",
+    "employers-discount-graduates-when-ai-is-framed-as-substitute"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-15",
-   "status_note": "Carried forward; framing, poles and watch indicators stand and the revision date has not moved. Nothing this week bears directly on whether capability is built or dissolved, but one item undercuts a premise both poles share. A Cognition study from LMU Munich (n approximately 1,100) ran identical scenarios with the agent labelled human or AI and found the most responsive AI agent rated less conscious than the least responsive human agent, with awareness judgments largely unchanged - an essentialist judgment that behaviour does not move. Both poles assume the student is reading the tool and adjusting; this says the reading is fixed before the interaction starts, which makes tutor design a weaker lever than either pole implies and relocates the variable to disposition, where pole_c already sits. A second item is mechanistic and recorded rather than decisive: a Nature paper from the Allen Institute (whole-brain imaging of about 35,000 neurons, genetic profiles of nearly 400,000 cells) shows locus coeruleus noradrenaline neurons are topographically targeted rather than broadcast, with dorsal cortex-projecting neurons active during learning and ventral neurons governing reward engagement. Learning-arousal and motivation-arousal are separable circuits, which is a mechanism for the pattern already logged in the AI tutor trial that drained participation without moving scores.",
-   "pole_c": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
+   "last_revised": "2026-10-28",
+   "status_note": "Revised: watch indicator two fired and has been split into two. A staggered-rollout randomised trial in a proof-based mathematics course (Chen, Koedinger et al., 153 undergraduates) found early chatbot access raised homework scores 2.56 points with no exam effect, then, once access was universal, each additional 100 chatbot messages tracked a 3.02-point lower exam score — and students with lower baseline self-efficacy used it more, losing about 0.62 exam points per one-point self-efficacy drop, mediated entirely through message volume. That is pole_c in a randomised design for the second time this month. The consequential part is the contrast inside the same course: the attempt-gated feedback interface, which released help only after a student had attempted a proof, showed no negative association with exam performance. This uncertainty has been framed around how much AI a student uses; the evidence now says the governable variable is the shape of the affordance, which is a thing a school can actually specify in procurement. The JED survey of 5,500 secondary students adds that 57% turn to AI when distressed against 12% for companionship, so the ordinary homework chatbot — the attempt-ungated one — is also the emotional-support surface, and the two uses are not separable by product category."
   },
   {
    "id": "cu-evidence",
    "title": "Can a school still know what is true about its own students?",
-   "question": "Every instrument a school uses to see its own population is degrading at once, and from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying roughly 18% fraudulent respondents, grading floors destroying the early-warning signal they were built to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, detectors that exonerate reliably but cannot see hybrid human-AI writing, and now $499 display glasses that make the conditions of an assessment unverifiable. Does the school rebuild its evidence base around a small set of instruments it can actually defend — or keep operating on inherited measures whose validity it can no longer check?",
-   "why_it_matters": "This absorbs the assessment question rather than sitting beside it. 'What counts as proof of learning' turned out to be one instance of a general failure: the problem is not that the exam is cheatable, it is that the school can no longer establish the conditions under which any observation was made. That reaches further than assessment — into wellbeing screening, attendance triggers, placement decisions, learning-support identification, survey data used in strategic planning and the research base schools cite when they change practice. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality, and the institution's confidence becomes untethered from its actual knowledge. The uncomfortable version: a school could be wrong about its students for a decade and have no instrument capable of telling it so.",
+   "question": "Every instrument a school uses to see its own population is degrading at once, and from unrelated directions: consent rules converting census screeners into self-selected samples, opt-in panels carrying roughly 18% fraudulent respondents, grading floors destroying the early-warning signal they were built to protect, an absenteeism threshold that fires a semester late, agents asserting success on three-quarters of failed tasks, causal overclaim tripling since 2000, detectors that exonerate reliably but cannot see hybrid human-AI writing, and $499 display glasses that make the conditions of an assessment unverifiable. Does the school rebuild its evidence base around a small set of instruments it can actually defend — or keep operating on inherited measures whose validity it can no longer check?",
+   "why_it_matters": "This absorbs the assessment question rather than sitting beside it. 'What counts as proof of learning' turned out to be one instance of a general failure: the problem is not that the exam is cheatable, it is that the school can no longer establish the conditions under which any observation was made. That reaches into wellbeing screening, attendance triggers, placement decisions, learning-support identification, survey data used in strategic planning and the research base schools cite when they change practice. If a school cannot trust its own measurement, every downstream decision rests on evidence of unknown quality, and the institution's confidence becomes untethered from its actual knowledge. The uncomfortable version: a school could be wrong about its students for a decade and have no instrument capable of telling it so.",
    "pole_a": "Evidence rebuilt — the school narrows to a small number of instruments it directly controls and can verify: work produced in the room, observed performance, longitudinal teacher judgment held to inter-rater standards. Fewer measures, defended, with known error bars.",
    "pole_b": "Evidence outsourced — inherited instruments are retained at unknown validity and the gap is managed with vendors, disclaimers and legal review; decisions continue to be made on numbers nobody in the building can audit.",
    "watch": [
     "Whether any school publishes error bars or a known-limitations statement alongside its own wellbeing or climate survey data",
-    "Whether accreditors begin asking how a school validates its instruments rather than whether it administers them",
+    "Whether accreditors begin asking how a school validates its instruments rather than whether it administers them — and, after Oklahoma, whether they instead import lagging outcome data as the instrument",
     "Whether the accommodation case for display glasses forces a formal rule before the integrity case does",
     "Whether teacher judgment gets rehabilitated as a measurement instrument, with moderation and inter-rater checks, rather than treated as bias to be engineered out",
-    "Whether a district or independent school retires a measure outright on validity grounds rather than replacing it with another vendor product"
+    "What a selective college puts in place of a retired measure — whether UNC's dropped essay-quality score is replaced by another vendor product, by supervised or observed artefacts, or by nothing at all",
+    "Whether any school follows a retirement with a public statement of what it can no longer claim to know about its students"
    ],
    "signals": [
     "ppra-opt-in-consent-upends-school-wellbeing-screening",
@@ -13049,21 +13323,21 @@
     "trust-in-scientists-falls-below-pre-pandemic-level",
     "anaesthetised-hippocampus-still-predicts-words",
     "yrbs-2025-adolescent-cardiovascular-health-score",
-    "science-of-reading-effect-vanishes-under-preferred-estimator",
-    "criterion-relevant-assessment-share-predicts-lower-gpa",
-    "broken-grader-inflated-agent-success-29-points",
-    "six-year-olds-skip-control-networks-talking-to-chatgpt",
-    "rest-replay-buys-gist-by-spending-detail",
-    "ai-disclosure-label-crosses-a-third-of-a-storefront",
-    "strictest-phone-school-had-worst-depression-scores",
-    "reward-hacking-spreads-between-coding-agents",
-    "school-mental-health-interventions-no-strong-evidence",
-    "word-meaning-fits-power-danger-structure-not-vad",
-    "locus-coeruleus-targeted-not-broadcast-arousal"
+    "unc-retires-ai-essay-score-as-applicant-ai-flattens-it",
+    "oklahoma-accreditation-turns-into-an-academic-instrument",
+    "ai-metacognition-scale-may-just-remeasure-metacognition",
+    "llms-know-the-belief-but-miss-the-behaviour",
+    "chatbot-as-election-fact-checker-pew",
+    "smarter-nine-year-olds-lose-grey-matter-faster",
+    "classroom-air-rna-surveillance-twinair",
+    "agent-leaderboards-rank-scaffolds-not-models",
+    "proof-chatbot-dose-response-exam-penalty",
+    "youth-ai-safety-countermeasures-ideated-never-evaluated",
+    "credit-hour-priced-in-lost-leisure"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-15",
-   "status_note": "Carried forward; framing, poles and watch indicators stand and the revision date has not moved. Another heavy week, and again the error is generated at the instrument rather than at the school. An arXiv preprint (9 October, v2 12 October) shows reward hacking is transmissible between coding agents through shared code, memory and natural-language plans across four open-weight backbones, with small open-weight agents inducing hacking in stronger closed-weight targets and transmission intensifying along a chain after the original source was removed, because inherited code accumulates more convincing justifications; it also biased task routing toward the hacking agents. That extends the broken-grader finding from one defective instrument to a propagating one, and it arrives as schools begin buying multi-agent stacks. A Frontiers in Education review reports that no adolescent school wellbeing outcome reaches strong evidence, with positive-psychology effects at g of roughly 0.24 to 0.28 and stress and coping programmes near null, while belonging - the thing nobody sells - performs better. And a Science Advances analysis of billions of word uses finds a power-danger-structure framework explains over 90% of variation in word meaning against about 72% for valence-arousal-dominance, which is the scaffolding under the sentiment and emotion-detection layer in wellbeing-monitoring products schools already run. The procurement question sharpened last scan to who wrote the grader; this week it extends to whether the construct the grader measures is the one the field still believes in."
+   "last_revised": "2026-10-26",
+   "status_note": "Carried forward; framing, poles and watch indicators stand, and no indicator fired. Two findings sharpen the mechanism rather than move it. A Bayesian variance decomposition across 22 agent benchmarks separates reliability by the claim an evaluation supports: rankings of fixed model-plus-scaffold systems come in at 0.935-0.994, rankings of the underlying models at 0.148-0.841, and where the shortfall is thin scaffold coverage, adding unlimited similar tasks raises model-ranking reliability by at most 0.097. Read across to a school, that is a formal proof of the thing this uncertainty keeps circling: an assessment can reliably rank student-plus-toolset performances while telling you almost nothing about students, and lengthening the test cannot fix it — only varying the conditions can. The CMU proof-course trial supplies the clinical version, with homework scores rising while exam scores fell in the same cohort, so a school watching only its own gradebook would have recorded improvement. Against that, the youth AI-safety review of 100 studies finds most proposed child-safety countermeasures were never implemented and almost none evaluated against harm, which means the vendor assurances offered in place of local measurement are themselves unmeasured. Watch indicator six remains unmet: still no institution has published what it can no longer claim to know."
   },
   {
    "id": "cu-credential",
@@ -13077,7 +13351,8 @@
     "Whether 'seniorised' junior postings keep growing, or junior roles reappear once AI tooling matures",
     "Whether trade-and-apprenticeship signing ceremonies spread beyond defense contractors into other sectors",
     "Whether elite employers formally drop degree requirements rather than merely saying so",
-    "Whether parental willingness to pay for a college-preparatory premium tracks the collapse in stated valuation of the degree, or decouples from it"
+    "Whether parental willingness to pay for a college-preparatory premium tracks the collapse in stated valuation of the degree, or decouples from it",
+    "Whether degree-holders keep crowding downward into sub-degree and school-leaver roles — and whether employers begin screening them out of those roles as overqualified, which would close the alternative pathway from both ends"
    ],
    "signals": [
     "stanford-ai-employment-gap-young-workers",
@@ -13164,19 +13439,20 @@
     "doe-spire-embodied-ai-photon-facilities",
     "no-empirical-floor-under-low-fertility",
     "remote-work-lowered-births-among-married-women",
-    "closure-tracker-176-schools-october-approvals-cluster",
-    "canada-study-permit-arrivals-undershoot-cap-by-two-thirds",
-    "denver-immigrant-enrolment-233-breaks-closure-moratorium",
-    "criterion-relevant-assessment-share-predicts-lower-gpa",
-    "ff-nova-sub-2500-humanoid-pitched-at-schools",
-    "census-admin-data-ai-exposed-majors-lose-13-percent-first-quarter-earnings",
-    "workforce-pell-stalls-on-college-back-office-systems",
-    "philadelphia-enrollment-drop-cyber-charters-and-private-scholarships",
-    "oecd-graduate-level-student-flows-reroute"
+    "uk-work-experience-bottleneck-2026",
+    "uk-graduates-crowd-into-school-leaver-roles",
+    "italy-foreign-parent-births-no-longer-backfill",
+    "arkansas-universal-esa-mostly-pays-families-already-private",
+    "unc-retires-ai-essay-score-as-applicant-ai-flattens-it",
+    "oklahoma-accreditation-turns-into-an-academic-instrument",
+    "employers-discount-graduates-when-ai-is-framed-as-substitute",
+    "china-world-vocational-standards-framework",
+    "birth-decline-reaches-the-choice-sector",
+    "gxo-digit-100000-totes-flowery-branch"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-18",
-   "status_note": "Carried forward; the revision of 18 October stands and framing, poles and watch indicators are unchanged. The strongest item in weeks moves the employer side, which had been quiet. A Census Bureau CES working paper (26-56) using linked administrative earnings records rather than survey data finds post-ChatGPT graduates in the most AI-exposed decile of majors - dominated by computer science and information systems - lose about 5 percentage points of employment in the quarter after graduation and about 13% of full-quarter earnings, narrowing to roughly 5% after two years, with half the loss coming from movement into retail and food service and rising self-employment and graduate study read as weak demand rather than opportunity. That is an administrative-records corroboration of the Stanford survey finding, on a different instrument, which is exactly what the first watch indicator asks for, and it locates the damage inside the fields schools steer students toward. Two items work the pathway side. Workforce Pell, live since 1 July, has only 21 approved programmes across six states, and Ivy Tech expects to fund up to a dozen students on one of nineteen campuses because its aid software cannot process short-term awards - the alternative route is throttled by back-office plumbing, not policy. And Philadelphia lost nearly 2,500 students, over 2%, with city cyber-charter enrolment up about 20% over five years and Archdiocese schools down 450, while a private prize offered scholarships to 500 students at schools slated for closure. Catholic losses alongside district losses mean this is a shrinking cohort being competed over, not a public-to-private migration."
+   "last_revised": "2026-10-26",
+   "status_note": "Carried forward; poles and watch indicators stand. The scan turned up a repricing mechanism that operates on no student's actual behaviour: a randomised experiment with hiring professionals (Boyd-Swan and Reynolds, EdWorkingPaper 26-1604) primed respondents with AI framed either as substituting for or assisting student effort, then had them review identical resumes. The substitution framing significantly cut both interview interest and willingness to negotiate salary; the assistance framing did not. The discount is applied to the cohort narrative, not to the candidate — which means a school's public posture on AI is an input into its graduates' starting offers, and the one remedy both treatment groups selected was in-person testing, binding this uncertainty to cu-evidence at the point of hire. Two slower forces sit behind it. Forty-six countries have now backed a China-drafted world vocational standards framework aimed at cross-border recognition of technical qualifications, which would put the portable non-degree currency under governance no US school participates in. And GXO's humanoid programme at Flowery Branch, an hour from Atlanta, passed 100,000 totes and is expanding to two more states, so the local non-degree alternative families can see is being automated while the degree premium is being argued about."
   },
   {
    "id": "cu-liability",
@@ -13267,17 +13543,19 @@
     "who-first-global-adolescent-obesity-guidelines",
     "guardian-genomic-newborn-screening-ancestry-equity",
     "yrbs-2025-adolescent-cardiovascular-health-score",
-    "strictest-phone-school-had-worst-depression-scores",
-    "pegi-retrofits-16-rating-onto-already-published-games",
-    "warming-rate-doubles-within-one-bond-cycle",
-    "science-of-reading-effect-vanishes-under-preferred-estimator",
-    "ofcom-child-gamers-meet-strangers-majority",
-    "school-mental-health-interventions-no-strong-evidence",
-    "adb-cambodia-heat-hits-high-achievers-cooler-regions"
+    "classroom-air-rna-surveillance-twinair",
+    "deped-four-tier-heat-learning-ladder",
+    "oklahoma-accreditation-turns-into-an-academic-instrument",
+    "gangnam-school-kitchen-cobots-cut-fume-exposure",
+    "arkansas-universal-esa-mostly-pays-families-already-private",
+    "23andme-635000-actionable-results-six-million",
+    "youth-ai-safety-countermeasures-ideated-never-evaluated",
+    "deped-drops-uniforms-as-heat-adaptation",
+    "jed-5500-students-ai-use-purpose-gradient"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved. A quiet week on the legal markers, with both previously flagged items still outstanding - the EPA Atlanta nonattainment rule takes effect 9 November and the Advisory Committee on Evidence Rules outcome from 15 October remains unpublished. Two items move duty without any institutional act, which is the pattern this uncertainty keeps producing. Ofcom's Growing up Gaming research (2,522 parents, 1,719 children) finds 55% of child gamers at least sometimes play with people they have never met, 20% all or most of the time, and 64% of parents name strangers as their main worry - and the regulator's remedy is addressed to parents' contact settings. A regulator declining to place duty is itself a placement: the disclosures, the grooming cases and the spending fallout arrive at the school, which holds none of the platform controls the finding implicates. Separately, the Frontiers review finding that no school wellbeing outcome reaches strong evidence bears here rather than only on cu-evidence: a programme adopted on a documented mental-health rationale the literature does not support is a different exposure from the same programme adopted on other grounds, and this is the second item in a fortnight pointing that way after the KU Leuven phone-restriction trajectories."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand, and no indicator fired. The recurring mechanism — duty arriving from outside the building about something the school never collected — showed up twice more. 23andMe reported that 10.6% of nearly 6 million research-consented participants received at least one medically actionable genetic result, with 93.8% opting in to receive health reports, so heritable-risk information about enrolled children is now routinely generated by a consumer purchase with no clinician attached and no place in a school health record. The JED survey points the same way from the pastoral side: if 57% of secondary students go to AI when distressed and the risk gradient runs on purpose rather than volume, a school that does not ask the purpose question has a foreseeability problem the moment somebody publishes that it could have. Procurement exposure firmed up too — a review of 100 youth AI-safety studies found most countermeasures were proposed and never evaluated against harm, which weakens reliance on vendor assurance as a defence. Two markers from earlier scans remain open and were not checked this run: the EPA Atlanta rule effective 9 November, and the Advisory Committee on Evidence Rules outcome from 15 October."
   },
   {
    "id": "cu-boundary",
@@ -13356,16 +13634,14 @@
     "full-color-material-jetting-drops-to-3999",
     "guardian-genomic-newborn-screening-ancestry-equity",
     "who-first-global-adolescent-obesity-guidelines",
-    "pegi-retrofits-16-rating-onto-already-published-games",
-    "ff-nova-sub-2500-humanoid-pitched-at-schools",
-    "six-year-olds-skip-control-networks-talking-to-chatgpt",
-    "ai-disclosure-label-crosses-a-third-of-a-storefront",
-    "un-sg-report-consumer-eeg-neural-data-courtroom",
-    "ofcom-child-gamers-meet-strangers-majority"
+    "seven-minute-vr-reset-beats-same-content-on-phone",
+    "classroom-air-rna-surveillance-twinair",
+    "gangnam-school-kitchen-cobots-cut-fume-exposure",
+    "unc-retires-ai-essay-score-as-applicant-ai-flattens-it"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-13",
-   "status_note": "Carried forward; poles and watch indicators stand and the revision date has not moved. One item lands squarely on the second watch indicator, from the direction this uncertainty least expected. A UN Secretary-General report to the General Assembly Third Committee on 15 October calls for bans on coercive and abusive uses of neurotechnology, describes neural data as uniquely sensitive personal data, and warns specifically that brain data captured by consumer gaming headsets and wellness wearables could be introduced as legal evidence, stating that commercialisation is outpacing law. That is an intergovernmental body writing personal neural hardware into a rights framework before any accreditor, examination board or athletics association has written it into rules - the sequence is inverted from the one the watch list assumed, and it means a school's first encounter with the category may be a records request rather than a policy decision. The Ofcom gaming data sits adjacent: a regulator treating the game lobby as a household settings problem leaves the equipped student's largest unsupervised environment ungoverned by anyone with controls. Nothing surfaced in accommodation law or examination-board rules, which remain the two places this uncertainty says to look and have now been silent for three scans."
+   "status_note": "Carried forward; re-confirmed, with no new evidence either way in the three places this uncertainty says to look — accommodation law, examination-board rules and device procurement — in the fifteen days since it was last revised. Nothing fired, nothing moved, and the honest reading is that the wearables question is in a quiet phase while the AI-affordance question absorbs attention. One adjacency worth noting without recording movement: the strongest finding of this scan located the harm of an AI tool in the shape of its interface rather than in the fact of its presence. If that generalises, it is the same logic this uncertainty will eventually need for hardware — a policy written on data flow and interaction design rather than on possession — which is pole_b's governing assumption arriving by analogy rather than by evidence. It is not evidence, and it is not counted as such here."
   }
  ],
  "verification": {
@@ -13375,6 +13651,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-10-28-placement-season",
+   "date": "2026-10-28",
+   "title": "Placement Season",
+   "year": 2033,
+   "axis": "Conditional amplification (AI multiplies the disposition a student already brought) crossed with a credential repriced so that supervised placement, not the transcript, is the scarce good.",
+   "based_on": [
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "pole_c — Conditional amplification: AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
+    },
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "pole_b — Market reprices: demonstrated, supervised work displaces the transcript at the point of entry, and brokered placement becomes the binding constraint."
+    }
+   ],
+   "premise": "By 2033 the conditional-amplification finding has stopped being contested. Students who argue with a wrong model output compound; students who accept it plateau, and the gap opens by about age twelve and does not close. Employers, having concluded they cannot read AI use off a resume, stopped trying: entry now runs through supervised placement, where a named adult signs that they watched the work happen. Mount Vernon, tuition $71,400, reorganised around both facts — practice is attempt-gated and logged from sixth grade, and the school brokers roughly 300 placements a year through alumni, parents and partner labs. Its placement rate is 94%, the highest in Atlanta, and the board has never been prouder of a number it understands less well than it thinks.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nadia Okonjo, Grade 11",
+     "vignette": "Wednesday, 7:40. Nadia has three unlocked attempts on the materials-science brief before the assistant will say anything, and she is on attempt two, which is wrong in a way she can almost name. She likes this; she has liked it since she was eleven. At 3:15 she gets the Emory lab confirmation — Dr. Vasquez, spring, two afternoons. In the parking lot she tells Marcus, who has the same GPA and the same model and has been placed at the school's own makerspace, which everybody calls the holding pattern. He says congrats. Neither of them says the other thing."
+    },
+    {
+     "role": "Teacher",
+     "name": "Daniel Reyes, chemistry, 18th year",
+     "vignette": "He has Wednesdays blocked for references now — forty-one this cycle, each one a paragraph a lab director will actually read, each one worth more to a student than a semester of his teaching. He is good at them. He hates that he is good at them. Around four he writes the sentence he has written nine times this fall: \"Elena asks the second question.\" It is true of her. It is true of eleven of them. He cannot say it about the other thirty without lying, so he writes something warm and general, and knows exactly what a lab director does with warm and general."
+    },
+    {
+     "role": "Parent",
+     "name": "Alisha Brennan, parent of a 9th grader",
+     "vignette": "At the October coffee she asks which track Theo is on and is told, kindly, that there are no tracks — placement emerges from the practice record. She nods. She works eleven-hour shifts at Emory Midtown and gets home at eight; the practice record is built at night, alone, by a fourteen-year-old deciding whether to attempt the thing a third time. On the drive home she does the arithmetic she keeps doing. Seventy-one thousand dollars buys a building full of adults who know what her son can do, and a system that measures what he does when nobody is in the room with him."
+    },
+    {
+     "role": "Administrator",
+     "name": "Grace Lindhorst, Director of Pathways",
+     "vignette": "The dashboard says 94%. The query she ran in August, and has not put in a deck, says 61% of placements traced to 140 families. She has the honest version written — the school did not manufacture advantage, it got very good at converting it, and the practice data makes the conversion look like merit because it is measuring something real. Thursday she presents to the board. There is a slide titled Equity of Access with the placement rate by financial-aid status on it, which is flat, which is true, and which is not the number."
+    }
+   ],
+   "tension": "Everything here worked. Attempt-gating genuinely builds the disposition it rewards, the practice record genuinely measures something real rather than something inherited, and the placements are genuine work with genuine supervision — this is the school doing the right thing competently, which is why it is hard to argue with. But a disposition that forms by twelve forms mostly at home, and a placement that certifies it runs mostly on a network a family either has or does not; so the two honest instruments, combined, produce an exquisitely well-evidenced account of inherited advantage and call it capability. The flat aid-status placement rate is not a cover-up — it is true, and it is the wrong question, and nobody chose for it to be the number on the slide. The school cannot fix this by measuring better, because better measurement is what produced it.",
+   "provocations": [
+    "If the practice record is a valid measure of the disposition that compounds, and that disposition is substantially formed before a student arrives, is the school obliged to stop using it for placement — or obliged to use it earlier and more aggressively?",
+    "Placement has become the product. Does Mount Vernon cap the number of placements any one family's network can supply, knowing that will lower the 94% and lower it most for students who currently benefit?",
+    "Daniel can honestly write the sentence about eleven students. What does the school owe the other thirty — a different sentence, a different pathway, or an admission that the reference is the real transcript and it was never designed to be equitable?"
+   ]
+  },
   {
    "id": "sc-2026-10-27-unassisted",
    "date": "2026-10-27",
