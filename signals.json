@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-10-28",
- "scan_count": 43,
+ "last_updated": "2026-11-05",
+ "scan_count": 44,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1278,7 +1278,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -2000,7 +2000,7 @@
    "source_date": "2026-09-22",
    "source_type": "news",
    "first_seen": "2026-08-27",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09",
     "2026-09-23"
@@ -13115,6 +13115,297 @@
    "source_type": "study",
    "first_seen": "2026-10-28",
    "sightings": 1
+  },
+  {
+   "id": "high-achievers-retreat-from-four-year-college",
+   "title": "Post-pandemic college retreat is concentrated at the top, not the bottom",
+   "type": "signal",
+   "summary": "A November 2026 EdWorkingPaper (26-1632; Swiderski, Klasik, Fuller, Hemelt and Springer) applies interrupted time series to individual-level North Carolina records for on-time graduates, classes of 2016-2022 (N=141,794 top-quartile, 274,920 bottom-two-quartile, ~585,906 overall). Students in the top quartile of 8th-grade achievement were 5.2pp less likely to enrol in a four-year college in 2021 and 3.9pp less likely in 2022 (p<.001, p<.05) against a 2019 baseline of 71.3%. The bottom two quartiles moved the other way: +2.0pp and +2.5pp (p<.01) off an 18.9% baseline, with UNC System application rates showing the same inversion.",
+   "so_what": "The four-year pipeline is thinning fastest among exactly the cohort a college-preparatory school is built to serve, so the guidance office's default sorting logic now tracks a declining behaviour rather than a stable one. The school's differentiation argument has to be rebuilt as an explicit case for why the four-year route still pays for a strong student, because that student's own revealed preference is drifting.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University (EdWorkingPapers)",
+   "source_url": "https://edworkingpapers.com/ai26-1632",
+   "source_date": "2026-11-01",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "transfer-credit-denials-now-need-written-reasons",
+   "title": "New federal rule forces colleges to justify every rejected transfer credit",
+   "type": "driver",
+   "summary": "The U.S. Department of Education's final rule 'Accreditation, Innovation, and Modernization' (Docket ED-2026-OPE-1042, RIN 1840-AD82) was filed for Federal Register publication on 30 October 2026, amending 34 CFR Parts 600, 602 and 668. A revised 602.24 requires accreditors to bar discriminatory transfer-credit denials, require acceptance of comparable credits, and guarantee an appeals process; institutions refusing credit must state the standard applied and give the student written reasoning. A new 602.30(a)(3) requires accreditors to document how they apply standards to direct-assessment competency-based programmes. Effective 1 July 2027, with optional accreditor implementation from 1 January 2027.",
+   "so_what": "Credit earned in high school through dual enrolment or competency-based providers becomes much harder for a receiving college to discard quietly, converting the Grade 11-12 transcript from a signalling document into a portable credential ledger. 'Which of these credits will actually travel' becomes a curriculum design decision the school can answer in advance rather than a gamble each family takes alone.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Labor & Economy",
+   "source_name": "U.S. Department of Education / Office of the Federal Register",
+   "source_url": "https://public-inspection.federalregister.gov/2026-22174.pdf",
+   "source_date": "2026-10-30",
+   "source_type": "policy",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "applied-stem-cte-amplifies-prior-preparation",
+   "title": "Applied STEM pathways pay off most for students who were already prepared",
+   "type": "signal",
+   "summary": "A November 2026 EdWorkingPaper (25-1300 v2; Nomi, DeChane and Podgursky) uses Missouri statewide administrative data and within-school, between-cohort variation in Project Lead the Way course availability as an instrument for participation. Expanding PLTW availability raises participation, college enrolment and STEM major declaration, but the benefits are larger for students who arrived with strong prior STEM preparation. The response is channel-specific by gender: males respond more to Engineering course expansion, females more to Biomedical Science, with five-year STEM major effects positive for both and larger for females.",
+   "so_what": "Adding engineering and design courses without a parallel maths-readiness feeder widens the in-school gap rather than closing it, because the causal gain lands on students who arrived ready. And if girls' STEM major declaration responds to Biomedical Science capacity rather than Engineering, the operative lever is which course sections get built, not how the programme is marketed at open house.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University (EdWorkingPapers)",
+   "source_url": "https://edworkingpapers.com/ai25-1300",
+   "source_date": "2026-11-01",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "benchmark-scorers-swing-accuracy-22-points",
+   "title": "The scoring script, not the model, moves multimodal benchmark results by up to 22 points",
+   "type": "signal",
+   "summary": "A WACV 2027 paper posted to arXiv on 2 November 2026 re-ran the official scorers of eight peer-reviewed multiple-choice multimodal benchmarks against five open vision-language models, using blinded human plus LLM adjudication (Cohen's kappa = 0.956) to recover what each model actually answered. On identical model outputs, the choice of scoring rule moved reported accuracy by up to 22 points; one reasoning model with a 0.000 non-compliance rate still swung 9.5 points depending on which regex match of its trace the parser kept. The artifact falls to zero when models emit clean option letters, so it is invisible on leaderboards of strong models and concentrated on weaker or verbose ones.",
+   "so_what": "Any school comparing AI tools on published benchmark scores is reading a number partly manufactured by a parsing regex, and the distortion is largest for the small, cheap, locally-runnable models districts actually license. Procurement rubrics citing leaderboard accuracy need to start demanding a reported non-compliance rate and at least two scoring rules.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (WACV 2027, Evaluations and Datasets Track)",
+   "source_url": "https://arxiv.org/abs/2611.03377",
+   "source_date": "2026-11-02",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "productive-friction-raises-recall-lowers-satisfaction",
+   "title": "Metacognitive scaffolds improved writing and 3-day recall while making the AI feel worse to use",
+   "type": "signal",
+   "summary": "A Microsoft Research team (Kewenig, Tankelevitch, Rintel, Sarkar, Sellen) posted a 46-page randomised between-subjects study to arXiv on 22 October 2026: 297 workers produced 594 essays with or without dynamically generated scaffolds prompting goal specification and task decomposition. Scaffolded writing was higher quality, the gain persisted after the scaffolds were withdrawn, participants recalled the topic better three days later, and their prompting behaviour changed. The same participants rated the AI as less helpful and more cognitively demanding.",
+   "so_what": "This inverts the signal schools currently use to choose AI tools: student and teacher satisfaction ratings will systematically select against the designs that produce durable learning. Any pilot evaluated on 'did staff and students like it' is an instrument that selects for cognitive offloading.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Microsoft Research)",
+   "source_url": "https://arxiv.org/abs/2610.30945",
+   "source_date": "2026-10-22",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "us-territories-first-modeled-century-depopulation",
+   "title": "Census models century-long depopulation for four U.S. territories",
+   "type": "signal",
+   "summary": "In its first International Database update for the U.S. territories since 2017, the Census Bureau on 5 November 2026 projected American Samoa down 61% by 2100, the U.S. Virgin Islands down 41%, Guam down 38% and the Northern Mariana Islands down 17%. American Samoa's total fertility rate fell from 4.0 in 2000 to 2.1 in 2026 and the Northern Marianas' from 3.3 to 2.0 since 2016, while 2026 net migration runs to -25.1 per 1,000 in American Samoa. The Virgin Islands is projected to enter natural decrease — deaths exceeding births — as early as 2027.",
+   "so_what": "These become the first U.S.-governed school systems to plan against modelled, permanent school-age contraction rather than a cyclical dip, so territorial districts will pilot the consolidation contracts, multi-grade staffing and managed-shrinkage facilities deals that mainland public and independent schools will be copying within a decade.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "7-10",
+   "sector": "Demographics & Migration",
+   "source_name": "U.S. Census Bureau",
+   "source_url": "https://www.census.gov/library/stories/2026/11/estimates-show-population-decline.html",
+   "source_date": "2026-11-05",
+   "source_type": "data",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "news-trust-rebound-young-republicans-twelve-points",
+   "title": "Pew finds news trust rebounding, sharpest among young Republicans",
+   "type": "signal",
+   "summary": "Pew Research Center's 2 November 2026 release, from a 14-20 September 2026 survey of 5,193 U.S. adults on the American Trends Panel, found trust in national news organisations rose from 56% to 62% year on year and local news from 70% to 75%. Republicans and leaners aged 18-29 jumped 12 points, from 42% to 54%, on national news. Trust in information from social media barely moved, 37% to 38%, and stayed flat at 37% among Republicans.",
+   "so_what": "Media-literacy and civil-discourse units built on the premise of a widening partisan trust gap are now aimed at a gap that is closing, while the real divide is generational — 52% of 18-29s trust social media against 25% of over-65s. The design problem shifts from bridging left-right distrust to teaching students why their own age cohort trusts platforms their teachers do not.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Pew Research Center",
+   "source_url": "https://www.pewresearch.org/short-reads/2026/11/02/americans-trust-in-information-from-news-organizations-has-risen-in-the-past-year/",
+   "source_date": "2026-11-02",
+   "source_type": "report",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "school-smoke-days-eightfold-indoor-pm25-inversion",
+   "title": "US school smoke days rose eightfold; some buildings worse inside than out",
+   "type": "trend",
+   "summary": "An Oregon State University study published in Environmental Research and announced 28 October 2026 analysed U.S. air quality data from 2006 to 2023 and found average annual wildfire smoke days at public schools rose from 6.8 to 54.4, and at childcare centres from 9.4 to 112.2. The team, led by Stephanie Foster with OSU's Molly Kile and Parichehr Salimifard and funded by NIEHS, found wide variation in building protection: some schools recorded higher indoor PM2.5 concentrations than nearby outdoor monitors on smoke days.",
+   "so_what": "The default 'keep them inside' smoke protocol is the specific thing that breaks — without measured indoor PM2.5 a school cannot know whether sheltering helps or harms, so continuous indoor air monitoring moves from a facilities nicety to a duty-of-care record. Pre-K feeder programmes, at 112 affected days a year, lose outdoor learning at twice the K-12 rate.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Oregon State University",
+   "source_url": "https://news.oregonstate.edu/news/schools-increasingly-affected-poor-air-quality-wildfire-smoke-becomes-more-common",
+   "source_date": "2026-10-28",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "fda-individualized-feature-space-gene-editing",
+   "title": "FDA defines an envelope that lets one gene-editing licence cover many patients",
+   "type": "signal",
+   "summary": "On 27 October 2026 FDA's CBER issued draft guidance, 'Individualized Human Genome Editing Products: Considerations for BLA Submission and Postapproval Management', creating an 'individualized feature space' (IFS) — explicit allowable limits of variation in a product's editing components, such as a swappable guide-RNA spacer or a menu of base editors. A patient-specific variant falling inside the IFS and meeting pre-agreed in vitro criteria is treated as a manufacturing change filed as a BLA supplement, generally without new clinical data; the worked example spans four gRNAs, two Cas9 base editors and four gene variants. Widening the IFS needs a prior-approval supplement; changing mechanism still requires a new BLA.",
+   "so_what": "Bespoke medicine stops being a one-off heroic rescue story and becomes a regulated platform with a published spec sheet, so a high-school biology or bioethics class can teach drug approval as a design-constraints problem — what is inside the envelope and who drew it — rather than as an untouchable decade-long pipeline narrative.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "U.S. Food and Drug Administration, Center for Biologics Evaluation and Research",
+   "source_url": "https://www.fda.gov/media/195887/download",
+   "source_date": "2026-10-27",
+   "source_type": "policy",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "nine-toolhead-printer-2499-six-second-swaps",
+   "title": "Nine toolheads at $2,499 makes multi-material the default, not the stretch goal",
+   "type": "signal",
+   "summary": "On 3 November 2026 3DPrint.com covered Bambu Lab's release of the H3C at $2,499, carrying nine toolheads on a Swaptek exchanger that changes material in six seconds, with each toolhead preloading and keeping its filament heated between swaps. Tools reach 350C for engineering materials including ABS and PC blends, a dedicated flexible extruder prints TPU down to 75A and accepts both 1.75mm and 2.85mm filament, and full colour is mixed from a five-filament PLA palette. Bambu claims accelerations of 25,000 mm/s2 and speeds to 1,400 mm/s; the airtight AMS 3H dryer runs to 85C and chains for up to 24 materials.",
+   "so_what": "Tool changing rather than colour is the shift: one sub-$2,500 machine now prints rigid, flexible and high-temperature engineering plastics within a single part, so design briefs can be written around multi-material function — living hinges, gaskets, overmoulded grips, compliant mechanisms — instead of around what one filament can survive.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "3DPrint.com",
+   "source_url": "https://3dprint.com/336070/bambu-lab-releases-h3c-printer/",
+   "source_date": "2026-11-03",
+   "source_type": "news",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "uk-keeps-stranger-matchmaking-kills-stranger-chat",
+   "title": "UK will age-gate in-game chat with strangers but keep stranger matchmaking",
+   "type": "signal",
+   "summary": "In a House of Commons petition debate on 2 November 2026, Online Safety Minister Ian Murray said under-16s in the UK will still be matched with strangers in online games, but the features letting them communicate with those strangers will be blocked under forthcoming feature-specific regulations following the under-16 social media ban, in force late spring 2027. Murray cited a 2024 Roblox case in which an adult moved a 14-year-old off-platform to a messaging app, sentenced to 28 months in April 2026. The June 2026 plan had made stranger communication merely off-by-default for 16- and 17-year-olds; no enforcement date for the gaming rules has been set.",
+   "so_what": "Age-gating the voice channel while leaving the matchmaking lobby intact ends the thing schools actually use multiplayer for — co-operative talk — so esports teams, Minecraft and Roblox build clubs and any class using a commercial game will need school-hosted, roster-bounded comms rather than in-game voice. Expect publishers to ship verified school-cohort chat tiers that schools must opt into and administer.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Inven Global",
+   "source_url": "https://www.invenglobal.com/articles/28194/uk-moves-to-restrict-in-game-chat-with-strangers-for-under-16s",
+   "source_date": "2026-11-04",
+   "source_type": "news",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "college-starters-now-one-in-five-army-recruits",
+   "title": "Share of new Army soldiers with college experience nearly doubled to 20%",
+   "type": "signal",
+   "summary": "About 20% of new Army soldiers in 2025 and 2026 had completed at least one semester of college, up from 11% across the prior three years, per Army Recruiting Division figures reported 31 October 2026. Youth unemployment hit 9.9% in September 2026 — more than double the 4.2% adult rate and up from a 6.6% low in April 2023 — while the Army enlisted 61,530 active duty in 2026 and ran 9,134 recruits through its Future Soldier Prep Course. RAND economist Jennifer Heissel attributes part of the rise to young people trying other career paths first; DOD polling still shows only 10% of 16-to-21-year-olds planning to serve.",
+   "so_what": "Enlistment is becoming a second-choice landing pad for college stop-outs rather than a first-choice alternative to college, which means the pathway decision a school counsels at 17 is being unmade at 19. Independent schools tracking college placement as their outcome metric will show success while their graduates quietly reroute.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "The Denver Gazette",
+   "source_url": "https://www.denvergazette.com/2026/10/31/military-recruiting-up-as-youth-unemployment-rises/",
+   "source_date": "2026-10-31",
+   "source_type": "news",
+   "first_seen": "2026-11-05",
+   "sightings": 1
+  },
+  {
+   "id": "global-mental-wealth-inverts-the-happiness-curve",
+   "title": "92-country study finds young people now score lowest on vitality and resilience",
+   "type": "signal",
+   "summary": "A Columbia Mailman-led study, 'Global mental wealth: A multidimensional analysis of social, financial, and emotional well-being in 92 countries' (Social Indicators Research, reported 2 November 2026), surveyed roughly 50,000 people across 92 countries on ten mental-health dimensions. Young people scored lower on vitality, emotional stability and resilience than older respondents, pulling down overall scores and inverting the classic U-shaped happiness curve in which the young score high. Each additional level of education was associated with higher well-being, and living with others or hybrid work beat living alone or fully remote; lead author Kai Ruggeri called the pattern a flashing red light.",
+   "so_what": "If vitality and resilience — not anxiety or depression symptoms — are the dimensions collapsing, school wellbeing programmes built around symptom screening and counselling referral are measuring the wrong construct. The actionable lever becomes co-presence and energy, which maps to advisory structure, cohort design and in-person scheduling rather than to the counselling office.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "News-Medical (reporting Social Indicators Research / Columbia Mailman School of Public Health)",
+   "source_url": "https://www.news-medical.net/news/20261102/Worldwide-survey-reveals-declining-mental-well-being-among-young-people.aspx",
+   "source_date": "2026-11-02",
+   "source_type": "study",
+   "first_seen": "2026-11-05",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -13198,11 +13489,12 @@
     "seven-minute-vr-reset-beats-same-content-on-phone",
     "proof-chatbot-dose-response-exam-penalty",
     "jed-5500-students-ai-use-purpose-gradient",
-    "employers-discount-graduates-when-ai-is-framed-as-substitute"
+    "employers-discount-graduates-when-ai-is-framed-as-substitute",
+    "productive-friction-raises-recall-lowers-satisfaction"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Revised: watch indicator two fired and has been split into two. A staggered-rollout randomised trial in a proof-based mathematics course (Chen, Koedinger et al., 153 undergraduates) found early chatbot access raised homework scores 2.56 points with no exam effect, then, once access was universal, each additional 100 chatbot messages tracked a 3.02-point lower exam score — and students with lower baseline self-efficacy used it more, losing about 0.62 exam points per one-point self-efficacy drop, mediated entirely through message volume. That is pole_c in a randomised design for the second time this month. The consequential part is the contrast inside the same course: the attempt-gated feedback interface, which released help only after a student had attempted a proof, showed no negative association with exam performance. This uncertainty has been framed around how much AI a student uses; the evidence now says the governable variable is the shape of the affordance, which is a thing a school can actually specify in procurement. The JED survey of 5,500 secondary students adds that 57% turn to AI when distressed against 12% for companionship, so the ordinary homework chatbot — the attempt-ungated one — is also the emotional-support surface, and the two uses are not separable by product category."
+   "status_note": "Carried forward unrevised; framing and poles stand. The third watch indicator — whether interaction architecture rather than exposure time becomes the regulated variable — is now visibly firing. A Microsoft Research randomised study (297 workers, 594 essays) found dynamically generated metacognitive scaffolds raised writing quality, held the gain after the scaffolds were withdrawn, and improved three-day recall, which is the clearest evidence yet for pole C, conditional amplification mediated by design rather than access. The uncomfortable rider is new: the same participants rated the scaffolded assistant less helpful and more demanding, so the satisfaction scores schools use to select tools run against the architectures that teach. The framing does not move, but the instrument schools use to choose is now implicated."
   },
   {
    "id": "cu-evidence",
@@ -13333,11 +13625,12 @@
     "agent-leaderboards-rank-scaffolds-not-models",
     "proof-chatbot-dose-response-exam-penalty",
     "youth-ai-safety-countermeasures-ideated-never-evaluated",
-    "credit-hour-priced-in-lost-leisure"
+    "credit-hour-priced-in-lost-leisure",
+    "benchmark-scorers-swing-accuracy-22-points"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-26",
-   "status_note": "Carried forward; framing, poles and watch indicators stand, and no indicator fired. Two findings sharpen the mechanism rather than move it. A Bayesian variance decomposition across 22 agent benchmarks separates reliability by the claim an evaluation supports: rankings of fixed model-plus-scaffold systems come in at 0.935-0.994, rankings of the underlying models at 0.148-0.841, and where the shortfall is thin scaffold coverage, adding unlimited similar tasks raises model-ranking reliability by at most 0.097. Read across to a school, that is a formal proof of the thing this uncertainty keeps circling: an assessment can reliably rank student-plus-toolset performances while telling you almost nothing about students, and lengthening the test cannot fix it — only varying the conditions can. The CMU proof-course trial supplies the clinical version, with homework scores rising while exam scores fell in the same cohort, so a school watching only its own gradebook would have recorded improvement. Against that, the youth AI-safety review of 100 studies finds most proposed child-safety countermeasures were never implemented and almost none evaluated against harm, which means the vendor assurances offered in place of local measurement are themselves unmeasured. Watch indicator six remains unmet: still no institution has published what it can no longer claim to know."
+   "status_note": "Carried forward; poles and watch indicators stand, and no indicator fired. One new finding sharpens the mechanism without moving it. A WACV 2027 evaluation audit re-ran the official scorers of eight multimodal benchmarks against five open models and found the scoring rule alone moved reported accuracy by up to 22 points on identical outputs, with a 9.5-point swing even on a model with zero non-compliance. This pushes the epistemic problem one layer below the benchmark into the parser, and it is regressive in a specific way: the distortion vanishes on strong models and concentrates on the small, cheap, locally-hosted models schools actually license. The thing a school cannot verify is no longer the claim, it is the arithmetic underneath it."
   },
   {
    "id": "cu-credential",
@@ -13352,7 +13645,9 @@
     "Whether trade-and-apprenticeship signing ceremonies spread beyond defense contractors into other sectors",
     "Whether elite employers formally drop degree requirements rather than merely saying so",
     "Whether parental willingness to pay for a college-preparatory premium tracks the collapse in stated valuation of the degree, or decouples from it",
-    "Whether degree-holders keep crowding downward into sub-degree and school-leaver roles — and whether employers begin screening them out of those roles as overqualified, which would close the alternative pathway from both ends"
+    "Whether degree-holders keep crowding downward into sub-degree and school-leaver roles — and whether employers begin screening them out of those roles as overqualified, which would close the alternative pathway from both ends",
+    "Whether the top achievement quartile's four-year enrolment retreat persists past the 2022 cohort or reverts — this is the demand-side test, and it is the cohort a college-preparatory school is built to serve",
+    "Whether the July 2027 transfer-credit and competency-documentation rules produce real credit portability in practice, or whether receiving institutions absorb the written-reasons requirement as boilerplate and deny at the same rate"
    ],
    "signals": [
     "stanford-ai-employment-gap-young-workers",
@@ -13448,11 +13743,14 @@
     "employers-discount-graduates-when-ai-is-framed-as-substitute",
     "china-world-vocational-standards-framework",
     "birth-decline-reaches-the-choice-sector",
-    "gxo-digit-100000-totes-flowery-branch"
+    "gxo-digit-100000-totes-flowery-branch",
+    "transfer-credit-denials-now-need-written-reasons",
+    "high-achievers-retreat-from-four-year-college",
+    "college-starters-now-one-in-five-army-recruits"
    ],
    "first_identified": "2026-08-13",
-   "last_revised": "2026-10-26",
-   "status_note": "Carried forward; poles and watch indicators stand. The scan turned up a repricing mechanism that operates on no student's actual behaviour: a randomised experiment with hiring professionals (Boyd-Swan and Reynolds, EdWorkingPaper 26-1604) primed respondents with AI framed either as substituting for or assisting student effort, then had them review identical resumes. The substitution framing significantly cut both interview interest and willingness to negotiate salary; the assistance framing did not. The discount is applied to the cohort narrative, not to the candidate — which means a school's public posture on AI is an input into its graduates' starting offers, and the one remedy both treatment groups selected was in-person testing, binding this uncertainty to cu-evidence at the point of hire. Two slower forces sit behind it. Forty-six countries have now backed a China-drafted world vocational standards framework aimed at cross-border recognition of technical qualifications, which would put the portable non-degree currency under governance no US school participates in. And GXO's humanoid programme at Flowery Branch, an hour from Atlanta, passed 100,000 totes and is expanding to two more states, so the local non-degree alternative families can see is being automated while the degree premium is being argued about."
+   "last_revised": "2026-11-05",
+   "status_note": "Revised: two independent vectors moved on the same day, one structural and one behavioural, and both argue for pole B arriving through a mechanism the watch list did not name. Structurally, the Department of Education's final accreditation rule (filed 30 October 2026, effective 1 July 2027) forces receiving institutions to accept comparable transfer credit, give written reasons for refusals, grant appeals, and documents how accreditors treat direct-assessment competency programmes — which modularises the credential by regulation rather than by employer behaviour. Behaviourally, individual-level North Carolina records show the post-2020 four-year enrolment retreat is concentrated in the top achievement quartile (-5.2pp in 2021, -3.9pp in 2022) while the bottom two quartiles moved up, and Army recruiting data show college-experienced enlistees nearly doubling to 20% against 9.9% youth unemployment. The repricing is no longer only a story about what employers will accept; it is now visible in what the strongest students choose and in what federal rulemaking makes portable. Two watch indicators added."
   },
   {
    "id": "cu-liability",
@@ -13551,11 +13849,12 @@
     "23andme-635000-actionable-results-six-million",
     "youth-ai-safety-countermeasures-ideated-never-evaluated",
     "deped-drops-uniforms-as-heat-adaptation",
-    "jed-5500-students-ai-use-purpose-gradient"
+    "jed-5500-students-ai-use-purpose-gradient",
+    "school-smoke-days-eightfold-indoor-pm25-inversion"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand, and no indicator fired. The recurring mechanism — duty arriving from outside the building about something the school never collected — showed up twice more. 23andMe reported that 10.6% of nearly 6 million research-consented participants received at least one medically actionable genetic result, with 93.8% opting in to receive health reports, so heritable-risk information about enrolled children is now routinely generated by a consumer purchase with no clinician attached and no place in a school health record. The JED survey points the same way from the pastoral side: if 57% of secondary students go to AI when distressed and the risk gradient runs on purpose rather than volume, a school that does not ask the purpose question has a foreseeability problem the moment somebody publishes that it could have. Procurement exposure firmed up too — a review of 100 youth AI-safety studies found most countermeasures were proposed and never evaluated against harm, which weakens reliance on vendor assurance as a defence. Two markers from earlier scans remain open and were not checked this run: the EPA Atlanta rule effective 9 November, and the Advisory Committee on Evidence Rules outcome from 15 October."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand. The recurring mechanism — a duty arriving from outside the building about something the school never measured — appeared again in a new domain. An Oregon State analysis of 2006-2023 air quality data found average annual wildfire smoke days at U.S. schools rose from 6.8 to 54.4, and at childcare centres from 9.4 to 112.2, and found some buildings recording higher indoor PM2.5 than the outdoor monitor next to them. That inverts the shelter-in-place protocol into a potential harm, and it does so on a measurement no school is currently required to take, which is precisely the shape this uncertainty says to watch: the unrecorded variable becomes the evidentiary question later."
   },
   {
    "id": "cu-boundary",
@@ -13641,7 +13940,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-13",
-   "status_note": "Carried forward; re-confirmed, with no new evidence either way in the three places this uncertainty says to look — accommodation law, examination-board rules and device procurement — in the fifteen days since it was last revised. Nothing fired, nothing moved, and the honest reading is that the wearables question is in a quiet phase while the AI-affordance question absorbs attention. One adjacency worth noting without recording movement: the strongest finding of this scan located the harm of an AI tool in the shape of its interface rather than in the fact of its presence. If that generalises, it is the same logic this uncertainty will eventually need for hardware — a policy written on data flow and interaction design rather than on possession — which is pole_b's governing assumption arriving by analogy rather than by evidence. It is not evidence, and it is not counted as such here."
+   "status_note": "Carried forward; re-confirmed, with no new evidence either way in the three places this uncertainty says to look — accommodation law, examination-board rules and device procurement — in the twenty-three days since it was last revised. The nearest adjacent move cuts across rather than along the axis: the UK will block under-16s from communicating with strangers in online games while continuing to match them with those strangers, which regulates a feature rather than a device and says nothing about whether the equipped student is the baseline. Nothing fired, nothing moved, and the honest reading remains that this is the slowest-moving of the five and the one most likely to resolve abruptly when it does."
   }
  ],
  "verification": {
@@ -13651,6 +13950,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-05-unassisted-hours",
+   "date": "2026-11-05",
+   "title": "Unassisted Hours",
+   "year": 2034,
+   "axis": "The credential repriced into portable, machine-verified units of demonstrated work (cu-credential, pole B) crossed with the equipped student accepted as the student (cu-boundary, pole B) — so that certified unaided performance becomes the scarce good, and is sold by the hour.",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices — portfolios, apprenticeships and demonstrated work displace transcripts at the point of entry; prestige fragments across multiple legitimate pathways."
+    },
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The equipped student is the student — the line collapses, assessment moves to what cannot be faked from outside the room, accommodation becomes the default frame for personal hardware, and the school governs data flows rather than possession."
+    }
+   ],
+   "premise": "By 2034 the transcript has been replaced by the ledger. The 2027 transfer-credit rules generalised into a national portability norm, and what a student carries out of Mount Vernon is a few hundred independently verified units of demonstrated work, readable by any employer or registrar without a human in the loop. Assessment long ago stopped pretending the equipment was absent: students are evaluated on what they produce with glasses, earpiece and agent running, because that is what anyone does at work, and because the accommodation cases made the old line indefensible. The ledger is fairer than the transcript ever was — it travels, it is granular, and it cannot be quietly discounted by a receiving institution. It also records nothing whatsoever about what a person can do alone. Into that gap a small market arrived: proctored unassisted hours, sat in sealed rooms with the radios dead, sold by the block, and increasingly asked for by the kind of employer who could always afford to ask for more.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Amara Okonjo",
+     "vignette": "Wednesday, fourth period, and Amara has eleven of her twelve unassisted hours banked before the December window closes. The sealed carrel smells like the old language lab it used to be. Forty minutes into a close reading of a Bishop poem her hand stops moving and she sits in a silence she is not used to, waiting for a sentence that does not arrive from anywhere. She resents it and she wants more of it, and she cannot tell those two feelings apart. Her ledger will say 340 verified units and twelve hours. Her friend Dani's will say 362 units and zero."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dev Raghunathan",
+     "vignette": "Dev teaches eleventh-grade humanities and has not read an unassisted essay in three years, except in December. He is good at his job now in a way he could not have described in 2026: he reads process traces, watches where a student overrode the agent, grades the override. What he has lost is the thing he used to get in the first week — the sense, from one messy paragraph, of who was actually in the room. He finds it again in the sealed-room drafts, which are worse writing and better evidence, and he has stopped saying this out loud in department meetings because it sounds like nostalgia."
+    },
+    {
+     "role": "Parent",
+     "name": "Melissa Tran",
+     "vignette": "Melissa pays $52,400 and then, in October, another $1,400 for a block of twelve proctored hours, which is not optional in the way the letter says it is optional. Her older son did not have the blocks and is fine. She signs anyway, because the two firms his sister wants now ask for unassisted evidence, and because at a Buckhead soccer game in September another mother mentioned hers had bought twenty-four. Driving home she does the arithmetic she has been avoiding: she is not buying her daughter a skill. She is buying proof of a skill, from the only place licensed to sell it."
+    },
+    {
+     "role": "Administrator",
+     "name": "Reggie Ames",
+     "vignette": "Reggie runs the sealed-room schedule from a spreadsheet, fourteen carrels against four hundred upper-school students, and this week it is a legal problem rather than a logistical one. A junior with a cochlear processor cannot sit an unassisted hour without it, so either the hour is not unassisted or the category is incoherent, and counsel has suggested a third tier. He knows what a third tier does. The admissions deck still says the ledger ended the arms race. He wrote that line. It was true when the equipment was the only thing that cost money."
+    }
+   ],
+   "tension": "The ledger did exactly what reformers promised: it made achievement portable, granular and hard to discount, and it dismantled the quiet discretion by which receiving institutions had always sorted applicants by pedigree. Accepting the equipped student was the same kind of win — honest about how work actually happens, and generous to every student whose hardware had previously been treated as cheating rather than as access. But the two together made unaided capability invisible, and anything invisible that employers still want becomes a thing somebody sells. The scarce good is no longer achievement, which the ledger democratised; it is attestation of the self without tools, which only an institution with sealed rooms and proctors can issue. Mount Vernon dismantled one sorting mechanism and found itself operating the next, and nobody chose that — it is the residue of two reasonable decisions taken a decade apart by people who were not in the same meeting.",
+   "provocations": [
+    "If the school began selling certified unassisted hours tomorrow, what would it be charging for — a capability it developed, or a scarcity it manufactured? What test would tell the difference in advance?",
+    "Reggie's cochlear-processor case has only three answers: the hour is not unassisted, the student is excluded, or a third tier is created. Which one does Mount Vernon pick, and what does that choice commit the school to for every future case?",
+    "Dev reads better evidence in the sealed room and worse writing. If the school had to choose one of those two to protect in its assessment design, which is it — and would it say so publicly to families paying $52,400?"
+   ]
+  },
   {
    "id": "sc-2026-10-28-placement-season",
    "date": "2026-10-28",
