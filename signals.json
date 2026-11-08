@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-11-05",
- "scan_count": 44,
+ "last_updated": "2026-11-07",
+ "scan_count": 45,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -12444,7 +12444,7 @@
    "source_date": "2026-10-19",
    "source_type": "news",
    "first_seen": "2026-10-26",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "classroom-air-rna-surveillance-twinair",
@@ -13269,7 +13269,7 @@
    "source_date": "2026-11-02",
    "source_type": "report",
    "first_seen": "2026-11-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "school-smoke-days-eightfold-indoor-pm25-inversion",
@@ -13291,7 +13291,7 @@
    "source_date": "2026-10-28",
    "source_type": "study",
    "first_seen": "2026-11-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "fda-individualized-feature-space-gene-editing",
@@ -13406,6 +13406,302 @@
    "source_type": "study",
    "first_seen": "2026-11-05",
    "sightings": 1
+  },
+  {
+   "id": "state-k12-ai-guidance-is-one-nonprofits-document",
+   "title": "35 states' K-12 AI guidance converges on one nonprofit's template; zero name parents as contributors",
+   "type": "signal",
+   "summary": "A University of Washington team content-analysed and citation-mapped K-12 AI guidance from 35 states plus Puerto Rico. Coverage is near-identical across jurisdictions — data privacy, academic integrity and algorithmic bias each at 97%, equity of access, workforce-readiness framing and personalised-learning framing each at 86% — and priorities do not track state demographics, administrative capacity or partisanship. Shared citations link states to TeachAI and Code.org, with some states reproducing TeachAI's model guidance nearly verbatim. Five states list students as contributors; no state lists parents.",
+   "so_what": "A head who cites 'what most states say' as independent corroboration for an AI policy is citing one advocacy nonprofit's draft several times over — the convergence is copying, not consensus. With parents absent from every drafting process in the sample, there is no legitimacy chain to point at the first time a family formally contests an AI decision about their child.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Memon, Gueorguieva, Kumar, Wang, West & Weber, University of Washington)",
+   "source_url": "https://arxiv.org/abs/2611.06762",
+   "source_date": "2026-11-04",
+   "source_type": "study",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "ai-literacy-tracks-overconfidence-not-accuracy",
+   "title": "In a 973-person test, AI literacy predicted overconfidence about AI video — not accuracy",
+   "type": "signal",
+   "summary": "Xue et al. (UC Davis) had 973 participants judge whether everyday-scene videos were recorded or AI-synthesised. Overall accuracy was 62.5%, barely above chance, while participants placed themselves 12.8 percentile points above their true standing relative to others. Age, generative-AI usage and self-rated AI literacy were all consistently positively associated with three forms of overconfidence, and overprecision — not accuracy — predicted both intention to share a video and the judgement that it was human-made.",
+   "so_what": "The standard school response to synthetic media is more AI-literacy content, but here literacy and usage loaded onto the error that actually drives sharing. The assumption that knowing about AI calibrates you breaks; what replaces it is calibration drill — predict-then-check with confidence scored separately from correctness — which almost no media-literacy curriculum currently assesses.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Xue et al., UC Davis)",
+   "source_url": "https://arxiv.org/abs/2611.05844",
+   "source_date": "2026-11-04",
+   "source_type": "study",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "skill-threshold-makes-unaided-work-self-sustaining",
+   "title": "Model finds a skill threshold past which people choose unaided work with no further incentive",
+   "type": "driver",
+   "summary": "Diener, Hendriks, Spitzer, Satzger, Holstein and Sun (KIT / IBM) extend the accept-or-solve model of AI-assisted work into a sequence where skill evolves with practice. Novices get trapped at low skill and experts deskill over time even while AI-assisted output accuracy stays high. The non-obvious result: payments that reward correct independent work become self-sustaining once a worker crosses a skill threshold, so the incentive can be withdrawn — and setting a higher skill target can lower total long-run incentive cost rather than raise it.",
+   "so_what": "It reframes process marks and AI-free assessment as a temporary subsidy with an exit condition rather than a permanent regime: if a department still has to pay students in grades to work unaided in year three, the threshold was set too low, and the cheaper fix is a harder independent-work standard, not a softer one.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Diener, Hendriks, Spitzer, Satzger, Holstein & Sun, KIT / IBM)",
+   "source_url": "https://arxiv.org/abs/2611.06346",
+   "source_date": "2026-11-04",
+   "source_type": "study",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "writer-model-mismatch-filters-qualified-applicants",
+   "title": "Which AI wrote your cover letter decides whether another AI reads it",
+   "type": "signal",
+   "summary": "A University of Zurich audit paired 11 LLM writer agents with 9 LLM evaluator agents across 10 job descriptions and 50 candidates each, holding candidate qualifications constant. Evaluators ranked writer models in a consistent hierarchy, systematically penalised locally-hosted models regardless of licence, and favoured their own outputs; in the worst pairing roughly 1.8 of every 25 qualified candidates were screened out purely because of which tool drafted the letter. The mechanism is stylistic cues writers reliably emit and evaluators near-unanimously reward or punish.",
+   "so_what": "The tool a school licenses quietly becomes part of its graduates' application portfolio: standardising on a self-hosted or open-weight model to protect student privacy may handicap those students in automated screening. Careers guidance acquires a variable nobody currently advises on — not how to write, but which machine to write with.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "arXiv (Pagan, Ebling, Ionescu & Hannák, University of Zurich)",
+   "source_url": "https://arxiv.org/abs/2610.41866",
+   "source_date": "2026-10-30",
+   "source_type": "study",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "dol-rescinds-apprenticeship-equal-opportunity-rule",
+   "title": "US strips the affirmative-action machinery out of registered apprenticeship",
+   "type": "signal",
+   "summary": "A Department of Labor final rule published 6 November 2026 (29 CFR part 30, effective 5 January 2027) replaces the apprenticeship-specific equal-opportunity framework with a bare prohibition on illegal discrimination. It removes utilisation analyses and numerical goals by race, sex, ethnicity and disability for sponsors with five or more apprentices, along with EEO officers, policy posting, anti-harassment training, outreach and recruitment duties, apprenticeship-specific selection-procedure and recordkeeping rules, and rescinds complaint Form ETA-9039. DOL estimates over $1 billion in stakeholder savings over ten years across 26,628 programmes serving more than 700,000 apprentices.",
+   "so_what": "The demographic data series that let a school or funder prove a CTE-to-apprenticeship pipeline actually reaches the students it claims to serve is being switched off at source from 2027, exactly as districts are pushed to expand work-based learning. Any school that wants that evidence will have to collect it itself or forfeit the argument.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "US Department of Labor, Federal Register final rule 2026-22680",
+   "source_url": "https://www.govinfo.gov/content/pkg/FR-2026-11-06/pdf/2026-22680.pdf",
+   "source_date": "2026-11-06",
+   "source_type": "policy",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "voters-fund-schools-statewide-refuse-them-locally",
+   "title": "Voters bankrolled schools at state level and refused them at the ballot box next door",
+   "type": "signal",
+   "summary": "The 3 November 2026 US midterm school measures split sharply by level of government. Statewide measures passed comfortably — Minnesota 72% for permanent-fund revenue to K-12, Colorado above 55% for routing above-cap revenue to schools — while local self-taxation collapsed: 15 of 47 Virginia localities approved a 1% school-construction sales tax, 5 of 39 Ohio districts won new income taxes, Minnesota voters rejected over half of 63 district requests, and Cy-Fair, Texas defeated a $1.64bn bond with under 40% support. More than 110 New Hampshire towns adopted a permanent cap limiting school district property tax growth to inflation plus the value of new construction.",
+   "so_what": "The New Hampshire cap converts a local school budget from a political negotiation into a formula pegged to new construction, so in districts with no building, real per-pupil capacity declines automatically with no vote to lose and no levy campaign to run. Capital planning migrates upward to state formulas — which is where the independent and charter sectors' competitive position is actually set.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/policy-politics/how-k-12-school-funding-fared-in-the-midterms-a-nationwide-guide/2026/11",
+   "source_date": "2026-11-05",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "oman-live-births-fall-22-percent-in-a-decade",
+   "title": "Oman's live births fall 22.7% in a decade as fertility drops from 4.0 to 2.8",
+   "type": "signal",
+   "summary": "Oman's National Centre for Statistics and Information reported on 7 November 2026 that live births fell 22.7%, from 81,868 in 2016 to 63,252 in 2025. The Omani crude birth rate fell from 33.7 to 20.8 per 1,000 and total fertility from about 4.0 in 2015 to 2.8 in 2025; population growth slowed from 5.9% to 1.7% and natural increase from 18.16 to 12.09 per 1,000.",
+   "so_what": "Gulf states have been the growth engine for international and independent schooling, and operators underwrite new campuses on nationals' birth cohorts plus expatriate inflow. A 23% decade-long fall means Oman's 2031 Grade 1 intake is already fixed and smaller, so the region's expansion story converts into a competition-for-share story well before any Western market feels it.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Oman Observer, reporting National Centre for Statistics and Information data",
+   "source_url": "https://www.omanobserver.om/article/1199286/oman/omani-population-slows-as-live-births-decline-227",
+   "source_date": "2026-11-07",
+   "source_type": "data",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "zolgensma-nine-tumour-cases-vector-integration",
+   "title": "Nine tumours in gene-therapy-treated children, two with vector found in the genome",
+   "type": "signal",
+   "summary": "On 6 November 2026 Novartis confirmed nine cases of tumours among recipients of Zolgensma, its AAV9 gene therapy for spinal muscular atrophy, out of roughly 6,000 patients dosed worldwide; seven of the nine have been disclosed since the two earlier published case reports in 2023 and 2025. In two cases the AAV vector appeared to have integrated into the patient's own DNA. Of three tumours with pathology available, one appears unrelated. Regulators have been notified after each case; insertional mutagenesis is already listed as a theoretical risk on the label.",
+   "so_what": "The first cohort of gene-therapy children is now primary-school-aged, so schools rather than clinics are where a decades-long pharmacovigilance cohort is actually observed — through nurse logs, absence patterns and unexplained symptoms. A child recorded as cured of a neuromuscular condition may quietly need an oncology-shaped care plan instead of the neuromuscular one on file.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "BioPharma Dive",
+   "source_url": "https://www.biopharmadive.com/news/zolgensma-tumor-report-novartis-sma-spinal-muscular-atrophy/873990/",
+   "source_date": "2026-11-06",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "mhra-casgevy-extended-to-age-five",
+   "title": "CRISPR therapy extended to five-year-olds with NHS money attached",
+   "type": "signal",
+   "summary": "On 30 October 2026 the MHRA extended approval of Casgevy, the first licensed CRISPR-Cas9 gene-editing therapy, from patients aged 12 and over down to patients aged five and over, for severe sickle-cell disease and transfusion-dependent beta-thalassaemia. NICE published a managed access agreement the same day, adding children aged 5–11 to guidance TA1044 without a separate technology appraisal on the reasoning that the extension would not substantially change the key uncertainties. Vertex confirmed an NHS England reimbursement agreement on 29 October, making it routinely accessible rather than trial-only.",
+   "so_what": "Sickle-cell is one of the few conditions where a named medical cause reliably predicts absence, pain-crisis days and an attainment gap in a specific pupil population; removing it pharmacologically dissolves an equity gap schools were trained to compensate for pedagogically. It also produces a cohort of pupils who received a permanent genomic edit at an age at which they could not consent — a live pastoral and PSHE question with no existing school policy.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "The Pharmaceutical Journal",
+   "source_url": "https://pharmaceutical-journal.com/article/news/mhra-extends-approval-for-gene-editing-therapy-to-patients-aged-five-years-and-over",
+   "source_date": "2026-11-02",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "magnetic-footed-robots-take-the-confined-space-welding-premium",
+   "title": "Magnetic-footed robots take the confined-space welding premium",
+   "type": "signal",
+   "summary": "At RoboWorld 2026 on 4 November, Korea's Diden Robotics showed two steel-climbing robots: Spider, a quadruped using electromagnetic permanent-magnet feet to walk floors, walls and ceilings, clearing 40cm obstacles while carrying 30kg of welding and inspection gear; and Walker, a biped with magnetic feet built to enter narrow internal ship compartments carrying a welding arm. Walker enters production in December 2026 with full deliveries in 2027. Rainbow Robotics separately moved its RB-Q10 quadruped line to 300–400 units planned for 2027, explicitly undercutting US rivals on price.",
+   "so_what": "The part of shipyard work being automated first is precisely the overhead, confined-space and hull-climbing work that carries the wage premium — the reason careers guidance calls welding robot-proof. What is left for a human apprentice is the flat-ground, lower-rate portion, so a trades pathway can survive as a job title while quietly losing the earnings case schools used to sell it on.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Financial News (fnnews, Korea)",
+   "source_url": "https://en.fnnews.com/news/202611041829341672",
+   "source_date": "2026-11-04",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "teen-mental-health-now-predicts-neet-for-gen-z",
+   "title": "Teenage mental health became economically load-bearing in one generation",
+   "type": "signal",
+   "summary": "A UCL/Essex analysis released 6 November 2026 through Equalise compared the Millennium Cohort Study (around 8,000 people born 2000–01) with Understanding Society (born 1992). Among Gen Z, 22% of those with the poorest mental health at 14 and 17 were not in education, employment or training at 23, against 14% of those with the fewest symptoms — an eight-point gap. For millennials the equivalent gap was 9% against 8%, essentially nil. Area deprivation showed a parallel 18% against 11% split.",
+   "so_what": "The same adolescent symptom profile that cost a millennial almost nothing now costs a Gen Z school-leaver a labour-market foothold, which means pastoral provision has quietly become part of a school's employment outcomes. Wellbeing data at 14 is now a leading indicator of destinations at 23 that no school currently tracks or is held to.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "UCL Centre for Longitudinal Studies",
+   "source_url": "https://cls.ucl.ac.uk/link-between-teenage-mental-health-and-being-neet-stronger-for-younger-generations",
+   "source_date": "2026-11-06",
+   "source_type": "report",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "ar-glasses-ship-through-the-optician-channel",
+   "title": "AR glasses move from the gadget channel to the eyewear channel",
+   "type": "signal",
+   "summary": "Gentle Monster confirmed on 6 November 2026 that its first Android XR Intelligent Eyewear collection launches in December, with a Joaquin Phoenix short film directed by Jonathan Glazer as the campaign. Warby Parker — an optical retailer, not an electronics brand — opens pre-orders for its Android XR glasses on 12 November. Google and Samsung are branding the category Intelligent Eyewear rather than smart glasses or XR.",
+   "so_what": "Once display-and-camera glasses are dispensed by the shop that fills a prescription, a device policy loses its enforcement handle: staff can confiscate a phone or a branded headset but cannot ask a student to remove corrective lenses. Every exam-hall and safeguarding rule written around wearable devices now needs a medical-exemption carve-out it does not have.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "9to5Google",
+   "source_url": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+   "source_date": "2026-11-06",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
+  },
+  {
+   "id": "a-game-launch-becomes-a-sanctioned-day-off",
+   "title": "Employers are closing for a video game launch that schools must stay open through",
+   "type": "signal",
+   "summary": "BambooHR workforce data reported on 3 November 2026 shows personal time-off requests clustering on 19 November, the Grand Theft Auto VI release date: 18% of salaried workers plan to take the day, rising to 32% of Gen Z and 27% of millennials. At least one firm, Burger Motorsports, is closing entirely because so many staff requested leave. Workforce-platform analysis of earlier launches found absenteeism roughly doubling against a same-weekday baseline.",
+   "so_what": "Employers are treating a commercial entertainment release as a legitimate, plannable absence while compulsory attendance law gives schools no equivalent instrument. On 19 November the adult world will formally excuse exactly the behaviour schools must code as truancy, handing families a visible precedent that the school calendar is the only one that cannot flex to culture.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Moneywise via Yahoo Finance",
+   "source_url": "https://finance.yahoo.com/media-advertising/articles/nearly-20-workers-plan-nov-103000741.html",
+   "source_date": "2026-11-03",
+   "source_type": "news",
+   "first_seen": "2026-11-07",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -13490,11 +13786,13 @@
     "proof-chatbot-dose-response-exam-penalty",
     "jed-5500-students-ai-use-purpose-gradient",
     "employers-discount-graduates-when-ai-is-framed-as-substitute",
-    "productive-friction-raises-recall-lowers-satisfaction"
+    "productive-friction-raises-recall-lowers-satisfaction",
+    "ai-literacy-tracks-overconfidence-not-accuracy",
+    "skill-threshold-makes-unaided-work-self-sustaining"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Carried forward unrevised; framing and poles stand. The third watch indicator — whether interaction architecture rather than exposure time becomes the regulated variable — is now visibly firing. A Microsoft Research randomised study (297 workers, 594 essays) found dynamically generated metacognitive scaffolds raised writing quality, held the gain after the scaffolds were withdrawn, and improved three-day recall, which is the clearest evidence yet for pole C, conditional amplification mediated by design rather than access. The uncomfortable rider is new: the same participants rated the scaffolded assistant less helpful and more demanding, so the satisfaction scores schools use to select tools run against the architectures that teach. The framing does not move, but the instrument schools use to choose is now implicated."
+   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. Two preprints landed on the same day and pull in the same direction as pole C. A KIT/IBM model of AI-assisted work in which skill evolves with practice finds novices trapped at low skill and experts deskilling even while assisted output accuracy holds — but also finds a skill threshold past which rewarding correct independent work becomes self-sustaining, so the incentive can be withdrawn, and a higher independent-work standard can cost less over time than a softer one. That reframes AI-free assessment as a subsidy with an exit condition rather than a permanent regime. Separately, a 973-person UC Davis study found self-rated AI literacy and AI usage positively associated with overconfidence about synthetic video while accuracy sat at 62.5%, near chance — a direct challenge to the assumption that exposure calibrates judgement. The uncertainty does not move; the second watch indicator sharpens, because both papers locate the active variable in the architecture of the interaction rather than in how much AI a student touches."
   },
   {
    "id": "cu-evidence",
@@ -13626,11 +13924,13 @@
     "proof-chatbot-dose-response-exam-penalty",
     "youth-ai-safety-countermeasures-ideated-never-evaluated",
     "credit-hour-priced-in-lost-leisure",
-    "benchmark-scorers-swing-accuracy-22-points"
+    "benchmark-scorers-swing-accuracy-22-points",
+    "state-k12-ai-guidance-is-one-nonprofits-document",
+    "ai-literacy-tracks-overconfidence-not-accuracy"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-10-26",
-   "status_note": "Carried forward; poles and watch indicators stand, and no indicator fired. One new finding sharpens the mechanism without moving it. A WACV 2027 evaluation audit re-ran the official scorers of eight multimodal benchmarks against five open models and found the scoring rule alone moved reported accuracy by up to 22 points on identical outputs, with a 9.5-point swing even on a model with zero non-compliance. This pushes the epistemic problem one layer below the benchmark into the parser, and it is regressive in a specific way: the distortion vanishes on strong models and concentrates on the small, cheap, locally-hosted models schools actually license. The thing a school cannot verify is no longer the claim, it is the arithmetic underneath it."
+   "status_note": "Carried forward; poles and watch indicators stand, and no indicator fired. One finding bears on the legitimacy of the instruments rather than their validity. A University of Washington citation map of K-12 AI guidance from 35 states plus Puerto Rico found near-identical coverage — data privacy, academic integrity and algorithmic bias each at 97% — with priorities tracking neither demographics nor capacity nor partisanship, and shared citations running back to TeachAI and Code.org, some states reproducing the model guidance nearly verbatim. Five states list students as contributors; none lists parents. A head citing what most states say is therefore citing one advocacy nonprofit several times over. The epistemic problem widens: it is not only that a school cannot verify its measures, it is that the policy consensus it defers to is not independent either."
   },
   {
    "id": "cu-credential",
@@ -13746,11 +14046,15 @@
     "gxo-digit-100000-totes-flowery-branch",
     "transfer-credit-denials-now-need-written-reasons",
     "high-achievers-retreat-from-four-year-college",
-    "college-starters-now-one-in-five-army-recruits"
+    "college-starters-now-one-in-five-army-recruits",
+    "writer-model-mismatch-filters-qualified-applicants",
+    "dol-rescinds-apprenticeship-equal-opportunity-rule",
+    "magnetic-footed-robots-take-the-confined-space-welding-premium",
+    "teen-mental-health-now-predicts-neet-for-gen-z"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-11-05",
-   "status_note": "Revised: two independent vectors moved on the same day, one structural and one behavioural, and both argue for pole B arriving through a mechanism the watch list did not name. Structurally, the Department of Education's final accreditation rule (filed 30 October 2026, effective 1 July 2027) forces receiving institutions to accept comparable transfer credit, give written reasons for refusals, grant appeals, and documents how accreditors treat direct-assessment competency programmes — which modularises the credential by regulation rather than by employer behaviour. Behaviourally, individual-level North Carolina records show the post-2020 four-year enrolment retreat is concentrated in the top achievement quartile (-5.2pp in 2021, -3.9pp in 2022) while the bottom two quartiles moved up, and Army recruiting data show college-experienced enlistees nearly doubling to 20% against 9.9% youth unemployment. The repricing is no longer only a story about what employers will accept; it is now visible in what the strongest students choose and in what federal rulemaking makes portable. Two watch indicators added."
+   "status_note": "Carried forward unrevised two days after revision; poles and watch indicators stand. Two items extend the mechanism named on 5 November without changing the framing. The Department of Labor's final rule of 6 November (29 CFR part 30, effective 5 January 2027) strips apprenticeship-specific equal-opportunity machinery — utilisation analyses, numerical goals, EEO officers, outreach duties, recordkeeping, the complaint form — from 26,628 programmes serving over 700,000 apprentices. Repricing therefore arrives alongside the deliberate switching-off of the data series that would let a school prove its alternative pathway reaches anyone. Separately, Diden Robotics' magnetic-footed welding robots, in production from December, automate the confined-space and overhead work that carries the trades wage premium first — which would let an apprenticeship pathway survive as a job title while losing the earnings case schools sell it on. Both argue the alternative pathway is thinning at the same moment it is being promoted."
   },
   {
    "id": "cu-liability",
@@ -13850,11 +14154,15 @@
     "youth-ai-safety-countermeasures-ideated-never-evaluated",
     "deped-drops-uniforms-as-heat-adaptation",
     "jed-5500-students-ai-use-purpose-gradient",
-    "school-smoke-days-eightfold-indoor-pm25-inversion"
+    "school-smoke-days-eightfold-indoor-pm25-inversion",
+    "zolgensma-nine-tumour-cases-vector-integration",
+    "mhra-casgevy-extended-to-age-five",
+    "state-k12-ai-guidance-is-one-nonprofits-document",
+    "dol-rescinds-apprenticeship-equal-opportunity-rule"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand. The recurring mechanism — a duty arriving from outside the building about something the school never measured — appeared again in a new domain. An Oregon State analysis of 2006-2023 air quality data found average annual wildfire smoke days at U.S. schools rose from 6.8 to 54.4, and at childcare centres from 9.4 to 112.2, and found some buildings recording higher indoor PM2.5 than the outdoor monitor next to them. That inverts the shelter-in-place protocol into a potential harm, and it does so on a measurement no school is currently required to take, which is precisely the shape this uncertainty says to watch: the unrecorded variable becomes the evidentiary question later."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand. The recurring mechanism — a duty arriving from outside the building about something the school never measured — appeared twice this cycle in health, not safeguarding. Novartis confirmed nine tumours among roughly 6,000 children dosed with Zolgensma, with AAV vector apparently integrated into the patient's own DNA in two cases; that cohort is now primary-school-aged, so the pharmacovigilance signal will surface first in nurse logs and absence patterns, against a file that records the child as cured. In the other direction, the MHRA extended Casgevy to children aged five with NHS reimbursement attached, producing pupils who received a permanent genomic edit at an age at which they could not consent. Neither has a school policy waiting for it, and both put the school in possession of information it did not ask for and cannot interpret — which is the shape this uncertainty says precedes a duty."
   },
   {
    "id": "cu-boundary",
@@ -13868,7 +14176,8 @@
     "An accreditor, examination board or athletics association writing personal AR or neural hardware explicitly into its own rules rather than deferring to schools",
     "A district or independent school publishing a device policy that distinguishes by data flow rather than by possession",
     "Consumer neural hardware reaching a school-payable price with a documented educational or accommodation use case",
-    "A national screen ban whose scope extends past instructional time — Denmark's playground clause is the first test of whether that survives contact with accommodation law"
+    "A national screen ban whose scope extends past instructional time — Denmark's playground clause is the first test of whether that survives contact with accommodation law",
+    "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one"
    ],
    "signals": [
     "rayneo-io-499-display-glasses-40-countries",
@@ -13936,11 +14245,12 @@
     "seven-minute-vr-reset-beats-same-content-on-phone",
     "classroom-air-rna-surveillance-twinair",
     "gangnam-school-kitchen-cobots-cut-fume-exposure",
-    "unc-retires-ai-essay-score-as-applicant-ai-flattens-it"
+    "unc-retires-ai-essay-score-as-applicant-ai-flattens-it",
+    "ar-glasses-ship-through-the-optician-channel"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-13",
-   "status_note": "Carried forward; re-confirmed, with no new evidence either way in the three places this uncertainty says to look — accommodation law, examination-board rules and device procurement — in the twenty-three days since it was last revised. The nearest adjacent move cuts across rather than along the axis: the UK will block under-16s from communicating with strangers in online games while continuing to match them with those strangers, which regulates a feature rather than a device and says nothing about whether the equipped student is the baseline. Nothing fired, nothing moved, and the honest reading remains that this is the slowest-moving of the five and the one most likely to resolve abruptly when it does."
+   "last_revised": "2026-11-07",
+   "status_note": "Revised. For twenty-three days this was the quietest of the five, and the revision note said it was the one most likely to resolve abruptly. It has started to, through a channel the watch list did not name: distribution. Warby Parker — an optical retailer, not an electronics brand — opens pre-orders for Android XR glasses on 12 November, Gentle Monster's collection ships in December, and Google and Samsung are branding the category Intelligent Eyewear rather than smart glasses. Once display-and-camera hardware is dispensed by the shop that fills a prescription, the enforcement handle disappears before any accommodation claim is filed: staff can confiscate a phone, but not corrective lenses. The axis does not change and the poles stand, but pole B now has a concrete arrival mechanism that is commercial rather than legal, and one watch indicator is added to track it."
   }
  ],
  "verification": {
@@ -13950,6 +14260,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-07-corrected-vision",
+   "date": "2026-11-07",
+   "title": "Corrected Vision",
+   "year": 2033,
+   "axis": "The equipped student as baseline × liability as the governor of practice",
+   "based_on": [
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The equipped student is the student — the line collapses, assessment moves to what cannot be faked from outside the room, accommodation becomes the default frame for personal hardware, and the school governs data flows rather than possession."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor — documented duty sets the boundary of practice; policy, retention schedules and counsel shape what teachers write down, what schools screen for, and what technology can be adopted."
+    }
+   ],
+   "premise": "Display eyewear reached schools through the optician, not the electronics store. By 2029 the major lens labs were grinding prescription substrates with the render layer bonded in, and a 2030 settlement in the Eleventh Circuit made a blanket ban on them indefensible wherever the frame carried a refraction. Mount Vernon stopped trying to govern possession and started governing data flow, which worked — and then its carrier priced the difference. Since 2031 the school's educator liability premium has been contingent on running Attest, a vendor layer that logs what every pair of lenses rendered inside the building, timestamped and retained ninety days. Tuition is $58,400. The accommodations backlog is the smallest it has been in a decade.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Marisol Okonjo-Reyes, Grade 11",
+     "vignette": "Wednesday, third period, the amber ring comes up at the edge of Marisol's vision and stays there fifty minutes — Attest has locked her lenses to bare for the chemistry assessment. She is -4.25; without the glasses she cannot read the board, so the ring is the compromise. Halfway through stoichiometry she realises she cannot remember the last time she read anything without the margin beside it. Afterward in the stairwell she cries about something unrelated, and she knows, precisely, that four pairs of lenses rendered her doing it, and that the clip sits in a bucket she has no standing to reach."
+    },
+    {
+     "role": "Teacher",
+     "name": "Daniel Priestley, AP U.S. History",
+     "vignette": "Fourteenth year, Room 214. Daniel used to teach Reconstruction by saying the brutal thing out loud and letting the room sit in it for ten seconds. He has not done that since 2031. Nineteen pairs of lenses buffer him continuously, and counsel's guidance is two pages long and perfectly reasonable. His pass rate is up four points — the overlay catches the kids who used to drift at minute thirty, and it never gets tired. On Thursday he notices he has written out, in advance, the sentence he used to improvise. It is a better sentence. It lands like nothing."
+    },
+    {
+     "role": "Parent",
+     "name": "Renata Vogel",
+     "vignette": "Theo is in Grade 8 and has an auditory processing diagnosis. For six years that meant an FM transmitter clipped to a teacher's collar and a pull-out block that every classmate could name. Now it is invisible, it is simply his glasses, and in September he was invited to three things. Renata signed thirty-one pages to get there and read them twice. She keeps returning to 4.3: the school's indemnity holds only while the Attest layer is enabled on her son's device. She has not found the sentence that says what happens to Theo if she declines."
+    },
+    {
+     "role": "Administrator",
+     "name": "Grace Tulloch, Assistant Head for Academics",
+     "vignette": "The device policy Grace enforces was drafted in Hartford by her carrier's counsel; she redlined eleven words and lost nine. Premium down 11%. Open accommodation cases down from 140 to nine. She presents both numbers to the Board in two weeks and they are, by any measure the school has ever used, excellent. The line she has not written a note for is the $340,000 annual renewal to a company that can render every room in the building, and the question a trustee asked in October that she still cannot answer: what happens to ninety days of our children if that company is acquired?"
+    }
+   ],
+   "tension": "The accommodation worked. That is the part that is hard to argue with: the pull-out room is gone, the stigma went with it, and Theo Vogel got invited to things. But Mount Vernon bought the end of the pull-out room and the end of the unobserved room in a single contract, and nobody in the building chose the trade — a settlement made the alternative indefensible and a carrier made it unaffordable, and the school did the competent thing in the space that was left. The same continuous log that makes the equipped student legally survivable is what makes a teacher's improvisation a discoverable risk and a sixteen-year-old's bad afternoon a retained record. The school now governs data flows well. What it no longer governs is whether any room in it can be private, and there is no version of this where it gets the accommodation gains back without the rendering.",
+   "provocations": [
+    "If a premium discount is what settled your assessment policy, who at this school is accountable for pedagogy — and what is the dollar figure you would pay, once, to overrule counsel?",
+    "Name one room in the building you would keep unrendered, and say what you would accept in exchange: how many additional open accommodation cases is that room worth?",
+    "Every attestation log is a record you can be compelled to produce. What is the shortest retention period your counsel will defend — and has anyone here asked, or did you accept the vendor's default?"
+   ]
+  },
   {
    "id": "sc-2026-11-05-unassisted-hours",
    "date": "2026-11-05",
