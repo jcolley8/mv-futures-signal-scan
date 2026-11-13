@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-11-07",
- "scan_count": 45,
+ "last_updated": "2026-11-12",
+ "scan_count": 46,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1331,7 +1331,8 @@
    "source_type": "journal",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 1
+   "sightings": 1,
+   "archived": true
   },
   {
    "id": "brain2qwerty-noninvasive-typing",
@@ -1504,7 +1505,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 4,
+   "sightings": 5,
    "revised_on": [
     "2026-09-09"
    ]
@@ -4146,7 +4147,7 @@
    "source_date": "2026-08-25",
    "source_type": "news",
    "first_seen": "2026-09-05",
-   "sightings": 6
+   "sightings": 7
   },
   {
    "id": "concept-explanations-lift-mental-models-only-at-anomalies",
@@ -12376,7 +12377,7 @@
    "source_date": "2026-10-14",
    "source_type": "news",
    "first_seen": "2026-10-26",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "uk-graduates-crowd-into-school-leaver-roles",
@@ -13450,7 +13451,7 @@
    "source_date": "2026-11-04",
    "source_type": "study",
    "first_seen": "2026-11-07",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "skill-threshold-makes-unaided-work-self-sustaining",
@@ -13702,6 +13703,431 @@
    "source_type": "news",
    "first_seen": "2026-11-07",
    "sightings": 1
+  },
+  {
+   "id": "tutoring-centers-buy-college-access-not-test-scores",
+   "title": "US tutoring centres move college destinations, not test scores",
+   "type": "signal",
+   "summary": "A November 2026 Annenberg EdWorkingPaper (26-1619) links business records on commercial tutoring establishments to administrative records for over five million Texas public school students, exploiting the entry and exit of centres near high schools. Exposure has no detectable effect on state standardised test scores or high school graduation, but raises college admission exam scores, shifts students into higher-quality and out-of-state colleges, and lifts early-career earnings — gains appearing only among students who are not economically disadvantaged. A parallel parent survey finds take-up responds to local centre availability, with large advantaged/disadvantaged gaps in both participation and spending.",
+   "so_what": "Shadow education in the US is not a remediation market that accountability metrics track but a selection market operating entirely outside them, so a school can show flat test-score gaps while the college-destination gap widens invisibly beneath it. The instruments a school reports on are structurally blind to the mechanism now doing the sorting.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University",
+   "source_url": "https://edworkingpapers.com/ai26-1619",
+   "source_date": "2026-11-01",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "performance-pay-keeps-teachers-in-the-district-not-the-school",
+   "title": "Performance pay retains teachers for districts while campuses keep churning",
+   "type": "signal",
+   "summary": "A November 2026 statewide study of Texas's Teacher Incentive Allotment (EdWorkingPaper 26-1643) uses teacher administrative records from 2014-15 to 2025-26 and a staggered difference-in-differences design. District adoption raises district-level retention by 0.95 percentage points — a 5.7% cut in baseline district attrition — rising to 1.38 points once state funding actually flows. Average campus retention shows no detectable change: at the most disadvantaged non-rural campuses, district retention and within-district transfers rise together, and rural campuses are the only group with a measurable gain in staying put.",
+   "so_what": "Performance pay buys loyalty at the wrong unit of analysis — it keeps teachers inside the employer while letting them trade up to easier campuses within it, so the schools the incentive is weighted toward may see no more staffing continuity than before. A district reading its own retention dashboard as proof the policy works is measuring what the policy moved, not what children experience.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University",
+   "source_url": "https://edworkingpapers.com/ai26-1643",
+   "source_date": "2026-11-01",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "korea-funds-43-regions-to-redesign-shrinking-school-systems",
+   "title": "Korea designates 43 regions to redesign schooling around depopulation",
+   "type": "driver",
+   "summary": "On 3 November 2026 Korea's Ministry of Education named 43 Education Innovation Leading Regions for 2027 — 32 classified as population-declining and 11 as education-gap regions — backed by 86 billion KRW next year drawn from special local grants rather than the education budget, at 2-4 billion KRW per region per year for up to five years. Roughly 22 of the 32 depopulating regions submitted school consolidation plans as part of their bids, though the ministry deliberately selected some regions without consolidation plans whose local ecosystem designs were strong. The scheme succeeds the 2024-26 Education Special Zones pilot and is framed as fixing its limits.",
+   "so_what": "Schooling is being refinanced as an instrument of regional population policy, with money arriving through local-government grants and rewarding districts that can present a credible plan for having fewer schools. Consolidation becomes a competitive asset rather than an admission of failure, and local government, not the education authority, gains the lever over what a school system looks like in a shrinking place.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "SBS News",
+   "source_url": "https://news.sbs.co.kr/english/article.do?news_id=N1008828354",
+   "source_date": "2026-11-03",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "sweden-60000-teacher-inclusion-training-nulls-out",
+   "title": "Sweden's 60,000-teacher inclusion training shows no achievement effect",
+   "type": "signal",
+   "summary": "A November 2026 working paper by Glassow and Kirsten evaluates Sweden's national Special Education Pedagogy for Learning programme, an in-service training reaching roughly 60,000 general classroom teachers, linking programme administrative data to full-population registers with dynamic difference-in-differences on grades and national test scores. Effects were small and statistically indistinguishable from zero, including for students with special educational needs — the programme's key target group. An apparent gain for newly arrived immigrants on Swedish national tests did not survive alternative specifications or multiple-testing corrections.",
+   "so_what": "The dominant cost-saving theory of inclusion — upskill the generalist teacher instead of funding specialist provision — has just failed its largest population-scale test, and failed hardest for the pupils it was aimed at. Systems converting special-needs budgets into whole-staff professional development are buying a mechanism with no demonstrated achievement return at national scale.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, Brown University",
+   "source_url": "https://edworkingpapers.com/ai26-1474",
+   "source_date": "2026-11-01",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "pisa-2025-keystroke-level-ai-provenance",
+   "title": "PISA 2025 quietly built character-level AI provenance data",
+   "type": "signal",
+   "summary": "An arXiv preprint posted 9 November 2026 (2611.12487, Schaller, Jansen, Koeller and Horbach of IPN Kiel and FernUniversitaet Hagen) traces every character of German 15-year-olds' PISA 2025 English argumentative essays back to its origin using keystroke, clipboard and chat logs, giving ground truth on voluntary, partial AI use rather than researcher-prompted fakes. Detectors scored macro-F1 up to 0.96 on whole texts, but a single student-style rewriting prompt cut the feature-based detector's AI recall from 0.92 to 0.60 with gpt-4o-mini and 0.41 with Qwen3; the embedding detector held at or above 0.94 on whole texts yet fell to 0.59 at sentence level. Text with no traceable AI material was called human about 95% of the time.",
+   "so_what": "The news is not detector accuracy but that an international assessment now holds keystroke-and-clipboard provenance for individual children's writing — the first instrument capable of establishing the conditions under which a piece of work was produced, and an asset ministries, vendors and litigants will want. Schools have no governance language for process data and will be asked for it before they build one.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2611.12487",
+   "source_date": "2026-11-09",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "human-deference-index-trust-calibration-collapse",
+   "title": "Learners absorb a confident AI's falsehoods at a flat 65%",
+   "type": "signal",
+   "summary": "A within-subjects study (arXiv:2610.31579) had 32 participants learn science from GPT-5-mini assistants briefed with 0 to 100% plausible falsehoods, yielding 104 quizzes and 1,040 answers. Quiz scores fell from 7.4 to 2.9 out of 10; participants picked the planted falsehood on 60% of falsified items versus 11% of correct ones (odds ratio 12.5), adopted stated falsehoods about 65% of the time at every corruption level, and rated absorbed falsehoods 8.4/10 for confidence. Confidence-accuracy discrimination collapsed from AUROC 0.70 to chance, post-task trust ratings barely moved, and learners returned to the chat more often when it was less accurate.",
+   "so_what": "Students cannot detect an unreliable tutor by feel — subjective trust stayed flat across a tenfold swing in accuracy, and engagement rose as accuracy fell — so teaching critical evaluation of AI output fails as a safeguard at exactly the moment it is needed. The burden shifts to per-claim reliability display inside the interface, which is a procurement specification rather than a curriculum one.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv",
+   "source_url": "https://arxiv.org/abs/2610.31579",
+   "source_date": "2026-10-22",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "pediatric-hybrid-bci-vr-wheelchair-attrition",
+   "title": "A children's BCI trial fails a third of its users",
+   "type": "signal",
+   "summary": "A multiple-case feasibility study published 5 November 2026 in Children (13(11):1531, Marcaccini et al., Bologna and Padua) had six children with severe neuromotor disabilities (mean age 13.0, range roughly 7-18; SMA II, cerebral palsy, congenital muscular dystrophy) drive a VR powered-wheelchair simulator by motor imagery plus eye-blink commands. Mean online accuracy was 0.67 overall and 0.77 in sessions clearing 60%; roughly 27% of trials produced no command at all; accuracy drifted 0.68 to 0.73 to 0.60 across sessions; and two of six children were withdrawn after session three because stable control never emerged. Workload rose across sessions while VR discomfort stayed under 20% MSAQ.",
+   "so_what": "Paediatric BCI is arriving in special education as an assistive-mobility story rather than a cognition story, and its honest failure rate creates a new equity decision schools have no policy for — who receives the device, and what is owed to the child for whom it does not work.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Children (MDPI)",
+   "source_url": "https://www.mdpi.com/2227-9067/13/11/1531",
+   "source_date": "2026-11-05",
+   "source_type": "journal",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "dutch-internship-supply-collapse-office-sectors",
+   "title": "Dutch internship supply down a third, but up 290% in nursing",
+   "type": "signal",
+   "summary": "Indeed vacancy data reported on 12 November 2026 shows internship postings in the Netherlands have fallen more than a third since early 2023 and in August 2026 sat 19% below February 2020, dropping from 5.2% to 3.7% of all vacancies. The collapse concentrates in office-track fields — arts and entertainment down 57%, media and communications down 55%, marketing down 51%, sales down 44% — while shortage sectors grew sharply: nursing up 290%, retail up 225%, construction up 67%. Nearly 5,000 vocational students were still hunting for a placement in May 2026, and at Erasmus MC a quarter of the 380 medical students due a placement this year cannot start until autumn 2027.",
+   "so_what": "Where a curriculum makes a work placement a graduation requirement, the labour market now silently controls who can finish a qualification and when — so the binding constraint on completion sits outside the institution entirely. Schools either decouple assessment from placement or watch creative and commercial tracks stall while care and construction tracks over-recruit.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "NL Times",
+   "source_url": "https://nltimes.nl/2026/11/12/number-internship-positions-netherlands-dropped-third-since-2023",
+   "source_date": "2026-11-12",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "korea-experienced-hire-bar-climbs-to-six-years",
+   "title": "Korea's experienced-hire bar climbs to 5.92 years in two years",
+   "type": "trend",
+   "summary": "An Incruit analysis of Korean experienced-hire job postings, reported 5 November 2026, found the average minimum experience demanded rose from 4.67 years in Q3 2024 to 5.18 in 2025 and 5.92 in 2026 — a 1.25-year jump in two years. Postings asking for one to three years fell 12.7 points to 35.3%, while those demanding five years or more rose 15.5 points to 58.5%, so roughly six in ten openings now require at least half a decade. Incruit describes it as a structural change in the hiring market rather than a cyclical dip.",
+   "so_what": "If the first rung of the ladder now sits five-plus years off the ground, the decisive credential shifts from the degree to whatever lets a 23-year-old accumulate countable experience — pushing schools and universities toward logged, portable evidence of real work rather than coursework completion.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Financial News Korea",
+   "source_url": "https://en.fnnews.com/news/202611050838592419",
+   "source_date": "2026-11-05",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "statcan-immigration-nets-out-to-zero-for-elementary-rolls",
+   "title": "StatCan: immigration's net effect on elementary rolls is minus 2,100",
+   "type": "signal",
+   "summary": "A Statistics Canada Economic and Social Reports study published 28 October 2026 projects that over 2026-2030 permanent-resident children will add 47,100 pupils aged 6-13 while the drawdown of non-permanent residents removes 49,200 — a net immigration effect of minus 2,100, essentially zero. For ages 14-17 the net is plus 1,200. Underneath, the non-permanent-resident population is projected to fall from 3.149 million in 2024 to under 2 million by 2028, and the 6-13 cohort shrinks by about 197,000 by 2035 under the medium scenario and 373,000 under the low one.",
+   "so_what": "Districts planning on immigration backfilling their rolls are reading the wrong line of the table: high permanent-resident admissions and a collapsing temporary-resident population cancel out, so enrolment planning has to be driven by births rather than visas. The churn still hits individual schools hard even where the national net is zero.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "Statistics Canada, Economic and Social Reports",
+   "source_url": "https://www150.statcan.gc.ca/n1/pub/36-28-0001/2026010/article/00002-eng.htm",
+   "source_date": "2026-10-28",
+   "source_type": "data",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "korea-foreign-concentrated-localities-154",
+   "title": "Korea's foreign-resident concentrated areas jump from 142 to 154",
+   "type": "signal",
+   "summary": "Korea's Ministry of the Interior and Safety survey, released 28 October 2026 with a reference date of 1 November 2025, counts 2,662,967 foreign residents — 5.1% of the census population, both record highs. Localities classed as foreign-resident concentrated (10,000-plus residents or a 5%-plus share) rose from 142 to 154, with rural counties topping the list: Yeongam 22.4%, Eumseong 19.7%, Jincheon 15.0%. Growth is fastest outside the capital region — North Gyeongsang up 8.0%, Gangwon 7.9%, South Jeolla 7.8% — and international students rose 17.6% in a single year to 274,329 against 2.3% growth in foreign workers.",
+   "so_what": "The multilingual classroom is arriving fastest in depopulating rural counties that have no language-support infrastructure and were planning closures rather than intake. The same districts must consolidate for falling Korean-born enrolment and build intercultural capacity they have never needed, simultaneously and from the same budget.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "Nocut News",
+   "source_url": "https://en.nocutnews.co.kr/news/6598323",
+   "source_date": "2026-10-28",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "orexin-blocker-breakthrough-for-child-insomnia",
+   "title": "First breakthrough designation for a child insomnia drug",
+   "type": "signal",
+   "summary": "On 4 November 2026 the FDA granted Breakthrough Therapy Designation to daridorexant, a dual orexin receptor antagonist, for insomnia disorder in patients aged 10 to under 18 — a population with no FDA-approved insomnia drug at all. The supporting phase 2 trial randomised 165 children and adolescents to 10, 25 or 50 mg or placebo over two weeks; a single 50 mg dose raised objective total sleep time by 50 minutes overall and by 64 minutes in those with neurodevelopmental disorders, with no abuse signal or withdrawal adverse events. Idorsia plans a paediatric phase 3 programme in the second half of 2027.",
+   "so_what": "If adolescent sleep becomes a prescribable condition rather than a scheduling one, the political pressure behind later school start times quietly deflates — districts gain a cheaper alternative to moving the bell. The 64-minute effect in neurodevelopmental cases lands first on the students whose support plans already medicalise attention.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Sleep Review",
+   "source_url": "https://sleepreviewmag.com/sleep-disorders/insomnia/fda-breakthrough-therapy-designation-pediatric-insomnia-daridorexant/",
+   "source_date": "2026-11-06",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "water-systems-as-war-target-erode-school-attendance",
+   "title": "Attacks on water systems triple, stealing school hours",
+   "type": "trend",
+   "summary": "UNICEF's Water Under Fire, Volume 4, released 5 November 2026, finds reported attacks damaging or destroying water and sanitation systems in conflict roughly tripled between 2021 and 2025 across 23 countries and territories. Only 1 of Khartoum State's 13 water treatment plants was functioning by March 2024; 145-plus water points destroyed in Burkina Faso cut off around 830,000 people; and almost 7 million Ukrainian children were left without sustained water, heat and power by December 2022. Girls and women do the fetching in seven of ten households where water must be collected outside the home, and only 26% of 2026 WASH funding has arrived.",
+   "so_what": "Water infrastructure is becoming a deliberate military target, which makes the water journey rather than the classroom the binding constraint on girls' attendance in conflict zones. Refugee-receiving schools should expect arrivals whose interrupted schooling traces to a pipeline rather than a bomb, which is a different remediation problem than the one they plan for.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "I-Environmental",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "UNICEF",
+   "source_url": "https://www.unicef.org/press-releases/reported-attacks-damaging-water-systems-conflict-triple-children-lose-access-safe",
+   "source_date": "2026-11-05",
+   "source_type": "report",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "green-school-certification-as-climate-diplomacy",
+   "title": "Schools become the signing currency of climate diplomacy",
+   "type": "signal",
+   "summary": "At COP31 in Antalya on 11 November 2026, Turkmenistan signed the Declaration on Children, Youth and Climate Action, bringing all five Central Asian states in and pushing endorsements past 80 countries. The instrument of compliance is schools: Turkmenistan certified its first 18 Green Schools in November 2026 out of 120 enrolled in the Ministry of Education programme, targeting 500 certified green and safe schools by 2030, under a shared Regional Green School Platform.",
+   "so_what": "Climate commitments are being discharged through school building certification rather than emissions policy, which turns facilities managers and heads into the auditable unit of a country's international pledge. A school's energy and water metering becomes a diplomatic record rather than an operational one, with the reporting duty arriving from a treaty the school never read.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "I-Environmental",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "UNICEF Turkmenistan",
+   "source_url": "https://www.unicef.org/turkmenistan/press-releases/turkmenistan-signs-declaration-children-youth-and-climate-action-cop31",
+   "source_date": "2026-11-11",
+   "source_type": "policy",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "adolescent-inactivity-flatlines-fifteen-years",
+   "title": "Fifteen years of policy, zero movement on teen activity",
+   "type": "driver",
+   "summary": "A Lancet Global Health analysis released by WHO on 4 November 2026, pooling 389 population-based surveys from 140 countries covering 3.2 million adolescents, found about 240 million 11-17 year olds — one in four — had no single day with 60 minutes of moderate-to-vigorous activity in the previous week. Adolescents averaged 2.7 active days a week and only 14% were active all seven; 28% of girls versus 22% of boys reported zero active days, and the picture has barely shifted in 15 years despite national strategies. Country spread runs from 4% to over 40% reporting no active days.",
+   "so_what": "A 15-year flatline is evidence that activity campaigns layered onto an existing timetable do nothing measurable, so the live question moves from programme design to whether timetabled movement must displace instructional minutes. That is a trade schools have so far refused to make, and the data now says there is no third option.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "E-Educational",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "World Health Organization / The Lancet Global Health",
+   "source_url": "https://www.who.int/news/item/04-11-2026-one-in-four-adolescents-worldwide-reported-no-active-days-in-the-previous-week",
+   "source_date": "2026-11-04",
+   "source_type": "study",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "openxr-spatial-containers-ratified",
+   "title": "OpenXR ratifies spatial containers — XR quietly gets a window manager",
+   "type": "signal",
+   "summary": "Khronos published two ratified OpenXR extensions on 26 October 2026 — XR_EXT_spatial_container and XR_EXT_spatial_container_self_rendering — letting an app place volumetric 3D content inside system-managed containers that flip between a bounded multitasking mode and full-screen immersion, with the operating system rather than the app controlling placement and allowing a container to follow the user. Google's XR platform lead publicly committed to bringing spatial container support to Android XR; Meta issued no equivalent commitment. Khronos is additionally drafting extensions for a system-provided renderer tuned per device, from high-end headsets down to low-power ones.",
+   "so_what": "Once a headset runs several volumetric apps side by side under OS control, XR stops being one-app-at-a-time experiences and starts behaving like a desktop — so procurement shifts from which title was licensed to whether a learner can hold a model, a task sheet and a peer's window open at once. The vendor's operating system, not the school, then decides where each is allowed to sit in the room.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "UploadVR",
+   "source_url": "https://www.uploadvr.com/openxr-spatial-container-extensions-standardize-volumetric-app-multitasking/",
+   "source_date": "2026-10-26",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "generative-3d-studio-absorbed-by-saas-rollup",
+   "title": "A text-to-3D studio with 1.9m creators is swallowed by a SaaS roll-up",
+   "type": "signal",
+   "summary": "saas.group announced, reported 7 November 2026, its 27th acquisition: 3D AI Studio, founded barely two years ago, which already has 1.9 million registered creators who have generated over 4 million assets from a single image or text prompt and exported them straight to Blender, Unity and 3D printing with no CAD step. The price was undisclosed; saas.group, founded in 2017, runs over 400 staff across more than 25 countries and operates acquired tools for retention rather than growth.",
+   "so_what": "A two-year-old prompt-to-mesh tool reaching 1.9 million creators and then passing to a portfolio operator means the CAD-modelling unit in design and technology is being repriced from a taught skill into a renewable subscription. Schools end up buying the asset pipeline rather than teaching the geometry, and assessing design work that took one sentence to produce.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "3DPrint.com",
+   "source_url": "https://3dprint.com/336334/3d-printing-news-briefs-11-7-2026/",
+   "source_date": "2026-11-07",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "anycubic-thingiverse-exclusive-model-commons",
+   "title": "Printer vendors begin fencing off the free 3D model commons",
+   "type": "signal",
+   "summary": "Anycubic and Thingiverse announced an exclusive partnership, reported 26 October 2026, opening Thingiverse's library of more than 2 million models to Anycubic printer users, with selected STL files converted to 3MF and re-tuned for multicolour printing on compatible Anycubic machines. A dedicated collaboration section on Anycubic's Makeronline platform goes live on 17 November 2026; the scope and duration of the exclusivity were not disclosed.",
+   "so_what": "The open STL commons is what made school makerspaces cheap to run and printer-agnostic, so re-cutting it into vendor-tuned 3MF inside a hardware-specific portal means a department's printer purchase silently decides which models actually print well. That is lock-in arriving disguised as a convenience feature on the procurement form.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "VoxelMatters",
+   "source_url": "https://www.voxelmatters.com/anycubic-opens-thingiverses-model-library-to-its-printer-users/",
+   "source_date": "2026-10-26",
+   "source_type": "news",
+   "first_seen": "2026-11-12",
+   "sightings": 1
+  },
+  {
+   "id": "fcc-part-100-ten-centimetre-line-under-student-satellites",
+   "title": "FCC rewrites space licensing and a 10 cm line lands under student satellites",
+   "type": "driver",
+   "summary": "The FCC's Space Modernization FNPRM (SB Docket 25-306, FCC 26-47) was published in the Federal Register on 26 October 2026 at 91 FR 67225-67239, creating a new 47 CFR part 100 and proposing an experimental subpart J processed by the Space Bureau, under which space experimental applications would no longer be placed on public notice, saving an estimated $66,000 a year in staff review. It also proposes a presumption at section 100.261(a) that MEO and GEO satellites at least 1 metre in their smallest dimension are trackable, while the existing NGSO threshold stays at 10 cm — exactly the edge length of a 1U CubeSat. Comments close 25 November 2026, replies 28 December 2026.",
+   "so_what": "School and university CubeSat programmes almost all fly 1U-class craft on two-year experimental licences, so a rulemaking that strips public notice from those applications and pins trackability at the 1U dimension will quietly settle whether student spaceflight remains a viable curriculum pathway. It is being decided inside a comment window essentially no education body is watching.",
+   "likelihood": "plausible",
+   "episteme": [
+    "P-Political",
+    "T-Technological",
+    "E-Educational",
+    "I-Environmental"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Federal Register (FCC)",
+   "source_url": "https://www.federalregister.gov/documents/2026/10/26/2026-21818/space-modernization-for-the-21st-century",
+   "source_date": "2026-10-26",
+   "source_type": "policy",
+   "first_seen": "2026-11-12",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -13788,11 +14214,13 @@
     "employers-discount-graduates-when-ai-is-framed-as-substitute",
     "productive-friction-raises-recall-lowers-satisfaction",
     "ai-literacy-tracks-overconfidence-not-accuracy",
-    "skill-threshold-makes-unaided-work-self-sustaining"
+    "skill-threshold-makes-unaided-work-self-sustaining",
+    "human-deference-index-trust-calibration-collapse",
+    "pisa-2025-keystroke-level-ai-provenance"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. Two preprints landed on the same day and pull in the same direction as pole C. A KIT/IBM model of AI-assisted work in which skill evolves with practice finds novices trapped at low skill and experts deskilling even while assisted output accuracy holds — but also finds a skill threshold past which rewarding correct independent work becomes self-sustaining, so the incentive can be withdrawn, and a higher independent-work standard can cost less over time than a softer one. That reframes AI-free assessment as a subsidy with an exit condition rather than a permanent regime. Separately, a 973-person UC Davis study found self-rated AI literacy and AI usage positively associated with overconfidence about synthetic video while accuracy sat at 62.5%, near chance — a direct challenge to the assumption that exposure calibrates judgement. The uncertainty does not move; the second watch indicator sharpens, because both papers locate the active variable in the architecture of the interaction rather than in how much AI a student touches."
+   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. A within-subjects study (arXiv:2610.31579) gives the second watch indicator its cleanest test yet and pushes against the assumption underneath most school AI policy. Thirty-two learners studied science from assistants seeded with 0 to 100 per cent plausible falsehoods: scores fell from 7.4 to 2.9 out of ten, planted falsehoods were adopted about 65 per cent of the time at every corruption level, absorbed falsehoods were rated 8.4/10 for confidence, and confidence-accuracy discrimination collapsed from AUROC 0.70 to chance. Post-task trust ratings barely moved across a tenfold swing in accuracy, and learners returned to the chat more often when it was less accurate. Taken with the UC Davis overconfidence result noted on 28 October, the pattern is consistent: exposure does not calibrate judgement, and the variable that matters sits in the architecture of the interaction rather than in the student's disposition toward it alone. Pole C survives but narrows — the disposition that distinguishes students has to be exercised somewhere other than in felt trust, because felt trust is flat."
   },
   {
    "id": "cu-evidence",
@@ -13807,7 +14235,8 @@
     "Whether the accommodation case for display glasses forces a formal rule before the integrity case does",
     "Whether teacher judgment gets rehabilitated as a measurement instrument, with moderation and inter-rater checks, rather than treated as bias to be engineered out",
     "What a selective college puts in place of a retired measure — whether UNC's dropped essay-quality score is replaced by another vendor product, by supervised or observed artefacts, or by nothing at all",
-    "Whether any school follows a retirement with a public statement of what it can no longer claim to know about its students"
+    "Whether any school follows a retirement with a public statement of what it can no longer claim to know about its students",
+    "Where process and provenance data — keystroke, clipboard and model-call logs — ends up being held, and whether a school can obtain, refuse or be compelled to produce it for its own students"
    ],
    "signals": [
     "ppra-opt-in-consent-upends-school-wellbeing-screening",
@@ -13926,11 +14355,16 @@
     "credit-hour-priced-in-lost-leisure",
     "benchmark-scorers-swing-accuracy-22-points",
     "state-k12-ai-guidance-is-one-nonprofits-document",
-    "ai-literacy-tracks-overconfidence-not-accuracy"
+    "ai-literacy-tracks-overconfidence-not-accuracy",
+    "pisa-2025-keystroke-level-ai-provenance",
+    "human-deference-index-trust-calibration-collapse",
+    "tutoring-centers-buy-college-access-not-test-scores",
+    "performance-pay-keeps-teachers-in-the-district-not-the-school",
+    "sweden-60000-teacher-inclusion-training-nulls-out"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-10-26",
-   "status_note": "Carried forward; poles and watch indicators stand, and no indicator fired. One finding bears on the legitimacy of the instruments rather than their validity. A University of Washington citation map of K-12 AI guidance from 35 states plus Puerto Rico found near-identical coverage — data privacy, academic integrity and algorithmic bias each at 97% — with priorities tracking neither demographics nor capacity nor partisanship, and shared citations running back to TeachAI and Code.org, some states reproducing the model guidance nearly verbatim. Five states list students as contributors; none lists parents. A head citing what most states say is therefore citing one advocacy nonprofit several times over. The epistemic problem widens: it is not only that a school cannot verify its measures, it is that the policy consensus it defers to is not independent either."
+   "last_revised": "2026-11-12",
+   "status_note": "Revised. Not because the poles moved, but because an instrument appeared on pole A's side for the first time since this uncertainty was written, and it is not held by schools. An IPN Kiel preprint of 9 November reconstructs the origin of every character of German 15-year-olds' PISA 2025 English essays from keystroke, clipboard and chat logs — ground truth on voluntary, partial AI use rather than researcher-prompted fakes. The detector findings are secondary (a single student-style rewriting prompt cut feature-based AI recall from 0.92 to 0.60, and embedding detection fell to 0.59 at sentence level); the structural fact is that an international assessment now possesses process provenance for individual children's writing. That is precisely the capability this uncertainty said was missing: the ability to establish the conditions under which an observation was made. It arrives inside an assessment consortium, not a school, and schools have no governance language for process data. Two Texas findings published the same week sharpen the other edge. Commercial tutoring exposure across five million students moves college admission exam scores, college quality and early earnings while leaving state test scores and graduation untouched — so the measures a school reports are blind to the mechanism doing the sorting. And the Teacher Incentive Allotment raises district retention 0.95 points with no detectable campus-level change, meaning a district dashboard registers what the policy moved rather than what children experienced. A fourth watch indicator is added to track where process data lands."
   },
   {
    "id": "cu-credential",
@@ -14050,11 +14484,15 @@
     "writer-model-mismatch-filters-qualified-applicants",
     "dol-rescinds-apprenticeship-equal-opportunity-rule",
     "magnetic-footed-robots-take-the-confined-space-welding-premium",
-    "teen-mental-health-now-predicts-neet-for-gen-z"
+    "teen-mental-health-now-predicts-neet-for-gen-z",
+    "korea-experienced-hire-bar-climbs-to-six-years",
+    "dutch-internship-supply-collapse-office-sectors",
+    "tutoring-centers-buy-college-access-not-test-scores",
+    "generative-3d-studio-absorbed-by-saas-rollup"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-11-05",
-   "status_note": "Carried forward unrevised two days after revision; poles and watch indicators stand. Two items extend the mechanism named on 5 November without changing the framing. The Department of Labor's final rule of 6 November (29 CFR part 30, effective 5 January 2027) strips apprenticeship-specific equal-opportunity machinery — utilisation analyses, numerical goals, EEO officers, outreach duties, recordkeeping, the complaint form — from 26,628 programmes serving over 700,000 apprentices. Repricing therefore arrives alongside the deliberate switching-off of the data series that would let a school prove its alternative pathway reaches anyone. Separately, Diden Robotics' magnetic-footed welding robots, in production from December, automate the confined-space and overhead work that carries the trades wage premium first — which would let an apprenticeship pathway survive as a job title while losing the earnings case schools sell it on. Both argue the alternative pathway is thinning at the same moment it is being promoted."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand, and no indicator fired. Two items extend the repricing mechanism without changing the framing. Incruit's analysis of Korean experienced-hire postings puts the average minimum experience demanded at 5.92 years, up from 4.67 in Q3 2024, with postings seeking one to three years down 12.7 points to 35.3 per cent and those seeking five-plus up 15.5 points to 58.5 per cent — the first rung described by the firm doing the counting as structurally, not cyclically, higher. In the Netherlands, internship postings have fallen more than a third since early 2023 and sit 19 per cent below February 2020, with the collapse concentrated in office-track fields (arts and entertainment down 57 per cent, media down 55 per cent, marketing down 51 per cent) while nursing rose 290 per cent and construction 67 per cent; nearly 5,000 vocational students were still seeking placements in May 2026. Both describe the same thing from opposite ends: the experience that now substitutes for the credential is becoming harder to obtain at exactly the moment it is becoming the thing employers price. That is the pole-B mechanism operating one layer below the credential itself."
   },
   {
    "id": "cu-liability",
@@ -14158,11 +14596,14 @@
     "zolgensma-nine-tumour-cases-vector-integration",
     "mhra-casgevy-extended-to-age-five",
     "state-k12-ai-guidance-is-one-nonprofits-document",
-    "dol-rescinds-apprenticeship-equal-opportunity-rule"
+    "dol-rescinds-apprenticeship-equal-opportunity-rule",
+    "pediatric-hybrid-bci-vr-wheelchair-attrition",
+    "orexin-blocker-breakthrough-for-child-insomnia",
+    "green-school-certification-as-climate-diplomacy"
    ],
    "first_identified": "2026-09-02",
    "last_revised": "2026-10-14",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand. The recurring mechanism — a duty arriving from outside the building about something the school never measured — appeared twice this cycle in health, not safeguarding. Novartis confirmed nine tumours among roughly 6,000 children dosed with Zolgensma, with AAV vector apparently integrated into the patient's own DNA in two cases; that cohort is now primary-school-aged, so the pharmacovigilance signal will surface first in nurse logs and absence patterns, against a file that records the child as cured. In the other direction, the MHRA extended Casgevy to children aged five with NHS reimbursement attached, producing pupils who received a permanent genomic edit at an age at which they could not consent. Neither has a school policy waiting for it, and both put the school in possession of information it did not ask for and cannot interpret — which is the shape this uncertainty says precedes a duty."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand. The characteristic shape — a duty arriving from outside the building about something the school never measured — recurred twice, again in health rather than safeguarding. A Bologna and Padua feasibility study of brain-computer interface wheelchair control in six children with severe neuromotor disabilities reports mean online accuracy of 0.67, roughly 27 per cent of trials producing no command at all, and two of six children withdrawn after the third session because stable control never emerged; paediatric BCI will reach special education as assistive mobility with an honest failure rate and no policy for what is owed to the child it fails. Separately, the FDA granted breakthrough designation on 4 November to daridorexant for insomnia in 10- to 17-year-olds, a group with no approved drug, on a 165-child trial showing 50 extra minutes of sleep overall and 64 in neurodevelopmental cases. If adolescent sleep becomes prescribable, the pressure behind later start times deflates and the school's scheduling decision quietly becomes a medical one it did not make. Neither has a policy waiting for it."
   },
   {
    "id": "cu-boundary",
@@ -14246,11 +14687,13 @@
     "classroom-air-rna-surveillance-twinair",
     "gangnam-school-kitchen-cobots-cut-fume-exposure",
     "unc-retires-ai-essay-score-as-applicant-ai-flattens-it",
-    "ar-glasses-ship-through-the-optician-channel"
+    "ar-glasses-ship-through-the-optician-channel",
+    "openxr-spatial-containers-ratified",
+    "pediatric-hybrid-bci-vr-wheelchair-attrition"
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-11-07",
-   "status_note": "Revised. For twenty-three days this was the quietest of the five, and the revision note said it was the one most likely to resolve abruptly. It has started to, through a channel the watch list did not name: distribution. Warby Parker — an optical retailer, not an electronics brand — opens pre-orders for Android XR glasses on 12 November, Gentle Monster's collection ships in December, and Google and Samsung are branding the category Intelligent Eyewear rather than smart glasses. Once display-and-camera hardware is dispensed by the shop that fills a prescription, the enforcement handle disappears before any accommodation claim is filed: staff can confiscate a phone, but not corrective lenses. The axis does not change and the poles stand, but pole B now has a concrete arrival mechanism that is commercial rather than legal, and one watch indicator is added to track it."
+   "status_note": "Carried forward unrevised five days after revision; the distribution mechanism identified on 7 November stands and no new indicator fired. One technical item is worth logging because it changes what a device does rather than how it arrives. Khronos ratified two OpenXR spatial-container extensions on 26 October, letting volumetric content sit in system-managed containers that flip between bounded multitasking and full immersion, with the operating system — not the application — controlling placement and allowing a container to follow the user; Google committed to Android XR support, Meta did not. Once a headset runs several volumetric apps at once under OS control, the unit a school could plausibly supervise stops being the application and becomes the platform, which no school procures. Re-confirmed otherwise; no evidence either way on the accommodation question in eight days."
   }
  ],
  "verification": {
@@ -14260,6 +14703,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-12-shown-work",
+   "date": "2026-11-12",
+   "title": "Shown Work",
+   "year": 2033,
+   "axis": "What a school can finally verify, crossed with what AI turns out to multiply",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence rebuilt — the school narrows to a small number of instruments it directly controls and can verify: work produced in the room, observed performance, longitudinal teacher judgment held to inter-rater standards."
+    },
+    {
+     "id": "cu-ai-capability",
+     "title": "Does routine AI use build human capability or quietly dissolve it?",
+     "pole": "Conditional amplification — AI multiplies the disposition a student already has; those who interrogate a wrong answer pull away, those who click past it gain nothing."
+    }
+   ],
+   "premise": "By 2033 process provenance is ordinary. The writing and problem-solving environments schools license record keystrokes, clipboard events and model calls, and an origination record travels with every submitted piece of work; the regional accreditor added instrument-validation questions to its 2031 protocol and the record is how schools answer them. Mount Vernon narrowed to three instruments it can defend — work produced inside a logged environment, observed performance, and moderated teacher judgment with termly inter-rater checks — and retired four it could not. The ambiguity about who wrote what is gone, and nobody misses it. What the record also shows, which no one designed it to show, is that seven years of ambient AI did not lift the cohort or sink it. It split it, along what a student does in the sixty seconds after a wrong answer, and that behaviour is now visible, scored and in the file.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Naomi Okafor",
+     "vignette": "Tuesday, fourth period, the amber dot live in the corner of her editor. Naomi is writing the discussion section for the buffer lab, and she already knows how it will read in her Process Profile: challenge rate, revision depth, the time between the model's answer and her next keystroke. Her advisor calls it productive friction. Naomi calls it the dot. So she writes the paragraph she means, deletes it, and writes a worse one first, then argues it down — because a straight line from prompt to good paragraph scores flat, and she has learned that the record rewards visible struggle, whether or not she had any."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dev Raman",
+     "vignette": "Wednesday, free block, ninety-four process profiles open in a window he did not ask for. Eleven years in chemistry and Dev no longer spends Sundays guessing who wrote what, which he admits is a gift. The trouble is that he now reads the process before the prose. Marcus turned in a thin discussion with seven logged challenges to the model; Elena turned in a clean one with a flat record. He gave them the same grade and different conversations, and at Thursday's moderation he will be asked to justify that to three colleagues. He is not sure he can, and he is less sure he should have to."
+    },
+    {
+     "role": "Parent",
+     "name": "Celeste Boateng",
+     "vignette": "Thursday, 9:40pm, fifty-four thousand dollars a year and the portal has given her a graph. Not a grade — a line labelled epistemic persistence, Toby's, sloping gently down since August. Celeste reads the methodology note twice. It is the most carefully built number the school has ever sent her, which is precisely what she cannot get past: she has no grounds to dispute it and no idea what to do with it. Toby is efficient. He has always been efficient. She starts an email asking whether the line follows him to admissions, and stops halfway through, because she suspects she knows."
+    },
+    {
+     "role": "Administrator",
+     "name": "Priya Shah",
+     "vignette": "Friday, 7:10am, four things on the desk. The accreditor arrives in March and will ask how she validates her instruments; for the first time in her career she can answer. A selective university's admissions office has written asking about aggregate process data, carefully, through a dean. Two families want their children's records deleted and the contract does not say whether they can. And the renewal sits at thirty-eight dollars a student. What Priya has not said in a meeting is the fifth thing: the quartile gap has widened every year since installation, and the variable it tracks is one the faculty, off the record, call character."
+    }
+   ],
+   "tension": "Mount Vernon asked for the power to know what was true about its students, built it honestly, and got it — then found that the measurable difference ambient AI makes is not in what students produce but in who they are when they are wrong. An instrument designed to settle authorship now scores a disposition, in a record more permanent, more granular and more legible than any grade has ever been. The school cannot un-see it without returning to measures it has publicly retired as invalid, and it cannot act on it without conceding that what it now sorts by sits closer to temperament than to learning. Worse, the disposition is coachable, and coaching is invisible to the record — which sees only the keystrokes coaching produces, so a tutored performance of struggle and the real thing are the same data. The trade Mount Vernon actually made was an unverifiable measure of work for a verifiable measure of character, and no one in the building ever voted on it.",
+   "provocations": [
+    "The process record can distinguish the student who interrogates a wrong answer from the one who accepts it. Does that belong on a transcript, in an advisory conversation, or nowhere — and who at Mount Vernon has the standing to decide?",
+    "The instrument is the most defensible the school has ever held and it measures something close to temperament. Which do you give up: the defensibility, or the claim that you assess learning rather than character?",
+    "If the variable AI multiplies is coachable and the coaching is invisible to the record, what stops a $54,000 school from selling the coaching and then certifying the result as evidence?"
+   ]
+  },
   {
    "id": "sc-2026-11-07-corrected-vision",
    "date": "2026-11-07",
