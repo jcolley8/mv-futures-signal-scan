@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-11-12",
- "scan_count": 46,
+ "last_updated": "2026-11-16",
+ "scan_count": 47,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -14128,6 +14128,272 @@
    "source_type": "policy",
    "first_seen": "2026-11-12",
    "sightings": 1
+  },
+  {
+   "id": "copay-ban-is-the-choice-program-dealbreaker",
+   "title": "Copay bans, not accountability rules, are what keep private schools out of choice programs",
+   "type": "signal",
+   "summary": "A randomised-vignette survey of private school leaders (EdWorkingPaper 26-1645; Lee, Scafidi, Tutterow and Kavanagh) finds 43-55% would join a $6,000 scholarship programme with no strings attached. Hiring rules cut willingness by 8-14 points, admissions rules by 8-12 and testing mandates by 7-11 - but a copay prohibition forcing schools to accept the scholarship as full tuition cut it by 19-20 points. Each additional $1,000 of scholarship value moves participation only about one point.",
+   "so_what": "The binding constraint on private-school supply in voucher and ESA states is the tuition-topping rule, not ideology or testing, and money barely compensates - a state could add $19,000 and not offset a copay ban. Independent schools weighing public funds should negotiate copay terms first and treat accountability clauses as the cheaper concession.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Annenberg Institute, EdWorkingPapers",
+   "source_url": "https://edworkingpapers.com/ai26-1645",
+   "source_date": "2026-11-12",
+   "source_type": "study",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "teacher-prep-leaves-ai-to-individual-instructors",
+   "title": "Teacher preparation has delegated AI to whoever happens to teach the course",
+   "type": "signal",
+   "summary": "An EdWeek Research Center survey of 268 teacher educators, fielded August-September 2026 and published 16 November, finds most programmes have no stand-alone AI course and 60% leave it to individual instructors to decide whether AI appears at all. About a third say faculty actively do not support AI preparation, nearly a quarter say prospective teachers do not want it, and a third cite accreditation requirements and competing priorities. Only 14% of faculty report ongoing AI professional development; about a third have had none.",
+   "so_what": "The teachers a school hires in 2028 will have AI competence set by instructor lottery rather than programme design, so initial certification stops being evidence of baseline fluency and induction has to carry it. The quarter of candidates who actively refuse the preparation means resistance is entering the pipeline, not only the staffroom.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Education Week",
+   "source_url": "https://www.edweek.org/teaching-learning/ai-raises-big-questions-for-the-future-of-teacher-education/2026/11",
+   "source_date": "2026-11-16",
+   "source_type": "news",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "scale-k12-causal-evidence-base-still-thin",
+   "title": "Causal evidence on AI in K-12 more than doubled and still barely touches US schools",
+   "type": "trend",
+   "summary": "Stanford's SCALE Initiative screened 868 newly added papers, taking its repository from 818 to 1,686, identified 201 RCTs or quasi-experiments, sent 97 to human review and judged only 32 strong enough to count - moving the causal literature on generative AI in education from 20 studies to 52. Five of the new student studies ran in US K-12 settings, up from zero. Effects are small and mixed: +0.258 SD for Gemini Guided Learning in a Sierra Leone maths trial, +0.15 SD on unassisted certification scores in a Taiwanese programming study, and a Turkiye teacher-tool study of 193 teachers and 2,816 students that found lower student motivation and confidence with no change in exam scores.",
+   "so_what": "There are now enough causal studies to be quoted in a procurement deck and not enough to generalise from, so a vendor's research-backed claim and a school's actual evidence base remain different objects. The useful question shifts from whether evidence exists to which of the 52 studies resembles your students.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "P-Political"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "Stanford SCALE Initiative, Graduate School of Education",
+   "source_url": "https://scale.stanford.edu/ai/evidence-base-review/evidence-base-ai-k12-november-review",
+   "source_date": "2026-11-10",
+   "source_type": "report",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "felt-uplift-twelve-x-measured-uplift-two-x",
+   "title": "Independent audit measures AI speedup at 1.9x while insiders self-report 12x",
+   "type": "signal",
+   "summary": "METR spent eleven weeks and 2.5 FTE inside Anthropic measuring how much AI accelerates its own R&D, estimating roughly 1.9x acceleration in capability progress (95% CI 1.5-2.8; robustness range 1.1x-2.9x) and attributing about 80% of that to AI. Over the same period Anthropic staff polls put self-reported uplift at about 12x, up from about 1.2x in January 2025 - an exponential self-report fit of 3.9x per year against a measured ratio six times smaller. Interviewed staff split 2 yes, 3 leans yes, 4 unclear, 2 no on whether acceleration exceeds 2x, and Anthropic redacted much of the evidence METR found most informative.",
+   "so_what": "Among the most AI-literate workforce on earth, felt benefit runs roughly six times measured benefit, which makes teacher and student self-reports close to worthless as evaluation evidence. Any school AI pilot reporting satisfaction rather than an unassisted outcome measure is reproducing the 12x number.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "METR",
+   "source_url": "https://metr.org/blog/2026-11-05-anthropic-ai-rd-acceleration-assessment/",
+   "source_date": "2026-11-05",
+   "source_type": "report",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "generated-teaching-materials-78-percent-more-alike",
+   "title": "LLM-written maths items and feedback are measurably narrower than teachers'",
+   "type": "signal",
+   "summary": "Stanford researchers compared frontier and open-weight model output against human-authored reference distributions for two teaching tasks - generating maths items and writing essay feedback - using lexical, semantic and domain-grounded measures of the instructional moves actually requested. Directly prompted models showed 78% higher lexical similarity (Self-BLEU) and 51% higher semantic similarity than human-authored content, covering a narrower range of mathematical activities and revision strategies. Diversity prompting and post-training raised variation mainly through surface features rather than widening the instructional repertoire.",
+   "so_what": "The homogenisation risk is not that generated materials are bad but that they converge on the most normative routines of teaching, so a department standardising on generated item banks quietly narrows what its students are ever asked to do. Measuring the spread of task types in a generated set, not only its quality, becomes a curriculum QA step.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Tan, Nam, Subramonyam, Demszky - Stanford)",
+   "source_url": "https://arxiv.org/abs/2611.14828",
+   "source_date": "2026-11-10",
+   "source_type": "study",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "adhd-accommodations-trial-extended-time-backfires",
+   "title": "Randomised trial finds classroom ADHD accommodations do nothing, and extended time made work slower",
+   "type": "signal",
+   "summary": "A crossover RCT in JAMA Pediatrics (13 November 2026, NCT05469386) randomised 255 K-6 children with ADHD daily across four standard accommodations - extended time, frequent breaks, standing at desk, low-distraction workspace - crossed with weekly methylphenidate-versus-placebo and fortnightly behaviour-management conditions; 235 (84%) completed. No accommodation significantly improved rule violations or quiz scores, and extended time significantly reduced seatwork productivity (RR 0.89). Medication raised productivity 22% (RR 1.22, 95% CI 1.19-1.25), cut seatwork rule violations 61% (RR 0.39) and added 3.9 quiz points; the enhanced behaviour classroom cut violations 37% (RR 0.63).",
+   "so_what": "The accommodations that dominate IEP and 504 paperwork - the part a school fully controls, documents and audits - are the only arm with no measurable benefit, while the two effective levers sit with prescribers and with classroom behaviour systems. Learning-support teams may discover that their compliance work and their effectiveness work are two different activities.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "JAMA Pediatrics",
+   "source_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856649",
+   "source_date": "2026-11-13",
+   "source_type": "journal",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "three-quarters-of-parents-reject-ai-led-child-therapy",
+   "title": "76% of US parents are uncomfortable with AI-led behavioural therapy for their child",
+   "type": "signal",
+   "summary": "A JAMA Pediatrics research letter published online 2 November 2026 surveyed 572 US parents of children aged 5-17, weighted to Census targets: 47.2% were not comfortable at all and 28.8% not too comfortable with AI-led behavioural therapy for their child, against 7.8% very comfortable. Parents were markedly warmer about AI therapy for themselves (34.4% comfortable), and the strongest predictor of comfort for a child was personal comfort (aOR 20.94, 95% CI 9.78-44.86). Decision criteria ranked diagnostic accuracy (58.5%) and empathy (49.4%) above cost (32.8%) and wait time (29.5%).",
+   "so_what": "The standard justification for AI mental-health tools - access, cost, waitlists - is exactly what parents weight least, so a school deploying an AI wellbeing chatbot cannot win consent on capacity grounds. The for-me-but-not-my-child gap means staff-facing and student-facing AI support need entirely separate consent conversations.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "JAMA Pediatrics",
+   "source_url": "https://jamanetwork.com/journals/jamapediatrics/fullarticle/2856091",
+   "source_date": "2026-11-02",
+   "source_type": "journal",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "single-informant-diagnoses-abcd-psychiatry",
+   "title": "In 65-98% of youth psychiatric diagnoses, only one informant reports it",
+   "type": "signal",
+   "summary": "A JAMA Psychiatry study released 11 November 2026 analysed 11,868 youth aged 9-17 and their caregivers in the ABCD cohort and found that where a diagnosis was reported at all, it came from only one of the two informants in roughly 65% to 98% of cases, varying by diagnosis and developmental stage. The authors conclude that neither youth self-report nor caregiver report can substitute for the other, and that discrepancy is the norm rather than measurement error to be averaged away.",
+   "so_what": "Universal wellbeing screening in schools almost always runs on a single informant, usually the student, which implies it silently misses most of the caseload rather than a tolerable margin. A school mental-health dashboard may be reporting an artefact of who was asked rather than a picture of the cohort.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "EurekAlert (AAAS)",
+   "source_url": "https://www.eurekalert.org/news-releases/1151371",
+   "source_date": "2026-11-11",
+   "source_type": "study",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "census-pacific-territories-fertility-halves-and-empties",
+   "title": "US island territories post the fastest demographic collapse under the American flag",
+   "type": "signal",
+   "summary": "A Census Bureau International Database update released 5 November 2026 (tip sheet CB26-TPS.64) shows American Samoa's total fertility rate falling from 4.0 in 2000 to 2.1 in 2026, and the Northern Mariana Islands' from 3.3 to 2.0 in roughly a decade. Net migration in 2026 runs from -4.8 per 1,000 in Guam to -25.1 per 1,000 in American Samoa, and projections to 2100 imply population losses of about 61% for American Samoa, 41% for the US Virgin Islands, 38% for Guam and 17% for the Northern Marianas.",
+   "so_what": "These are US-flag school systems that will shrink faster than any state while their departing families land in mainland districts, so the enrolment story is relocation rather than loss - receiving schools in Hawaii, the Pacific Northwest and the US South inherit Pacific Islander cohorts whose language, kinship and attendance patterns no state projection model currently anticipates.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Demographics & Migration",
+   "source_name": "U.S. Census Bureau",
+   "source_url": "https://www.census.gov/newsroom/press-releases/2026/new-international-popest-and-popproj.html",
+   "source_date": "2026-11-05",
+   "source_type": "data",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "cotality-peril-risk-starts-eating-home-values",
+   "title": "Insurance non-renewal is now showing up in house prices, county by county",
+   "type": "trend",
+   "summary": "Cotality's Weather Rewrites Home Value analysis, reported 16 November 2026, ties peril exposure directly to price movement: Dare County, North Carolina saw 13% of property policies non-renewed in 2023 and home values fall roughly 10%, with price growth negative by 2025; Lake County, California hit a 7.6% non-renewal rate; nearly a quarter of homeowners in Winkler, Texas were dropped. Naples price growth fell 8.3%, Kiowa County, Oklahoma faces a projected $1.4m in additional annual storm losses by 2040, and about 9.5 million homes sit in counties where severe-storm risk is projected to jump by 2040.",
+   "so_what": "School funding in most of the US rests on assessed property value, so an insurance market withdrawal becomes a school budget event two or three years later without any storm striking the building. Districts in exposed counties should stress-test their levy base against non-renewal rates rather than against hazard maps.",
+   "likelihood": "actual",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Claims Journal",
+   "source_url": "https://www.claimsjournal.com/news/national/2026/11/16/341299.htm",
+   "source_date": "2026-11-16",
+   "source_type": "news",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "organoid-computing-pass-fail-benchmark",
+   "title": "Living brain tissue gets a pass/fail compute benchmark",
+   "type": "signal",
+   "summary": "A four-institution team (Indiana University, Harvard/Brigham, UCLA, Cincinnati Children's) published a hierarchical benchmarking framework for organoid computing in Bioactive Materials on 6 November 2026, scoring cultured human cortical organoids across biological QC, organoid-machine interface, resting-state network function and stimulation-evoked computation, with a pass threshold of roughly 50 per tier. Evidence spans 12 organoid-microelectrode-array preparations for interface, 24 for resting state (five-minute recordings at 12.5 kHz) and 10 for stimulation; a left/right spatial-pattern task hit 100% and 96% single-trial accuracy. The authors propose 15-18 preparations across at least three batches and 30 valid trials per class as the qualification minimum.",
+   "so_what": "Benchmarks are how a curiosity becomes an industry: once living neurons are graded like silicon, the biology-versus-computing boundary that school timetables are built on stops holding. The ethics question students will face is not whether machines can think but what is owed to the tissue that computes.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 3,
+   "timeline": "7-10",
+   "sector": "Biotechnology",
+   "source_name": "Bioactive Materials (via PubMed Central)",
+   "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13769064",
+   "source_date": "2026-11-06",
+   "source_type": "journal",
+   "first_seen": "2026-11-16",
+   "sightings": 1
+  },
+  {
+   "id": "robot-orders-pivot-cleanroom-not-carplant",
+   "title": "Robot buying pivots from the car plant to the cleanroom",
+   "type": "trend",
+   "summary": "A3 data reported on 2 November 2026 shows North American companies ordered 10,989 robots worth $723.5 million in Q3 2026, up 24.8% in units and 26.1% in value year over year, with 28,984 units worth about $1.89 billion in the first nine months. The growth is lopsided: semiconductor, electronics and photonics orders rose 97.6%, plastics and rubber 67.7%, life sciences and biomed 38.7% and metals 37%, while automotive OEM managed only 7.5% and food and consumer goods fell 23.7%.",
+   "so_what": "CTE and robotics programmes modelled on automotive weld cells are training for the slowest-growing segment, while hiring moves to cleanroom electronics and lab automation, which reward contamination discipline, metrology and protocol literacy over heavy fabrication. The school makerspace aesthetic and the actual job market have quietly diverged.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "T-Technological",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Robotics & Fabrication",
+   "source_name": "Robotics & Automation News",
+   "source_url": "https://roboticsandautomationnews.com/2026/11/02/north-american-robot-orders-increase-25-percent-in-third-quarter-of-2026/106606/",
+   "source_date": "2026-11-02",
+   "source_type": "data",
+   "first_seen": "2026-11-16",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -14147,6 +14413,9 @@
     "Longitudinal data on whether AI-native cohorts underperform on unaided tasks at 3+ years"
    ],
    "signals": [
+    "generated-teaching-materials-78-percent-more-alike",
+    "scale-k12-causal-evidence-base-still-thin",
+    "felt-uplift-twelve-x-measured-uplift-two-x",
     "ai-help-erodes-persistence",
     "skill-formation-tradeoff-no-speed-gain",
     "clinicians-request-ai-free-practice",
@@ -14220,7 +14489,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. A within-subjects study (arXiv:2610.31579) gives the second watch indicator its cleanest test yet and pushes against the assumption underneath most school AI policy. Thirty-two learners studied science from assistants seeded with 0 to 100 per cent plausible falsehoods: scores fell from 7.4 to 2.9 out of ten, planted falsehoods were adopted about 65 per cent of the time at every corruption level, absorbed falsehoods were rated 8.4/10 for confidence, and confidence-accuracy discrimination collapsed from AUROC 0.70 to chance. Post-task trust ratings barely moved across a tenfold swing in accuracy, and learners returned to the chat more often when it was less accurate. Taken with the UC Davis overconfidence result noted on 28 October, the pattern is consistent: exposure does not calibrate judgement, and the variable that matters sits in the architecture of the interaction rather than in the student's disposition toward it alone. Pole C survives but narrows — the disposition that distinguishes students has to be exercised somewhere other than in felt trust, because felt trust is flat."
+   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand, and no indicator fired. The week's contribution is to the measurement of benefit rather than to the direction of it. METR spent eleven weeks inside Anthropic and put AI acceleration of that company's own R&D at roughly 1.9x (95% CI 1.5-2.8), against a staff self-report of about 12x rising on a 3.9x-per-year curve - a sixfold gap between felt and measured uplift among the most AI-literate workforce available to study. Stanford's SCALE review, screening 868 new papers to add 32 credible causal studies and take the field from 20 to 52, reports effects that are small, mixed and mostly not American or school-aged: +0.258 SD in a Sierra Leone maths trial, +0.15 SD on unassisted scores in Taiwan, and a Turkiye teacher-tool study of 193 teachers and 2,816 students showing lower student motivation with no change in exam scores. A third Stanford paper finds directly prompted models produce maths items and essay feedback 78 per cent more lexically self-similar than human-authored equivalents, narrowing the instructional repertoire rather than the prose. Pole C is untouched, but all three items converge on the same methodological point: the uncertainty will not be resolved by anyone's experience of AI, only by unassisted outcome measurement, and almost nobody is doing that in schools."
   },
   {
    "id": "cu-evidence",
@@ -14239,6 +14508,10 @@
     "Where process and provenance data — keystroke, clipboard and model-call logs — ends up being held, and whether a school can obtain, refuse or be compelled to produce it for its own students"
    ],
    "signals": [
+    "scale-k12-causal-evidence-base-still-thin",
+    "felt-uplift-twelve-x-measured-uplift-two-x",
+    "single-informant-diagnoses-abcd-psychiatry",
+    "adhd-accommodations-trial-extended-time-backfires",
     "ppra-opt-in-consent-upends-school-wellbeing-screening",
     "pew-bogus-respondents-opt-in-polls",
     "indianapolis-unwinds-no-zero-grading-floor",
@@ -14364,7 +14637,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-11-12",
-   "status_note": "Revised. Not because the poles moved, but because an instrument appeared on pole A's side for the first time since this uncertainty was written, and it is not held by schools. An IPN Kiel preprint of 9 November reconstructs the origin of every character of German 15-year-olds' PISA 2025 English essays from keystroke, clipboard and chat logs — ground truth on voluntary, partial AI use rather than researcher-prompted fakes. The detector findings are secondary (a single student-style rewriting prompt cut feature-based AI recall from 0.92 to 0.60, and embedding detection fell to 0.59 at sentence level); the structural fact is that an international assessment now possesses process provenance for individual children's writing. That is precisely the capability this uncertainty said was missing: the ability to establish the conditions under which an observation was made. It arrives inside an assessment consortium, not a school, and schools have no governance language for process data. Two Texas findings published the same week sharpen the other edge. Commercial tutoring exposure across five million students moves college admission exam scores, college quality and early earnings while leaving state test scores and graduation untouched — so the measures a school reports are blind to the mechanism doing the sorting. And the Teacher Incentive Allotment raises district retention 0.95 points with no detectable campus-level change, meaning a district dashboard registers what the policy moved rather than what children experienced. A fourth watch indicator is added to track where process data lands."
+   "status_note": "Carried forward unrevised four days after revision; poles and watch indicators stand and the process-data question logged on 12 November has not moved. Three items this week describe the same failure from inside the school's own instruments rather than outside them. A JAMA Pediatrics crossover RCT randomised 255 K-6 children with ADHD across the four accommodations that dominate IEP and 504 documentation and found none improved quiz scores or rule violations, with extended time significantly reducing seatwork productivity (RR 0.89), while medication raised productivity 22 per cent and the behaviour classroom cut violations 37 per cent - the measure the school most carefully documents is the one with no detectable effect. A JAMA Psychiatry analysis of 11,868 ABCD youth finds that where a psychiatric diagnosis is reported at all, only one of youth and caregiver reports it in roughly 65 to 98 per cent of cases, which means single-informant wellbeing screening misses most of the caseload rather than a margin. And METR's sixfold gap between measured and self-reported AI uplift puts a number on why satisfaction data cannot stand in for outcome data. Re-confirmed; the instruments keep failing in the same direction, which is evidence for the uncertainty rather than movement within it."
   },
   {
    "id": "cu-credential",
@@ -14384,6 +14657,9 @@
     "Whether the July 2027 transfer-credit and competency-documentation rules produce real credit portability in practice, or whether receiving institutions absorb the written-reasons requirement as boilerplate and deny at the same rate"
    ],
    "signals": [
+    "teacher-prep-leaves-ai-to-individual-instructors",
+    "copay-ban-is-the-choice-program-dealbreaker",
+    "robot-orders-pivot-cleanroom-not-carplant",
     "stanford-ai-employment-gap-young-workers",
     "oecd-youth-gap-widening-not-llms",
     "entry-level-collapse-may-be-macro-not-ai",
@@ -14492,7 +14768,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-11-05",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand, and no indicator fired. Two items extend the repricing mechanism without changing the framing. Incruit's analysis of Korean experienced-hire postings puts the average minimum experience demanded at 5.92 years, up from 4.67 in Q3 2024, with postings seeking one to three years down 12.7 points to 35.3 per cent and those seeking five-plus up 15.5 points to 58.5 per cent — the first rung described by the firm doing the counting as structurally, not cyclically, higher. In the Netherlands, internship postings have fallen more than a third since early 2023 and sit 19 per cent below February 2020, with the collapse concentrated in office-track fields (arts and entertainment down 57 per cent, media down 55 per cent, marketing down 51 per cent) while nursing rose 290 per cent and construction 67 per cent; nearly 5,000 vocational students were still seeking placements in May 2026. Both describe the same thing from opposite ends: the experience that now substitutes for the credential is becoming harder to obtain at exactly the moment it is becoming the thing employers price. That is the pole-B mechanism operating one layer below the credential itself."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator fired. One item extends the pole-B mechanism into the part of the pathway schools actually build. A3's Q3 2026 figures show North American robot orders up 24.8 per cent in units, but the growth is concentrated in semiconductor, electronics and photonics (up 97.6 per cent), plastics and rubber (67.7), life sciences and biomed (38.7) and metals (37), while automotive OEM managed 7.5 per cent and food and consumer goods fell 23.7. The CTE and makerspace programmes schools built as the credible alternative pathway are modelled on the weld cell, and the hiring has moved to the cleanroom, where the competences are contamination discipline, metrology and protocol literacy. Separately, an EdWeek survey of 268 teacher educators finds 60 per cent of preparation programmes leave AI to individual instructors, which is a supply-side note on the same question: the credential a school hires on is itself becoming an unreliable signal of what its holder can do."
   },
   {
    "id": "cu-liability",
@@ -14506,9 +14782,14 @@
     "Whether insurers begin pricing pastoral-record retention practice, not just incident history, into education liability premiums",
     "Whether districts or independent schools adopt formal retention schedules that shorten the life of pastoral observations",
     "Whether accessibility review acquires a veto over edtech procurement following the EEOC vendor reasoning",
-    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care"
+    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care",
+    "Whether efficacy evidence - such as the null RCT result on standard ADHD classroom accommodations - enters the legal standard of care for accommodation, or is formally excluded from it on the grounds that the duty attaches to provision rather than to outcome"
    ],
    "signals": [
+    "copay-ban-is-the-choice-program-dealbreaker",
+    "cotality-peril-risk-starts-eating-home-values",
+    "three-quarters-of-parents-reject-ai-led-child-therapy",
+    "adhd-accommodations-trial-extended-time-backfires",
     "ohio-mandated-report-negligence-per-se-institutional",
     "eeoc-pearson-vendor-accessibility-decree",
     "kindergarten-screening-failure-liability",
@@ -14602,8 +14883,8 @@
     "green-school-certification-as-climate-diplomacy"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-14",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand. The characteristic shape — a duty arriving from outside the building about something the school never measured — recurred twice, again in health rather than safeguarding. A Bologna and Padua feasibility study of brain-computer interface wheelchair control in six children with severe neuromotor disabilities reports mean online accuracy of 0.67, roughly 27 per cent of trials producing no command at all, and two of six children withdrawn after the third session because stable control never emerged; paediatric BCI will reach special education as assistive mobility with an honest failure rate and no policy for what is owed to the child it fails. Separately, the FDA granted breakthrough designation on 4 November to daridorexant for insomnia in 10- to 17-year-olds, a group with no approved drug, on a 165-child trial showing 50 extra minutes of sleep overall and 64 in neurodevelopmental cases. If adolescent sleep becomes prescribable, the pressure behind later start times deflates and the school's scheduling decision quietly becomes a medical one it did not make. Neither has a policy waiting for it."
+   "last_revised": "2026-11-16",
+   "status_note": "Revised. The poles hold, but a finding this week put the documented-duty mechanism under a kind of pressure the framing had not anticipated: an accommodation regime shown not to work. A JAMA Pediatrics crossover RCT (13 November, NCT05469386) randomised 255 K-6 children with ADHD across extended time, frequent breaks, standing at desk and low-distraction workspace, crossed with medication and behaviour-management conditions. No accommodation significantly improved rule violations or quiz scores and extended time significantly reduced seatwork productivity (RR 0.89), while medication raised productivity 22 per cent and cut violations 61 per cent. These are the interventions a school is legally obliged to document, audit and deliver, and they are the only arm with no measured benefit. That creates a situation the uncertainty did not contemplate: documented duty and demonstrated efficacy pointing in different directions, with the school bound to the former. A sixth watch indicator is added to track whether efficacy evidence enters the standard of care or is excluded from it. Two further items fit the established shape. Parents reject AI-led behavioural therapy for their children at 76 per cent while being twice as comfortable with it for themselves, so an AI wellbeing deployment carries a consent exposure that capacity arguments cannot discharge. And Cotality's county-level data showing insurance non-renewal depressing home values - Dare County, North Carolina at 13 per cent non-renewal and roughly 10 per cent value decline - describes a duty of financial foresight arriving through an insurance market no school participates in."
   },
   {
    "id": "cu-boundary",
@@ -14621,6 +14902,8 @@
     "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one"
    ],
    "signals": [
+    "organoid-computing-pass-fail-benchmark",
+    "three-quarters-of-parents-reject-ai-led-child-therapy",
     "rayneo-io-499-display-glasses-40-countries",
     "waveguide-ar-glasses-600-percent",
     "smart-glasses-in-schools",
@@ -14693,7 +14976,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-11-07",
-   "status_note": "Carried forward unrevised five days after revision; the distribution mechanism identified on 7 November stands and no new indicator fired. One technical item is worth logging because it changes what a device does rather than how it arrives. Khronos ratified two OpenXR spatial-container extensions on 26 October, letting volumetric content sit in system-managed containers that flip between bounded multitasking and full immersion, with the operating system — not the application — controlling placement and allowing a container to follow the user; Google committed to Android XR support, Meta did not. Once a headset runs several volumetric apps at once under OS control, the unit a school could plausibly supervise stops being the application and becomes the platform, which no school procures. Re-confirmed otherwise; no evidence either way on the accommodation question in eight days."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator fired in nine days. The accommodation question, which is where this uncertainty expects movement, got an oblique data point from the wrong direction. A JAMA Pediatrics survey of 572 US parents finds 76 per cent uncomfortable with AI-led behavioural therapy for their child against 34 per cent comfortable with it for themselves, and ranks diagnostic accuracy and empathy above cost and wait time as decision criteria - meaning the equipped-student frame may be rejected hardest exactly where the equipment is framed as care rather than as capability. Logged for the longer horizon: a four-institution benchmarking framework for organoid computing, published 6 November in Bioactive Materials, grades cultured human cortical tissue on a pass/fail compute scale with proposed qualification minima of 15-18 preparations across three batches. It is nowhere near a school, but it is the first instrument that treats living neural tissue as a rateable computational substrate, which is the far end of the question this uncertainty asks about where the person stops."
   }
  ],
  "verification": {
@@ -14703,6 +14986,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-16-room-of-record",
+   "date": "2026-11-16",
+   "title": "Room of Record",
+   "year": 2034,
+   "axis": "Evidence rebuilt x Liability as governor",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence rebuilt - the school narrows to a small number of instruments it directly controls and can verify: work produced in the room, observed performance, longitudinal teacher judgment held to inter-rater standards. Fewer measures, defended, with known error bars."
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor - documented duty sets the boundary of practice; policy, retention schedules and counsel shape what teachers write down, what schools screen for, and what technology can be adopted."
+    }
+   ],
+   "premise": "By 2034 Mount Vernon has retired most of what it used to count. The vendor wellbeing screener went first, then the essay-quality score, then the climate survey nobody could put error bars on. What remains is small and defensible: work produced in supervised rooms, performance observed against moderated rubrics, and longitudinal teacher judgment held to an inter-rater standard the school publishes each spring. It works. The school knows more about its students than it did a decade ago, and can say how confident it is. It knows more because a 2031 appellate decision extended documented-duty reasoning from mandated reporting to academic placement, so an observation that is not timestamped, moderated and retained is, in the language counsel now uses in faculty meetings, an observation the school never made.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Nadia Oyelaran, 16",
+     "vignette": "Wednesday, Room 214, the moderated studio. Two observers, one rubric, ninety minutes on a bridge-loading problem she half understands. She builds the version she can defend. In her bag is a composition notebook, the kind with the marbled cover, where she works on the problem she actually finds interesting - a cantilever that keeps failing - and she does that on the bus, because the bus is not observed. She is not hiding anything. She has simply worked out, without anyone telling her, that the record is the thing, and that a record is a poor place to be bad at something."
+    },
+    {
+     "role": "Teacher",
+     "name": "Marcus Deel, physics, fourteenth year",
+     "vignette": "He fought for this. Moderation blocks on Thursdays, kappa of 0.81 on the department's rubric, his judgment finally treated as an instrument rather than a bias to be engineered out. What he did not foresee: every observation he enters is retained seven years and discoverable. So when he thinks something is off with Nadia this month - nothing he could name, just the flatness of her work - he says it to Priya Oyelaran in the hallway at pickup and does not write it down. The school's best early signal now travels by mouth, outside the system built to capture it."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya Raghunathan, mother of a seventh grader",
+     "vignette": "The quarterly packet arrives Friday with confidence intervals on every claim, which she appreciates more than she expected to at fifty-four thousand a year. She requested Dev's full observation file in September out of curiosity: three hundred and forty pages, going back to kindergarten. She read eleven of them and stopped. What unsettles her is not the file. It is that Dev, who is twelve, now asks before most activities whether this one counts, and she cannot think of an honest answer that would make him stop asking."
+    },
+    {
+     "role": "Administrator",
+     "name": "Dean Whitfield, Associate Head for Learning",
+     "vignette": "Wednesday afternoon is counsel. A placement dispute, a records request, and the seven-year retention schedule that makes the longitudinal picture possible and the request unanswerable in anything under forty hours. The Middle School head wants retention cut to eighteen months so children can outgrow a bad year. Counsel points out that an eighteen-month memory cannot produce the trend data the accreditor asked for in March. Whitfield has run the numbers twice. There is no schedule that gives him both, and the meeting ends, as it has three times now, with the schedule unchanged by default."
+    }
+   ],
+   "tension": "The school asked for evidence it could defend and got it, and the thing that makes a teacher's judgment trustworthy is the same act that makes a child permanently legible: writing it down, at the moment of observation, under moderation, into a file that outlives the year. Defensibility and formation run on one mechanism in opposite directions. A record good enough to justify a placement is good enough to be subpoenaed, and a child who understands this - as Nadia and Dev both do, without being told - will ration what they attempt in the room and spend their real curiosity where nothing is watching. Nobody voted to abolish the ungraded attempt. It was abolished by a retention schedule, in a meeting that ended early.",
+   "provocations": [
+    "If the school had to choose between an eighteen-month memory that lets a child outgrow a bad year and a seven-year memory that lets the school prove what it knows, which does it owe the family it enrolled - and would it say so out loud in the admissions tour?",
+    "Marcus Deel's most useful observation this month exists only as a sentence in a parking lot. Is an undocumented professional judgment a liability the school must eliminate, or the last unregulated instrument it has - and what would it cost to protect it deliberately?",
+    "What should a student be able to attempt at Mount Vernon with a guarantee that no one will record how it went, and who in the building currently has the authority to make that guarantee stick?"
+   ]
+  },
   {
    "id": "sc-2026-11-12-shown-work",
    "date": "2026-11-12",
