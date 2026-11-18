@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-11-16",
- "scan_count": 47,
+ "last_updated": "2026-11-17",
+ "scan_count": 48,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -1278,7 +1278,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -2127,7 +2127,7 @@
    "source_date": "2026-08-11",
    "source_type": "report",
    "first_seen": "2026-08-27",
-   "sightings": 3,
+   "sightings": 4,
    "revised_on": [
     "2026-09-09"
    ]
@@ -7294,7 +7294,7 @@
    "source_date": "2026-09-08",
    "source_type": "journal article",
    "first_seen": "2026-09-19",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "pineal-size-anxiety-flips-sleep-relationship",
@@ -8989,7 +8989,7 @@
    "source_date": "2026-09-23",
    "source_type": "study",
    "first_seen": "2026-09-25",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "prenatal-chemical-exposure-and-infant-attention",
@@ -12288,7 +12288,7 @@
    "source_date": "2026-10-12",
    "source_type": "news",
    "first_seen": "2026-10-26",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "llms-know-the-belief-but-miss-the-behaviour",
@@ -13337,7 +13337,7 @@
    "source_date": "2026-11-03",
    "source_type": "news",
    "first_seen": "2026-11-05",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "uk-keeps-stranger-matchmaking-kills-stranger-chat",
@@ -14394,6 +14394,367 @@
    "source_type": "data",
    "first_seen": "2026-11-16",
    "sightings": 1
+  },
+  {
+   "id": "opt-workers-outpace-new-international-students",
+   "title": "Post-study work authorisation becomes the growth segment of US international education",
+   "type": "signal",
+   "summary": "IIE's Open Doors release on 16 November 2026 shows 1,146,163 international students in the US, down only 3% — but the composition inverted beneath that headline. First-time enrolment fell 18% to 228,123 and graduate enrolment fell 13%, driven by a 22% collapse in master's students, while OPT participation rose 14% to 335,785. Roughly 29% of the 'international student' population are now post-graduation workers rather than enrolled learners.",
+   "so_what": "The US degree is being repriced as a work-permit option rather than an educational product, so college counselling that sells 'a US education' is now selling an immigration instrument whose value tracks visa policy, not institutional quality — and its cheapest entry point, the taught master's, is the part failing fastest.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "P-Political",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Institute of International Education, Open Doors",
+   "source_url": "https://opendoorsdata.org/annual-release/international-students/",
+   "source_date": "2026-11-16",
+   "source_type": "data",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "idaho-choice-credit-pays-families-already-private",
+   "title": "First-year agency data shows a choice tax credit funded families already outside public school",
+   "type": "signal",
+   "summary": "The Idaho State Tax Commission's Parental Choice Tax Credit report, released 13 November 2026, covers 6,875 parents and 12,216 students in the programme's first year. About 74.7% of students had not previously attended public school and only 4.3% attended public school for the entire prior year; recipient parents averaged $178,000 in adjusted gross income against an Idaho median household income of $84,234, and five schools captured roughly $10.9m — about 22% of awards — with over 93.5% of funds going to private tuition.",
+   "so_what": "This is agency administrative data rather than advocacy modelling, which gives legislatures a concrete lever: prior-public-enrolment tests, income caps or per-school caps that would make independent-school eligibility contingent on recruiting switchers rather than serving the families already enrolled.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "East Idaho News (reporting Idaho State Tax Commission)",
+   "source_url": "https://www.eastidahonews.com/2026/11/idaho-parents-who-got-school-choice-tax-credit-earned-average-of-178000-per-year-report-shows/",
+   "source_date": "2026-11-13",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "public-districts-start-buying-students",
+   "title": "A large public district adopts private-school enrolment marketing",
+   "type": "signal",
+   "summary": "Broward County Public Schools' chief strategy and innovation officer told K-12 Dive on 16 November 2026 that the district is 'no longer the only game in town', as it plans school closures and consolidations plus cuts of at least 1,000 staff positions while simultaneously running media campaigns, personal phone calls to families and recruitment events to win students. In the same week St. Louis Public Schools voted to close nine schools, shrinking from 61 to 52, after enrolment fell 58.5% between 1991 and 2025.",
+   "so_what": "Once public districts stand up acquisition funnels and name an officer to run them, independent schools lose their monopoly on persuasion and face a rival with zero tuition and a marketing budget — competition shifts from academic differentiation to cost-per-enrolled-family, a metric most independent schools do not currently measure.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/week-in-review-november-16-2026/874684/",
+   "source_date": "2026-11-16",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "free-meal-eligibility-becomes-a-paperwork-test",
+   "title": "A proposed SNAP rule converts automatic meal eligibility into an application burden",
+   "type": "signal",
+   "summary": "A USDA proposed rule would restrict SNAP to households also receiving TANF, which K-12 Dive reported on 16 November 2026 would remove categorical free-school-meal eligibility from about 1.78 million children. Roughly 97% of those children would still qualify for free or reduced-price meals, but only by completing a separate certification process rather than being enrolled automatically.",
+   "so_what": "The binding constraint moves from family income to form completion, so measured low-income counts, Community Eligibility Provision qualification and the poverty proxies districts use to allocate staffing will all fall for administrative reasons while actual child need is unchanged — schools will be making resource decisions on corrupted denominators.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "K-12 Dive",
+   "source_url": "https://www.k12dive.com/news/week-in-review-november-16-2026/874684/",
+   "source_date": "2026-11-16",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "compacted-context-keeps-rule-kills-compliance",
+   "title": "Agents keep the rule in context and break it twice as often",
+   "type": "signal",
+   "summary": "ARCBench (arXiv:2611.03223, 2 November 2026) measures rule compliance from actions actually taken in a tool-calling agent loop rather than from stated answers. Compaction rarely deletes the governing rule — yet compacted runs that still contain the rule violate it more than twice as often as full-history runs, with agents treating a later user request as permission to proceed. A compactor-targeted attack more than doubles violations again; the best defence restores the rule in most summaries and agents still violate it.",
+   "so_what": "A school's AI guardrails can be visibly present in the system prompt and behaviourally dead by hour two of a student session, so safety audits that check whether the policy text is there are measuring the wrong thing — and long conversations, not jailbreaks, become the main failure mode.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (cs.CR)",
+   "source_url": "https://arxiv.org/abs/2611.03223",
+   "source_date": "2026-11-02",
+   "source_type": "study",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "ai-agency-varies-within-student-not-between",
+   "title": "Student AI agency is a property of the task phase, not the student",
+   "type": "signal",
+   "summary": "A six-tier Human Agency Depth Taxonomy applied to 962 prompts from 105 first-year software engineering students' AI journals over ten weeks (arXiv:2611.04783, 3 November 2026) found 84.2% of prompts carried student contribution beyond delegation. Architecture-discovery prompts were 48% of turns in the requirements phase and collapsed to 5-12% by week 9. Roughly two-thirds of the variance in agency tier lay within students rather than between them.",
+   "so_what": "If agency swings more inside one student across a project than it does between students, labelling individual children 'AI-dependent' is mostly statistical noise — the lever is redesigning which phase of work you assess, not which student you police.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (cs.CY/cs.HC)",
+   "source_url": "https://arxiv.org/abs/2611.04783",
+   "source_date": "2026-11-03",
+   "source_type": "study",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "ai-research-sprint-produced-private-silos",
+   "title": "AI worked in the sprint and quietly dissolved the team",
+   "type": "signal",
+   "summary": "A 100-minute research sprint with twelve researchers in three teams, within a seventeen-person session (arXiv:2611.03946, 2 November 2026), logged 33 AI interactions of which exactly one was accepted outright and 27 have no recorded disposition at all. The authors name two recurring patterns: a consumption bottleneck, where generation outran team-visible evaluation, and AI-induced research silos, where private human-AI loops displaced shared decision-making. A parallel autonomous pipeline produced a complete draft with zero in-session human evaluation.",
+   "so_what": "Group work with AI can look more productive while the group stops existing — each student in a private loop with a model, nothing surfacing for peer critique — which means collaboration rubrics need to score what was made visible to others, not what was produced.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (cs.AI)",
+   "source_url": "https://arxiv.org/abs/2611.03946",
+   "source_date": "2026-11-02",
+   "source_type": "study",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "california-school-facility-bonds-fail-at-scale",
+   "title": "Voters reject nearly half of California school facility bonds as the plant ages",
+   "type": "signal",
+   "summary": "In the November 2026 election 86 California districts put $12.4 billion in school facility bonds on the ballot — roughly a quarter of the volume two years earlier — and about 36 failed to clear the 55% threshold. Beaumont Unified, seeking $86 million after 138 roof leaks in one year and needing to replace 81 portable classrooms, lost; Visalia Unified's $158 million measure trailed despite over 70% of its buildings being 50 years or older against an estimated $600 million repair backlog.",
+   "so_what": "Because state repair money requires a local match, a failed bond locks a district out of state capital for a full cycle, so facility inequality compounds geometrically rather than linearly — and whether a child can learn on a 100-degree day becomes a local tax vote rather than an education policy.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "I-Environmental",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Climate, Civic & Society",
+   "source_name": "CalMatters",
+   "source_url": "https://almanacnews.com/calmatters/2026/11/11/bad-news-for-california-school-repairs-nearly-half-of-bond-measures-on-track-to-fail",
+   "source_date": "2026-11-11",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "weather-repricing-reaches-the-local-tax-base",
+   "title": "Climate repricing shows up in home values and nonrenewals before it shows up in migration",
+   "type": "driver",
+   "summary": "Analytics firm Cotality's report 'Weather Rewrites Home Value' documents hazard risk translating into measurable property value loss. Dare County, North Carolina saw 13% of property insurance policies non-renewed in 2023 and home values fall roughly 10%, with price growth negative by 2025; Lake County, California had a 7.6% nonrenewal rate; nearly a quarter of homeowners in Winkler, Texas had policies dropped. Naples, Florida price growth fell 8.3%, and about 9.5 million Midwest homes sit in counties where severe storm risk is projected to rise by 2040.",
+   "so_what": "School funding in most US states keys off assessed property value, so climate repricing can hollow out a district's revenue while enrolment stays flat — the worst possible combination, and one that arrives years before any visible climate migration. County-level nonrenewal rates are an operating-budget indicator, not a sustainability metric.",
+   "likelihood": "probable",
+   "episteme": [
+    "I-Environmental",
+    "EC-Economic",
+    "P-Political"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Climate, Civic & Society",
+   "source_name": "Claims Journal (reporting Cotality)",
+   "source_url": "https://www.claimsjournal.com/news/national/2026/11/16/341299.htm",
+   "source_date": "2026-11-16",
+   "source_type": "report",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "egypt-foreign-births-rise-as-citizen-births-fall",
+   "title": "Egypt's birth decline masks a compositional shift toward refugee-origin children",
+   "type": "signal",
+   "summary": "CAPMAS figures reported on 16 November 2026 show Egyptian citizens recorded 1,952,128 births in 2025, down 0.8% year on year and about 28% below the 2.72 million of 2014, with total fertility at 2.36 from 3.5 in 2014. Over the same period births to foreign nationals rose 22% to 31,158, of which 13,992 — 44.9% — were to Sudanese parents. UNHCR had registered about 1.08 million refugees and asylum seekers in Egypt by end-October 2026, including 843,387 Sudanese.",
+   "so_what": "The signal is recomposition rather than shrinkage: a system planning for fewer first-graders will instead meet a cohort whose fastest-growing segment arrived through displacement, converting a capacity-planning problem into a language, documentation and belonging problem — the quiet shape of enrolment change in any receiving system, including US metros.",
+   "likelihood": "actual",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Demographics & Migration",
+   "source_name": "The National",
+   "source_url": "https://thenationalnews.com/news/mena/2026/11/16/egypts-birth-rate-falls-among-citizens-but-rises-22-for-foreign-residents",
+   "source_date": "2026-11-16",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "u18-adhd-eeg-scan-volume-surge",
+   "title": "Commercial EEG biomarker testing for under-18 ADHD scales nearly fivefold in a year",
+   "type": "signal",
+   "summary": "Firefly Neuroscience reported on 17 November 2026 a 373% year-over-year increase in commercial use of its FDA 510(k)-cleared Evoke EEG/ERP platform for patients under 18 presenting with ADHD, attention or focus symptoms, attributing the rise to organic demand and integration into routine neuropsychiatric workflows. The company's reference database now holds over 200,000 standardised EEG/ERP scans, and it is cross-selling the Monarch eTNS trigeminal-nerve-stimulation device, an FDA-cleared non-drug treatment for paediatric ADHD.",
+   "so_what": "If an 'objective' brain-function scan becomes a routine step in ADHD workup, the evidence families bring to accommodation meetings shifts from teacher-observation rating scales to an electrophysiological printout the school cannot interrogate — quietly demoting classroom observation as a source of diagnostic authority just as schools are being told to rehabilitate teacher judgment.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "E-Educational",
+    "ME-Moral/Ethical",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Biotechnology",
+   "source_name": "Firefly Neuroscience (GlobeNewswire release)",
+   "source_url": "https://www.manilatimes.net/2026/11/17/tmt-newswire/globenewswire/firefly-neuroscience-reports-373-year-over-year-increase-in-u18-adhd-evoke-scans-as-commercial-expansion-accelerates/2472001",
+   "source_date": "2026-11-17",
+   "source_type": "advertisement",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "oral-nicotine-pouches-outflank-vape-detection",
+   "title": "German school study finds odourless oral nicotine establishing itself alongside vaping",
+   "type": "signal",
+   "summary": "A cross-sectional school-based study of 958 adolescents aged 11-21, published in BMC Public Health on 13 November 2026 within the SchoolVapeScience prevention project, found 9.4% lifetime use of nicotine or tobacco pouches. The strongest predictor was nicotine use in the social environment (OR 7.21, 95% CI 3.23-16.08), followed by lower perceived harm (OR 2.22) and older age (OR 1.61 per year). Users reported markedly more exposure to oral-nicotine content on social media, and adverse effects including tachycardia, dizziness and mouth burning.",
+   "so_what": "Schools have spent five years investing in vape detectors, bathroom sensors and vapour-based enforcement — a pouch produces no vapour, no odour and no device to confiscate, so the entire detection-and-discipline apparatus goes blind precisely as peer-environment effects make the product social rather than solitary.",
+   "likelihood": "probable",
+   "episteme": [
+    "S-Social",
+    "P-Political",
+    "E-Educational",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "BMC Public Health",
+   "source_url": "https://link.springer.com/article/10.1186/s12889-026-30334-8",
+   "source_date": "2026-11-13",
+   "source_type": "journal",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "step-young-glp1-reaches-primary-age-children",
+   "title": "Phase 3 semaglutide data lands in children as young as six",
+   "type": "signal",
+   "summary": "Novo Nordisk announced on 16 November 2026, at ObesityWeek with simultaneous NEJM publication, STEP Young phase 3 results in 167 children aged 6 to under 12 (112 semaglutide, 55 placebo), more than 85% with class II or III severe obesity. At week 68 BMI fell 17.4% on semaglutide versus a 2.2% rise on placebo, with 78.7% versus 0% achieving a BMI reduction of 10% or more; at week 104 the figures were 68.6% versus 0%, and no safety concerns were identified for growth or pubertal development.",
+   "so_what": "A weekly injectable with no growth or puberty signal in six-year-olds moves paediatric obesity from a behavioural problem schools are asked to help solve — through PE minutes, cafeteria reform and wellness policy — to a pharmacological one, undercutting the public-health rationale that justifies a meaningful slice of the school day.",
+   "likelihood": "probable",
+   "episteme": [
+    "T-Technological",
+    "S-Social",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Novo Nordisk (NEJM / ObesityWeek 2026)",
+   "source_url": "https://www.biospace.com/press-releases/wegovy-resulted-in-a-bmi-reduction-of-10-or-more-in-almost-80-of-children-with-obesity-aged-6-to-under-12-compared-to-0-with-placebo-in-step-young-trial-published-in-the-new-england-journal-of-medicine",
+   "source_date": "2026-11-16",
+   "source_type": "study",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "implanted-continuous-eeg-authorised-for-twelve-year-olds",
+   "title": "Always-on implanted brain monitoring extended down to age 12",
+   "type": "signal",
+   "summary": "Epiminder announced on 30 October 2026 that its Minder system — the first FDA-authorised long-term implantable continuous EEG monitoring device, cleared via De Novo — has had its indication extended from adults 18 and over down to patients aged 12 and older with drug-resistant epilepsy. The system combines a sub-scalp electrode array and a telemetry unit behind the ear with an external wearable that streams bilateral EEG to a cloud platform for remote clinician review over months or years; roughly one-third of the 3.4 million Americans with epilepsy are drug-resistant.",
+   "so_what": "A minor can now sit in class with a continuously transmitting brain-data stream under their scalp, making the school a passive collection site for the most intimate biometric record yet — and raising the question of who is responsible for a child whose seizure cluster is visible to a remote clinician before it is visible to the teacher in the room.",
+   "likelihood": "plausible",
+   "episteme": [
+    "T-Technological",
+    "ME-Moral/Ethical",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Biotechnology",
+   "source_name": "Epiminder",
+   "source_url": "https://epiminder.com/news/minder-fda-clearance-adolescents",
+   "source_date": "2026-10-30",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "school-zones-written-into-sidewalk-robot-law",
+   "title": "A county writes school zones into its sidewalk-robot ordinance",
+   "type": "signal",
+   "summary": "Miami-Dade County commissioners moved an ordinance regulating personal delivery devices that caps robots at 8 mph on sidewalks and 6 mph in designated high-pedestrian areas, requires them to yield to pedestrians, limits sidewalk idling to 30 minutes, and fines operators up to $500 per violation. It bars the robots outright from crosswalks, wheelchair ramps, and school zones during school-zone speed-enforcement hours, with a mandated report back to the Board after one year.",
+   "so_what": "The school zone is being redefined from a human speed-limit convention into a machine-readable exclusion perimeter, which means a school's physical edge will soon be encoded in third-party fleet software it neither sees nor controls — and 'who may approach the gate' becomes a geofencing question before it is a safeguarding one.",
+   "likelihood": "actual",
+   "episteme": [
+    "P-Political",
+    "T-Technological",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "WLRN Public Media",
+   "source_url": "https://www.wlrn.org/business/2026-11-12/delivery-robots-restrictions-miami-dade-county",
+   "source_date": "2026-11-12",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
+  },
+  {
+   "id": "draft-eu-act-disables-game-currency-for-minors",
+   "title": "Draft EU act would switch off paid game currencies for under-18s by default",
+   "type": "driver",
+   "summary": "A leaked draft of the European Commission's Digital Fairness Act, surfaced ahead of its 11 November 2026 unveiling, would prohibit offering 'paid-for variable reward systems' to minors and extend the same ban to pay-to-progress and pay-to-win mechanics. A further article would require any game selling virtual currency to display the real-money value of items, with paid currencies disabled by default in games aimed at minors unless a parent or guardian enables them. The recitals treat a PEGI under-18 rating as evidence and set a 25% share as the threshold at which minors count as a significant audience.",
+   "so_what": "If a 25% minor audience triggers the rules, studios have a commercial incentive to engineer their player base to look adult, pushing teenagers toward titles that formally disclaim them — which makes media literacy less about screen time than about teaching students to read a product's legal self-description against its actual design.",
+   "likelihood": "probable",
+   "episteme": [
+    "P-Political",
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "3-6",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "MobileGamer.biz",
+   "source_url": "https://mobilegamer.biz/eus-draft-digital-fairness-act-takes-aim-at-loot-boxes-virtual-currencies-and-pay-to-win/",
+   "source_date": "2026-11-10",
+   "source_type": "news",
+   "first_seen": "2026-11-17",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -14413,9 +14774,6 @@
     "Longitudinal data on whether AI-native cohorts underperform on unaided tasks at 3+ years"
    ],
    "signals": [
-    "generated-teaching-materials-78-percent-more-alike",
-    "scale-k12-causal-evidence-base-still-thin",
-    "felt-uplift-twelve-x-measured-uplift-two-x",
     "ai-help-erodes-persistence",
     "skill-formation-tradeoff-no-speed-gain",
     "clinicians-request-ai-free-practice",
@@ -14489,7 +14847,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand, and no indicator fired. The week's contribution is to the measurement of benefit rather than to the direction of it. METR spent eleven weeks inside Anthropic and put AI acceleration of that company's own R&D at roughly 1.9x (95% CI 1.5-2.8), against a staff self-report of about 12x rising on a 3.9x-per-year curve - a sixfold gap between felt and measured uplift among the most AI-literate workforce available to study. Stanford's SCALE review, screening 868 new papers to add 32 credible causal studies and take the field from 20 to 52, reports effects that are small, mixed and mostly not American or school-aged: +0.258 SD in a Sierra Leone maths trial, +0.15 SD on unassisted scores in Taiwan, and a Turkiye teacher-tool study of 193 teachers and 2,816 students showing lower student motivation with no change in exam scores. A third Stanford paper finds directly prompted models produce maths items and essay feedback 78 per cent more lexically self-similar than human-authored equivalents, narrowing the instructional repertoire rather than the prose. Pole C is untouched, but all three items converge on the same methodological point: the uncertainty will not be resolved by anyone's experience of AI, only by unassisted outcome measurement, and almost nobody is doing that in schools."
+   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. The sharpest new evidence cuts at Pole C rather than at A or B. A ten-week study of 105 first-year engineering students (arXiv:2611.04783) coded 962 logged prompts on a six-tier agency taxonomy and found roughly two-thirds of the variance in agency tier sitting WITHIN students rather than between them, with high-agency architecture prompts falling from 48 per cent of turns in the requirements phase to 5-12 per cent by week nine. If agency is mostly a property of where a student is in a piece of work, then 'conditional amplification' cannot be read as a stable trait that sorts children into those who pull away and those who do not — the condition is situational, and the design lever is which phase of work gets assessed, not which student gets policed. Separately, ARCBench (arXiv:2611.03223) found tool-using agents violating a rule still present in their context more than twice as often after compaction, which makes 'the guardrail is in the prompt' an unreliable basis for any school AI policy. Pole C survives but is now better read as a claim about task architecture than about student disposition."
   },
   {
    "id": "cu-evidence",
@@ -14508,10 +14866,6 @@
     "Where process and provenance data — keystroke, clipboard and model-call logs — ends up being held, and whether a school can obtain, refuse or be compelled to produce it for its own students"
    ],
    "signals": [
-    "scale-k12-causal-evidence-base-still-thin",
-    "felt-uplift-twelve-x-measured-uplift-two-x",
-    "single-informant-diagnoses-abcd-psychiatry",
-    "adhd-accommodations-trial-extended-time-backfires",
     "ppra-opt-in-consent-upends-school-wellbeing-screening",
     "pew-bogus-respondents-opt-in-polls",
     "indianapolis-unwinds-no-zero-grading-floor",
@@ -14637,7 +14991,7 @@
    ],
    "first_identified": "2026-09-07",
    "last_revised": "2026-11-12",
-   "status_note": "Carried forward unrevised four days after revision; poles and watch indicators stand and the process-data question logged on 12 November has not moved. Three items this week describe the same failure from inside the school's own instruments rather than outside them. A JAMA Pediatrics crossover RCT randomised 255 K-6 children with ADHD across the four accommodations that dominate IEP and 504 documentation and found none improved quiz scores or rule violations, with extended time significantly reducing seatwork productivity (RR 0.89), while medication raised productivity 22 per cent and the behaviour classroom cut violations 37 per cent - the measure the school most carefully documents is the one with no detectable effect. A JAMA Psychiatry analysis of 11,868 ABCD youth finds that where a psychiatric diagnosis is reported at all, only one of youth and caregiver reports it in roughly 65 to 98 per cent of cases, which means single-informant wellbeing screening misses most of the caseload rather than a margin. And METR's sixfold gap between measured and self-reported AI uplift puts a number on why satisfaction data cannot stand in for outcome data. Re-confirmed; the instruments keep failing in the same direction, which is evidence for the uncertainty rather than movement within it."
+   "status_note": "Carried forward unrevised; framing and poles stand, and the seventh watch indicator gains a competitor nobody was watching for. Firefly Neuroscience reported a 373 per cent year-on-year rise in under-18 commercial use of its FDA-cleared Evoke EEG/ERP platform for ADHD and attention presentations, against a reference database of over 200,000 scans. The threat to a school's own evidence base is no longer only that inherited instruments lost validity — it is that a competing instrument with clinical authority, a percentile and forty pages of output is arriving in accommodation meetings from outside the building, and a school that has spent years rehabilitating moderated teacher judgment cannot interrogate it. Epiminder's extension of implanted continuous EEG down to age 12 points the same way: streams of data about a student, generated in the school's rooms, read by someone else. Pole A gets harder in a specific manner — controlling your instruments does not help if the instruments that count are someone else's."
   },
   {
    "id": "cu-credential",
@@ -14657,9 +15011,6 @@
     "Whether the July 2027 transfer-credit and competency-documentation rules produce real credit portability in practice, or whether receiving institutions absorb the written-reasons requirement as boilerplate and deny at the same rate"
    ],
    "signals": [
-    "teacher-prep-leaves-ai-to-individual-instructors",
-    "copay-ban-is-the-choice-program-dealbreaker",
-    "robot-orders-pivot-cleanroom-not-carplant",
     "stanford-ai-employment-gap-young-workers",
     "oecd-youth-gap-widening-not-llms",
     "entry-level-collapse-may-be-macro-not-ai",
@@ -14768,7 +15119,7 @@
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-11-05",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator fired. One item extends the pole-B mechanism into the part of the pathway schools actually build. A3's Q3 2026 figures show North American robot orders up 24.8 per cent in units, but the growth is concentrated in semiconductor, electronics and photonics (up 97.6 per cent), plastics and rubber (67.7), life sciences and biomed (38.7) and metals (37), while automotive OEM managed 7.5 per cent and food and consumer goods fell 23.7. The CTE and makerspace programmes schools built as the credible alternative pathway are modelled on the weld cell, and the hiring has moved to the cleanroom, where the competences are contamination discipline, metrology and protocol literacy. Separately, an EdWeek survey of 268 teacher educators finds 60 per cent of preparation programmes leave AI to individual instructors, which is a supply-side note on the same question: the credential a school hires on is itself becoming an unreliable signal of what its holder can do."
+   "status_note": "Carried forward unrevised. IIE's Open Doors release gives the sixth watch indicator a sharp reading from an unexpected direction: total US international enrolment fell only 3 per cent to 1,146,163, but first-time enrolment fell 18 per cent and master's enrolment fell 22 per cent while OPT participation rose 14 per cent to 335,785. About 29 per cent of the counted 'international student' population are now post-graduation workers rather than enrolled learners. That is the credential being repriced in plain sight — not abandoned, but revalued as a work-authorisation instrument whose worth tracks visa policy rather than teaching — and the cheapest, most transactional entry point is failing fastest. Pole B gains, in a form the original framing did not anticipate: the degree is not displaced by portfolios here, it is hollowed from inside and kept for its paperwork."
   },
   {
    "id": "cu-liability",
@@ -14782,14 +15133,9 @@
     "Whether insurers begin pricing pastoral-record retention practice, not just incident history, into education liability premiums",
     "Whether districts or independent schools adopt formal retention schedules that shorten the life of pastoral observations",
     "Whether accessibility review acquires a veto over edtech procurement following the EEOC vendor reasoning",
-    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care",
-    "Whether efficacy evidence - such as the null RCT result on standard ADHD classroom accommodations - enters the legal standard of care for accommodation, or is formally excluded from it on the grounds that the duty attaches to provision rather than to outcome"
+    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care"
    ],
    "signals": [
-    "copay-ban-is-the-choice-program-dealbreaker",
-    "cotality-peril-risk-starts-eating-home-values",
-    "three-quarters-of-parents-reject-ai-led-child-therapy",
-    "adhd-accommodations-trial-extended-time-backfires",
     "ohio-mandated-report-negligence-per-se-institutional",
     "eeoc-pearson-vendor-accessibility-decree",
     "kindergarten-screening-failure-liability",
@@ -14883,8 +15229,8 @@
     "green-school-certification-as-climate-diplomacy"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-11-16",
-   "status_note": "Revised. The poles hold, but a finding this week put the documented-duty mechanism under a kind of pressure the framing had not anticipated: an accommodation regime shown not to work. A JAMA Pediatrics crossover RCT (13 November, NCT05469386) randomised 255 K-6 children with ADHD across extended time, frequent breaks, standing at desk and low-distraction workspace, crossed with medication and behaviour-management conditions. No accommodation significantly improved rule violations or quiz scores and extended time significantly reduced seatwork productivity (RR 0.89), while medication raised productivity 22 per cent and cut violations 61 per cent. These are the interventions a school is legally obliged to document, audit and deliver, and they are the only arm with no measured benefit. That creates a situation the uncertainty did not contemplate: documented duty and demonstrated efficacy pointing in different directions, with the school bound to the former. A sixth watch indicator is added to track whether efficacy evidence enters the standard of care or is excluded from it. Two further items fit the established shape. Parents reject AI-led behavioural therapy for their children at 76 per cent while being twice as comfortable with it for themselves, so an AI wellbeing deployment carries a consent exposure that capacity arguments cannot discharge. And Cotality's county-level data showing insurance non-renewal depressing home values - Dare County, North Carolina at 13 per cent non-renewal and roughly 10 per cent value decline - describes a duty of financial foresight arriving through an insurance market no school participates in."
+   "last_revised": "2026-10-14",
+   "status_note": "Re-confirmed; no new evidence either way in 34 days. None of today's finds tests the five watch indicators directly. Two sit in the field of view without moving it: Epiminder's implanted continuous EEG now indicated for 12-year-olds puts a cloud-streamed clinical data feed inside a school day with no settled answer about who holds duty of care when a remote clinician sees a seizure cluster before the teacher in the room does, and Miami-Dade's sidewalk-robot ordinance encodes the school zone as a machine-readable exclusion perimeter maintained by third-party fleet software. Both are liability questions in waiting rather than liability events; neither yet distinguishes governor from friction. Carried forward unchanged."
   },
   {
    "id": "cu-boundary",
@@ -14899,11 +15245,10 @@
     "A district or independent school publishing a device policy that distinguishes by data flow rather than by possession",
     "Consumer neural hardware reaching a school-payable price with a documented educational or accommodation use case",
     "A national screen ban whose scope extends past instructional time — Denmark's playground clause is the first test of whether that survives contact with accommodation law",
-    "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one"
+    "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one",
+    "Whether implanted or clinically-indicated neural hardware — reachable by no device policy — appears in school-age populations ahead of any consumer equivalent"
    ],
    "signals": [
-    "organoid-computing-pass-fail-benchmark",
-    "three-quarters-of-parents-reject-ai-led-child-therapy",
     "rayneo-io-499-display-glasses-40-countries",
     "waveguide-ar-glasses-600-percent",
     "smart-glasses-in-schools",
@@ -14975,8 +15320,8 @@
     "pediatric-hybrid-bci-vr-wheelchair-attrition"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-11-07",
-   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator fired in nine days. The accommodation question, which is where this uncertainty expects movement, got an oblique data point from the wrong direction. A JAMA Pediatrics survey of 572 US parents finds 76 per cent uncomfortable with AI-led behavioural therapy for their child against 34 per cent comfortable with it for themselves, and ranks diagnostic accuracy and empathy above cost and wait time as decision criteria - meaning the equipped-student frame may be rejected hardest exactly where the equipment is framed as care rather than as capability. Logged for the longer horizon: a four-institution benchmarking framework for organoid computing, published 6 November in Bioactive Materials, grades cultured human cortical tissue on a pass/fail compute scale with proposed qualification minima of 15-18 preparations across three batches. It is nowhere near a school, but it is the first instrument that treats living neural tissue as a rateable computational substrate, which is the far end of the question this uncertainty asks about where the person stops."
+   "last_revised": "2026-11-17",
+   "status_note": "Revised — watch indicators extended; question and poles unchanged. The fourth indicator anticipated consumer neural hardware reaching a school-payable price. What actually arrived is clinical and sits under the scalp: Epiminder's Minder, the first FDA-authorised long-term implantable continuous EEG system, had its indication extended on 30 October from adults to patients aged 12 and older, streaming bilateral EEG to a cloud platform for months or years. A child can now attend school with an always-on brain-data feed that no device policy can reach, because it is a medical implant and the boundary question has moved inside the body rather than to the desk. Alongside it, commercial EEG biomarker testing for under-18 ADHD grew 373 per cent in a year, which brings neural data into accommodation decisions through the clinic rather than the classroom. A sixth indicator has been added to track implanted and clinically-indicated neural hardware specifically, since the consumer price-point indicator would have missed this entirely. Pole B strengthens: the unaided person is getting harder to define, not merely harder to defend."
   }
  ],
  "verification": {
@@ -14986,6 +15331,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-17-composite",
+   "date": "2026-11-17",
+   "title": "Composite",
+   "year": 2034,
+   "axis": "What the school can verify × what counts as the student",
+   "based_on": [
+    {
+     "id": "cu-evidence",
+     "title": "Can a school still know what is true about its own students?",
+     "pole": "Evidence rebuilt — the school narrows to a small number of instruments it directly controls and can verify, and publishes what it can no longer claim."
+    },
+    {
+     "id": "cu-boundary",
+     "title": "Where does the student end and the equipment begin?",
+     "pole": "The equipped student is the student — the line collapses, accommodation becomes the main route in, and assessment moves to what cannot be faked from outside the room."
+    }
+   ],
+   "premise": "By 2034 Mount Vernon has done the honest thing and narrowed its claims. It retired the last of its inherited instruments in 2031 and now certifies only what it can witness: work produced in its own rooms, scored by teachers who moderate each other's judgments on Thursday afternoons, reported with published error bars and a one-page statement of what the school can no longer say. The reform worked. Parents trust the transcript again, and two Atlanta peer schools have copied the moderation protocol. In the same years the other line gave way entirely: display eyewear, prediction-assist and — for a growing minority — continuous clinical monitoring arrived as accommodations and medical devices, and no school counsel would advise excluding any of them. So Mount Vernon now knows, precisely and defensibly, what this student did in this room on this day. The student it knows that about is a composite, and the school has stopped being able to describe any other kind.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Naya Okonkwo, 16",
+     "vignette": "Wednesday, third period, the witnessed block in Hayes 204. Naya's glasses stay on — logged, not removed; removal stopped being a thing anyone asked for around the time Dev's optometrist started dispensing them. She writes for fifty minutes about Antigone and it is good work and she knows it is hers. The problem is Thursday: the Emory summer research programme wants an unaided writing sample, 1,200 words, no assistance of any kind. She has nothing. Nobody in her year has anything. She asks her mother whether she should just write one at the kitchen table and feels, oddly, like she is being asked to forge something."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dan Reyes, Upper School humanities",
+     "vignette": "Thursday moderation is the best two hours of Dan's week. Three of them re-read each other's scores on the same six pieces, argue, and move maybe one in nine. He can tell you the inter-rater figure without looking it up. Which is why the folder on his desk irritates him: an Evoke printout from a clinic in Dunwoody, forty-one pages, attention-network percentiles for a boy he has taught four days a week for two years. The accommodation plan cites the printout. It does not cite him. He has spent four years earning back the right to be an instrument and been outranked by a chart he cannot read."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya Shah, two children enrolled",
+     "vignette": "The fee letter says $61,400 and Priya does not argue with it; the school is better than it was. At the ninth-grade conference she asks the question she has been carrying since August — what can Anjali do by herself? — and watches three competent adults fail to answer it, kindly. Her younger son Rohan has the Minder implant, nineteen months now, and the clinic's portal sees a cluster forming before the nurse does and before his teacher looks up. She is grateful for that every single day. She also notices she no longer knows who is watching her son, or from where."
+    },
+    {
+     "role": "Administrator",
+     "name": "Marcus Hale, Assistant Head for Academics",
+     "vignette": "The accreditors want the limitations statement by 2 December and Marcus is stuck on one sentence. He has written the easy parts: what the school measures, how it moderates, the error bars. The sentence he cannot land is the one admitting that every claim on a Mount Vernon transcript describes a student-plus-equipment and the school no longer separates the two. Counsel has already told him not to; 14% of the Upper School has a device-bearing plan and the first discrimination letter would arrive inside a month. He keeps drafting it anyway, at night, like a man writing a confession he has no intention of signing."
+    }
+   ],
+   "tension": "Mount Vernon bought its integrity back by narrowing what it claims — and the narrowed claim turns out to be about a person who exists only inside the building, equipped. Both halves are genuine goods: the school is finally honest about its measurement, and it no longer punishes children for the bodies and devices they arrive with. Together they produce something nobody chose, which is that the school has become extremely rigorous about a question no one outside it is asking. The world still wants to know what the unaided child can do, and Mount Vernon has developed, with great care and at considerable expense, an inability to answer. Worse, it rebuilt teacher judgment as its central instrument in exactly the decade that medicine arrived with electrophysiology, a printout and a percentile — so the school's hard-won authority is strongest precisely where it is now least believed.",
+   "provocations": [
+    "If Mount Vernon cannot certify what a student can do unaided, is it willing to say so on the transcript — or does it let the reader assume otherwise?",
+    "When a clinical instrument and a moderated teacher judgment disagree about the same child, which one does the school act on, and who decided that?",
+    "Is there any room left in the building where a student may be legitimately unequipped — and if the answer is no, what exactly is the school forming?"
+   ]
+  },
   {
    "id": "sc-2026-11-16-room-of-record",
    "date": "2026-11-16",
