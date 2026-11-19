@@ -2,8 +2,8 @@
  "dashboard": "MV Futures Signal Scan",
  "owner": "Jared Colley, Chief Innovation Officer, Mount Vernon School & MV Ventures",
  "created": "2026-08-13",
- "last_updated": "2026-11-17",
- "scan_count": 48,
+ "last_updated": "2026-11-18",
+ "scan_count": 49,
  "cadence": "Daily, 12:00 PM ET",
  "memory_model": "cumulative",
  "signals": [
@@ -209,7 +209,7 @@
    "source_type": "news",
    "first_seen": "2026-08-13",
    "last_seen": "2026-08-13",
-   "sightings": 2,
+   "sightings": 3,
    "revised_on": [
     "2026-09-09"
    ]
@@ -1680,7 +1680,7 @@
    "source_date": "2026-08-14",
    "source_type": "study",
    "first_seen": "2026-08-24",
-   "sightings": 5,
+   "sightings": 6,
    "revised_on": [
     "2026-09-09"
    ]
@@ -7074,7 +7074,7 @@
    "source_date": "2026-09-17",
    "source_type": "journal article",
    "first_seen": "2026-09-18",
-   "sightings": 3
+   "sightings": 4
   },
   {
    "id": "math-metacognition-growth-tracks-intelligence",
@@ -12758,7 +12758,7 @@
    "source_date": "2026-10-27",
    "source_type": "news",
    "first_seen": "2026-10-27",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "ai-judged-less-conscious-even-when-behaviour-identical",
@@ -13270,7 +13270,7 @@
    "source_date": "2026-11-02",
    "source_type": "report",
    "first_seen": "2026-11-05",
-   "sightings": 2
+   "sightings": 3
   },
   {
    "id": "school-smoke-days-eightfold-indoor-pm25-inversion",
@@ -14193,7 +14193,7 @@
    "source_date": "2026-11-10",
    "source_type": "report",
    "first_seen": "2026-11-16",
-   "sightings": 1
+   "sightings": 2
   },
   {
    "id": "felt-uplift-twelve-x-measured-uplift-two-x",
@@ -14755,6 +14755,271 @@
    "source_type": "news",
    "first_seen": "2026-11-17",
    "sightings": 1
+  },
+  {
+   "id": "instructor-designed-ai-beats-the-platform-19-university-rct",
+   "title": "Instructor-built AI raises exam scores 0.32 SD while engagement and satisfaction stay flat",
+   "type": "signal",
+   "summary": "A pre-registered RCT across 7,200 students, 42 instructors, 55 classes and 67 class-terms at 19 universities (Michigan, Northwestern, Cornell, Yale, Ohio State, Penn, HKU and others) over three semesters found that AI tools designed by the course's own instructor raised learning on proctored, AI-free exams by +0.32 SD at student level (SE 0.13, p=0.019) and +0.26 SD at class level. Engagement fell -0.07 SD and satisfaction -0.11 SD, neither significant. The control was delayed adoption, so the comparison is instructor-authored AI against students' existing ad hoc AI use, across 33 tool types serving seven pedagogical functions.",
+   "so_what": "The gain is invisible to every metric schools actually collect, so a school running this intervention on its normal dashboard would read flat engagement and cancel it. It also relocates the unit of AI investment from the procured platform to teacher design time, which is the line item nobody budgets.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "arXiv (Li, Bray, Martin, Van den Steen, Wu et al.)",
+   "source_url": "https://arxiv.org/abs/2611.19099",
+   "source_date": "2026-11-14",
+   "source_type": "study",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "faculty-written-llm-proof-questions-answered-at-85-percent",
+   "title": "Questions faculty purpose-built to defeat LLMs are still answered at 83-85 per cent",
+   "type": "signal",
+   "summary": "Researchers collected 75 college coursework questions across 17 disciplines, 61 of them written by 37 faculty at ten US universities and one UK university with the explicit intent of being LLM-proof, and ran three models against them with and without supplementary course materials. The best model scored roughly 83 per cent without course materials and roughly 85 per cent with them. Thematic analysis identified five distinct AI-proofing strategies instructors use; none restored integrity.",
+   "so_what": "Assessment redesign is the cheap institutional answer to AI, and this is the first direct test of teacher-authored AI-proofing at scale. It largely fails, which forces integrity to migrate from the wording of the question to the conditions of production, a far more expensive and politically harder move, and it makes the reassurance schools have already given families empirically testable.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "AI & Cognition",
+   "source_name": "arXiv (Mingole, Yadav, Lee, Sundar, Yadav)",
+   "source_url": "https://arxiv.org/abs/2611.21476",
+   "source_date": "2026-11-16",
+   "source_type": "study",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "agentic-grading-of-handwritten-exams-hits-r097",
+   "title": "An agent marks handwritten exams at r = 0.97, with a 0.68-mark upward bias",
+   "type": "signal",
+   "summary": "A single-course study of 60 consenting students in a Saudi computer graphics course tested an agentic model with three rubric files against the instructor's own marking of 20-mark handwritten mid-terms across five question types. Agreement with human totals was r = 0.97, mean absolute error 0.85 marks, test-retest consistency ICC = 0.96 across two sessions a week apart, and feedback accuracy 92.8 per cent diagnostic. It also showed a systematic AI-positive bias of 0.68 marks and failed on drawing items and boundary cases; per-question sample sizes were 15 to 20 papers.",
+   "so_what": "Handwriting became the integrity fallback precisely because it is expensive to mark at scale, so if agents can mark it this reliably the cost objection to paper assessment collapses. The hazard is the 0.68-mark upward drift: a quiet, directional grade inflation embedded in the very format adopted to restore rigour, and one no school currently audits.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "T-Technological",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "arXiv (AlGhamdi)",
+   "source_url": "https://arxiv.org/abs/2611.13217",
+   "source_date": "2026-11-09",
+   "source_type": "study",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "west-virginia-cannot-count-its-microschools",
+   "title": "A state funding microschools says it does not know how many exist",
+   "type": "signal",
+   "summary": "West Virginia's Treasurer's Office told WCHS in November 2026 that it cannot produce a complete count of microschools in the state; its closest available estimate is 1,709 students linked to microschools through the Hope Scholarship portal, excluding any attending without Hope. The 2025-26 Hope report names 53 microschool providers paid $5.02 million, 7.33 per cent of programme spending against a roughly $276.7 million line, and the office does not track which providers existed before Hope. The programme does not routinely inspect classrooms or evaluate instructional quality; public school enrolment fell 8,270 students, or 3.5 per cent, this year.",
+   "so_what": "A state can now move public money into a school sector whose size, staffing and outcomes it cannot measure, which means the comparative data that would settle the argument will not exist when the argument peaks. For established schools the exposure is not competition but accountability rules written retroactively after the first audit goes badly.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "EC-Economic"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "WCHS Eyewitness News",
+   "source_url": "https://wchstv.com/news/local/what-west-virginia-treasurer-microschool-education-homeschool-private-public-hope-scholarship-academy-teach-audit-enrollment",
+   "source_date": "2026-11-10",
+   "source_type": "news",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "uc-weighs-state-accountability-test-as-admissions-instrument",
+   "title": "UC regents hear a case for using the state accountability test instead of the SAT",
+   "type": "signal",
+   "summary": "At the 17 November 2026 UC Board of Regents meeting, Berkeley economist Jesse Rothstein presented evidence that the Smarter Balanced state assessment predicts college outcomes about as well as the SAT or ACT with smaller socioeconomic score gaps, while Brown's John Friedman argued high-GPA, low-score students are more likely to struggle. Rothstein reported underrepresented-minority admits rising from 22 to 26 per cent at UCLA and 20 to 26 per cent at Berkeley between 2019 and 2025 under test-free admissions. The UC Academic Senate will recommend by June 2027 whether to reinstate testing; more than 2,000 STEM and 900 humanities faculty have called for some form of reinstatement.",
+   "so_what": "If a state accountability exam becomes a college admissions input, the low-stakes test every public school already administers turns high-stakes overnight, and independent schools sitting outside that assessment regime would suddenly need a parallel route to prove the same thing. Test preparation migrates from a weekend industry into the regular timetable.",
+   "likelihood": "plausible",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Daily Bruin",
+   "source_url": "https://dailybruin.com/2026/11/17/uc-regents-hear-research-on-standardized-testing-requirements-diversity",
+   "source_date": "2026-11-17",
+   "source_type": "news",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "outcomes-contract-badge-for-edtech-vendors",
+   "title": "A nonprofit starts badging edtech vendors by whether they hit contracted outcomes",
+   "type": "signal",
+   "summary": "On 12 November 2026 the Center for Outcomes Based Contracting launched the OBC Provider Designation, a three-level recognition scheme for tutoring and edtech providers. Level 1 is a training pledge; Level 2 requires an executed contract the Center verifies puts at least 40 per cent of contract value at risk against student outcomes; Level 3 requires district-validated data showing the provider achieved at least 50 per cent of its contracted outcomes. Designations attach to individual contracts, and the Center reports 87 education agencies across 26 states engaged on outcomes-based contracting since 2021.",
+   "so_what": "This creates a private credit rating for learning vendors, and the 50 per cent threshold concedes that missing half your promised outcomes is still certifiable, which sets the de facto market expectation for what a product should do. Schools that adopt it stop buying tools and start buying claims they must themselves generate the validating data for, pushing measurement labour onto the school.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "EC-Economic",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Education",
+   "source_name": "Center for Outcomes Based Contracting (via PR Newswire)",
+   "source_url": "https://www.prnewswire.com/news-releases/obc-provider-designation-launches-to-strengthen-informed-outcomes-centered-partnerships-in-k12-education-302937604.html",
+   "source_date": "2026-11-12",
+   "source_type": "advertisement",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "goal-management-training-adhd-null-multicenter-rct",
+   "title": "Executive-function training for teens with ADHD fails its primary outcome",
+   "type": "signal",
+   "summary": "A preregistered three-site Norwegian RCT (NCT05874791, n=116, ages 12-18, 66 per cent female) randomised adolescents with ADHD to Goal Management Training plus treatment-as-usual, seven weekly two-hour group sessions with parent and teacher guidance, versus treatment-as-usual alone. At 12 weeks the primary outcome, parent-rated BRIEF-2 Global Executive Composite, showed no group difference (adjusted b = -2.12, 95% CI -7.64 to 3.41, p = .449, d = -0.14); ADHD symptoms (d = -0.27) and functional impairment (d = -0.18) were also null, with every secondary outcome p > .10. Only an unadjusted per-protocol subset of 80 favoured the intervention.",
+   "so_what": "The train-the-executive-function-and-schoolwork-follows model underwriting a large slice of school coaching and study-skills blocks just failed its cleanest test, and the only positive result came from the per-protocol subgroup, which is exactly the analysis a vendor deck will show. The operative question for any such programme is now the intention-to-treat primary outcome, by name.",
+   "likelihood": "actual",
+   "episteme": [
+    "E-Educational",
+    "S-Social",
+    "ME-Moral/Ethical"
+   ],
+   "horizon": 1,
+   "timeline": "0-2",
+   "sector": "Neuroscience & Psychology",
+   "source_name": "Research on Child and Adolescent Psychopathology",
+   "source_url": "https://link.springer.com/article/10.1007/s10802-026-01522-2",
+   "source_date": "2026-11-18",
+   "source_type": "journal",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "illinois-screening-mandate-meets-predictive-value-problem",
+   "title": "A rights-based critique puts arithmetic behind opposition to mandated school mental-health screening",
+   "type": "driver",
+   "summary": "Writing in Harvard FXB's Health and Human Rights Journal, Mahdanian and Puras, the latter a former UN Special Rapporteur on the right to health, use Illinois SB 1560 and its annual screening of grades 3-12 due in 2027-28 to argue that mandated universal screening cannot on its own discharge a state's obligations. Their case is psychometric: a review of the SAEBRS teacher-report screener found specificity of 0.77 to 0.95 but positive predictive values ranging from 0.19 to 0.74, and no screening guidance reviewed rested on randomised evidence that screening itself improves outcomes. They recommend opt-in consent, capacity before scale, and independent evaluation of unintended consequences.",
+   "so_what": "The coming fight over screening turns on base rates rather than on whether student distress is real: at a positive predictive value of 0.19, four in five flagged students are false positives, and a school that screens without a referral pipeline has manufactured a caseload it is exposed on. The defensible position is universal availability of services with voluntary screening, not universal screening with rationed services.",
+   "likelihood": "probable",
+   "episteme": [
+    "E-Educational",
+    "P-Political",
+    "ME-Moral/Ethical",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Behavioral Health & Wellness",
+   "source_name": "Health and Human Rights Journal (Harvard FXB Center)",
+   "source_url": "https://www.hhrjournal.org/2026/11/04/universal-school-mental-health-screening-rights-risks-and-alternatives/",
+   "source_date": "2026-11-04",
+   "source_type": "journal",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "graduate-job-search-speed-advantage-erased",
+   "title": "The degree's job-search speed advantage has nearly vanished",
+   "type": "signal",
+   "summary": "A Richmond Fed Macro Minute using CPS microdata finds recent graduates aged 22-27 now average 22.7 weeks of unemployment against 24.8 weeks for all workers, a gap of about two weeks, down from 15.1 against 22.3 weeks over 1994-2018. Within the graduate pool the spread has widened: non-White graduates average 26.8 weeks against 19.9 for White graduates, and men 24.1 against women 20.4. Headline graduate unemployment was 5.2 per cent in September, the lowest in a year, so the damage is in duration rather than incidence.",
+   "so_what": "The credential still gets you hired but no longer gets you hired quickly, so the honest outcome metric a school owes families is months-to-first-job and the financial runway that requires, not placement rate. It also moves the decisive period out of senior year and into the post-graduation limbo, where advising, alumni networks and family cash reserves do the work.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "E-Educational",
+    "S-Social"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of Richmond, Macro Minute",
+   "source_url": "https://www.richmondfed.org/research/national_economy/macro_minute/2026/cap_gown_waiting_around_recent_college_grads_job-hunting_longer",
+   "source_date": "2026-11-10",
+   "source_type": "data",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "workers-miscalibrated-about-their-own-job-odds",
+   "title": "Workers systematically misjudge their own employability, least-credentialed worst",
+   "type": "signal",
+   "summary": "New York Fed Liberty Street Economics compares Survey of Consumer Expectations forecasts against realised CPS transitions. Expectations were well calibrated before 2020, at 55.5 per cent expected against 57.2 per cent realised job-finding, but since 2022 workers expect 53.0 per cent while 58.8 per cent actually find work. The largest gap is among those with high school or less, who underestimate their odds by 7.5 points. Workers simultaneously overestimate job-loss risk: after two years of tenure, expected probability of job loss is more than twice the realised rate.",
+   "so_what": "Career guidance assumes young people lack information about the labour market, but the deficit is calibration about themselves, and it is worst for exactly the non-degree students schools steer toward trades and direct entry. Teaching base rates and forecasting with feedback may do more for post-secondary outcomes than another careers fair.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "S-Social",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Labor & Economy",
+   "source_name": "Federal Reserve Bank of New York, Liberty Street Economics",
+   "source_url": "https://libertystreeteconomics.newyorkfed.org/2026/11/can-workers-predict-job-finding-and-job-loss/",
+   "source_date": "2026-11-16",
+   "source_type": "data",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "gdc-xr-development-share-falls-to-three-percent",
+   "title": "Share of game developers building for VR, AR or MR collapses from 8 to 3 per cent",
+   "type": "signal",
+   "summary": "GDC's November 2026 State of the Game Industry edition reports the proportion of surveyed game professionals developing for VR, AR or MR fell from 8 to 3 per cent year on year, the steepest proportional drop of any platform category, while PC held at 81 per cent. The same survey found 34 per cent of respondents laid off in the past two years and 54 per cent of those still unemployed, and that 62 per cent of game-development educators allow, encourage or require generative AI in coursework while only 20 per cent of students report using it. Engine share fragmented: Unreal 42 to 35 per cent, Unity 30 to 28, Godot up to 11 among indies.",
+   "so_what": "Schools buy headsets on a hardware curve but consume a software catalogue, and the people who make that catalogue are leaving, so a VR lab bought now may reach 2029 with a title list that stopped growing and the durable asset is the authoring skill rather than the device. The 62 to 20 per cent educator-student inversion is sharper still: in this discipline faculty are pushing AI harder than students are taking it up, which reverses the policy posture most schools have adopted.",
+   "likelihood": "actual",
+   "episteme": [
+    "T-Technological",
+    "EC-Economic",
+    "E-Educational"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Gaming, VR, AR & Virtual Worlds",
+   "source_name": "Game Developers Conference",
+   "source_url": "https://gdconf.com/state-of-the-game-industry-november-2026/",
+   "source_date": "2026-11-01",
+   "source_type": "report",
+   "first_seen": "2026-11-18",
+   "sightings": 1
+  },
+  {
+   "id": "domestic-humanoid-insurance-invents-safe-shutdown-peril",
+   "title": "First household insurance for domestic humanoids names safe shutdown as a covered peril",
+   "type": "signal",
+   "summary": "Adrian Flux, underwritten by Tokio Marine HCC International, launched what it describes as the UK's first home insurance product covering domestic humanoid robots, sold as an extension of standard home cover. The named perils are unusually specific: damage to or theft of the robot, sudden damage the robot causes to the home or contents, personal liability if the robot injures a person or damages third-party property, and emergency retrieval or safe shutdown after a sudden unexpected malfunction. The insurer frames the product as clarifying who is responsible if something goes wrong, with cover to be revised as risks evolve.",
+   "so_what": "An actuary has written the first enforceable definition of robot misbehaviour, and it arrives as a renewal document rather than a regulation, which means the operative rules for service robots in schools will be set by underwriters years before any education ministry writes guidance. Emergency retrieval and safe shutdown is a staff competency with no job description attached to it yet.",
+   "likelihood": "actual",
+   "episteme": [
+    "EC-Economic",
+    "ME-Moral/Ethical",
+    "T-Technological"
+   ],
+   "horizon": 2,
+   "timeline": "0-2",
+   "sector": "Wildcards & Periphery",
+   "source_name": "Robotics & Automation News",
+   "source_url": "https://roboticsandautomationnews.com/2026/10/31/first-insurance-policy-for-domestic-humanoid-robots-in-the-uk/106568/",
+   "source_date": "2026-10-31",
+   "source_type": "news",
+   "first_seen": "2026-11-18",
+   "sightings": 1
   }
  ],
  "critical_uncertainties": [
@@ -14774,6 +15039,9 @@
     "Longitudinal data on whether AI-native cohorts underperform on unaided tasks at 3+ years"
    ],
    "signals": [
+    "generated-teaching-materials-78-percent-more-alike",
+    "scale-k12-causal-evidence-base-still-thin",
+    "felt-uplift-twelve-x-measured-uplift-two-x",
     "ai-help-erodes-persistence",
     "skill-formation-tradeoff-no-speed-gain",
     "clinicians-request-ai-free-practice",
@@ -14843,11 +15111,13 @@
     "ai-literacy-tracks-overconfidence-not-accuracy",
     "skill-threshold-makes-unaided-work-self-sustaining",
     "human-deference-index-trust-calibration-collapse",
-    "pisa-2025-keystroke-level-ai-provenance"
+    "pisa-2025-keystroke-level-ai-provenance",
+    "instructor-designed-ai-beats-the-platform-19-university-rct",
+    "faculty-written-llm-proof-questions-answered-at-85-percent"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-10-28",
-   "status_note": "Carried forward unrevised; framing, poles and watch indicators stand. The sharpest new evidence cuts at Pole C rather than at A or B. A ten-week study of 105 first-year engineering students (arXiv:2611.04783) coded 962 logged prompts on a six-tier agency taxonomy and found roughly two-thirds of the variance in agency tier sitting WITHIN students rather than between them, with high-agency architecture prompts falling from 48 per cent of turns in the requirements phase to 5-12 per cent by week nine. If agency is mostly a property of where a student is in a piece of work, then 'conditional amplification' cannot be read as a stable trait that sorts children into those who pull away and those who do not — the condition is situational, and the design lever is which phase of work gets assessed, not which student gets policed. Separately, ARCBench (arXiv:2611.03223) found tool-using agents violating a rule still present in their context more than twice as often after compaction, which makes 'the guardrail is in the prompt' an unreliable basis for any school AI policy. Pole C survives but is now better read as a claim about task architecture than about student disposition."
+   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator formally fired. But the strongest single item in weeks lands squarely on the measurement point this uncertainty has been stuck on. A pre-registered RCT across 7,200 students, 42 instructors and 19 universities over three semesters finds AI tools designed by the course's own instructor raise learning on proctored, AI-free exams by +0.32 SD (SE 0.13, p=0.019), against a delayed-adoption control in which students were already using AI ad hoc. That is the unassisted outcome measurement the last revision said almost nobody was doing, and it comes back positive. Two qualifications keep the poles where they are: the sample is undergraduate rather than school-aged, and engagement (-0.07 SD) and satisfaction (-0.11 SD) were flat, meaning the benefit is invisible to every metric a school actually collects. The result reads as evidence for pole C rather than pole A - what moved was not access to AI but who authored the interaction - and it pushes the interaction-architecture watch indicator closer to firing. Against it, 61 faculty-authored questions written expressly to defeat LLMs were still answered at 83-85 per cent, so the cheap defensive move on the other side of the same question does not work."
   },
   {
    "id": "cu-evidence",
@@ -14863,9 +15133,14 @@
     "Whether teacher judgment gets rehabilitated as a measurement instrument, with moderation and inter-rater checks, rather than treated as bias to be engineered out",
     "What a selective college puts in place of a retired measure — whether UNC's dropped essay-quality score is replaced by another vendor product, by supervised or observed artefacts, or by nothing at all",
     "Whether any school follows a retirement with a public statement of what it can no longer claim to know about its students",
-    "Where process and provenance data — keystroke, clipboard and model-call logs — ends up being held, and whether a school can obtain, refuse or be compelled to produce it for its own students"
+    "Where process and provenance data — keystroke, clipboard and model-call logs — ends up being held, and whether a school can obtain, refuse or be compelled to produce it for its own students",
+    "Whether any school audits AI-assisted marking for directional bias rather than for agreement - reliability and accuracy have come apart, and a highly consistent marker with a systematic upward drift would pass every check a school currently runs"
    ],
    "signals": [
+    "scale-k12-causal-evidence-base-still-thin",
+    "felt-uplift-twelve-x-measured-uplift-two-x",
+    "single-informant-diagnoses-abcd-psychiatry",
+    "adhd-accommodations-trial-extended-time-backfires",
     "ppra-opt-in-consent-upends-school-wellbeing-screening",
     "pew-bogus-respondents-opt-in-polls",
     "indianapolis-unwinds-no-zero-grading-floor",
@@ -14987,11 +15262,18 @@
     "human-deference-index-trust-calibration-collapse",
     "tutoring-centers-buy-college-access-not-test-scores",
     "performance-pay-keeps-teachers-in-the-district-not-the-school",
-    "sweden-60000-teacher-inclusion-training-nulls-out"
+    "sweden-60000-teacher-inclusion-training-nulls-out",
+    "faculty-written-llm-proof-questions-answered-at-85-percent",
+    "agentic-grading-of-handwritten-exams-hits-r097",
+    "west-virginia-cannot-count-its-microschools",
+    "illinois-screening-mandate-meets-predictive-value-problem",
+    "goal-management-training-adhd-null-multicenter-rct",
+    "outcomes-contract-badge-for-edtech-vendors",
+    "uc-weighs-state-accountability-test-as-admissions-instrument"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-11-12",
-   "status_note": "Carried forward unrevised; framing and poles stand, and the seventh watch indicator gains a competitor nobody was watching for. Firefly Neuroscience reported a 373 per cent year-on-year rise in under-18 commercial use of its FDA-cleared Evoke EEG/ERP platform for ADHD and attention presentations, against a reference database of over 200,000 scans. The threat to a school's own evidence base is no longer only that inherited instruments lost validity — it is that a competing instrument with clinical authority, a percentile and forty pages of output is arriving in accommodation meetings from outside the building, and a school that has spent years rehabilitating moderated teacher judgment cannot interrogate it. Epiminder's extension of implanted continuous EEG down to age 12 points the same way: streams of data about a student, generated in the school's rooms, read by someone else. Pole A gets harder in a specific manner — controlling your instruments does not help if the instruments that count are someone else's."
+   "last_revised": "2026-11-18",
+   "status_note": "Revised. The poles hold, but this week closed off both of the school's standard escapes from the measurement problem at once, which the framing had treated as independent. On one side, 75 college questions across 17 disciplines - 61 written by 37 faculty with the explicit intent of being LLM-proof - were answered at roughly 83 per cent without course materials and 85 per cent with them, across five distinct AI-proofing strategies, none of which restored integrity. Assessment redesign, the cheap answer, fails on measurement. On the other, an agentic model marking 20-mark handwritten mid-terms for 60 students reached r = 0.97 against the instructor, MAE 0.85 marks and ICC 0.96 on retest a week apart - making the expensive answer, supervised paper assessment, economically viable for the first time - while carrying a systematic AI-positive bias of 0.68 marks. That is a new shape for this uncertainty: not an instrument that fails, but one that is highly reliable and quietly directional, which no existing watch indicator catches. A seventh indicator is added. Three further items fit the established shape: West Virginia's Treasurer cannot produce a count of the microschools it funds, estimating 1,709 students via the Hope portal against 53 paid providers and no classroom inspection; a Harvard FXB analysis of Illinois SB 1560 puts the SAEBRS screener's positive predictive value at 0.19 to 0.74, meaning a mandate can generate four false positives in five; and a three-site preregistered RCT of executive-function training for 116 adolescents with ADHD returns a null primary outcome (d = -0.14, p = .449) with a positive result surviving only in the unadjusted per-protocol subset."
   },
   {
    "id": "cu-credential",
@@ -15011,6 +15293,9 @@
     "Whether the July 2027 transfer-credit and competency-documentation rules produce real credit portability in practice, or whether receiving institutions absorb the written-reasons requirement as boilerplate and deny at the same rate"
    ],
    "signals": [
+    "teacher-prep-leaves-ai-to-individual-instructors",
+    "copay-ban-is-the-choice-program-dealbreaker",
+    "robot-orders-pivot-cleanroom-not-carplant",
     "stanford-ai-employment-gap-young-workers",
     "oecd-youth-gap-widening-not-llms",
     "entry-level-collapse-may-be-macro-not-ai",
@@ -15115,11 +15400,15 @@
     "korea-experienced-hire-bar-climbs-to-six-years",
     "dutch-internship-supply-collapse-office-sectors",
     "tutoring-centers-buy-college-access-not-test-scores",
-    "generative-3d-studio-absorbed-by-saas-rollup"
+    "generative-3d-studio-absorbed-by-saas-rollup",
+    "graduate-job-search-speed-advantage-erased",
+    "workers-miscalibrated-about-their-own-job-odds",
+    "uc-weighs-state-accountability-test-as-admissions-instrument",
+    "outcomes-contract-badge-for-edtech-vendors"
    ],
    "first_identified": "2026-08-13",
    "last_revised": "2026-11-05",
-   "status_note": "Carried forward unrevised. IIE's Open Doors release gives the sixth watch indicator a sharp reading from an unexpected direction: total US international enrolment fell only 3 per cent to 1,146,163, but first-time enrolment fell 18 per cent and master's enrolment fell 22 per cent while OPT participation rose 14 per cent to 335,785. About 29 per cent of the counted 'international student' population are now post-graduation workers rather than enrolled learners. That is the credential being repriced in plain sight — not abandoned, but revalued as a work-authorisation instrument whose worth tracks visa policy rather than teaching — and the cheapest, most transactional entry point is failing fastest. Pole B gains, in a form the original framing did not anticipate: the degree is not displaced by portfolios here, it is hollowed from inside and kept for its paperwork."
+   "status_note": "Carried forward unrevised; poles stand and no watch indicator fired, but the mechanism acquired a sharper measure than the ones currently being watched. Richmond Fed CPS microdata show recent graduates aged 22-27 now average 22.7 weeks of unemployment against 24.8 for all workers - a two-week advantage, down from the 15.1 against 22.3 weeks that held across 1994-2018 - while headline graduate unemployment sits at 5.2 per cent, its lowest in a year. The degree is not failing to place people; it has stopped placing them faster, which is a repricing that incidence statistics cannot see and that converts a school's placement rate into a misleading number. Within the graduate pool the spread widened (26.8 weeks for non-White graduates against 19.9 for White graduates). A New York Fed companion finds the expectations side miscalibrated in the opposite direction: since 2022 workers expect a 53.0 per cent job-finding rate against 58.8 per cent realised, with the largest error, 7.5 points of under-estimation, among those with high school or less - the cohort schools steer toward the alternative pathway. Both are duration-and-expectation effects, not hiring-volume effects, and neither moves the existing indicators, so the uncertainty is carried as framed."
   },
   {
    "id": "cu-liability",
@@ -15133,9 +15422,14 @@
     "Whether insurers begin pricing pastoral-record retention practice, not just incident history, into education liability premiums",
     "Whether districts or independent schools adopt formal retention schedules that shorten the life of pastoral observations",
     "Whether accessibility review acquires a veto over edtech procurement following the EEOC vendor reasoning",
-    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care"
+    "Whether the federal autism elopement template is adopted widely enough to become the de facto standard of care",
+    "Whether efficacy evidence - such as the null RCT result on standard ADHD classroom accommodations - enters the legal standard of care for accommodation, or is formally excluded from it on the grounds that the duty attaches to provision rather than to outcome"
    ],
    "signals": [
+    "copay-ban-is-the-choice-program-dealbreaker",
+    "cotality-peril-risk-starts-eating-home-values",
+    "three-quarters-of-parents-reject-ai-led-child-therapy",
+    "adhd-accommodations-trial-extended-time-backfires",
     "ohio-mandated-report-negligence-per-se-institutional",
     "eeoc-pearson-vendor-accessibility-decree",
     "kindergarten-screening-failure-liability",
@@ -15226,11 +15520,15 @@
     "dol-rescinds-apprenticeship-equal-opportunity-rule",
     "pediatric-hybrid-bci-vr-wheelchair-attrition",
     "orexin-blocker-breakthrough-for-child-insomnia",
-    "green-school-certification-as-climate-diplomacy"
+    "green-school-certification-as-climate-diplomacy",
+    "domestic-humanoid-insurance-invents-safe-shutdown-peril",
+    "goal-management-training-adhd-null-multicenter-rct",
+    "illinois-screening-mandate-meets-predictive-value-problem",
+    "west-virginia-cannot-count-its-microschools"
    ],
    "first_identified": "2026-09-02",
-   "last_revised": "2026-10-14",
-   "status_note": "Re-confirmed; no new evidence either way in 34 days. None of today's finds tests the five watch indicators directly. Two sit in the field of view without moving it: Epiminder's implanted continuous EEG now indicated for 12-year-olds puts a cloud-streamed clinical data feed inside a school day with no settled answer about who holds duty of care when a remote clinician sees a seizure cluster before the teacher in the room does, and Miami-Dade's sidewalk-robot ordinance encodes the school zone as a machine-readable exclusion perimeter maintained by third-party fleet software. Both are liability questions in waiting rather than liability events; neither yet distinguishes governor from friction. Carried forward unchanged."
+   "last_revised": "2026-11-16",
+   "status_note": "Carried forward unrevised two days after revision; the sixth watch indicator added on 16 November - whether efficacy evidence enters the standard of care or is excluded from it - has already drawn two further items, which is unusually fast and worth noting without treating as movement. A preregistered three-site RCT of Goal Management Training for 116 adolescents with ADHD returns a null primary outcome, and a Harvard FXB analysis puts a widely used school screener's positive predictive value as low as 0.19 against a 2027-28 Illinois mandate: in both cases the school is obliged to deliver and document something whose benefit is unevidenced. Separately, and from an unexpected direction, Adrian Flux and Tokio Marine HCC have written the first UK household policy covering domestic humanoid robots, with 'emergency retrieval or safe shutdown after a sudden unexpected malfunction' as a named peril. That is an actuary, not a regulator, writing the first enforceable definition of machine misbehaviour, arriving as a renewal document - the clearest instance yet of the pole-A mechanism forming outside any body a school can petition. Pole A continues to accumulate the specific evidence; pole B continues to lack it."
   },
   {
    "id": "cu-boundary",
@@ -15245,10 +15543,11 @@
     "A district or independent school publishing a device policy that distinguishes by data flow rather than by possession",
     "Consumer neural hardware reaching a school-payable price with a documented educational or accommodation use case",
     "A national screen ban whose scope extends past instructional time — Denmark's playground clause is the first test of whether that survives contact with accommodation law",
-    "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one",
-    "Whether implanted or clinically-indicated neural hardware — reachable by no device policy — appears in school-age populations ahead of any consumer equivalent"
+    "Whether display-and-camera eyewear is dispensed on prescription through optical retail — and whether any school writes a device rule that distinguishes a corrective lens from a rendering one"
    ],
    "signals": [
+    "organoid-computing-pass-fail-benchmark",
+    "three-quarters-of-parents-reject-ai-led-child-therapy",
     "rayneo-io-499-display-glasses-40-countries",
     "waveguide-ar-glasses-600-percent",
     "smart-glasses-in-schools",
@@ -15317,11 +15616,13 @@
     "unc-retires-ai-essay-score-as-applicant-ai-flattens-it",
     "ar-glasses-ship-through-the-optician-channel",
     "openxr-spatial-containers-ratified",
-    "pediatric-hybrid-bci-vr-wheelchair-attrition"
+    "pediatric-hybrid-bci-vr-wheelchair-attrition",
+    "gdc-xr-development-share-falls-to-three-percent",
+    "domestic-humanoid-insurance-invents-safe-shutdown-peril"
    ],
    "first_identified": "2026-09-07",
-   "last_revised": "2026-11-17",
-   "status_note": "Revised — watch indicators extended; question and poles unchanged. The fourth indicator anticipated consumer neural hardware reaching a school-payable price. What actually arrived is clinical and sits under the scalp: Epiminder's Minder, the first FDA-authorised long-term implantable continuous EEG system, had its indication extended on 30 October from adults to patients aged 12 and older, streaming bilateral EEG to a cloud platform for months or years. A child can now attend school with an always-on brain-data feed that no device policy can reach, because it is a medical implant and the boundary question has moved inside the body rather than to the desk. Alongside it, commercial EEG biomarker testing for under-18 ADHD grew 373 per cent in a year, which brings neural data into accommodation decisions through the clinic rather than the classroom. A sixth indicator has been added to track implanted and clinically-indicated neural hardware specifically, since the consumer price-point indicator would have missed this entirely. Pole B strengthens: the unaided person is getting harder to define, not merely harder to defend."
+   "last_revised": "2026-11-07",
+   "status_note": "Carried forward unrevised; poles and watch indicators stand and no indicator fired in eleven days. A quiet week here, and the one relevant item cuts against the direction this uncertainty assumes. GDC's November survey finds the share of game professionals developing for VR, AR or MR has fallen from 8 per cent to 3 per cent year on year, the steepest proportional drop of any platform category, with 34 per cent of respondents laid off in the past two years. The equipped student is usually imagined as arriving with more capable hardware; this is the supply of things to do with it thinning, which would push the question toward prescription eyewear and accommodation hardware rather than immersive platforms - the one branch where the corpus already expects movement. Logged alongside it: the first household insurance policy naming safe shutdown of a domestic humanoid as a covered peril, which is where the possession-versus-data-flow distinction in the third watch indicator will probably be settled, by underwriters rather than by schools."
   }
  ],
  "verification": {
@@ -15331,6 +15632,54 @@
   "note": "Every source URL was fetched and checked against its claim; dates and figures corrected where the source disagreed."
  },
  "scenarios": [
+  {
+   "id": "sc-2026-11-18-signed-off",
+   "date": "2026-11-18",
+   "title": "Signed Off",
+   "year": 2034,
+   "axis": "A labour market that hires on demonstrated capability, crossed with an institution whose practice is set by documented duty",
+   "based_on": [
+    {
+     "id": "cu-credential",
+     "title": "Does the academic credential hold its economic value, or does the market reprice it?",
+     "pole": "Market reprices - portfolios, apprenticeships and demonstrated work displace transcripts at the point of entry"
+    },
+    {
+     "id": "cu-liability",
+     "title": "Does institutional liability become the real governor of what schools may do?",
+     "pole": "Liability as governor - documented duty sets the boundary of practice, and policy, retention schedules and counsel shape what a school can let a student do"
+    }
+   ],
+   "premise": "By 2034 the Atlanta employers that independent-school families care about hire on verified capability records rather than transcripts, and the record they trust most is the one schools were already legally obliged to keep. A decade of documented duty - supervision logs, countersigned risk assessments, incident-free hour counts, endorsement categories - turned out to be the only provenance system in education that nobody could fake, because it was built by people with liability rather than by people with a product. Mount Vernon's Verified Practice ledger is now the single most valuable thing a $58,000 year buys, and admissions says so out loud. What nobody chose, and what cannot now be separated from it, is that a student may only accumulate the work an underwriter has a category for.",
+   "personas": [
+    {
+     "role": "Student",
+     "name": "Naomi Okafor-Reyes, 17",
+     "vignette": "Wednesday, 1:40, the prosthetics shop off Chamblee-Tucker. Naomi has 211 verified hours and wants the socket lamination her supervisor is doing four feet away. It is Category 3, resin and vacuum, endorsement at eighteen, and she turns eighteen in June. So she runs the coordinate-measuring arm on yesterday's sockets, which is Category 1, logs clean, and uploads at 3:15. Her ledger is beautiful. Two hundred and eleven hours of measuring things other people made. She has started counting how many of the hours are hers because she chose them and how many because they were available."
+    },
+    {
+     "role": "Teacher",
+     "name": "Dale Whitmore, applied engineering",
+     "vignette": "He countersigns forty-one entries on Wednesdays, which takes until 6:30 because the ledger will not accept a batch signature. Dale taught for nineteen years before the ledger and his clearest memory of the good version is a sophomore destroying $400 of aluminium over five weeks and then, in week six, understanding feed rates in a way Dale could not have told her. There is no Category for ruining things productively. He has tried writing it into the narrative field, twice. The narrative field is advisory and employers filter on the hour counts, and he knows which field he is actually paid to fill."
+    },
+    {
+     "role": "Parent",
+     "name": "Priya Raghunathan, mother of a ninth-grader",
+     "vignette": "She checks Arjun's ledger on the MARTA platform most mornings, which she knows is not a good habit. Fourteen hours, all Category 1, and a flag: his processing-speed accommodation means his supervised sessions run long, and long sessions cost the placement partner more, and placements have started quietly preferring students who clear a station on schedule. Nobody has said this. It is visible in which partners accept him. She pays $58,000 a year for a record that is now, she is fairly sure, also a record of the accommodation she fought for in sixth grade."
+    },
+    {
+     "role": "Administrator",
+     "name": "Rosa Tran, director of practice and risk",
+     "vignette": "Her job did not exist in 2027. Wednesday afternoon she is reconciling the carrier's 2035 category schedule against ninety-one active placements, and the carrier has moved small-batch bioprocess from 2 to 3, which retires eleven students' pathways in a spreadsheet cell. She has drafted the note to families twice. The sentence she cannot write is the true one: the school did not decide this, and the school cannot appeal it, and the underwriter who did decide it has never been to Atlanta. Her counter-proposal is a Category 1 substitute. It will be accepted. It is observation."
+    }
+   ],
+   "tension": "The ledger works. It is the first honest, portable, non-gameable account of what a seventeen-year-old can actually do, it is fairer to the quiet student than any recommendation letter ever was, and it got built only because liability made the school write everything down. That is the good thing, and it is real. The cost is inseparable from it: a record of supervised practice can only contain supervised practice, so the school's curriculum has been quietly rewritten by an actuarial category schedule that no educator wrote, nobody voted on, and the school cannot appeal. Mount Vernon cannot document less without making its graduates invisible in a market that now reads ledgers instead of transcripts; it cannot document more without pulling further activity inside the boundary of what is insurable. And the students the school most believes in - the ones who ruin $400 of aluminium in week five and understand everything in week six - generate the thinnest ledgers in the building, because failure, improvisation and unsupervised obsession have no category and therefore, in the only account the market reads, did not happen.",
+   "provocations": [
+    "If the Verified Practice ledger is now the most valuable thing our tuition buys, who at this school is accountable for the fact that its categories are written by an insurer we have never met - and what would it take for us to negotiate one?",
+    "Name the student experiences we believe are formative but structurally uncountable. Are we prepared to keep funding them knowing they will not appear in the record employers read, and to say that to a family paying $58,000?",
+    "If accommodations measurably slow ledger accumulation, is that a disparate-impact problem we must solve inside the ledger, a reason to refuse the ledger, or a cost we are quietly asking accommodated families to carry?"
+   ]
+  },
   {
    "id": "sc-2026-11-17-composite",
    "date": "2026-11-17",
